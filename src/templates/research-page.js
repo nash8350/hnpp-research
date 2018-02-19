@@ -1,8 +1,9 @@
 import React from 'react';
 import graphql from 'graphql';
+import CitationsTable from '../components/CitationsTable';
 
 export const ResearchPageTemplate = ({
-  title, description}) => (
+  title, description, citations}) => (
   <section className="section section--gradient">
     <div className="container">
       <div className="column is-7">
@@ -10,27 +11,46 @@ export const ResearchPageTemplate = ({
         <p>{description}</p>
       </div>
     </div>
+    <div className="section">
+      <CitationsTable citations={citations} />
+    </div>
   </section>
 );
 
 export default ({ data }) => {
-  const { frontmatter } = data.markdownRemark;
+  let citations = [];
+  data.citations.edges.forEach(edge => {
+    citations.push(edge.node.frontmatter);
+  });
 
   return (
     <ResearchPageTemplate
-      title={frontmatter.title}
-      description={frontmatter.description}
+      title={data.page.frontmatter.title}
+      description={data.page.frontmatter.description}
+      citations={citations}
     />
   );
 };
 
 export const researchPageQuery = graphql`
   query ResearchPage($path: String!) {
-    markdownRemark(frontmatter: { path: { eq: $path } }) {
+    page: markdownRemark(frontmatter: {path: {eq: $path}}) {
       frontmatter {
         title
         description
       }
     }
-  }
+    citations: allMarkdownRemark(
+      filter: { id: {regex: "/citations/" }}
+    ){
+      edges {
+        node {
+          frontmatter {
+            author
+            quote
+          }
+        }
+      }
+    }
+  }  
 `;
