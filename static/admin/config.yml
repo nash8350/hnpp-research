@@ -4,6 +4,7 @@ backend:
 
 media_folder: static/img
 public_folder: /img
+publish_mode: editorial_workflow
 
 collections:
   - name: "blog"
@@ -60,5 +61,5 @@ collections:
     create: true
     fields:
       - { name: author, label: Author, widget: string }
-      - {name: "title", label: "Title", widget: "string"}
+      - { name: title, label: Title, widget: string }
       - { name: quote, label: Quote, widget: string }

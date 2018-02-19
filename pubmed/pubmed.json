@@ -1,0 +1,2677 @@
+{
+    "header": {
+        "type": "esummary",
+        "version": "0.3"
+    },
+    "result": {
+        "27761228": {
+            "uid": "27761228",
+            "pubdate": "2016 Sep 30",
+            "epubdate": "2016 Sep 30",
+            "source": "Neurol Int",
+            "authors": [
+                {
+                    "name": "Lorenzoni PJ",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kay CS",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Cavalet C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Arndt RC",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Werneck LC",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Scola RH",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Scola RH",
+            "title": "Hereditary Neuropathy With Liability to Pressure Palsies: A Single-Center Experience in Southern Brazil.",
+            "sorttitle": "hereditary neuropathy with liability to pressure palsies a single center experience in southern brazil",
+            "volume": "8",
+            "issue": "3",
+            "pages": "6677",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "101551564",
+            "issn": "2035-8385",
+            "essn": "2035-8377",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed",
+            "pubstatus": "258",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "27761228"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.4081/ni.2016.6677"
+                },
+                {
+                    "idtype": "pmc",
+                    "idtypen": 8,
+                    "value": "PMC5066106"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "27761228"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "27761228"
+                },
+                {
+                    "idtype": "pmcid",
+                    "idtypen": 5,
+                    "value": "pmc-id: PMC5066106;"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2016/07/04 00:00"
+                },
+                {
+                    "pubstatus": "revised",
+                    "date": "2016/08/05 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2016/08/08 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2016/10/21 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2016/10/21 06:01"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2016/10/21 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Neurology international",
+            "elocationid": "",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2016/09/30 00:00",
+            "sortfirstauthor": "Lorenzoni PJ",
+            "vernaculartitle": ""
+        },
+        "27799291": {
+            "uid": "27799291",
+            "pubdate": "2016 Dec",
+            "epubdate": "2016 Dec 1",
+            "source": "EMBO Mol Med",
+            "authors": [
+                {
+                    "name": "Bolino A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Piguet F",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Alberizzi V",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Pellegatta M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Rivellini C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Guerrero-Valero M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Noseda R",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Brombin C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Nonis A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "D'Adamo P",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Taveggia C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Previtali SC",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Previtali SC",
+            "title": "Niacin-mediated Tace activation ameliorates CMT neuropathies with focal hypermyelination.",
+            "sorttitle": "niacin mediated tace activation ameliorates cmt neuropathies with focal hypermyelination",
+            "volume": "8",
+            "issue": "12",
+            "pages": "1438-1454",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "101487380",
+            "issn": "1757-4676",
+            "essn": "1757-4684",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "257",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "27799291"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "emmm.201606349"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.15252/emmm.201606349"
+                },
+                {
+                    "idtype": "pmc",
+                    "idtypen": 8,
+                    "value": "PMC5167133"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "27799291"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "27799291"
+                },
+                {
+                    "idtype": "pmcid",
+                    "idtypen": 5,
+                    "value": "pmc-id: PMC5167133;"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2016/11/02 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/09/25 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2016/11/02 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": 2,
+            "fulljournalname": "EMBO molecular medicine",
+            "elocationid": "doi: 10.15252/emmm.201606349",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2016/12/01 00:00",
+            "sortfirstauthor": "Bolino A",
+            "vernaculartitle": ""
+        },
+        "27861220": {
+            "uid": "27861220",
+            "pubdate": "2016 Dec",
+            "epubdate": "",
+            "source": "J Clin Neuromuscul Dis",
+            "authors": [
+                {
+                    "name": "Harada Y",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Puwanant A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Herrmann DN",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Herrmann DN",
+            "title": "Hereditary Neuropathy With Liability to Pressure Palsies: Diverse Phenotypes in Childhood.",
+            "sorttitle": "hereditary neuropathy with liability to pressure palsies diverse phenotypes in childhood",
+            "volume": "18",
+            "issue": "2",
+            "pages": "79-83",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "100887391",
+            "issn": "1522-0443",
+            "essn": "1537-1611",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "4",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "27861220"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1097/CND.0000000000000136"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "00131402-201612000-00004"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "27861220"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "27861220"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "entrez",
+                    "date": "2016/11/19 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2016/11/20 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/03/14 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Journal of clinical neuromuscular disease",
+            "elocationid": "",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2016/12/01 00:00",
+            "sortfirstauthor": "Harada Y",
+            "vernaculartitle": ""
+        },
+        "27927941": {
+            "uid": "27927941",
+            "pubdate": "2017 Jan 17",
+            "epubdate": "2016 Dec 7",
+            "source": "Neurology",
+            "authors": [
+                {
+                    "name": "Lefter S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Hardiman O",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Ryan AM",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Ryan AM",
+            "title": "A population-based epidemiologic study of adult neuromuscular disease in the Republic of Ireland.",
+            "sorttitle": "population based epidemiologic study of adult neuromuscular disease in the republic of ireland",
+            "volume": "88",
+            "issue": "3",
+            "pages": "304-313",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "0401060",
+            "issn": "0028-3878",
+            "essn": "1526-632X",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "27927941"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "WNL.0000000000003504"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1212/WNL.0000000000003504"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "27927941"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "27927941"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2016/07/12 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2016/10/14 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2016/12/09 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/05/20 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2016/12/09 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": 2,
+            "fulljournalname": "Neurology",
+            "elocationid": "doi: 10.1212/WNL.0000000000003504",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/01/17 00:00",
+            "sortfirstauthor": "Lefter S",
+            "vernaculartitle": ""
+        },
+        "28131554": {
+            "uid": "28131554",
+            "pubdate": "2017 Mar",
+            "epubdate": "2017 Jan 26",
+            "source": "Arch Pediatr",
+            "authors": [
+                {
+                    "name": "Bar C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Villéga F",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Espil C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Husson M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Pedespan JM",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Rouanet MF",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Rouanet MF",
+            "title": "[Hereditary neuropathy with liability to pressure palsies in childhood: Report of three cases].",
+            "sorttitle": "hereditary neuropathy with liability to pressure palsies in childhood report of three cases",
+            "volume": "24",
+            "issue": "3",
+            "pages": "260-262",
+            "lang": [
+                "fre"
+            ],
+            "nlmuniqueid": "9421356",
+            "issn": "0929-693X",
+            "essn": "1769-664X",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - in process",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28131554"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "S0929-693X(16)30603-0"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1016/j.arcped.2016.12.002"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28131554"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28131554"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2016/05/18 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2016/12/16 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/01/31 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/01/31 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/01/30 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+            "elocationid": "doi: 10.1016/j.arcped.2016.12.002",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/03/01 00:00",
+            "sortfirstauthor": "Bar C",
+            "vernaculartitle": "Neuropathie héréditaire par hypersensibilité à la pression : à propos de 3 observations chez l’enfant."
+        },
+        "28211240": {
+            "uid": "28211240",
+            "pubdate": "2017 Mar",
+            "epubdate": "",
+            "source": "Eur J Neurol",
+            "authors": [
+                {
+                    "name": "Guimarães-Costa R",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Iancu Ferfoglia R",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Leonard-Louis S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Ziegler F",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Magy L",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Fournier E",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Dubourg O",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Bouche P",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Maisonobe T",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Lacour A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Moerman A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Latour P",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Stojkovic T",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Stojkovic T",
+            "title": "Phenotypic spectrum of Charcot-Marie-Tooth disease due to LITAF/SIMPLE mutations: a study of 18 patients.",
+            "sorttitle": "phenotypic spectrum of charcot marie tooth disease due to litaf simple mutations a study of 18 patients",
+            "volume": "24",
+            "issue": "3",
+            "pages": "530-538",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "9506311",
+            "issn": "1351-5101",
+            "essn": "1468-1331",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "4",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28211240"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1111/ene.13239"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28211240"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28211240"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2016/07/18 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2016/11/30 00:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/02/18 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/02/18 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/12/13 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "European journal of neurology",
+            "elocationid": "doi: 10.1111/ene.13239",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/03/01 00:00",
+            "sortfirstauthor": "Guimarães-Costa R",
+            "vernaculartitle": ""
+        },
+        "28221301": {
+            "uid": "28221301",
+            "pubdate": "2017 Mar",
+            "epubdate": "",
+            "source": "J Clin Neuromuscul Dis",
+            "authors": [
+                {
+                    "name": "Takahashi S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Chum M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kimpinski K",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Kimpinski K",
+            "title": "Electrodiagnostic Characterization of Hereditary Neuropathy With Liability to Pressure Palsies.",
+            "sorttitle": "electrodiagnostic characterization of hereditary neuropathy with liability to pressure palsies",
+            "volume": "18",
+            "issue": "3",
+            "pages": "119-124",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "100887391",
+            "issn": "1522-0443",
+            "essn": "1537-1611",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "4",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28221301"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1097/CND.0000000000000152"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "00131402-201703000-00001"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28221301"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28221301"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/02/22 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/02/22 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/03/14 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Journal of clinical neuromuscular disease",
+            "elocationid": "doi: 10.1097/CND.0000000000000152",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/03/01 00:00",
+            "sortfirstauthor": "Takahashi S",
+            "vernaculartitle": ""
+        },
+        "28286897": {
+            "uid": "28286897",
+            "pubdate": "2017 Jun",
+            "epubdate": "2017 Mar 13",
+            "source": "Neurol Sci",
+            "authors": [
+                {
+                    "name": "Lorefice L",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Murru MR",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Coghe G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Fenu G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Corongiu D",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Frau J",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Tranquilli S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Tacconi P",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Vannelli A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Marrosu G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Mamusa E",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Cocco E",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Marrosu MG",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Marrosu MG",
+            "title": "Charcot-Marie-Tooth disease: genetic subtypes in the Sardinian population.",
+            "sorttitle": "charcot marie tooth disease genetic subtypes in the sardinian population",
+            "volume": "38",
+            "issue": "6",
+            "pages": "1019-1025",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "100959175",
+            "issn": "1590-1874",
+            "essn": "1590-3478",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - in process",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28286897"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1007/s10072-017-2905-x"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "10.1007/s10072-017-2905-x"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28286897"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28286897"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2017/01/18 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/03/07 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/03/14 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/03/14 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/03/14 06:00"
+                }
+            ],
+            "references": [
+                {
+                    "refsource": "Neurol Sci. 2017 Jun;38(6):1027",
+                    "reftype": "Erratum in",
+                    "pmid": 28389936,
+                    "note": ""
+                }
+            ],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+            "elocationid": "doi: 10.1007/s10072-017-2905-x",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/06/01 00:00",
+            "sortfirstauthor": "Lorefice L",
+            "vernaculartitle": ""
+        },
+        "28489810": {
+            "uid": "28489810",
+            "pubdate": "2017 May",
+            "epubdate": "",
+            "source": "Medicine (Baltimore)",
+            "authors": [
+                {
+                    "name": "Li J",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Niu B",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Wang X",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Hu H",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Cao B",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Cao B",
+            "title": "A case report of hereditary neuropathy with liability to pressure palsies accompanied by type 2 diabetes mellitus and psoriasis.",
+            "sorttitle": "case report of hereditary neuropathy with liability to pressure palsies accompanied by type 2 diabetes mellitus and psoriasis",
+            "volume": "96",
+            "issue": "19",
+            "pages": "e6922",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "2985248R",
+            "issn": "0025-7974",
+            "essn": "1536-5964",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "4",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28489810"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1097/MD.0000000000006922"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "00005792-201705120-00077"
+                },
+                {
+                    "idtype": "pmc",
+                    "idtypen": 8,
+                    "value": "PMC5428644"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28489810"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28489810"
+                },
+                {
+                    "idtype": "pmcid",
+                    "idtypen": 5,
+                    "value": "pmc-id: PMC5428644;"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/05/11 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/05/11 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/06/13 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Medicine",
+            "elocationid": "doi: 10.1097/MD.0000000000006922",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/05/01 00:00",
+            "sortfirstauthor": "Li J",
+            "vernaculartitle": ""
+        },
+        "28538254": {
+            "uid": "28538254",
+            "pubdate": "2017 Jun",
+            "epubdate": "",
+            "source": "J Clin Neuromuscul Dis",
+            "authors": [
+                {
+                    "name": "Perugula M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Uppal G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Chuquilin M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Chuquilin M",
+            "title": "Acute Demyelinating Polyneuropathy as Presentation of Hereditary Neuropathy With Liability to Pressure Palsies in a Patient Who Exercised Regularly in the Army.",
+            "sorttitle": "acute demyelinating polyneuropathy as presentation of hereditary neuropathy with liability to pressure palsies in a patient who exercised regularly in the army",
+            "volume": "18",
+            "issue": "4",
+            "pages": "228-234",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "100887391",
+            "issn": "1522-0443",
+            "essn": "1537-1611",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - in process",
+            "pubstatus": "4",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28538254"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1097/CND.0000000000000145"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "00131402-201706000-00005"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28538254"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28538254"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/05/25 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/05/26 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/05/26 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Journal of clinical neuromuscular disease",
+            "elocationid": "doi: 10.1097/CND.0000000000000145",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/06/01 00:00",
+            "sortfirstauthor": "Perugula M",
+            "vernaculartitle": ""
+        },
+        "28652523": {
+            "uid": "28652523",
+            "pubdate": "2017 Jul 29",
+            "epubdate": "2017 Jul 24",
+            "source": "Rinsho Shinkeigaku",
+            "authors": [
+                {
+                    "name": "Nakamura T",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kawarabayashi T",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Seino Y",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Shoji M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Shoji M",
+            "title": "A case of hereditary neuropathy with liability to pressure palsies due to push-up exercise.",
+            "sorttitle": "case of hereditary neuropathy with liability to pressure palsies due to push up exercise",
+            "volume": "57",
+            "issue": "7",
+            "pages": "383-386",
+            "lang": [
+                "jpn"
+            ],
+            "nlmuniqueid": "0417466",
+            "issn": "0009-918X",
+            "essn": "1882-0654",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28652523"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.5692/clinicalneurol.cn-001023"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28652523"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28652523"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/06/28 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/10/17 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/06/28 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Rinsho shinkeigaku = Clinical neurology",
+            "elocationid": "doi: 10.5692/clinicalneurol.cn-001023",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/07/29 00:00",
+            "sortfirstauthor": "Nakamura T",
+            "vernaculartitle": ""
+        },
+        "28692128": {
+            "uid": "28692128",
+            "pubdate": "2017 Jul 10",
+            "epubdate": "2017 Jul 10",
+            "source": "Muscle Nerve",
+            "authors": [
+                {
+                    "name": "Panosyan FB",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kirk CA",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Marking D",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Reilly MM",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Scherer SS",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Shy ME",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Herrmann DN",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Herrmann DN",
+            "title": "Carpal tunnel syndrome in inherited neuropathies: A retrospective survey.",
+            "sorttitle": "carpal tunnel syndrome in inherited neuropathies a retrospective survey",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "7803146",
+            "issn": "0148-639X",
+            "essn": "1097-4598",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - as supplied by publisher",
+            "pubstatus": "10",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28692128"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1002/mus.25742"
+                },
+                {
+                    "idtype": "pmc",
+                    "idtypen": 8,
+                    "value": "PMC5762426"
+                },
+                {
+                    "idtype": "mid",
+                    "idtypen": 8,
+                    "value": "NIHMS895510"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28692128"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28692128"
+                },
+                {
+                    "idtype": "pmcid",
+                    "idtypen": 5,
+                    "value": "pmc-id: PMC5762426;manuscript-id: NIHMS895510;embargo-date: 2019/01/10;"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2017/02/17 00:00"
+                },
+                {
+                    "pubstatus": "revised",
+                    "date": "2017/06/16 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/07/04 00:00"
+                },
+                {
+                    "pubstatus": "pmc-release",
+                    "date": "2019/01/10 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/07/12 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/07/12 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/07/11 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Muscle &amp; nerve",
+            "elocationid": "doi: 10.1002/mus.25742",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/07/10 00:00",
+            "sortfirstauthor": "Panosyan FB",
+            "vernaculartitle": ""
+        },
+        "28802056": {
+            "uid": "28802056",
+            "pubdate": "2018 Jan",
+            "epubdate": "2017 Aug 24",
+            "source": "Muscle Nerve",
+            "authors": [
+                {
+                    "name": "Padua L",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Coraci D",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Lucchetta M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Paolasso I",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Pazzaglia C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Granata G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Cacciavillani M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Luigetti M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Manganelli F",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Pisciotta C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Piscosquito G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Pareyson D",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Briani C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Briani C",
+            "title": "Different nerve ultrasound patterns in charcot-marie-tooth types and hereditary neuropathy with liability to pressure palsies.",
+            "sorttitle": "different nerve ultrasound patterns in charcot marie tooth types and hereditary neuropathy with liability to pressure palsies",
+            "volume": "57",
+            "issue": "1",
+            "pages": "E18-E23",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "7803146",
+            "issn": "0148-639X",
+            "essn": "1097-4598",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28802056"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1002/mus.25766"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28802056"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28802056"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2016/08/11 00:00"
+                },
+                {
+                    "pubstatus": "revised",
+                    "date": "2017/07/28 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/08/06 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/08/13 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/12/13 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/08/13 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Muscle &amp; nerve",
+            "elocationid": "doi: 10.1002/mus.25766",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2018/01/01 00:00",
+            "sortfirstauthor": "Padua L",
+            "vernaculartitle": ""
+        },
+        "28810241": {
+            "uid": "28810241",
+            "pubdate": "2017",
+            "epubdate": "2017 Aug 16",
+            "source": "Neuroepidemiology",
+            "authors": [
+                {
+                    "name": "Marttila M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kytövuori L",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Helisalmi S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kallio M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Laitinen M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Hiltunen M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kärppä M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Majamaa K",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Majamaa K",
+            "title": "Molecular Epidemiology of Charcot-Marie-Tooth Disease in Northern Ostrobothnia, Finland: A Population-Based Study.",
+            "sorttitle": "molecular epidemiology of charcot marie tooth disease in northern ostrobothnia finland a population based study",
+            "volume": "49",
+            "issue": "1-2",
+            "pages": "34-39",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "8218700",
+            "issn": "0251-5350",
+            "essn": "1423-0208",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - in process",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28810241"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "000478860"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1159/000478860"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28810241"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28810241"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2017/02/24 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/06/14 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/08/16 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/08/16 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/08/16 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Neuroepidemiology",
+            "elocationid": "doi: 10.1159/000478860",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/01/01 00:00",
+            "sortfirstauthor": "Marttila M",
+            "vernaculartitle": ""
+        },
+        "28912683": {
+            "uid": "28912683",
+            "pubdate": "2017",
+            "epubdate": "2017 Aug 30",
+            "source": "Front Mol Neurosci",
+            "authors": [
+                {
+                    "name": "Rosso G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Liashkovich I",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Young P",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Shahin V",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Shahin V",
+            "title": "Nano-scale Biophysical and Structural Investigations on Intact and Neuropathic Nerve Fibers by Simultaneous Combination of Atomic Force and Confocal Microscopy.",
+            "sorttitle": "nano scale biophysical and structural investigations on intact and neuropathic nerve fibers by simultaneous combination of atomic force and confocal microscopy",
+            "volume": "10",
+            "issue": "",
+            "pages": "277",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "101477914",
+            "issn": "",
+            "essn": "1662-5099",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed",
+            "pubstatus": "258",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28912683"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.3389/fnmol.2017.00277"
+                },
+                {
+                    "idtype": "pmc",
+                    "idtypen": 8,
+                    "value": "PMC5582161"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28912683"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28912683"
+                },
+                {
+                    "idtype": "pmcid",
+                    "idtypen": 5,
+                    "value": "pmc-id: PMC5582161;"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2017/07/13 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/08/17 00:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/09/16 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/09/16 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/09/16 06:01"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Frontiers in molecular neuroscience",
+            "elocationid": "doi: 10.3389/fnmol.2017.00277",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/08/30 00:00",
+            "sortfirstauthor": "Rosso G",
+            "vernaculartitle": ""
+        },
+        "28948078": {
+            "uid": "28948078",
+            "pubdate": "2017 Sep",
+            "epubdate": "2017 Jul 27",
+            "source": "Brain Behav",
+            "authors": [
+                {
+                    "name": "Kodaira M",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kodama S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kamijo Y",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Kaneko T",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Sekijima Y",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Sekijima Y",
+            "title": "Muscle training-induced bilateral brachial plexopathy in an adolescent with sporadic hereditary neuropathy with liability to pressure palsies.",
+            "sorttitle": "muscle training induced bilateral brachial plexopathy in an adolescent with sporadic hereditary neuropathy with liability to pressure palsies",
+            "volume": "7",
+            "issue": "9",
+            "pages": "e00783",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "101570837",
+            "issn": "",
+            "essn": "2162-3279",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - in process",
+            "pubstatus": "258",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28948078"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1002/brb3.783"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "BRB3783"
+                },
+                {
+                    "idtype": "pmc",
+                    "idtypen": 8,
+                    "value": "PMC5607547"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28948078"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28948078"
+                },
+                {
+                    "idtype": "pmcid",
+                    "idtypen": 5,
+                    "value": "pmc-id: PMC5607547;"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2017/04/24 00:00"
+                },
+                {
+                    "pubstatus": "revised",
+                    "date": "2017/06/13 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/06/26 00:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/09/27 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/09/28 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/09/28 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Brain and behavior",
+            "elocationid": "doi: 10.1002/brb3.783",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/07/27 00:00",
+            "sortfirstauthor": "Kodaira M",
+            "vernaculartitle": ""
+        },
+        "28981956": {
+            "uid": "28981956",
+            "pubdate": "2017 Oct 5",
+            "epubdate": "2017 Oct 5",
+            "source": "Muscle Nerve",
+            "authors": [
+                {
+                    "name": "Wong E",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "DeOrchis VS",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Stein B",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Herskovitz S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Herskovitz S",
+            "title": "Davidenkow syndrome: A phenotypic variant of hereditary neuropathy with liability to pressure palsies.",
+            "sorttitle": "davidenkow syndrome a phenotypic variant of hereditary neuropathy with liability to pressure palsies",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "7803146",
+            "issn": "0148-639X",
+            "essn": "1097-4598",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - as supplied by publisher",
+            "pubstatus": "10",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "28981956"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1002/mus.25985"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "28981956"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "28981956"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2016/11/20 00:00"
+                },
+                {
+                    "pubstatus": "revised",
+                    "date": "2017/09/18 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/10/03 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/10/06 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/10/06 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/10/06 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [],
+            "pmcrefcount": "",
+            "fulljournalname": "Muscle &amp; nerve",
+            "elocationid": "doi: 10.1002/mus.25985",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/10/05 00:00",
+            "sortfirstauthor": "Wong E",
+            "vernaculartitle": ""
+        },
+        "29108667": {
+            "uid": "29108667",
+            "pubdate": "2018 Feb",
+            "epubdate": "2017 Nov 3",
+            "source": "J Clin Neurosci",
+            "authors": [
+                {
+                    "name": "Chen B",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Niu S",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Wang X",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Li W",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Chen N",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Zhang Z",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Zhang Z",
+            "title": "Clinical, electrophysiological, genetic, and imaging features of six Chinese Han patients with hereditary neuropathy with liability to pressure palsies (HNPP).",
+            "sorttitle": "clinical electrophysiological genetic and imaging features of six chinese han patients with hereditary neuropathy with liability to pressure palsies hnpp",
+            "volume": "48",
+            "issue": "",
+            "pages": "133-137",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "9433352",
+            "issn": "0967-5868",
+            "essn": "1532-2653",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - in process",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "29108667"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "S0967-5868(17)31060-3"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1016/j.jocn.2017.10.069"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "29108667"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "29108667"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2017/06/05 00:00"
+                },
+                {
+                    "pubstatus": "revised",
+                    "date": "2017/10/14 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/10/22 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/11/08 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2017/11/08 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/11/08 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Journal of clinical neuroscience : official journal of the Neurosurgical Society of Australasia",
+            "elocationid": "doi: 10.1016/j.jocn.2017.10.069",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2018/02/01 00:00",
+            "sortfirstauthor": "Chen B",
+            "vernaculartitle": ""
+        },
+        "29183014": {
+            "uid": "29183014",
+            "pubdate": "2017",
+            "epubdate": "2017 Nov 29",
+            "source": "Cell Physiol Biochem",
+            "authors": [
+                {
+                    "name": "Rosso G",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Young P",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Shahin V",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Shahin V",
+            "title": "Mechanosensitivity of Embryonic Neurites Promotes Their Directional Extension and Schwann Cells Progenitors Migration.",
+            "sorttitle": "mechanosensitivity of embryonic neurites promotes their directional extension and schwann cells progenitors migration",
+            "volume": "44",
+            "issue": "4",
+            "pages": "1263-1270",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "9113221",
+            "issn": "1015-8987",
+            "essn": "1421-9778",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - indexed for MEDLINE",
+            "pubstatus": "256",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "29183014"
+                },
+                {
+                    "idtype": "pii",
+                    "idtypen": 4,
+                    "value": "000485485"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1159/000485485"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "29183014"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "29183014"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "received",
+                    "date": "2017/09/12 00:00"
+                },
+                {
+                    "pubstatus": "accepted",
+                    "date": "2017/11/09 00:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2017/11/29 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2018/01/19 06:00"
+                },
+                {
+                    "pubstatus": "entrez",
+                    "date": "2017/11/29 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Cellular physiology and biochemistry : international journal of experimental cellular physiology, biochemistry, and pharmacology",
+            "elocationid": "doi: 10.1159/000485485",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2017/01/01 00:00",
+            "sortfirstauthor": "Rosso G",
+            "vernaculartitle": ""
+        },
+        "29315582": {
+            "uid": "29315582",
+            "pubdate": "2018 Jan 8",
+            "epubdate": "2018 Jan 8",
+            "source": "J Neurochem",
+            "authors": [
+                {
+                    "name": "Poitelon Y",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Matafora V",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Silvestri N",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Zambroni D",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "McGarry C",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Serghany N",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Rush T",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Vizzuso D",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Court FA",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Bachi A",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Wrabetz L",
+                    "authtype": "Author",
+                    "clusterid": ""
+                },
+                {
+                    "name": "Feltri ML",
+                    "authtype": "Author",
+                    "clusterid": ""
+                }
+            ],
+            "lastauthor": "Feltri ML",
+            "title": "A dual role for Integrin α6β4 in modulating Hereditary Neuropathy with liability to Pressure Palsies.",
+            "sorttitle": "dual role for integrin 6 4 in modulating hereditary neuropathy with liability to pressure palsies",
+            "volume": "",
+            "issue": "",
+            "pages": "",
+            "lang": [
+                "eng"
+            ],
+            "nlmuniqueid": "2985190R",
+            "issn": "0022-3042",
+            "essn": "1471-4159",
+            "pubtype": [
+                "Journal Article"
+            ],
+            "recordstatus": "PubMed - as supplied by publisher",
+            "pubstatus": "10",
+            "articleids": [
+                {
+                    "idtype": "pubmed",
+                    "idtypen": 1,
+                    "value": "29315582"
+                },
+                {
+                    "idtype": "doi",
+                    "idtypen": 3,
+                    "value": "10.1111/jnc.14295"
+                },
+                {
+                    "idtype": "rid",
+                    "idtypen": 8,
+                    "value": "29315582"
+                },
+                {
+                    "idtype": "eid",
+                    "idtypen": 8,
+                    "value": "29315582"
+                }
+            ],
+            "history": [
+                {
+                    "pubstatus": "entrez",
+                    "date": "2018/01/10 06:00"
+                },
+                {
+                    "pubstatus": "pubmed",
+                    "date": "2018/01/10 06:00"
+                },
+                {
+                    "pubstatus": "medline",
+                    "date": "2018/01/10 06:00"
+                }
+            ],
+            "references": [],
+            "attributes": [
+                "Has Abstract"
+            ],
+            "pmcrefcount": "",
+            "fulljournalname": "Journal of neurochemistry",
+            "elocationid": "doi: 10.1111/jnc.14295",
+            "doctype": "citation",
+            "srccontriblist": [],
+            "booktitle": "",
+            "medium": "",
+            "edition": "",
+            "publisherlocation": "",
+            "publishername": "",
+            "srcdate": "",
+            "reportnumber": "",
+            "availablefromurl": "",
+            "locationlabel": "",
+            "doccontriblist": [],
+            "docdate": "",
+            "bookname": "",
+            "chapter": "",
+            "sortpubdate": "2018/01/08 00:00",
+            "sortfirstauthor": "Poitelon Y",
+            "vernaculartitle": ""
+        },
+        "uids": [
+            "29315582",
+            "29183014",
+            "29108667",
+            "28981956",
+            "28948078",
+            "28912683",
+            "28810241",
+            "28802056",
+            "28692128",
+            "28652523",
+            "28538254",
+            "28489810",
+            "28286897",
+            "28221301",
+            "28211240",
+            "28131554",
+            "27927941",
+            "27861220",
+            "27799291",
+            "27761228"
+        ]
+    }
+}

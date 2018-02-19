@@ -19,8 +19,8 @@ export const ResearchPageTemplate = ({
 
 export default ({ data }) => {
   let citations = [];
-  data.citations.edges.forEach(edge => {
-    citations.push(edge.node.frontmatter);
+  data.allCitationsYaml.edges.forEach(edge => {
+    citations.push(edge.node);
   });
 
   return (
@@ -40,15 +40,12 @@ export const researchPageQuery = graphql`
         description
       }
     }
-    citations: allMarkdownRemark(
-      filter: { id: {regex: "/citations/" }}
-    ){
+    allCitationsYaml {
       edges {
         node {
-          frontmatter {
-            author
-            quote
-          }
+          author
+          quote
+          title
         }
       }
     }

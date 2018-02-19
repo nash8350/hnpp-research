@@ -12,19 +12,21 @@ const columns = [{
 
 export default ({ citations }) => (
   <div>
-    {/* 
+
   <table class="table ishidden">
     <tr>
       <th>Author</th>
+      <th>Title</th>
       <th>Quote</th>
     </tr>
     {citations.map(citation => (
       <tr>
         <td>{citation.author}</td>
+        <td>{citation.title}</td>
         <td>{citation.quote}</td>
       </tr>
     ))}
-  </table> */}
+  </table> 
 
   <ReactTable
     data={citations}
