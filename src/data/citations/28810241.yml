@@ -1,0 +1,99 @@
+uid: '28810241'
+pubdate: '2017'
+epubdate: 2017 Aug 16
+source: Neuroepidemiology
+authors:
+  - name: Marttila M
+    authtype: Author
+    clusterid: ''
+  - name: Kytövuori L
+    authtype: Author
+    clusterid: ''
+  - name: Helisalmi S
+    authtype: Author
+    clusterid: ''
+  - name: Kallio M
+    authtype: Author
+    clusterid: ''
+  - name: Laitinen M
+    authtype: Author
+    clusterid: ''
+  - name: Hiltunen M
+    authtype: Author
+    clusterid: ''
+  - name: Kärppä M
+    authtype: Author
+    clusterid: ''
+  - name: Majamaa K
+    authtype: Author
+    clusterid: ''
+lastauthor: Majamaa K
+title: >-
+  Molecular Epidemiology of Charcot-Marie-Tooth Disease in Northern
+  Ostrobothnia, Finland: A Population-Based Study.
+sorttitle: >-
+  molecular epidemiology of charcot marie tooth disease in northern ostrobothnia
+  finland a population based study
+volume: '49'
+issue: 1-2
+pages: 34-39
+lang:
+  - eng
+nlmuniqueid: '8218700'
+issn: 0251-5350
+essn: 1423-0208
+pubtype:
+  - Journal Article
+recordstatus: PubMed - in process
+pubstatus: '256'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '28810241'
+  - idtype: pii
+    idtypen: 4
+    value: 000478860
+  - idtype: doi
+    idtypen: 3
+    value: 10.1159/000478860
+  - idtype: rid
+    idtypen: 8
+    value: '28810241'
+  - idtype: eid
+    idtypen: 8
+    value: '28810241'
+history:
+  - pubstatus: received
+    date: '2017/02/24 00:00'
+  - pubstatus: accepted
+    date: '2017/06/14 00:00'
+  - pubstatus: pubmed
+    date: '2017/08/16 06:00'
+  - pubstatus: medline
+    date: '2017/08/16 06:00'
+  - pubstatus: entrez
+    date: '2017/08/16 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Neuroepidemiology
+elocationid: 'doi: 10.1159/000478860'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/01/01 00:00'
+sortfirstauthor: Marttila M
+vernaculartitle: ''

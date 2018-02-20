@@ -1,0 +1,80 @@
+uid: '27861220'
+pubdate: 2016 Dec
+epubdate: ''
+source: J Clin Neuromuscul Dis
+authors:
+  - name: Harada Y
+    authtype: Author
+    clusterid: ''
+  - name: Puwanant A
+    authtype: Author
+    clusterid: ''
+  - name: Herrmann DN
+    authtype: Author
+    clusterid: ''
+lastauthor: Herrmann DN
+title: >-
+  Hereditary Neuropathy With Liability to Pressure Palsies: Diverse Phenotypes
+  in Childhood.
+sorttitle: >-
+  hereditary neuropathy with liability to pressure palsies diverse phenotypes in
+  childhood
+volume: '18'
+issue: '2'
+pages: 79-83
+lang:
+  - eng
+nlmuniqueid: '100887391'
+issn: 1522-0443
+essn: 1537-1611
+pubtype:
+  - Journal Article
+recordstatus: PubMed - indexed for MEDLINE
+pubstatus: '4'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '27861220'
+  - idtype: doi
+    idtypen: 3
+    value: 10.1097/CND.0000000000000136
+  - idtype: pii
+    idtypen: 4
+    value: 00131402-201612000-00004
+  - idtype: rid
+    idtypen: 8
+    value: '27861220'
+  - idtype: eid
+    idtypen: 8
+    value: '27861220'
+history:
+  - pubstatus: entrez
+    date: '2016/11/19 06:00'
+  - pubstatus: pubmed
+    date: '2016/11/20 06:00'
+  - pubstatus: medline
+    date: '2017/03/14 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Journal of clinical neuromuscular disease
+elocationid: ''
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2016/12/01 00:00'
+sortfirstauthor: Harada Y
+vernaculartitle: ''

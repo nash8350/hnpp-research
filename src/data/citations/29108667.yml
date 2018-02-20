@@ -1,0 +1,98 @@
+uid: '29108667'
+pubdate: 2018 Feb
+epubdate: 2017 Nov 3
+source: J Clin Neurosci
+authors:
+  - name: Chen B
+    authtype: Author
+    clusterid: ''
+  - name: Niu S
+    authtype: Author
+    clusterid: ''
+  - name: Wang X
+    authtype: Author
+    clusterid: ''
+  - name: Li W
+    authtype: Author
+    clusterid: ''
+  - name: Chen N
+    authtype: Author
+    clusterid: ''
+  - name: Zhang Z
+    authtype: Author
+    clusterid: ''
+lastauthor: Zhang Z
+title: >-
+  Clinical, electrophysiological, genetic, and imaging features of six Chinese
+  Han patients with hereditary neuropathy with liability to pressure palsies
+  (HNPP).
+sorttitle: >-
+  clinical electrophysiological genetic and imaging features of six chinese han
+  patients with hereditary neuropathy with liability to pressure palsies hnpp
+volume: '48'
+issue: ''
+pages: 133-137
+lang:
+  - eng
+nlmuniqueid: '9433352'
+issn: 0967-5868
+essn: 1532-2653
+pubtype:
+  - Journal Article
+recordstatus: PubMed - in process
+pubstatus: '256'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '29108667'
+  - idtype: pii
+    idtypen: 4
+    value: S0967-5868(17)31060-3
+  - idtype: doi
+    idtypen: 3
+    value: 10.1016/j.jocn.2017.10.069
+  - idtype: rid
+    idtypen: 8
+    value: '29108667'
+  - idtype: eid
+    idtypen: 8
+    value: '29108667'
+history:
+  - pubstatus: received
+    date: '2017/06/05 00:00'
+  - pubstatus: revised
+    date: '2017/10/14 00:00'
+  - pubstatus: accepted
+    date: '2017/10/22 00:00'
+  - pubstatus: pubmed
+    date: '2017/11/08 06:00'
+  - pubstatus: medline
+    date: '2017/11/08 06:00'
+  - pubstatus: entrez
+    date: '2017/11/08 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: >-
+  Journal of clinical neuroscience : official journal of the Neurosurgical
+  Society of Australasia
+elocationid: 'doi: 10.1016/j.jocn.2017.10.069'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2018/02/01 00:00'
+sortfirstauthor: Chen B
+vernaculartitle: ''

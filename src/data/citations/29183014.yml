@@ -1,0 +1,86 @@
+uid: '29183014'
+pubdate: '2017'
+epubdate: 2017 Nov 29
+source: Cell Physiol Biochem
+authors:
+  - name: Rosso G
+    authtype: Author
+    clusterid: ''
+  - name: Young P
+    authtype: Author
+    clusterid: ''
+  - name: Shahin V
+    authtype: Author
+    clusterid: ''
+lastauthor: Shahin V
+title: >-
+  Mechanosensitivity of Embryonic Neurites Promotes Their Directional Extension
+  and Schwann Cells Progenitors Migration.
+sorttitle: >-
+  mechanosensitivity of embryonic neurites promotes their directional extension
+  and schwann cells progenitors migration
+volume: '44'
+issue: '4'
+pages: 1263-1270
+lang:
+  - eng
+nlmuniqueid: '9113221'
+issn: 1015-8987
+essn: 1421-9778
+pubtype:
+  - Journal Article
+recordstatus: PubMed - indexed for MEDLINE
+pubstatus: '256'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '29183014'
+  - idtype: pii
+    idtypen: 4
+    value: 000485485
+  - idtype: doi
+    idtypen: 3
+    value: 10.1159/000485485
+  - idtype: rid
+    idtypen: 8
+    value: '29183014'
+  - idtype: eid
+    idtypen: 8
+    value: '29183014'
+history:
+  - pubstatus: received
+    date: '2017/09/12 00:00'
+  - pubstatus: accepted
+    date: '2017/11/09 00:00'
+  - pubstatus: pubmed
+    date: '2017/11/29 06:00'
+  - pubstatus: medline
+    date: '2018/01/19 06:00'
+  - pubstatus: entrez
+    date: '2017/11/29 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: >-
+  Cellular physiology and biochemistry : international journal of experimental
+  cellular physiology, biochemistry, and pharmacology
+elocationid: 'doi: 10.1159/000485485'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/01/01 00:00'
+sortfirstauthor: Rosso G
+vernaculartitle: ''

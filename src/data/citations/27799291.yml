@@ -1,0 +1,113 @@
+uid: '27799291'
+pubdate: 2016 Dec
+epubdate: 2016 Dec 1
+source: EMBO Mol Med
+authors:
+  - name: Bolino A
+    authtype: Author
+    clusterid: ''
+  - name: Piguet F
+    authtype: Author
+    clusterid: ''
+  - name: Alberizzi V
+    authtype: Author
+    clusterid: ''
+  - name: Pellegatta M
+    authtype: Author
+    clusterid: ''
+  - name: Rivellini C
+    authtype: Author
+    clusterid: ''
+  - name: Guerrero-Valero M
+    authtype: Author
+    clusterid: ''
+  - name: Noseda R
+    authtype: Author
+    clusterid: ''
+  - name: Brombin C
+    authtype: Author
+    clusterid: ''
+  - name: Nonis A
+    authtype: Author
+    clusterid: ''
+  - name: D'Adamo P
+    authtype: Author
+    clusterid: ''
+  - name: Taveggia C
+    authtype: Author
+    clusterid: ''
+  - name: Previtali SC
+    authtype: Author
+    clusterid: ''
+lastauthor: Previtali SC
+title: >-
+  Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
+  hypermyelination.
+sorttitle: >-
+  niacin mediated tace activation ameliorates cmt neuropathies with focal
+  hypermyelination
+volume: '8'
+issue: '12'
+pages: 1438-1454
+lang:
+  - eng
+nlmuniqueid: '101487380'
+issn: 1757-4676
+essn: 1757-4684
+pubtype:
+  - Journal Article
+recordstatus: PubMed - indexed for MEDLINE
+pubstatus: '257'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '27799291'
+  - idtype: pii
+    idtypen: 4
+    value: emmm.201606349
+  - idtype: doi
+    idtypen: 3
+    value: 10.15252/emmm.201606349
+  - idtype: pmc
+    idtypen: 8
+    value: PMC5167133
+  - idtype: rid
+    idtypen: 8
+    value: '27799291'
+  - idtype: eid
+    idtypen: 8
+    value: '27799291'
+  - idtype: pmcid
+    idtypen: 5
+    value: 'pmc-id: PMC5167133;'
+history:
+  - pubstatus: pubmed
+    date: '2016/11/02 06:00'
+  - pubstatus: medline
+    date: '2017/09/25 06:00'
+  - pubstatus: entrez
+    date: '2016/11/02 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: 2
+fulljournalname: EMBO molecular medicine
+elocationid: 'doi: 10.15252/emmm.201606349'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2016/12/01 00:00'
+sortfirstauthor: Bolino A
+vernaculartitle: ''

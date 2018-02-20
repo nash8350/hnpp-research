@@ -18,9 +18,20 @@ export const ResearchPageTemplate = ({
 );
 
 export default ({ data }) => {
-  let citations = [];
+  // fill citations table
+  const citations = [];
   data.allCitationsYaml.edges.forEach(edge => {
-    citations.push(edge.node);
+    const citation = edge.node;
+
+    //list authors
+    citation.authorlist = "";
+    citation.authors.forEach(author => {
+      citation.authorlist += author.name + ", ";
+    })
+    if(citation.authorlist.length > 1)
+      citation.authorlist = citation.authorlist.substring(0, citation.authorlist.length - 2);
+
+    citations.push(citation);
   });
 
   return (
@@ -40,12 +51,16 @@ export const researchPageQuery = graphql`
         description
       }
     }
-    allCitationsYaml {
+    allCitationsYaml(sort: { fields: [pubdate], order: DESC }) {
       edges {
         node {
-          author
-          quote
+          pubdate
           title
+          uid
+          authors {
+            name
+          }
+          source
         }
       }
     }

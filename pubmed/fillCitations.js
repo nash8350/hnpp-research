@@ -1,13 +1,13 @@
 const fs = require("fs");
 const yaml = require('js-yaml');
 
-console.log("\n *START* \n");
-var content = fs.readFileSync("pubmed/pubmed.json");
-var jsonContent = JSON.parse(content);
+const content = fs.readFileSync("pubmed/pubmed.json");
+const jsonContent = JSON.parse(content);
 for(let pmid in jsonContent.result) {
     if(pmid === 'uids')
         continue;
-    var citation = yaml.safeDump(jsonContent.result[pmid]);
-    fs.writeFileSync("data/citations/" + pmid + ".yml", citation);
+    const citation = yaml.safeDump(jsonContent.result[pmid]);
+    const file = "src/data/citations/" + pmid + ".yml";
+    fs.writeFileSync(file, citation);
+    console.log("writing " + file)
 }
-console.log("\n *EXIT* \n");

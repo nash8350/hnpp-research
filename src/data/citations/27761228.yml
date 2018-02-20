@@ -1,0 +1,98 @@
+uid: '27761228'
+pubdate: 2016 Sep 30
+epubdate: 2016 Sep 30
+source: Neurol Int
+authors:
+  - name: Lorenzoni PJ
+    authtype: Author
+    clusterid: ''
+  - name: Kay CS
+    authtype: Author
+    clusterid: ''
+  - name: Cavalet C
+    authtype: Author
+    clusterid: ''
+  - name: Arndt RC
+    authtype: Author
+    clusterid: ''
+  - name: Werneck LC
+    authtype: Author
+    clusterid: ''
+  - name: Scola RH
+    authtype: Author
+    clusterid: ''
+lastauthor: Scola RH
+title: >-
+  Hereditary Neuropathy With Liability to Pressure Palsies: A Single-Center
+  Experience in Southern Brazil.
+sorttitle: >-
+  hereditary neuropathy with liability to pressure palsies a single center
+  experience in southern brazil
+volume: '8'
+issue: '3'
+pages: '6677'
+lang:
+  - eng
+nlmuniqueid: '101551564'
+issn: 2035-8385
+essn: 2035-8377
+pubtype:
+  - Journal Article
+recordstatus: PubMed
+pubstatus: '258'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '27761228'
+  - idtype: doi
+    idtypen: 3
+    value: 10.4081/ni.2016.6677
+  - idtype: pmc
+    idtypen: 8
+    value: PMC5066106
+  - idtype: rid
+    idtypen: 8
+    value: '27761228'
+  - idtype: eid
+    idtypen: 8
+    value: '27761228'
+  - idtype: pmcid
+    idtypen: 5
+    value: 'pmc-id: PMC5066106;'
+history:
+  - pubstatus: received
+    date: '2016/07/04 00:00'
+  - pubstatus: revised
+    date: '2016/08/05 00:00'
+  - pubstatus: accepted
+    date: '2016/08/08 00:00'
+  - pubstatus: pubmed
+    date: '2016/10/21 06:00'
+  - pubstatus: medline
+    date: '2016/10/21 06:01'
+  - pubstatus: entrez
+    date: '2016/10/21 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Neurology international
+elocationid: ''
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2016/09/30 00:00'
+sortfirstauthor: Lorenzoni PJ
+vernaculartitle: ''

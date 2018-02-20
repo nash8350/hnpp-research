@@ -1,0 +1,80 @@
+uid: '28221301'
+pubdate: 2017 Mar
+epubdate: ''
+source: J Clin Neuromuscul Dis
+authors:
+  - name: Takahashi S
+    authtype: Author
+    clusterid: ''
+  - name: Chum M
+    authtype: Author
+    clusterid: ''
+  - name: Kimpinski K
+    authtype: Author
+    clusterid: ''
+lastauthor: Kimpinski K
+title: >-
+  Electrodiagnostic Characterization of Hereditary Neuropathy With Liability to
+  Pressure Palsies.
+sorttitle: >-
+  electrodiagnostic characterization of hereditary neuropathy with liability to
+  pressure palsies
+volume: '18'
+issue: '3'
+pages: 119-124
+lang:
+  - eng
+nlmuniqueid: '100887391'
+issn: 1522-0443
+essn: 1537-1611
+pubtype:
+  - Journal Article
+recordstatus: PubMed - indexed for MEDLINE
+pubstatus: '4'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '28221301'
+  - idtype: doi
+    idtypen: 3
+    value: 10.1097/CND.0000000000000152
+  - idtype: pii
+    idtypen: 4
+    value: 00131402-201703000-00001
+  - idtype: rid
+    idtypen: 8
+    value: '28221301'
+  - idtype: eid
+    idtypen: 8
+    value: '28221301'
+history:
+  - pubstatus: entrez
+    date: '2017/02/22 06:00'
+  - pubstatus: pubmed
+    date: '2017/02/22 06:00'
+  - pubstatus: medline
+    date: '2017/03/14 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Journal of clinical neuromuscular disease
+elocationid: 'doi: 10.1097/CND.0000000000000152'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/03/01 00:00'
+sortfirstauthor: Takahashi S
+vernaculartitle: ''

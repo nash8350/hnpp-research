@@ -1,0 +1,98 @@
+uid: '28948078'
+pubdate: 2017 Sep
+epubdate: 2017 Jul 27
+source: Brain Behav
+authors:
+  - name: Kodaira M
+    authtype: Author
+    clusterid: ''
+  - name: Kodama S
+    authtype: Author
+    clusterid: ''
+  - name: Kamijo Y
+    authtype: Author
+    clusterid: ''
+  - name: Kaneko T
+    authtype: Author
+    clusterid: ''
+  - name: Sekijima Y
+    authtype: Author
+    clusterid: ''
+lastauthor: Sekijima Y
+title: >-
+  Muscle training-induced bilateral brachial plexopathy in an adolescent with
+  sporadic hereditary neuropathy with liability to pressure palsies.
+sorttitle: >-
+  muscle training induced bilateral brachial plexopathy in an adolescent with
+  sporadic hereditary neuropathy with liability to pressure palsies
+volume: '7'
+issue: '9'
+pages: e00783
+lang:
+  - eng
+nlmuniqueid: '101570837'
+issn: ''
+essn: 2162-3279
+pubtype:
+  - Journal Article
+recordstatus: PubMed - in process
+pubstatus: '258'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '28948078'
+  - idtype: doi
+    idtypen: 3
+    value: 10.1002/brb3.783
+  - idtype: pii
+    idtypen: 4
+    value: BRB3783
+  - idtype: pmc
+    idtypen: 8
+    value: PMC5607547
+  - idtype: rid
+    idtypen: 8
+    value: '28948078'
+  - idtype: eid
+    idtypen: 8
+    value: '28948078'
+  - idtype: pmcid
+    idtypen: 5
+    value: 'pmc-id: PMC5607547;'
+history:
+  - pubstatus: received
+    date: '2017/04/24 00:00'
+  - pubstatus: revised
+    date: '2017/06/13 00:00'
+  - pubstatus: accepted
+    date: '2017/06/26 00:00'
+  - pubstatus: entrez
+    date: '2017/09/27 06:00'
+  - pubstatus: pubmed
+    date: '2017/09/28 06:00'
+  - pubstatus: medline
+    date: '2017/09/28 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Brain and behavior
+elocationid: 'doi: 10.1002/brb3.783'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/07/27 00:00'
+sortfirstauthor: Kodaira M
+vernaculartitle: ''

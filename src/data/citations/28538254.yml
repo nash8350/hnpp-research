@@ -1,0 +1,82 @@
+uid: '28538254'
+pubdate: 2017 Jun
+epubdate: ''
+source: J Clin Neuromuscul Dis
+authors:
+  - name: Perugula M
+    authtype: Author
+    clusterid: ''
+  - name: Uppal G
+    authtype: Author
+    clusterid: ''
+  - name: Chuquilin M
+    authtype: Author
+    clusterid: ''
+lastauthor: Chuquilin M
+title: >-
+  Acute Demyelinating Polyneuropathy as Presentation of Hereditary Neuropathy
+  With Liability to Pressure Palsies in a Patient Who Exercised Regularly in the
+  Army.
+sorttitle: >-
+  acute demyelinating polyneuropathy as presentation of hereditary neuropathy
+  with liability to pressure palsies in a patient who exercised regularly in the
+  army
+volume: '18'
+issue: '4'
+pages: 228-234
+lang:
+  - eng
+nlmuniqueid: '100887391'
+issn: 1522-0443
+essn: 1537-1611
+pubtype:
+  - Journal Article
+recordstatus: PubMed - in process
+pubstatus: '4'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '28538254'
+  - idtype: doi
+    idtypen: 3
+    value: 10.1097/CND.0000000000000145
+  - idtype: pii
+    idtypen: 4
+    value: 00131402-201706000-00005
+  - idtype: rid
+    idtypen: 8
+    value: '28538254'
+  - idtype: eid
+    idtypen: 8
+    value: '28538254'
+history:
+  - pubstatus: entrez
+    date: '2017/05/25 06:00'
+  - pubstatus: pubmed
+    date: '2017/05/26 06:00'
+  - pubstatus: medline
+    date: '2017/05/26 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Journal of clinical neuromuscular disease
+elocationid: 'doi: 10.1097/CND.0000000000000145'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/06/01 00:00'
+sortfirstauthor: Perugula M
+vernaculartitle: ''

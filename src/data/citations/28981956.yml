@@ -1,0 +1,85 @@
+uid: '28981956'
+pubdate: 2017 Oct 5
+epubdate: 2017 Oct 5
+source: Muscle Nerve
+authors:
+  - name: Wong E
+    authtype: Author
+    clusterid: ''
+  - name: DeOrchis VS
+    authtype: Author
+    clusterid: ''
+  - name: Stein B
+    authtype: Author
+    clusterid: ''
+  - name: Herskovitz S
+    authtype: Author
+    clusterid: ''
+lastauthor: Herskovitz S
+title: >-
+  Davidenkow syndrome: A phenotypic variant of hereditary neuropathy with
+  liability to pressure palsies.
+sorttitle: >-
+  davidenkow syndrome a phenotypic variant of hereditary neuropathy with
+  liability to pressure palsies
+volume: ''
+issue: ''
+pages: ''
+lang:
+  - eng
+nlmuniqueid: '7803146'
+issn: 0148-639X
+essn: 1097-4598
+pubtype:
+  - Journal Article
+recordstatus: PubMed - as supplied by publisher
+pubstatus: '10'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '28981956'
+  - idtype: doi
+    idtypen: 3
+    value: 10.1002/mus.25985
+  - idtype: rid
+    idtypen: 8
+    value: '28981956'
+  - idtype: eid
+    idtypen: 8
+    value: '28981956'
+history:
+  - pubstatus: received
+    date: '2016/11/20 00:00'
+  - pubstatus: revised
+    date: '2017/09/18 00:00'
+  - pubstatus: accepted
+    date: '2017/10/03 00:00'
+  - pubstatus: pubmed
+    date: '2017/10/06 06:00'
+  - pubstatus: medline
+    date: '2017/10/06 06:00'
+  - pubstatus: entrez
+    date: '2017/10/06 06:00'
+references: []
+attributes: []
+pmcrefcount: ''
+fulljournalname: Muscle &amp; nerve
+elocationid: 'doi: 10.1002/mus.25985'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/10/05 00:00'
+sortfirstauthor: Wong E
+vernaculartitle: ''

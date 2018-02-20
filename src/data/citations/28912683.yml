@@ -1,0 +1,92 @@
+uid: '28912683'
+pubdate: '2017'
+epubdate: 2017 Aug 30
+source: Front Mol Neurosci
+authors:
+  - name: Rosso G
+    authtype: Author
+    clusterid: ''
+  - name: Liashkovich I
+    authtype: Author
+    clusterid: ''
+  - name: Young P
+    authtype: Author
+    clusterid: ''
+  - name: Shahin V
+    authtype: Author
+    clusterid: ''
+lastauthor: Shahin V
+title: >-
+  Nano-scale Biophysical and Structural Investigations on Intact and Neuropathic
+  Nerve Fibers by Simultaneous Combination of Atomic Force and Confocal
+  Microscopy.
+sorttitle: >-
+  nano scale biophysical and structural investigations on intact and neuropathic
+  nerve fibers by simultaneous combination of atomic force and confocal
+  microscopy
+volume: '10'
+issue: ''
+pages: '277'
+lang:
+  - eng
+nlmuniqueid: '101477914'
+issn: ''
+essn: 1662-5099
+pubtype:
+  - Journal Article
+recordstatus: PubMed
+pubstatus: '258'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '28912683'
+  - idtype: doi
+    idtypen: 3
+    value: 10.3389/fnmol.2017.00277
+  - idtype: pmc
+    idtypen: 8
+    value: PMC5582161
+  - idtype: rid
+    idtypen: 8
+    value: '28912683'
+  - idtype: eid
+    idtypen: 8
+    value: '28912683'
+  - idtype: pmcid
+    idtypen: 5
+    value: 'pmc-id: PMC5582161;'
+history:
+  - pubstatus: received
+    date: '2017/07/13 00:00'
+  - pubstatus: accepted
+    date: '2017/08/17 00:00'
+  - pubstatus: entrez
+    date: '2017/09/16 06:00'
+  - pubstatus: pubmed
+    date: '2017/09/16 06:00'
+  - pubstatus: medline
+    date: '2017/09/16 06:01'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Frontiers in molecular neuroscience
+elocationid: 'doi: 10.3389/fnmol.2017.00277'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/08/30 00:00'
+sortfirstauthor: Rosso G
+vernaculartitle: ''

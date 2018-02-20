@@ -1,0 +1,102 @@
+uid: '28692128'
+pubdate: 2017 Jul 10
+epubdate: 2017 Jul 10
+source: Muscle Nerve
+authors:
+  - name: Panosyan FB
+    authtype: Author
+    clusterid: ''
+  - name: Kirk CA
+    authtype: Author
+    clusterid: ''
+  - name: Marking D
+    authtype: Author
+    clusterid: ''
+  - name: Reilly MM
+    authtype: Author
+    clusterid: ''
+  - name: Scherer SS
+    authtype: Author
+    clusterid: ''
+  - name: Shy ME
+    authtype: Author
+    clusterid: ''
+  - name: Herrmann DN
+    authtype: Author
+    clusterid: ''
+lastauthor: Herrmann DN
+title: 'Carpal tunnel syndrome in inherited neuropathies: A retrospective survey.'
+sorttitle: carpal tunnel syndrome in inherited neuropathies a retrospective survey
+volume: ''
+issue: ''
+pages: ''
+lang:
+  - eng
+nlmuniqueid: '7803146'
+issn: 0148-639X
+essn: 1097-4598
+pubtype:
+  - Journal Article
+recordstatus: PubMed - as supplied by publisher
+pubstatus: '10'
+articleids:
+  - idtype: pubmed
+    idtypen: 1
+    value: '28692128'
+  - idtype: doi
+    idtypen: 3
+    value: 10.1002/mus.25742
+  - idtype: pmc
+    idtypen: 8
+    value: PMC5762426
+  - idtype: mid
+    idtypen: 8
+    value: NIHMS895510
+  - idtype: rid
+    idtypen: 8
+    value: '28692128'
+  - idtype: eid
+    idtypen: 8
+    value: '28692128'
+  - idtype: pmcid
+    idtypen: 5
+    value: 'pmc-id: PMC5762426;manuscript-id: NIHMS895510;embargo-date: 2019/01/10;'
+history:
+  - pubstatus: received
+    date: '2017/02/17 00:00'
+  - pubstatus: revised
+    date: '2017/06/16 00:00'
+  - pubstatus: accepted
+    date: '2017/07/04 00:00'
+  - pubstatus: pmc-release
+    date: '2019/01/10 00:00'
+  - pubstatus: pubmed
+    date: '2017/07/12 06:00'
+  - pubstatus: medline
+    date: '2017/07/12 06:00'
+  - pubstatus: entrez
+    date: '2017/07/11 06:00'
+references: []
+attributes:
+  - Has Abstract
+pmcrefcount: ''
+fulljournalname: Muscle &amp; nerve
+elocationid: 'doi: 10.1002/mus.25742'
+doctype: citation
+srccontriblist: []
+booktitle: ''
+medium: ''
+edition: ''
+publisherlocation: ''
+publishername: ''
+srcdate: ''
+reportnumber: ''
+availablefromurl: ''
+locationlabel: ''
+doccontriblist: []
+docdate: ''
+bookname: ''
+chapter: ''
+sortpubdate: '2017/07/10 00:00'
+sortfirstauthor: Panosyan FB
+vernaculartitle: ''
