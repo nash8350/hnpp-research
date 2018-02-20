@@ -12,16 +12,12 @@ const columns = [{
     width: 300
   }, {
     Header: 'Title',
-    accessor: 'title'
+    accessor: 'title',
+    Cell: row => (<a href={"https://www.ncbi.nlm.nih.gov/pubmed/?term=" + row.original.uid + "%5Buid%5D&cmd=DetailsSearch"}>{row.value}</a>)
   }, {
     Header: 'Source',
     accessor: 'source',
     width: 225
-  }, {
-    Header: 'Pubmed Link',
-    accessor: 'uid',
-    Cell: row => (<a href={"https://www.ncbi.nlm.nih.gov/pubmed/?term=" + row.value + "%5Buid%5D&cmd=DetailsSearch"}>{row.value}</a>),
-    width: 125
 }];
 
 export default ({ citations }) => (
