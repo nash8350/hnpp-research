@@ -1,92 +1,64 @@
-uid: '28489810'
-pubdate: 2017 May
-epubdate: ''
-source: Medicine (Baltimore)
-authors:
-  - name: Li J
-    authtype: Author
-    clusterid: ''
-  - name: Niu B
-    authtype: Author
-    clusterid: ''
-  - name: Wang X
-    authtype: Author
-    clusterid: ''
-  - name: Hu H
-    authtype: Author
-    clusterid: ''
-  - name: Cao B
-    authtype: Author
-    clusterid: ''
-lastauthor: Cao B
 title: >-
   A case report of hereditary neuropathy with liability to pressure palsies
   accompanied by type 2 diabetes mellitus and psoriasis.
-sorttitle: >-
-  case report of hereditary neuropathy with liability to pressure palsies
-  accompanied by type 2 diabetes mellitus and psoriasis
-volume: '96'
-issue: '19'
-pages: e6922
-lang:
-  - eng
-nlmuniqueid: 2985248R
-issn: 0025-7974
-essn: 1536-5964
-pubtype:
-  - Journal Article
-recordstatus: PubMed - indexed for MEDLINE
-pubstatus: '4'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28489810'
-  - idtype: doi
-    idtypen: 3
-    value: 10.1097/MD.0000000000006922
-  - idtype: pii
-    idtypen: 4
-    value: 00005792-201705120-00077
-  - idtype: pmc
-    idtypen: 8
-    value: PMC5428644
-  - idtype: rid
-    idtypen: 8
-    value: '28489810'
-  - idtype: eid
-    idtypen: 8
-    value: '28489810'
-  - idtype: pmcid
-    idtypen: 5
-    value: 'pmc-id: PMC5428644;'
-history:
-  - pubstatus: entrez
-    date: '2017/05/11 06:00'
-  - pubstatus: pubmed
-    date: '2017/05/11 06:00'
-  - pubstatus: medline
-    date: '2017/06/13 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: Medicine
-elocationid: 'doi: 10.1097/MD.0000000000006922'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/05/01 00:00'
-sortfirstauthor: Li J
-vernaculartitle: ''
+journal: Medicine
+authors:
+  - name: Jing Li
+  - name: Bing Niu
+  - name: Xiaoling Wang
+  - name: Huaiqiang Hu
+  - name: Bingzhen Cao
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: therapy
+  - keyword: 'Diabetes Mellitus, Type 2'
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: therapy
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: therapy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Psoriasis
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: therapy
+  - keyword: Young Adult
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) is an episodic,
+  multifocal neuropathy, with a typical clinical presentation of recurrent
+  transient pressure palsies, which is induced by a PMP22 deletion. Another
+  neuropathy caused by a PMP22 duplication is Charcot-Marie-Tooth disease type
+  1A (CMT1A). PMP22 is a gene coding a protein called peripheral myelin protein
+  22 (PMP22), which plays an essential role in the formation and maintenance of
+  compact myelin. Coexistence of type 2 diabetes mellitus (T2DM) and CMT1A has
+  been reported in many work, however HNPP patients with T2DM are rare, and
+  comorbidity of HNPP and psoriasis has not been reported previously.
+  Electrophysiological features of HNPP has been found progressing with aging.
+  Patient concerns Here we present a 20-year-old man who exhibited lower
+  extremity weakness and foot drop as the initial manifestation. HNPP was
+  diagnosed on the basis of clinical features, positive sural nerve biopsy
+  findings, and genetic testing results. Moreover, physical examination,
+  blood/urine glucose test, and diabetes-related autoantibodies investigations
+  demonstrated that he had psoriasis and T2DM. The electrophysiological
+  manifestations revealed profound demyelinating injuries and axonal injuries in
+  distal peripheral nerves and facial nerves, which were more severe than
+  general HNPP cases. The young patient was treated with continuous subcutaneous
+  insulin infusion and blood glucose monitoring, and then transferred to oral
+  acarbose therapy. The psoriatic lesions were treated with calcipotriol
+  ointment. In the follow-up, the right leg weakness was alleviated, and his
+  gait was improved. The findings indicate that diabetes mellitus may have an
+  impact on the severity of HNPP. Physicians should consider that worsening of
+  symptoms might result from newly diagnosed diabetes mellitus while treating
+  patients with HNPP.
+date: 2017/05
+pmid: '28489810'

@@ -1,93 +1,58 @@
-uid: '28131554'
-pubdate: 2017 Mar
-epubdate: 2017 Jan 26
-source: Arch Pediatr
-authors:
-  - name: Bar C
-    authtype: Author
-    clusterid: ''
-  - name: Villéga F
-    authtype: Author
-    clusterid: ''
-  - name: Espil C
-    authtype: Author
-    clusterid: ''
-  - name: Husson M
-    authtype: Author
-    clusterid: ''
-  - name: Pedespan JM
-    authtype: Author
-    clusterid: ''
-  - name: Rouanet MF
-    authtype: Author
-    clusterid: ''
-lastauthor: Rouanet MF
 title: >-
-  [Hereditary neuropathy with liability to pressure palsies in childhood: Report
+  [Hereditary neuropathy with liability to pressure palsies in childhood Report
   of three cases].
-sorttitle: >-
-  hereditary neuropathy with liability to pressure palsies in childhood report
-  of three cases
-volume: '24'
-issue: '3'
-pages: 260-262
-lang:
-  - fre
-nlmuniqueid: '9421356'
-issn: 0929-693X
-essn: 1769-664X
-pubtype:
-  - Journal Article
-recordstatus: PubMed - in process
-pubstatus: '256'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28131554'
-  - idtype: pii
-    idtypen: 4
-    value: S0929-693X(16)30603-0
-  - idtype: doi
-    idtypen: 3
-    value: 10.1016/j.arcped.2016.12.002
-  - idtype: rid
-    idtypen: 8
-    value: '28131554'
-  - idtype: eid
-    idtypen: 8
-    value: '28131554'
-history:
-  - pubstatus: received
-    date: '2016/05/18 00:00'
-  - pubstatus: accepted
-    date: '2016/12/16 00:00'
-  - pubstatus: pubmed
-    date: '2017/01/31 06:00'
-  - pubstatus: medline
-    date: '2017/01/31 06:00'
-  - pubstatus: entrez
-    date: '2017/01/30 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: 'Archives de pediatrie : organe officiel de la Societe francaise de pediatrie'
-elocationid: 'doi: 10.1016/j.arcped.2016.12.002'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/03/01 00:00'
-sortfirstauthor: Bar C
-vernaculartitle: "Neuropathie héréditaire par hypersensibilité à la pression\_: à propos de 3\_observations chez l’enfant."
+journal: Archives de pediatrie  organe officiel de la Societe francaise de pediatrie
+authors:
+  - name: C Bar
+  - name: F Villéga
+  - name: C Espil
+  - name: M Husson
+  - name: J-M Pedespan
+  - name: M-F Rouanet
+keywords:
+  - keyword: Adolescent
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: Child
+  - keyword: Chromosome Aberrations
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: genetics
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Electromyography
+  - keyword: Female
+  - keyword: 'Genes, Dominant'
+  - keyword: genetics
+  - keyword: Genetic Testing
+  - keyword: Genotype
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Myelin Proteins
+  - keyword: genetics
+  - keyword: Neurologic Examination
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) is an autosomal
+  dominant neuropathy. It is characterized by recurrent sensory and motor nerve
+  palsies, usually precipitated by minor trauma or compression. Even though rare
+  in childhood, this disorder is probably underdiagnosed given its wide spectrum
+  of clinical symptoms. We review three separate cases of HNPP diagnosed in
+  children with various phenotypes fluctuating and distal paresthesias
+  disrupting learning at school, cramps related to intensive piano practice, and
+  discrete muscle weakness with no functional complaint. Family history should
+  be carefully reviewed to identify potential undiagnosed HNPP cases, as in our
+  three reports. Electrophysiological study is essential for the diagnosis, with
+  a double advantage to confirm the presence of focal abnormalities in
+  clinically symptomatic areas and to guide molecular biology by revealing an
+  underlying demyelinating polyneuropathy. The diagnosis of HNPP is confirmed by
+  genetic testing, which in 90% of cases shows a 1.5-Mb deletion of chromosome
+  17p11.2 including the PMP22 gene. Patients are expected to make a full
+  recovery after each relapse. However, it is very important for both the
+  patient and his or her family to establish a diagnosis in order to prevent
+  recurrent palsy brought on by situations involving prolonged immobilizations
+  leading to nerve compression.
+date: 2017/01
+pmid: '28131554'

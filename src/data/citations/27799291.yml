@@ -1,113 +1,37 @@
-uid: '27799291'
-pubdate: 2016 Dec
-epubdate: 2016 Dec 1
-source: EMBO Mol Med
-authors:
-  - name: Bolino A
-    authtype: Author
-    clusterid: ''
-  - name: Piguet F
-    authtype: Author
-    clusterid: ''
-  - name: Alberizzi V
-    authtype: Author
-    clusterid: ''
-  - name: Pellegatta M
-    authtype: Author
-    clusterid: ''
-  - name: Rivellini C
-    authtype: Author
-    clusterid: ''
-  - name: Guerrero-Valero M
-    authtype: Author
-    clusterid: ''
-  - name: Noseda R
-    authtype: Author
-    clusterid: ''
-  - name: Brombin C
-    authtype: Author
-    clusterid: ''
-  - name: Nonis A
-    authtype: Author
-    clusterid: ''
-  - name: D'Adamo P
-    authtype: Author
-    clusterid: ''
-  - name: Taveggia C
-    authtype: Author
-    clusterid: ''
-  - name: Previtali SC
-    authtype: Author
-    clusterid: ''
-lastauthor: Previtali SC
 title: >-
   Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
   hypermyelination.
-sorttitle: >-
-  niacin mediated tace activation ameliorates cmt neuropathies with focal
-  hypermyelination
-volume: '8'
-issue: '12'
-pages: 1438-1454
-lang:
-  - eng
-nlmuniqueid: '101487380'
-issn: 1757-4676
-essn: 1757-4684
-pubtype:
-  - Journal Article
-recordstatus: PubMed - indexed for MEDLINE
-pubstatus: '257'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '27799291'
-  - idtype: pii
-    idtypen: 4
-    value: emmm.201606349
-  - idtype: doi
-    idtypen: 3
-    value: 10.15252/emmm.201606349
-  - idtype: pmc
-    idtypen: 8
-    value: PMC5167133
-  - idtype: rid
-    idtypen: 8
-    value: '27799291'
-  - idtype: eid
-    idtypen: 8
-    value: '27799291'
-  - idtype: pmcid
-    idtypen: 5
-    value: 'pmc-id: PMC5167133;'
-history:
-  - pubstatus: pubmed
-    date: '2016/11/02 06:00'
-  - pubstatus: medline
-    date: '2017/09/25 06:00'
-  - pubstatus: entrez
-    date: '2016/11/02 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: 2
-fulljournalname: EMBO molecular medicine
-elocationid: 'doi: 10.15252/emmm.201606349'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2016/12/01 00:00'
-sortfirstauthor: Bolino A
-vernaculartitle: ''
+journal: EMBO molecular medicine
+authors:
+  - name: Alessandra Bolino
+  - name: Françoise Piguet
+  - name: Valeria Alberizzi
+  - name: Marta Pellegatta
+  - name: Cristina Rivellini
+  - name: Marta Guerrero-Valero
+  - name: Roberta Noseda
+  - name: Chiara Brombin
+  - name: Alessandro Nonis
+  - name: Patrizia D'Adamo
+  - name: Carla Taveggia
+  - name: Stefano Carlo Previtali
+keywords:
+  - keyword: ADAM17 Protein
+  - keyword: metabolism
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: drug therapy
+  - keyword: pathology
+  - keyword: 'Disease Models, Animal'
+  - keyword: Mice
+  - keyword: 'Mice, Knockout'
+  - keyword: Neuroprotective Agents
+  - keyword: administration & dosage
+  - keyword: Niacin
+  - keyword: administration & dosage
+  - keyword: Treatment Outcome
+  - keyword: Vitamin B Complex
+  - keyword: administration & dosage
+abstract: "Charcot-Marie-Tooth (CMT) neuropathies are highly heterogeneous disorders caused by mutations in more than 70 genes, with no available treatment. Thus, it is difficult to envisage a single suitable treatment for all pathogenetic mechanisms. Axonal Neuregulin 1 (Nrg1) type III drives Schwann cell myelination and determines myelin thickness by ErbB2/B3-PI3K-Akt signaling pathway activation. Nrg1 type III is inhibited by the α-secretase Tace, which negatively regulates PNS myelination. We hypothesized that modulation of Nrg1 levels and/or secretase activity may constitute a unifying treatment strategy for CMT neuropathies with focal hypermyelination as it could restore normal levels of myelination. Here we show that in\_vivo delivery of Niaspan, a FDA-approved drug known to enhance TACE activity, efficiently rescues myelination in the Mtmr2\r\n                        mouse, a model of CMT4B1 with myelin outfoldings, and in the Pmp22\r\n                        mouse, which reproduces HNPP (hereditary neuropathy with liability to pressure palsies) with tomacula. Importantly, we also found that Niaspan reduces hypermyelination of Vim (vimentin)\r\n                        mice, characterized by increased Nrg1 type III and Akt activation, thus corroborating the hypothesis that Niaspan treatment downregulates Nrg1 type III signaling."
+date: 2016/11
+pmid: '27799291'

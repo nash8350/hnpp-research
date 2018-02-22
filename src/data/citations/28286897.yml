@@ -1,116 +1,36 @@
-uid: '28286897'
-pubdate: 2017 Jun
-epubdate: 2017 Mar 13
-source: Neurol Sci
-authors:
-  - name: Lorefice L
-    authtype: Author
-    clusterid: ''
-  - name: Murru MR
-    authtype: Author
-    clusterid: ''
-  - name: Coghe G
-    authtype: Author
-    clusterid: ''
-  - name: Fenu G
-    authtype: Author
-    clusterid: ''
-  - name: Corongiu D
-    authtype: Author
-    clusterid: ''
-  - name: Frau J
-    authtype: Author
-    clusterid: ''
-  - name: Tranquilli S
-    authtype: Author
-    clusterid: ''
-  - name: Tacconi P
-    authtype: Author
-    clusterid: ''
-  - name: Vannelli A
-    authtype: Author
-    clusterid: ''
-  - name: Marrosu G
-    authtype: Author
-    clusterid: ''
-  - name: Mamusa E
-    authtype: Author
-    clusterid: ''
-  - name: Cocco E
-    authtype: Author
-    clusterid: ''
-  - name: Marrosu MG
-    authtype: Author
-    clusterid: ''
-lastauthor: Marrosu MG
-title: 'Charcot-Marie-Tooth disease: genetic subtypes in the Sardinian population.'
-sorttitle: charcot marie tooth disease genetic subtypes in the sardinian population
-volume: '38'
-issue: '6'
-pages: 1019-1025
-lang:
-  - eng
-nlmuniqueid: '100959175'
-issn: 1590-1874
-essn: 1590-3478
-pubtype:
-  - Journal Article
-recordstatus: PubMed - in process
-pubstatus: '256'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28286897'
-  - idtype: doi
-    idtypen: 3
-    value: 10.1007/s10072-017-2905-x
-  - idtype: pii
-    idtypen: 4
-    value: 10.1007/s10072-017-2905-x
-  - idtype: rid
-    idtypen: 8
-    value: '28286897'
-  - idtype: eid
-    idtypen: 8
-    value: '28286897'
-history:
-  - pubstatus: received
-    date: '2017/01/18 00:00'
-  - pubstatus: accepted
-    date: '2017/03/07 00:00'
-  - pubstatus: pubmed
-    date: '2017/03/14 06:00'
-  - pubstatus: medline
-    date: '2017/03/14 06:00'
-  - pubstatus: entrez
-    date: '2017/03/14 06:00'
-references:
-  - refsource: 'Neurol Sci. 2017 Jun;38(6):1027'
-    reftype: Erratum in
-    pmid: 28389936
-    note: ''
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: >-
-  Neurological sciences : official journal of the Italian Neurological Society
+title: Charcot-Marie-Tooth disease genetic subtypes in the Sardinian population.
+journal: >-
+  Neurological sciences  official journal of the Italian Neurological Society
   and of the Italian Society of Clinical Neurophysiology
-elocationid: 'doi: 10.1007/s10072-017-2905-x'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/06/01 00:00'
-sortfirstauthor: Lorefice L
-vernaculartitle: ''
+authors:
+  - name: Lorena Lorefice
+  - name: Maria Rita Murru
+  - name: Giancarlo Coghe
+  - name: Giuseppe Fenu
+  - name: Daniela Corongiu
+  - name: Jessica Frau
+  - name: Stefania Tranquilli
+  - name: Paolo Tacconi
+  - name: Alessandro Vannelli
+  - name: Giovanni Marrosu
+  - name: Elena Mamusa
+  - name: Eleonora Cocco
+  - name: Maria Giovanna Marrosu
+keywords: []
+abstract: >-
+  Charcot-Marie-Tooth disease (CMT) is characterised by great variability of
+  genetic subtypes. This study aimed to assess the genetic subtypes of CMT
+  disease in the Sardinian population. Genetic screening was performed for CMT
+  cases (CMT1, CMT2, and hereditary neuropathy with susceptibility to pressure
+  palsies [HNPP]). A total of 1,043 subjects (119 index cases) were evaluated.
+  In CMT1 index cases (69/119; 58%), PMP22 duplication at 17p11.2 was the most
+  frequent genetic diagnosis (60/69; 87%), followed by mutations in the GJB1
+  gene (5/69; 7.2%), in the SH3TC2 gene (3/69; 4.4%) and PMP22 Gly107Val point
+  mutation (1/69; 1.4%). The CMT2 group (24/119; 20.1%) comprised 10/24 (41.6%)
+  patients carrying MPZ gene Ser44Phe mutation, 6/24 (25%) with mutations in
+  MFN2 and HSPB1, and 1/24 (4.2%) in GJB1 and LRSAM1. In the HNPP group (26/119;
+  21.9%), the majority of patients reported the PMP22 deletion (25/26; 96.2%).
+  Further studies are needed to comprehend the overall picture of the disease in
+  Mediterranean area.
+date: 2017/03
+pmid: '28286897'

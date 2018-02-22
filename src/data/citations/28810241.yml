@@ -1,99 +1,36 @@
-uid: '28810241'
-pubdate: '2017'
-epubdate: 2017 Aug 16
-source: Neuroepidemiology
-authors:
-  - name: Marttila M
-    authtype: Author
-    clusterid: ''
-  - name: Kytövuori L
-    authtype: Author
-    clusterid: ''
-  - name: Helisalmi S
-    authtype: Author
-    clusterid: ''
-  - name: Kallio M
-    authtype: Author
-    clusterid: ''
-  - name: Laitinen M
-    authtype: Author
-    clusterid: ''
-  - name: Hiltunen M
-    authtype: Author
-    clusterid: ''
-  - name: Kärppä M
-    authtype: Author
-    clusterid: ''
-  - name: Majamaa K
-    authtype: Author
-    clusterid: ''
-lastauthor: Majamaa K
 title: >-
   Molecular Epidemiology of Charcot-Marie-Tooth Disease in Northern
-  Ostrobothnia, Finland: A Population-Based Study.
-sorttitle: >-
-  molecular epidemiology of charcot marie tooth disease in northern ostrobothnia
-  finland a population based study
-volume: '49'
-issue: 1-2
-pages: 34-39
-lang:
-  - eng
-nlmuniqueid: '8218700'
-issn: 0251-5350
-essn: 1423-0208
-pubtype:
-  - Journal Article
-recordstatus: PubMed - in process
-pubstatus: '256'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28810241'
-  - idtype: pii
-    idtypen: 4
-    value: 000478860
-  - idtype: doi
-    idtypen: 3
-    value: 10.1159/000478860
-  - idtype: rid
-    idtypen: 8
-    value: '28810241'
-  - idtype: eid
-    idtypen: 8
-    value: '28810241'
-history:
-  - pubstatus: received
-    date: '2017/02/24 00:00'
-  - pubstatus: accepted
-    date: '2017/06/14 00:00'
-  - pubstatus: pubmed
-    date: '2017/08/16 06:00'
-  - pubstatus: medline
-    date: '2017/08/16 06:00'
-  - pubstatus: entrez
-    date: '2017/08/16 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: Neuroepidemiology
-elocationid: 'doi: 10.1159/000478860'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/01/01 00:00'
-sortfirstauthor: Marttila M
-vernaculartitle: ''
+  Ostrobothnia, Finland A Population-Based Study.
+journal: Neuroepidemiology
+authors:
+  - name: Maria Marttila
+  - name: Laura Kytövuori
+  - name: Seppo Helisalmi
+  - name: Mika Kallio
+  - name: Marjo Laitinen
+  - name: Mikko Hiltunen
+  - name: Mikko Kärppä
+  - name: Kari Majamaa
+keywords: []
+abstract: >-
+  Charcot-Marie-Tooth (CMT) disease is the most common hereditary neuromuscular
+  disorder with a population prevalence of 9.7-82.3/100,000. In this study, we
+  have estimated the prevalence of CMT and its subtypes in Finland and examined
+  the frequency of molecular etiologies. A population-based survey included
+  adult patients with peripheral neuropathy from the province of Northern
+  Ostrobothnia, Finland. Secondary causes of peripheral polyneuropathy were
+  excluded and patients with clinical and neurophysiological features pertinent
+  with CMT were included. Molecular diagnostics was carried out when DNA was
+  available. We found 107 subjects with CMT yielding a prevalence 34.6/100,000
+  in Northern Ostrobothnia. The heterozygous point mutation p.His123Arg in
+  ganglioside induced differentiation associated protein 1 (GDAP1) was found in
+  31.5% and peripheral myelin protein 22 (PMP22) duplication in 16.9% of the
+  affected. Point mutations in myelin protein zero, mitofusin 2, and gap
+  junction protein beta 1 accounted for 6.7% of the cases. In addition, 18
+  persons had hereditary neuropathy with liability to pressure palsies and 15 of
+  them carried the PMP22 deletion. The prevalence of CMT in Northern
+  Ostrobothnia, Finland, seems to be slightly higher than those in previous
+  studies in European populations. Founder mutation in the GDAP1 gene accounts
+  for a large part of the genetically defined CMT2 in Finland.
+date: 2017/08
+pmid: '28810241'

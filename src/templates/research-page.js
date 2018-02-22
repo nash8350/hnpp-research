@@ -6,12 +6,9 @@ export const ResearchPageTemplate = ({
   title, description, citations}) => (
   <section className="section section--gradient">
     <div className="container">
-      <div className="column is-7">
-        <h3 className="has-text-weight-semibold is-size-2">{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
-    <div className="section">
+      <h3 className="has-text-weight-semibold is-size-2">{title}</h3>
+      <p>{description}</p>
+      <br/>
       <CitationsTable citations={citations} />
     </div>
   </section>
@@ -30,6 +27,14 @@ export default ({ data }) => {
     })
     if(citation.authorlist.length > 1)
       citation.authorlist = citation.authorlist.substring(0, citation.authorlist.length - 2);
+
+    //list keywords
+    citation.keywordlist = "";
+    citation.keywords.forEach(keyword => {
+      citation.keywordlist += keyword.keyword + ", ";
+    })
+    if(citation.keywordlist.length > 1)
+      citation.keywordlist = citation.keywordlist.substring(0, citation.keywordlist.length - 2);
 
     citations.push(citation);
   });
@@ -51,16 +56,23 @@ export const researchPageQuery = graphql`
         description
       }
     }
-    allCitationsYaml(sort: { fields: [pubdate], order: DESC }) {
+    allCitationsYaml(
+      sort: { fields: [date], order: DESC },
+      filter: { id: { regex: "/citations/" } }
+    ) {
       edges {
         node {
-          pubdate
+          pmid
+          journal
           title
-          uid
+          abstract
+          date
           authors {
             name
           }
-          source
+          keywords {
+            keyword
+          }
         }
       }
     }

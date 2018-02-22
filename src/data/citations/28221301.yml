@@ -1,80 +1,49 @@
-uid: '28221301'
-pubdate: 2017 Mar
-epubdate: ''
-source: J Clin Neuromuscul Dis
-authors:
-  - name: Takahashi S
-    authtype: Author
-    clusterid: ''
-  - name: Chum M
-    authtype: Author
-    clusterid: ''
-  - name: Kimpinski K
-    authtype: Author
-    clusterid: ''
-lastauthor: Kimpinski K
 title: >-
   Electrodiagnostic Characterization of Hereditary Neuropathy With Liability to
   Pressure Palsies.
-sorttitle: >-
-  electrodiagnostic characterization of hereditary neuropathy with liability to
-  pressure palsies
-volume: '18'
-issue: '3'
-pages: 119-124
-lang:
-  - eng
-nlmuniqueid: '100887391'
-issn: 1522-0443
-essn: 1537-1611
-pubtype:
-  - Journal Article
-recordstatus: PubMed - indexed for MEDLINE
-pubstatus: '4'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28221301'
-  - idtype: doi
-    idtypen: 3
-    value: 10.1097/CND.0000000000000152
-  - idtype: pii
-    idtypen: 4
-    value: 00131402-201703000-00001
-  - idtype: rid
-    idtypen: 8
-    value: '28221301'
-  - idtype: eid
-    idtypen: 8
-    value: '28221301'
-history:
-  - pubstatus: entrez
-    date: '2017/02/22 06:00'
-  - pubstatus: pubmed
-    date: '2017/02/22 06:00'
-  - pubstatus: medline
-    date: '2017/03/14 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: Journal of clinical neuromuscular disease
-elocationid: 'doi: 10.1097/CND.0000000000000152'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/03/01 00:00'
-sortfirstauthor: Takahashi S
-vernaculartitle: ''
+journal: Journal of clinical neuromuscular disease
+authors:
+  - name: Sachiko Takahashi
+  - name: Marvin Chum
+  - name: Kurt Kimpinski
+keywords:
+  - keyword: Action Potentials
+  - keyword: physiology
+  - keyword: Adult
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Electrodiagnosis
+  - keyword: Female
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Median Nerve
+  - keyword: physiopathology
+  - keyword: Middle Aged
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Phenotype
+  - keyword: Retrospective Studies
+  - keyword: Sural Nerve
+  - keyword: physiopathology
+  - keyword: Symptom Assessment
+abstract: >-
+  The study objective was electrodiagnostic characterization of a large cohort
+  of patients with genetically confirmed hereditary neuropathy with liability to
+  pressure palsies (HNPP). A retrospective review was conducted on all patients
+  with HNPP seen at the neuromuscular clinic (London, Canada) from 1977 to 2015.
+  Clinical data obtained included patient characteristics, examination findings,
+  and nerve conduction study results. A total of 46 patients were analyzed. The
+  mean age and median disease duration were 42.6 and 5.0 years, respectively.
+  Most patients had abnormalities on sural nerve conduction studies. The most
+  common focal neuropathies at compressive sites were ulnar nerve at the elbow
+  (85.7%), distal median nerve at the wrist (84.4%), and fibular nerve at the
+  fibular head (36.7%). Distal median neuropathy was associated with a mean
+  terminal latency of 6.64 milliseconds. The presence of polyneuropathy, median
+  terminal motor latency prolongation, and multiple compressive neuropathies are
+  the most common findings associated with HNPP.
+date: 2017/02
+pmid: '28221301'

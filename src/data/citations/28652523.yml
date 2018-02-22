@@ -1,80 +1,47 @@
-uid: '28652523'
-pubdate: 2017 Jul 29
-epubdate: 2017 Jul 24
-source: Rinsho Shinkeigaku
-authors:
-  - name: Nakamura T
-    authtype: Author
-    clusterid: ''
-  - name: Kawarabayashi T
-    authtype: Author
-    clusterid: ''
-  - name: Seino Y
-    authtype: Author
-    clusterid: ''
-  - name: Shoji M
-    authtype: Author
-    clusterid: ''
-lastauthor: Shoji M
 title: >-
   A case of hereditary neuropathy with liability to pressure palsies due to
   push-up exercise.
-sorttitle: >-
-  case of hereditary neuropathy with liability to pressure palsies due to push
-  up exercise
-volume: '57'
-issue: '7'
-pages: 383-386
-lang:
-  - jpn
-nlmuniqueid: '0417466'
-issn: 0009-918X
-essn: 1882-0654
-pubtype:
-  - Journal Article
-recordstatus: PubMed - indexed for MEDLINE
-pubstatus: '256'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28652523'
-  - idtype: doi
-    idtypen: 3
-    value: 10.5692/clinicalneurol.cn-001023
-  - idtype: rid
-    idtypen: 8
-    value: '28652523'
-  - idtype: eid
-    idtypen: 8
-    value: '28652523'
-history:
-  - pubstatus: pubmed
-    date: '2017/06/28 06:00'
-  - pubstatus: medline
-    date: '2017/10/17 06:00'
-  - pubstatus: entrez
-    date: '2017/06/28 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: Rinsho shinkeigaku = Clinical neurology
-elocationid: 'doi: 10.5692/clinicalneurol.cn-001023'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/07/29 00:00'
-sortfirstauthor: Nakamura T
-vernaculartitle: ''
+journal: Rinsho shinkeigaku = Clinical neurology
+authors:
+  - name: Takumi Nakamura
+  - name: Takeshi Kawarabayashi
+  - name: Yusuke Seino
+  - name: Mikio Shoji
+keywords:
+  - keyword: Adolescent
+  - keyword: Arm
+  - keyword: innervation
+  - keyword: physiology
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: diagnostic imaging
+  - keyword: genetics
+  - keyword: Brachial Plexus
+  - keyword: diagnostic imaging
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Diffusion Magnetic Resonance Imaging
+  - keyword: Exercise
+  - keyword: physiology
+  - keyword: Genetic Testing
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: diagnostic imaging
+  - keyword: genetics
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Neural Conduction
+  - keyword: Neuroimaging
+abstract: >-
+  A 17-year-old man with no familial history developed motor and sensory
+  disturbance of the left upper limb a few days after starting push-up exercise.
+  Neurological examination revealed broad weakness and radial sensory
+  disturbance of the left upper limb and magnetic resonance neurography showed
+  laterality of brachial plexus intensity signals. Therefore, we suspected left
+  brachial plexopathy. However, a nerve conduction study showed a broad
+  disturbance that could not be explained by only brachial plexopathy. Genetic
+  tests revealed a diagnosis of hereditary neuropathy with liability to pressure
+  palsies (HNPP). HNPP should be included in the differential diagnosis for
+  neuropathy due to slight exercise or nerve compression even when familial
+  history is negative.
+date: 2017/06
+pmid: '28652523'

@@ -1,92 +1,32 @@
-uid: '28912683'
-pubdate: '2017'
-epubdate: 2017 Aug 30
-source: Front Mol Neurosci
-authors:
-  - name: Rosso G
-    authtype: Author
-    clusterid: ''
-  - name: Liashkovich I
-    authtype: Author
-    clusterid: ''
-  - name: Young P
-    authtype: Author
-    clusterid: ''
-  - name: Shahin V
-    authtype: Author
-    clusterid: ''
-lastauthor: Shahin V
 title: >-
   Nano-scale Biophysical and Structural Investigations on Intact and Neuropathic
   Nerve Fibers by Simultaneous Combination of Atomic Force and Confocal
   Microscopy.
-sorttitle: >-
-  nano scale biophysical and structural investigations on intact and neuropathic
-  nerve fibers by simultaneous combination of atomic force and confocal
-  microscopy
-volume: '10'
-issue: ''
-pages: '277'
-lang:
-  - eng
-nlmuniqueid: '101477914'
-issn: ''
-essn: 1662-5099
-pubtype:
-  - Journal Article
-recordstatus: PubMed
-pubstatus: '258'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28912683'
-  - idtype: doi
-    idtypen: 3
-    value: 10.3389/fnmol.2017.00277
-  - idtype: pmc
-    idtypen: 8
-    value: PMC5582161
-  - idtype: rid
-    idtypen: 8
-    value: '28912683'
-  - idtype: eid
-    idtypen: 8
-    value: '28912683'
-  - idtype: pmcid
-    idtypen: 5
-    value: 'pmc-id: PMC5582161;'
-history:
-  - pubstatus: received
-    date: '2017/07/13 00:00'
-  - pubstatus: accepted
-    date: '2017/08/17 00:00'
-  - pubstatus: entrez
-    date: '2017/09/16 06:00'
-  - pubstatus: pubmed
-    date: '2017/09/16 06:00'
-  - pubstatus: medline
-    date: '2017/09/16 06:01'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: Frontiers in molecular neuroscience
-elocationid: 'doi: 10.3389/fnmol.2017.00277'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/08/30 00:00'
-sortfirstauthor: Rosso G
-vernaculartitle: ''
+journal: Frontiers in molecular neuroscience
+authors:
+  - name: Gonzalo Rosso
+  - name: Ivan Liashkovich
+  - name: Peter Young
+  - name: Victor Shahin
+keywords: []
+abstract: >-
+  The links between neuropathies of the peripheral nervous system (PNS),
+  including Charcot-Marie-Tooth1A and hereditary neuropathy with liability to
+  pressure palsies, and impaired biomechanical and structural integrity of PNS
+  nerves remain poorly understood despite the medical urgency. Here, we present
+  a protocol describing simultaneous structural and biomechanical integrity
+  investigations on isolated nerve fibers, the building blocks of nerves. Nerve
+  fibers are prepared from nerves harvested from wild-type and exemplary PNS
+  neuropathy mouse models. The basic principle of the designed experimental
+  approach is based on the simultaneous combination of atomic force microscopy
+  (AFM) and confocal microscopy. AFM is used to visualize the surface structure
+  of nerve fibers at nano-scale resolution. The simultaneous combination of AFM
+  and confocal microscopy is used to perform biomechanical, structural, and
+  functional integrity measurements at nano- to micro-scale. Isolation of
+  sciatic nerves and subsequent teasing of nerve fibers take ~45 min. Teased
+  fibers can be maintained at 37°C in a culture medium and kept viable for up to
+  6 h allowing considerable time for all measurements which require 3-4 h. The
+  approach is designed to be widely applicable for nerve fibers from mice of any
+  PNS neuropathy. It can be extended to human nerve biopsies.
+date: 2017/09
+pmid: '28912683'

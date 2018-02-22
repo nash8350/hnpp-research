@@ -1,86 +1,57 @@
-uid: '29183014'
-pubdate: '2017'
-epubdate: 2017 Nov 29
-source: Cell Physiol Biochem
-authors:
-  - name: Rosso G
-    authtype: Author
-    clusterid: ''
-  - name: Young P
-    authtype: Author
-    clusterid: ''
-  - name: Shahin V
-    authtype: Author
-    clusterid: ''
-lastauthor: Shahin V
 title: >-
   Mechanosensitivity of Embryonic Neurites Promotes Their Directional Extension
   and Schwann Cells Progenitors Migration.
-sorttitle: >-
-  mechanosensitivity of embryonic neurites promotes their directional extension
-  and schwann cells progenitors migration
-volume: '44'
-issue: '4'
-pages: 1263-1270
-lang:
-  - eng
-nlmuniqueid: '9113221'
-issn: 1015-8987
-essn: 1421-9778
-pubtype:
-  - Journal Article
-recordstatus: PubMed - indexed for MEDLINE
-pubstatus: '256'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '29183014'
-  - idtype: pii
-    idtypen: 4
-    value: 000485485
-  - idtype: doi
-    idtypen: 3
-    value: 10.1159/000485485
-  - idtype: rid
-    idtypen: 8
-    value: '29183014'
-  - idtype: eid
-    idtypen: 8
-    value: '29183014'
-history:
-  - pubstatus: received
-    date: '2017/09/12 00:00'
-  - pubstatus: accepted
-    date: '2017/11/09 00:00'
-  - pubstatus: pubmed
-    date: '2017/11/29 06:00'
-  - pubstatus: medline
-    date: '2018/01/19 06:00'
-  - pubstatus: entrez
-    date: '2017/11/29 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: >-
-  Cellular physiology and biochemistry : international journal of experimental
+journal: >-
+  Cellular physiology and biochemistry  international journal of experimental
   cellular physiology, biochemistry, and pharmacology
-elocationid: 'doi: 10.1159/000485485'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2017/01/01 00:00'
-sortfirstauthor: Rosso G
-vernaculartitle: ''
+authors:
+  - name: Gonzalo Rosso
+  - name: Peter Young
+  - name: Victor Shahin
+keywords:
+  - keyword: Animals
+  - keyword: Cell Movement
+  - keyword: 'Cells, Cultured'
+  - keyword: Coculture Techniques
+  - keyword: 'Embryo, Mammalian'
+  - keyword: cytology
+  - keyword: 'Ganglia, Spinal'
+  - keyword: cytology
+  - keyword: metabolism
+  - keyword: Mice
+  - keyword: 'Mice, Inbred C57BL'
+  - keyword: 'Microscopy, Confocal'
+  - keyword: Neurites
+  - keyword: metabolism
+  - keyword: Neuronal Outgrowth
+  - keyword: physiology
+  - keyword: Schwann Cells
+  - keyword: cytology
+  - keyword: metabolism
+  - keyword: 'Stress, Mechanical'
+abstract: >-
+  Migration of Schwann cells (SCs) progenitors and neurite outgrowth from
+  embryonic dorsal root ganglions (DRGs) are two central events during the
+  development of the peripheral nervous system (PNS). How these two enthralling
+  events preceding myelination are promoted is of great relevance from basic
+  research and clinical aspects alike. Recent evidence demonstrates that
+  biophysical cues (extracellular matrix stiffness) and biochemical signaling
+  act in concert to regulate PNS myelination. Microenvironment stiffness of SCs
+  progenitors and embryonic neurites dynamically changes during development. DRG
+  explants were isolated from day 12.5 to 13.5 mice embryos and plated on
+  laminin-coated substrates with varied stiffness values. After 4 days in
+  culture and immunostaining with specific markers, neurite outgrowth pattern,
+  SCs progenitors migration, and growth cone shape and advance were analyzed
+  with confocal fluorescence microscopy. We found out that growing substrate
+  stiffness promotes directional neurite outgrowth, SCs progenitors migration,
+  growth cone advance and presumably axons fasciculation. DRG explants are in
+  vitro models for the research of PNS development, myelination and
+  regeneration. Consequently, we conclude the following Our observations point
+  out the importance of mechanosensitivity for the PNS. At the same time, they
+  prompt the investigation of the important yet unclear links between PNS
+  biomechanics and inherited neuropathies with myelination disorders such as
+  Charcot-Marie-Tooth 1A and hereditary neuropathy with liability to pressure
+  palsies. Finally, they encourage the consideration of mechanosensitivity in
+  bioengineering of scaffolds to aid nerve regeneration after injury.
+date: 2017/11
+pmid: '29183014'

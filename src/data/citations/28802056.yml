@@ -1,113 +1,60 @@
-uid: '28802056'
-pubdate: 2018 Jan
-epubdate: 2017 Aug 24
-source: Muscle Nerve
-authors:
-  - name: Padua L
-    authtype: Author
-    clusterid: ''
-  - name: Coraci D
-    authtype: Author
-    clusterid: ''
-  - name: Lucchetta M
-    authtype: Author
-    clusterid: ''
-  - name: Paolasso I
-    authtype: Author
-    clusterid: ''
-  - name: Pazzaglia C
-    authtype: Author
-    clusterid: ''
-  - name: Granata G
-    authtype: Author
-    clusterid: ''
-  - name: Cacciavillani M
-    authtype: Author
-    clusterid: ''
-  - name: Luigetti M
-    authtype: Author
-    clusterid: ''
-  - name: Manganelli F
-    authtype: Author
-    clusterid: ''
-  - name: Pisciotta C
-    authtype: Author
-    clusterid: ''
-  - name: Piscosquito G
-    authtype: Author
-    clusterid: ''
-  - name: Pareyson D
-    authtype: Author
-    clusterid: ''
-  - name: Briani C
-    authtype: Author
-    clusterid: ''
-lastauthor: Briani C
 title: >-
   Different nerve ultrasound patterns in charcot-marie-tooth types and
   hereditary neuropathy with liability to pressure palsies.
-sorttitle: >-
-  different nerve ultrasound patterns in charcot marie tooth types and
-  hereditary neuropathy with liability to pressure palsies
-volume: '57'
-issue: '1'
-pages: E18-E23
-lang:
-  - eng
-nlmuniqueid: '7803146'
-issn: 0148-639X
-essn: 1097-4598
-pubtype:
-  - Journal Article
-recordstatus: PubMed - indexed for MEDLINE
-pubstatus: '256'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '28802056'
-  - idtype: doi
-    idtypen: 3
-    value: 10.1002/mus.25766
-  - idtype: rid
-    idtypen: 8
-    value: '28802056'
-  - idtype: eid
-    idtypen: 8
-    value: '28802056'
-history:
-  - pubstatus: received
-    date: '2016/08/11 00:00'
-  - pubstatus: revised
-    date: '2017/07/28 00:00'
-  - pubstatus: accepted
-    date: '2017/08/06 00:00'
-  - pubstatus: pubmed
-    date: '2017/08/13 06:00'
-  - pubstatus: medline
-    date: '2017/12/13 06:00'
-  - pubstatus: entrez
-    date: '2017/08/13 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: Muscle &amp; nerve
-elocationid: 'doi: 10.1002/mus.25766'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2018/01/01 00:00'
-sortfirstauthor: Padua L
-vernaculartitle: ''
+journal: Muscle & nerve
+authors:
+  - name: Luca Padua
+  - name: Daniele Coraci
+  - name: Marta Lucchetta
+  - name: Ilaria Paolasso
+  - name: Costanza Pazzaglia
+  - name: Giuseppe Granata
+  - name: Mario Cacciavillani
+  - name: Marco Luigetti
+  - name: Fiore Manganelli
+  - name: Chiara Pisciotta
+  - name: Giuseppe Piscosquito
+  - name: Davide Pareyson
+  - name: Chiara Briani
+keywords:
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Aged
+  - keyword: 'Aged, 80 and over'
+  - keyword: 'Anatomy, Cross-Sectional'
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnostic imaging
+  - keyword: Cohort Studies
+  - keyword: Demyelinating Diseases
+  - keyword: diagnostic imaging
+  - keyword: Female
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnostic imaging
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Paralysis
+  - keyword: diagnostic imaging
+  - keyword: physiopathology
+  - keyword: Peripheral Nerves
+  - keyword: diagnostic imaging
+  - keyword: Phenotype
+  - keyword: Ultrasonography
+  - keyword: Young Adult
+abstract: >-
+  Nerve ultrasound in Charcot-Marie-Tooth (CMT) disease has focused mostly on
+  the upper limbs. We performed an evaluation of a large cohort of CMT patients
+  in which we sonographically characterized nerve abnormalities in different
+  disease types, ages, and nerves. Seventy patients affected by different CMT
+  types and hereditary neuropathy with liability to pressure palsies (HNPP) were
+  evaluated, assessing median, ulnar, fibular, tibial, and sural nerves
+  bilaterally. Data were correlated with age. Nerve dimensions were correlated
+  with CMT type, age, and nerve site. Nerves were larger in demyelinating than
+  in axonal neuropathies. Nerve involvement was symmetric. CMT1 patients had
+  larger nerves than did patients with other CMT types. Patients with HNPP
+  showed enlargement at entrapment sites. Our study confirms the general
+  symmetry of ultrasound nerve patterns in CMT. When compared with ultrasound
+  studies of nerves of the upper limbs, evaluation of the lower limbs did not
+  provide additional information. Muscle Nerve 57 E18-E23, 2018.
+date: 2017/08
+pmid: '28802056'

@@ -1,104 +1,37 @@
-uid: '29315582'
-pubdate: 2018 Jan 8
-epubdate: 2018 Jan 8
-source: J Neurochem
-authors:
-  - name: Poitelon Y
-    authtype: Author
-    clusterid: ''
-  - name: Matafora V
-    authtype: Author
-    clusterid: ''
-  - name: Silvestri N
-    authtype: Author
-    clusterid: ''
-  - name: Zambroni D
-    authtype: Author
-    clusterid: ''
-  - name: McGarry C
-    authtype: Author
-    clusterid: ''
-  - name: Serghany N
-    authtype: Author
-    clusterid: ''
-  - name: Rush T
-    authtype: Author
-    clusterid: ''
-  - name: Vizzuso D
-    authtype: Author
-    clusterid: ''
-  - name: Court FA
-    authtype: Author
-    clusterid: ''
-  - name: Bachi A
-    authtype: Author
-    clusterid: ''
-  - name: Wrabetz L
-    authtype: Author
-    clusterid: ''
-  - name: Feltri ML
-    authtype: Author
-    clusterid: ''
-lastauthor: Feltri ML
 title: >-
-  A dual role for Integrin α6β4 in modulating Hereditary Neuropathy with
-  liability to Pressure Palsies.
-sorttitle: >-
-  dual role for integrin 6 4 in modulating hereditary neuropathy with liability
-  to pressure palsies
-volume: ''
-issue: ''
-pages: ''
-lang:
-  - eng
-nlmuniqueid: 2985190R
-issn: 0022-3042
-essn: 1471-4159
-pubtype:
-  - Journal Article
-recordstatus: PubMed - as supplied by publisher
-pubstatus: '10'
-articleids:
-  - idtype: pubmed
-    idtypen: 1
-    value: '29315582'
-  - idtype: doi
-    idtypen: 3
-    value: 10.1111/jnc.14295
-  - idtype: rid
-    idtypen: 8
-    value: '29315582'
-  - idtype: eid
-    idtypen: 8
-    value: '29315582'
-history:
-  - pubstatus: entrez
-    date: '2018/01/10 06:00'
-  - pubstatus: pubmed
-    date: '2018/01/10 06:00'
-  - pubstatus: medline
-    date: '2018/01/10 06:00'
-references: []
-attributes:
-  - Has Abstract
-pmcrefcount: ''
-fulljournalname: Journal of neurochemistry
-elocationid: 'doi: 10.1111/jnc.14295'
-doctype: citation
-srccontriblist: []
-booktitle: ''
-medium: ''
-edition: ''
-publisherlocation: ''
-publishername: ''
-srcdate: ''
-reportnumber: ''
-availablefromurl: ''
-locationlabel: ''
-doccontriblist: []
-docdate: ''
-bookname: ''
-chapter: ''
-sortpubdate: '2018/01/08 00:00'
-sortfirstauthor: Poitelon Y
-vernaculartitle: ''
+  A dual role for Integrin α6β4 in modulating hereditary neuropathy with
+  liability to pressure palsies.
+journal: Journal of neurochemistry
+authors:
+  - name: Yannick Poitelon
+  - name: Vittoria Matafora
+  - name: Nicholas Silvestri
+  - name: Desirée Zambroni
+  - name: Claire McGarry
+  - name: Nora Serghany
+  - name: Thomas Rush
+  - name: Domenica Vizzuso
+  - name: Felipe A Court
+  - name: Angela Bachi
+  - name: Lawrence Wrabetz
+  - name: Maria Laura Feltri
+keywords: []
+abstract: >-
+  Peripheral myelin protein 22 (PMP22) is a component of compact myelin in the
+  peripheral nervous system. The amount of PMP22 in myelin is tightly regulated,
+  and PMP22 over or under-expression cause Charcot-Marie-Tooth 1A (CMT1A) and
+  Hereditary Neuropathy with Pressure Palsies (HNPP). Despite the importance of
+  PMP22, its function remains largely unknown. It was reported that PMP22
+  interacts with the β4 subunit of the laminin receptor α6β4 integrin,
+  suggesting that α6β4 integrin and laminins may contribute to the pathogenesis
+  of CMT1A or HNPP. Here we asked if the lack of α6β4 integrin in Schwann cells
+  influences myelin stability in the HNPP mouse model. Our data indicate that
+  PMP22 and β4 integrin may not interact directly in myelinating Schwann cells,
+  however, ablating β4 integrin delays the formation of tomacula, a
+  characteristic feature of HNPP. In contrast, ablation of integrin β4 worsens
+  nerve conduction velocities and non-compact myelin organization in HNPP
+  animals. This study demonstrates that indirect interactions between an
+  extracellular matrix receptor and a myelin protein influence the stability and
+  function of myelinated fibers.
+date: 2018/01
+pmid: '29315582'
