@@ -51,7 +51,12 @@ export default ({ citations }) => (
               <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Journal</h4>
               <p>{row.original.journal}</p>
               <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Keywords</h4>
-              <p>{row.original.keywordlist}</p>
+              <ul>
+                {row.original.keywords.map(keyword => (
+                  <li className="bullet">{keyword.keyword}</li>
+                ))}
+              </ul>
+              <br/>
             </div>
           )
         }}
