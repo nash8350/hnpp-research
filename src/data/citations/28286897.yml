@@ -3,19 +3,19 @@ journal: >-
   Neurological sciences  official journal of the Italian Neurological Society
   and of the Italian Society of Clinical Neurophysiology
 authors:
-  - name: Lorena Lorefice
-  - name: Maria Rita Murru
-  - name: Giancarlo Coghe
-  - name: Giuseppe Fenu
-  - name: Daniela Corongiu
-  - name: Jessica Frau
-  - name: Stefania Tranquilli
-  - name: Paolo Tacconi
-  - name: Alessandro Vannelli
-  - name: Giovanni Marrosu
-  - name: Elena Mamusa
-  - name: Eleonora Cocco
-  - name: Maria Giovanna Marrosu
+  - name: Lorefice L
+  - name: Murru MR
+  - name: Coghe G
+  - name: Fenu G
+  - name: Corongiu D
+  - name: Frau J
+  - name: Tranquilli S
+  - name: Tacconi P
+  - name: Vannelli A
+  - name: Marrosu G
+  - name: Mamusa E
+  - name: Cocco E
+  - name: Marrosu MG
 keywords: []
 abstract: >-
   Charcot-Marie-Tooth disease (CMT) is characterised by great variability of

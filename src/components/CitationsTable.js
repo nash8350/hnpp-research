@@ -35,8 +35,6 @@ export default ({ citations }) => (
         data={citations}
         columns={columns}
         minRows={0}
-        filterable={true}
-        defaultSortDesc={true}
         defaultFilterMethod={(filter, row, column) => {
           const id = filter.pivotId || filter.id
           return row[id] !== undefined ? String(row[id]).toLowerCase().indexOf(String(filter.value).toLowerCase()) >= 0 : true
@@ -56,6 +54,8 @@ export default ({ citations }) => (
                   <li className="bullet">{keyword.keyword}</li>
                 ))}
               </ul>
+              <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Links</h4>
+              <a href={"https://www.ncbi.nlm.nih.gov/pubmed/?term=" + row.original.pmid + "%5Buid%5D&cmd=DetailsSearch"}>View on Pubmed</a>
               <br/>
             </div>
           )

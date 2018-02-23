@@ -1,0 +1,59 @@
+title: >-
+  Application of whole-exome sequencing for detecting copy number variants in
+  CMT1A/HNPP.
+journal: Clinical genetics
+authors:
+  - name: Jo HY
+  - name: Park MH
+  - name: Woo HM
+  - name: Han MH
+  - name: Kim BY
+  - name: Choi BO
+  - name: Chung KW
+  - name: Koo SK
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: Chromosome Breakpoints
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: chemistry
+  - keyword: Comparative Genomic Hybridization
+  - keyword: DNA Copy Number Variations
+  - keyword: Exome
+  - keyword: Genome-Wide Association Study
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: High-Throughput Nucleotide Sequencing
+  - keyword: Humans
+  - keyword: INDEL Mutation
+  - keyword: Microsatellite Repeats
+  - keyword: Software
+abstract: >-
+  Large insertions and deletions (indels), including copy number variations
+  (CNVs), are commonly seen in many diseases. Standard approaches for indel
+  detection rely on well-established methods such as qPCR or short tandem repeat
+  (STR) markers. Recently, a number of tools for CNV detection based on
+  next-generation sequencing (NGS) data have also been developed; however, use
+  of these methods is limited. Here, we used whole-exome sequencing (WES) in
+  patients previously diagnosed with CMT1A or HNPP using STR markers to evaluate
+  the ability of WES to improve the clinical diagnosis. Patients were evaluated
+  utilizing three CNV detection tools including CONIFER, ExomeCNV and CEQer, and
+  array comparative genomic hybridization (aCGH). We identified a breakpoint
+  region at 17p11.2-p12 in patients with CMT1A and HNPP. CNV detection levels
+  were similar in both 6 Gb (mean read depth = 80×) and 17 Gb (mean read depth =
+  190×) data. Taken together, these data suggest that 6 Gb WES data are
+  sufficient to reveal the genetic causes of various diseases and can be used to
+  estimate single mutations, indels, and CNVs simultaneously. Furthermore, our
+  data strongly indicate that CNV detection by NGS is a rapid and cost-effective
+  method for clinical diagnosis of genetically heterogeneous disorders such as
+  CMT neuropathy.
+date: 2015/12
+pmid: '26662885'

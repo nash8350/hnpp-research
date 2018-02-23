@@ -30,9 +30,16 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
 
     //get the authors
     citation.authors = [];
-    article.MedlineCitation.Article.AuthorList.Author.forEach(author => {
-        citation.authors.push({ name: author.ForeName + " " + author.LastName });
-    })
+    if(article.MedlineCitation.Article.AuthorList) {
+        if(Array.isArray(article.MedlineCitation.Article.AuthorList.Author)) {
+            article.MedlineCitation.Article.AuthorList.Author.forEach(author => {
+                citation.authors.push({ name: author.LastName + " " + author.Initials });
+            })
+        } else {
+            if(article.MedlineCitation.Article.AuthorList.hasOwnProperty("Author"))
+                citation.authors.push({ name: article.MedlineCitation.Article.AuthorList.Author.ForeName + " " + article.MedlineCitation.Article.AuthorList.Author.LastName });
+        }
+    }
 
     //get the mesh terms
     citation.keywords = [];
@@ -80,11 +87,15 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
     // set filename to the PMID
     citation.pmid = "missing";
     const ids = article.PubmedData.ArticleIdList.ArticleId;
-    ids.forEach(id => {
-        if(id.IdType == "pubmed") {
-            citation.pmid = id.value;
-        }
-    });
+    if(Array.isArray(ids)) {
+        ids.forEach(id => {
+            if(id.IdType == "pubmed") {
+                citation.pmid = id.value;
+            }
+        });
+    } else {
+        citation.pmid = article.PubmedData.ArticleIdList.ArticleId.value;
+    }
     const file = "src/data/citations/" + citation.pmid + ".yml";
 
     fs.writeFileSync(file, yaml.safeDump(citation));
