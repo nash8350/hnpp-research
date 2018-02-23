@@ -98,6 +98,9 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
     }
     const file = "src/data/citations/" + citation.pmid + ".yml";
 
+    // add a link
+    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
+
     fs.writeFileSync(file, yaml.safeDump(citation));
     console.log("writing " + file);
 })

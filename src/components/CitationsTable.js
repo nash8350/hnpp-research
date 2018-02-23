@@ -10,7 +10,7 @@ const columns = [{
   }, {
     Header: 'Title',
     accessor: 'title',
-    Cell: row => (<a href={"https://www.ncbi.nlm.nih.gov/pubmed/?term=" + row.original.pmid + "%5Buid%5D&cmd=DetailsSearch"}>{row.value}</a>)
+    Cell: row => (<a href={row.original.abstractLink}>{row.value}</a>)
 }];
 
 export default ({ citations }) => (

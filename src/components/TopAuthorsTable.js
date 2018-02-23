@@ -43,7 +43,7 @@ export default ({ authorList }) => (
             <div className="container">
               <ul className="bullet">
                 {row.original.citations.map(citation => (
-                  <li><a href={"https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch"}>{citation.date} - {citation.title}</a></li>
+                  <li><a href={citation.abstractLink}>{citation.date} - {citation.title}</a></li>
                 ))}
               </ul>
               <br/>
