@@ -4,6 +4,9 @@
   "version": "1.1.0",
   "author": "Austin Green",
   "dependencies": {
+    "@devexpress/dx-react-core": "^1.0.1",
+    "@devexpress/dx-react-grid": "^1.0.1",
+    "@devexpress/dx-react-grid-material-ui": "^1.0.1",
     "bulma": "^0.6.0",
     "gatsby": "^1.9.63",
     "gatsby-link": "^1.6.21",
@@ -16,6 +19,8 @@
     "gatsby-transformer-remark": "^1.7.17",
     "gatsby-transformer-sharp": "^1.6.13",
     "gatsby-transformer-yaml": "^1.5.15",
+    "material-ui": "^1.0.0-beta.34",
+    "material-ui-icons": "^1.0.0-beta.17",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-helmet": "^5.2.0",

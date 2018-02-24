@@ -1,17 +1,35 @@
 import React from 'react';
-import ReactTable from 'react-table'
-import 'react-table/react-table.css'
+//import ReactTable from 'react-table'
+//import 'react-table/react-table.css'
 import Content, { HTMLContent } from '../components/Content';
+import {
+  PagingState,
+  IntegratedPaging,
+  RowDetailState,
+  SortingState,
+  IntegratedSorting,
+  DataTypeProvider
+} from '@devexpress/dx-react-grid';
+import {
+  Grid, 
+  Table, 
+  TableHeaderRow, 
+  TableColumnResizing,
+  PagingPanel,
+  TableRowDetail
+} from '@devexpress/dx-react-grid-material-ui';
 
-const columns = [{
-    Header: 'Date',
-    accessor: 'date',
-    width: 100
-  }, {
-    Header: 'Title',
-    accessor: 'title',
-    Cell: row => (<a href={row.original.abstractLink}>{row.value}</a>)
-}];
+const tableWidth = 800;
+
+const TitleFormatter = ({ value }) =>
+  <span className="textwrap">{value}</span>;
+
+const TitleTypeProvider = props => (
+  <DataTypeProvider
+    formatterComponent={TitleFormatter}
+    {...props}
+  />
+);
 
 export default ({ citations }) => (
   <div className="columns">
@@ -30,37 +48,59 @@ export default ({ citations }) => (
         </div>
       </div>
     </div>
-    <div className="column">
-      <ReactTable
-        data={citations}
-        columns={columns}
-        minRows={0}
-        defaultFilterMethod={(filter, row, column) => {
-          const id = filter.pivotId || filter.id
-          return row[id] !== undefined ? String(row[id]).toLowerCase().indexOf(String(filter.value).toLowerCase()) >= 0 : true
-        }}
-        SubComponent={(row) => {
-          return (
-            <div className="container">
+    <div className="column is-10">
+      <Grid
+        rows={citations}
+        columns={[
+          { name: 'date', title: 'Date' },
+          { name: 'title', title: 'Title' }
+        ]}>
+        <PagingState
+          defaultCurrentPage={0}
+          pageSize={20}
+        />
+        <RowDetailState
+          defaultExpandedRowIds={[]}
+        />
+        <SortingState
+          defaultSorting={[{ columnName: 'date', direction: 'desc' }]}
+        />
+        <TitleTypeProvider
+          for={['title']}
+        />
+        <IntegratedSorting />
+        <IntegratedPaging />
+        <Table />
+        <TableColumnResizing defaultColumnWidths={[
+          { columnName: 'date', width: 100 },
+          { columnName: 'title', width: tableWidth-100 }
+        ]}/>
+        <TableHeaderRow 
+          showSortingControls
+        />
+        <TableRowDetail
+          contentComponent={({ row }) => (
+            <div className="container is-pulled-left" style={{width: tableWidth}}>
               <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Abstract</h4>
-              <p>{row.original.abstract}</p>
+              <p>{row.abstract}</p>
               <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Authors</h4>
-              <p>{row.original.authorlist}</p>
+              <p>{row.authorlist}</p>
               <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Journal</h4>
-              <p>{row.original.journal}</p>
+              <p>{row.journal}</p>
               <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Keywords</h4>
               <ul>
-                {row.original.keywords.map(keyword => (
+                {row.keywords.map(keyword => (
                   <li className="bullet">{keyword.keyword}</li>
                 ))}
               </ul>
               <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Links</h4>
-              <a href={"https://www.ncbi.nlm.nih.gov/pubmed/?term=" + row.original.pmid + "%5Buid%5D&cmd=DetailsSearch"}>View on Pubmed</a>
+              <a href={row.abstractLink}>View on Pubmed</a>
               <br/>
             </div>
-          )
-        }}
-      />
+          )}
+        />
+        <PagingPanel />
+      </Grid>
     </div>
   </div>
 );
