@@ -59,5 +59,9 @@ abstract: >-
   CMT1A, but has the advantage over other diagnostic techniques of being able to
   define single exon deletions.
 date: 2004/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15564036'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15564036%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16570190'
+    title: Identification of Alu elements mediating a partial PMP22 deletion.

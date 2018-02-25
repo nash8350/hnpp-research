@@ -54,5 +54,11 @@ abstract: >-
   biochemical abnormalities irrelevant for CMT1 formation. In either case this
   mutation is not a clinically relevant disease marker.
 date: 2000/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '11081809'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11081809%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '15205993'
+    title: >-
+      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
+      with liability to pressure palsies and CMT1A phenotypes.

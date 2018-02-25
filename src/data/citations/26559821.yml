@@ -53,5 +53,26 @@ abstract: >-
   differentiation and follow-up evaluation in addition to NCS and molecular
   testing.
 date: 2015/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '24764211'
+  - pmid: '19533637'
+  - pmid: '19697380'
+  - pmid: '25691156'
+  - pmid: '25632087'
+  - pmid: '20133042'
+  - pmid: '25091364'
+  - pmid: '24634226'
+  - pmid: '25454275'
+  - pmid: '18387336'
+  - pmid: '25576636'
+  - pmid: '26123539'
+  - pmid: '25454274'
+  - pmid: '22810069'
+  - pmid: '26246519'
+  - pmid: '23821028'
+  - pmid: '24101129'
+  - pmid: '23381770'
+  - pmid: '25246646'
 pmid: '26559821'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26559821%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

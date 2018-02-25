@@ -34,5 +34,11 @@ abstract: >-
   the problem of nonspecific amplification and provide a rapid, all-or-none PCR
   product and efficient screening test for CMT1A and HNPP.
 date: 2006/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '16570573'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16570573%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.

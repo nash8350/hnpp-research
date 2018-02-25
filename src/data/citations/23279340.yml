@@ -57,5 +57,15 @@ abstract: >-
   in the distal nerves underlies the distal slowing and/or conduction failure in
   HNPP.
 date: 2013/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '23279340'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23279340%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27056376'
+    title: >-
+      HNPP not only entrapment sites. Ultrasound digital nerve abnormalities in
+      a guitar player.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.

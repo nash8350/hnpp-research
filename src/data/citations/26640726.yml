@@ -25,5 +25,13 @@ abstract: >-
   a history of tuberculosis, tuberculostatic treatment, hepatitis, and the
   presence of elevated CSF-protein.
 date: 2015/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '21477422'
+  - pmid: '15891642'
+  - pmid: '19681441'
+  - pmid: '16775374'
+  - pmid: '15602369'
+  - pmid: '962634'
 pmid: '26640726'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26640726%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

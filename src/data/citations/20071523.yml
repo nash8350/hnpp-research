@@ -69,5 +69,97 @@ abstract: >-
   the induction of CB in Pmp22 deficiency. Together, these results demonstrate
   that a function of Pmp22 is to protect the nerve from mechanical injury.
 date: 2010/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '1922183'
+  - pmid: '1895146'
+  - pmid: '15489403'
+  - pmid: '13003931'
+  - pmid: '11395001'
+  - pmid: '17172621'
+  - pmid: '11898503'
+  - pmid: '15774502'
+  - pmid: '3220711'
+  - pmid: '12374766'
+  - pmid: '7540676'
+  - pmid: '7097575'
+  - pmid: '10727485'
+  - pmid: '15541313'
+  - pmid: '11003782'
+  - pmid: '9482781'
+  - pmid: '4297451'
+  - pmid: '15703401'
+  - pmid: '4626884'
+  - pmid: '4209903'
+  - pmid: '4427124'
+  - pmid: '17620487'
+  - pmid: '7852416'
+  - pmid: '9210878'
+  - pmid: '12481039'
+  - pmid: '10697408'
+  - pmid: '4197303'
+  - pmid: '12084875'
+  - pmid: '17208176'
+  - pmid: '18556664'
+  - pmid: '11673320'
+  - pmid: '2415212'
+  - pmid: '9169527'
+  - pmid: '12635114'
+  - pmid: '17131416'
+  - pmid: '14755484'
+  - pmid: '4999642'
+  - pmid: '8422677'
+  - pmid: '500648'
+  - pmid: '17804618'
+  - pmid: '12365566'
+  - pmid: '16678735'
+  - pmid: '12090404'
+  - pmid: '11939347'
+  - pmid: '7260286'
+  - pmid: '7581450'
 pmid: '20071523'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20071523%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '28912683'
+    title: >-
+      Nano-scale Biophysical and Structural Investigations on Intact and
+      Neuropathic Nerve Fibers by Simultaneous Combination of Atomic Force and
+      Confocal Microscopy.
+  - pmid: '27799291'
+    title: >-
+      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
+      hypermyelination.
+  - pmid: '27749933'
+    title: >-
+      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
+      Hereditary Neuropathy with Liability to Pressure Palsies.
+  - pmid: '27583434'
+    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
+  - pmid: '27386852'
+    title: >-
+      Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from
+      replication-based mechanisms and result in Smith-Magenis syndrome with
+      evident peripheral neuropathy.
+  - pmid: '26761923'
+    title: >-
+      Phenotype HNPP (Hereditary Neuropathy With Liability to Pressure Palsies)
+      Induced by Medical Procedures.
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '25374586'
+    title: >-
+      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
+      deficiency.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '24339129'
+    title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '23207550'
+    title: Electrophysiological comparison between males and females in HNPP.
+  - pmid: '21670407'
+    title: Neuropathy in a human without the PMP22 gene.

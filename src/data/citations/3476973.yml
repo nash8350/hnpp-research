@@ -44,5 +44,19 @@ abstract: >-
   as a specific but non constant change of hereditary neuropathy with liability
   to pressure palsies.
 date: 1987/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '3476973'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=3476973%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '18751796'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies case report and
+      discussion.
+  - pmid: '8936351'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies the same
+      molecular defect can result in diverse clinical presentation.
+  - pmid: '8125763'
+    title: >-
+      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
+      review of the literature.

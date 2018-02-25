@@ -63,5 +63,36 @@ abstract: >-
   microstructural changes in HNPP. The frontal lobe is the predilection site
   that is most involved in HNPP.
 date: 2015/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '15489403'
+  - pmid: '11784354'
+  - pmid: '8609929'
+  - pmid: '12682341'
+  - pmid: '14616306'
+  - pmid: '18751796'
+  - pmid: '4345910'
+  - pmid: '17413027'
+  - pmid: '23787190'
+  - pmid: '20947644'
+  - pmid: '22846632'
+  - pmid: '17922888'
+  - pmid: '12084875'
+  - pmid: '17190957'
+  - pmid: '18218131'
+  - pmid: '15124766'
+  - pmid: '19270104'
+  - pmid: '15906348'
+  - pmid: '16344349'
+  - pmid: '23147806'
+  - pmid: '15804150'
+  - pmid: '10787121'
+  - pmid: '14755484'
+  - pmid: '10636123'
+  - pmid: '23243264'
 pmid: '26512614'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26512614%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27749933'
+    title: >-
+      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
+      Hereditary Neuropathy with Liability to Pressure Palsies.

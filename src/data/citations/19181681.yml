@@ -9,8 +9,6 @@ authors:
   - name: Ivanov D
   - name: Mantripragada KK
   - name: Holmans P
-  - name: undefined undefined
-  - name: undefined undefined
   - name: Craddock N
   - name: Owen MJ
   - name: O'Donovan MC
@@ -45,5 +43,38 @@ abstract: >-
   confirms the involvement of rare CNVs in the pathogenesis of schizophrenia and
   contributes to the growing list of specific CNVs that are implicated.
 date: 2009/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '18668039'
+  - pmid: '12742865'
+  - pmid: '18179900'
+  - pmid: '18668038'
+  - pmid: '17363630'
+  - pmid: '16626941'
+  - pmid: '11823265'
+  - pmid: '17033636'
+  - pmid: '18413704'
+  - pmid: '18252227'
+  - pmid: '18369103'
+  - pmid: '18469341'
+  - pmid: '18550696'
+  - pmid: '18945720'
+  - pmid: '17989066'
+  - pmid: '17389127'
+  - pmid: '10530637'
+  - pmid: '15303102'
+  - pmid: '17480035'
+  - pmid: '18511947'
+  - pmid: '17554300'
+  - pmid: '18806272'
+  - pmid: '1677316'
+  - pmid: '18057082'
+  - pmid: '18784092'
+  - pmid: '17701901'
+  - pmid: '8422677'
+  - pmid: '14594915'
+  - pmid: '16213148'
+  - pmid: '2190539'
+  - pmid: '18184952'
 pmid: '19181681'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19181681%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

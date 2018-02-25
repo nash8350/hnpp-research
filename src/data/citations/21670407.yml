@@ -56,5 +56,37 @@ abstract: >-
   and sensory nerves, which may have contributed to the unique clinical
   phenotype in the patient with an absence of PMP22.
 date: 2011/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '17131416'
+  - pmid: '18698610'
+  - pmid: '19493167'
+  - pmid: '19923170'
+  - pmid: '20071523'
+  - pmid: '10697408'
+  - pmid: '12056842'
+  - pmid: '12060695'
+  - pmid: '12084875'
+  - pmid: '14755484'
+  - pmid: '15356632'
+  - pmid: '8252046'
+  - pmid: '7613613'
+  - pmid: '7581450'
+  - pmid: '9120057'
+  - pmid: '10430839'
+  - pmid: '15774502'
+  - pmid: '16436605'
+  - pmid: '16437560'
+  - pmid: '16626749'
 pmid: '21670407'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21670407%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25429154'
+    title: >-
+      PMP22 is critical for actin-mediated cellular functions and for
+      establishing lipid rafts.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '23185166'
+    title: >-
+      Two cases of elderly-onset hereditary neuropathy with liability to
+      pressure palsy manifesting bilateral peroneal nerve palsies.

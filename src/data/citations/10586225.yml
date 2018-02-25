@@ -45,5 +45,13 @@ abstract: >-
   disorder causing painful, recurrent brachial plexopathies and maps to
   chromosome 17q25.
 date: 1999/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '10586225'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10586225%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26410747'
+    title: >-
+      A patient with PMP22-related hereditary neuropathy and DBH-gene-related
+      dysautonomia.
+  - pmid: '16570190'
+    title: Identification of Alu elements mediating a partial PMP22 deletion.

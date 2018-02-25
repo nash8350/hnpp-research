@@ -46,5 +46,25 @@ abstract: >-
   Thr118Met mutation is associated with a neuropathy albeit with reduced
   penetrance.
 date: 2011/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '21194947'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21194947%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.
+  - pmid: '27749933'
+    title: >-
+      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
+      Hereditary Neuropathy with Liability to Pressure Palsies.
+  - pmid: '26012543'
+    title: >-
+      Coexistence of a T118M PMP22 missense mutation and chromosome 17
+      (17p11.2-p12) deletion.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.

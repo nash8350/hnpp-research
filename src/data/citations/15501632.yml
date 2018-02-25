@@ -5,7 +5,6 @@ journal: Annales francaises d'anesthesie et de reanimation
 authors:
   - name: Berdai S
   - name: Benhamou D
-  - name: undefined undefined
 keywords:
   - keyword: Adult
   - keyword: 'Delivery, Obstetric'
@@ -37,5 +36,7 @@ abstract: >-
   used. Both deliveries were uneventful and there were no neurologic complaints
   in the postpartum periods.
 date: 2004/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15501632'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15501632%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

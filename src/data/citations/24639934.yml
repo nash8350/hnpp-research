@@ -23,5 +23,15 @@ abstract: >-
   electrodiagnostic studies are suspicious of HNPP and/or gene study is not
   compatible.
 date: 2014/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '23055312'
+  - pmid: '19697380'
+  - pmid: '10734269'
+  - pmid: '12210462'
+  - pmid: '18440055'
+  - pmid: '18351581'
+  - pmid: '17321837'
+  - pmid: '22102454'
 pmid: '24639934'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24639934%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

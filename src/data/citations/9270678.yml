@@ -31,5 +31,11 @@ abstract: >-
   non invasive investigative tool in cases of chronic recurrent polyneuropathy
   associated with episodes of nerve palsy.
 date: 1997/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9270678'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9270678%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '18218131'
+    title: >-
+      Unusual presentation of hereditary neuropathy with liability to pressure
+      palsies.

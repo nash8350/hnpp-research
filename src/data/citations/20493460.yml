@@ -63,5 +63,74 @@ abstract: >-
   a challenge for genome analysis. Rare CNVs may potentially represent an
   important portion of "missing heritability" for human diseases.
 date: 2010/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '19560228'
+  - pmid: '16374829'
+  - pmid: '8111370'
+  - pmid: '15780943'
+  - pmid: '19543269'
+  - pmid: '19014668'
+  - pmid: '15549674'
+  - pmid: '9820031'
+  - pmid: '12169732'
+  - pmid: '15643617'
+  - pmid: '8510709'
+  - pmid: '1303281'
+  - pmid: '17493823'
+  - pmid: '16773564'
+  - pmid: '20425815'
+  - pmid: '20192759'
+  - pmid: '1301995'
+  - pmid: '19597530'
+  - pmid: '18451855'
+  - pmid: '17999957'
+  - pmid: '9545397'
+  - pmid: '11818139'
+  - pmid: '9285799'
+  - pmid: '10998431'
+  - pmid: '18632578'
+  - pmid: '1303228'
+  - pmid: '18059269'
+  - pmid: '1303230'
+  - pmid: '1303229'
+  - pmid: '19439022'
+  - pmid: '18765821'
+  - pmid: '19888301'
+  - pmid: '1303282'
+  - pmid: '19324899'
+  - pmid: '15520286'
+  - pmid: '9032649'
+  - pmid: '18160035'
+  - pmid: '14735490'
+  - pmid: '20340098'
+  - pmid: '14505274'
+  - pmid: '19812666'
+  - pmid: '1677316'
+  - pmid: '11381029'
+  - pmid: '8422677'
+  - pmid: '12649807'
+  - pmid: '19136950'
+  - pmid: '18701715'
+  - pmid: '19578123'
+  - pmid: '15977178'
+  - pmid: '19180184'
+  - pmid: '1822787'
+  - pmid: '18773114'
+  - pmid: '11237011'
 pmid: '20493460'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20493460%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.
+  - pmid: '22180461'
+    title: >-
+      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
+      PMP22.

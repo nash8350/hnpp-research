@@ -40,5 +40,15 @@ abstract: >-
   respectively, of those for nonduplicated samples (CV 19% and 18%,
   respectively; n = 4), suggesting a deletion in 17p11.2.
 date: 1993/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8375058'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8375058%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.
+  - pmid: '7931393'
+    title: >-
+      DNA analysis in Finnish patients with hereditary neuropathy with liability
+      to pressure palsies (HNPP).

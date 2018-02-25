@@ -23,5 +23,11 @@ keywords:
   - keyword: Young Adult
 abstract: ''
 date: 2016/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '22581553'
+  - pmid: '23224996'
+  - pmid: '23279340'
+  - pmid: '25454274'
 pmid: '27056376'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27056376%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

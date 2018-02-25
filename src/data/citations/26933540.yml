@@ -10,5 +10,10 @@ abstract: >-
   neuropathy with liability to pressure palsies (HNPP), caused by PMP22 gene
   deletion.
 date: 2016/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '21280073'
+  - pmid: '24668782'
+  - pmid: '8422677'
 pmid: '26933540'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26933540%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

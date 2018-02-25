@@ -76,5 +76,18 @@ abstract: >-
   identified, the genes responsible for CMT2 will most likely be disclosed using
   positional cloning and candidate gene approaches in the near future.
 date: 1996/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8862346'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8862346%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '9973284'
+    title: >-
+      DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
+      individual with a family history of autosomal dominant carpal tunnel
+      syndrome.
+  - pmid: '9545397'
+    title: >-
+      Human meiotic recombination products revealed by sequencing a hotspot for
+      homologous strand exchange in multiple HNPP deletion patients.
+  - pmid: '9418989'
+    title: Animal models for inherited peripheral neuropathies.

@@ -18,5 +18,11 @@ keywords:
   - keyword: Pressure
 abstract: ''
 date: 2016/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '27137093'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27137093%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.

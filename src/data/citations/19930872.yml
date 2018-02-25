@@ -40,5 +40,11 @@ abstract: >-
   allows accurate detection of PMP22 gene duplications/deletions and could be
   used for the molecular diagnosis of these two neuropathies.
 date: 2009/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '19930872'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19930872%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.

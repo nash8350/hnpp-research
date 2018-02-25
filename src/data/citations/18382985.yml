@@ -40,5 +40,11 @@ abstract: >-
   Although HNPP is extremely rare, it should be taken into consideration in
   young adults with entrapment neuropathies.
 date: 2008/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '18382985'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18382985%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25685136'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
+      Acute Brachial Plexopathy A Lover's Palsy.

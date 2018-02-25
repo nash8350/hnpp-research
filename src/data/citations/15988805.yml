@@ -49,5 +49,35 @@ abstract: >-
   Therefore, we believe that the real-time quantitative method is useful for
   diagnosing CMT1A and HNPP.
 date: 2005/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '9096765'
+  - pmid: '9888385'
+  - pmid: '1552536'
+  - pmid: '9150743'
+  - pmid: '8492918'
+  - pmid: '9482573'
+  - pmid: '8532623'
+  - pmid: '12089741'
+  - pmid: '12885335'
+  - pmid: '9521270'
+  - pmid: '10330199'
+  - pmid: '1552545'
+  - pmid: '12634865'
+  - pmid: '10442687'
+  - pmid: '1303282'
+  - pmid: '1349106'
+  - pmid: '1677316'
+  - pmid: '8004087'
+  - pmid: '9554482'
+  - pmid: '8557256'
+  - pmid: '8655146'
+  - pmid: '1822787'
+  - pmid: '9195231'
+  - pmid: '14555828'
 pmid: '15988805'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15988805%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.

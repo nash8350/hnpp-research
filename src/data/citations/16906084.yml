@@ -43,5 +43,15 @@ abstract: >-
   condition and its symptoms should be increased and backpack designs should be
   improved.
 date: 2006/08
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '16906084'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16906084%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '28948078'
+    title: >-
+      Muscle training-induced bilateral brachial plexopathy in an adolescent
+      with sporadic hereditary neuropathy with liability to pressure palsies.
+  - pmid: '21429232'
+    title: >-
+      Recovery of brachial plexus lesions resulting from heavy backpack use a
+      follow-up case series.

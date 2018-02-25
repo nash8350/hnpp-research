@@ -52,5 +52,15 @@ abstract: >-
   differentiating CMT-1A from HNPP, may help to improve our pathophysiological
   insights in CMT and HNPP.
 date: 2014/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '25454274'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25454274%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27056376'
+    title: >-
+      HNPP not only entrapment sites. Ultrasound digital nerve abnormalities in
+      a guitar player.
+  - pmid: '26559821'
+    title: >-
+      The modified ultrasound pattern sum score mUPSS as additional diagnostic
+      tool for genetically distinct hereditary neuropathies.

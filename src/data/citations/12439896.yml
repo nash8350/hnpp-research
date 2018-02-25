@@ -31,5 +31,13 @@ abstract: >-
   typical of HNPP on chromosome 17. Screening for the HNPP deletion in patients
   with atypical, recurrent, or familial IDP might be warranted.
 date: 2002/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '12439896'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12439896%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26187721'
+    title: >-
+      An n-of-one RCT for intravenous immunoglobulin G for inflammation in
+      hereditary neuropathy with liability to pressure palsy (HNPP).
+  - pmid: '16024889'
+    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.

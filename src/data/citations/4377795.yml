@@ -23,5 +23,13 @@ keywords:
   - keyword: Pressure
 abstract: ''
 date: 1974/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '4377795'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=4377795%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '3220711'
+    title: Recurrent familial neuropathy due to liability to pressure palsies.
+  - pmid: '6185651'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies. Report of two
+      families and review of the literature.

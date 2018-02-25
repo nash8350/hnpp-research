@@ -55,5 +55,11 @@ abstract: >-
   showed an atypical clinical presentation. Neurophysiological examination
   represents the main tool for a proper diagnosis.
 date: 2014/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '24726093'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24726093%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27761228'
+    title: >-
+      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
+      Experience in Southern Brazil.

@@ -19,5 +19,9 @@ abstract: >-
   to the localized thickening of myelin ("tomacula"). In one patient with two
   permanent and severe blocks, neurolysis was beneficial.
 date: 1985/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '2997660'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2997660%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '3220711'
+    title: Recurrent familial neuropathy due to liability to pressure palsies.

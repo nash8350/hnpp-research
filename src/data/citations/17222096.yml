@@ -13,7 +13,6 @@ authors:
   - name: Vita G
   - name: Tonali PA
   - name: Schenone A
-  - name: undefined undefined
 keywords:
   - keyword: Adult
   - keyword: Aged
@@ -30,5 +29,11 @@ keywords:
   - keyword: Quality of Life
 abstract: ''
 date: 2007/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '17222096'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17222096%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29079893'
+    title: >-
+      Characterisation of pain in people with hereditary neuropathy with
+      liability to pressure palsy.

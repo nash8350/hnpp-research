@@ -25,5 +25,13 @@ keywords:
   - keyword: Humans
 abstract: ''
 date: 1995/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8541860'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8541860%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '8651299'
+    title: >-
+      Recombination hot spot in a 3.2-kb region of the Charcot-Marie-Tooth type
+      1A repeat sequences new tools for molecular diagnosis of hereditary
+      neuropathy with liability to pressure palsies and of Charcot-Marie-Tooth
+      type 1A. French CMT Collaborative Research Group.

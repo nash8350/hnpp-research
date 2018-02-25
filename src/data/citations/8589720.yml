@@ -41,5 +41,27 @@ abstract: >-
   could mediate strand exchange events via cleavage by a transposase at or near
   the 3' end of the element.
 date: 1996/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8589720'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8589720%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.
+  - pmid: '9973284'
+    title: >-
+      DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
+      individual with a family history of autosomal dominant carpal tunnel
+      syndrome.
+  - pmid: '9545397'
+    title: >-
+      Human meiotic recombination products revealed by sequencing a hotspot for
+      homologous strand exchange in multiple HNPP deletion patients.
+  - pmid: '9032649'
+    title: >-
+      Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
+      European descent.

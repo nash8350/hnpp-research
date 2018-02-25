@@ -55,5 +55,46 @@ abstract: >-
   Other rearrangements can also be detected by gene dosage on the same Southern
   blots.
 date: 1996/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '1674726'
+  - pmid: '8789446'
+  - pmid: '1822787'
+  - pmid: '1453432'
+  - pmid: '8422677'
+  - pmid: '1301995'
+  - pmid: '1303229'
+  - pmid: '1303230'
+  - pmid: '1303281'
+  - pmid: '1303282'
+  - pmid: '8510709'
+  - pmid: '7694726'
+  - pmid: '7903071'
+  - pmid: '8111370'
+  - pmid: '7509228'
+  - pmid: '8004087'
+  - pmid: '8012388'
+  - pmid: '7825607'
+  - pmid: '7783177'
+  - pmid: '8541860'
+  - pmid: '8634706'
+  - pmid: '1677316'
 pmid: '8651299'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8651299%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.
+  - pmid: '9545397'
+    title: >-
+      Human meiotic recombination products revealed by sequencing a hotspot for
+      homologous strand exchange in multiple HNPP deletion patients.
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.

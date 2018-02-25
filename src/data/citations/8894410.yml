@@ -28,5 +28,11 @@ abstract: >-
   disease. Current studies are aimed at characterising the genetics of this
   chromosomal rearrangement and the pathogenic role of altered PMP22 expression.
 date: 1996/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8894410'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8894410%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.

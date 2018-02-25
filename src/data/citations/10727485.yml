@@ -42,5 +42,70 @@ abstract: >-
   maintenance may therefore contribute to the formation of tomacula and
   subsequent demyelination.
 date: 2000/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '4303801'
+  - pmid: '8510709'
+  - pmid: '624962'
+  - pmid: '6516797'
+  - pmid: '3003872'
+  - pmid: '3673511'
+  - pmid: '2458847'
+  - pmid: '2549849'
+  - pmid: '1692961'
+  - pmid: '2276038'
+  - pmid: '1677316'
+  - pmid: '7511317'
+  - pmid: '8162049'
+  - pmid: '8004109'
+  - pmid: '8012388'
+  - pmid: '7530550'
+  - pmid: '7605070'
+  - pmid: '8393091'
+  - pmid: '7690857'
+  - pmid: '7693129'
+  - pmid: '7693873'
+  - pmid: '8266101'
+  - pmid: '8275092'
+  - pmid: '7586531'
+  - pmid: '8628474'
+  - pmid: '8797476'
+  - pmid: '8817346'
+  - pmid: '8862128'
+  - pmid: '9097074'
+  - pmid: '9187667'
+  - pmid: '9219742'
+  - pmid: '9222756'
+  - pmid: '9427224'
+  - pmid: '9466597'
+  - pmid: '1714591'
+  - pmid: '1935894'
+  - pmid: '1556154'
+  - pmid: '1384988'
+  - pmid: '8422677'
+  - pmid: '7680499'
+  - pmid: '8486695'
+  - pmid: '1303281'
+  - pmid: '4345910'
 pmid: '10727485'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10727485%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27098694'
+    title: Akt Regulates Axon Wrapping and Myelin Sheath Thickness in the PNS.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '23185166'
+    title: >-
+      Two cases of elderly-onset hereditary neuropathy with liability to
+      pressure palsy manifesting bilateral peroneal nerve palsies.
+  - pmid: '22488882'
+    title: >-
+      Genetic disruption of Pten in a novel mouse model of tomaculous
+      neuropathy.
+  - pmid: '20071523'
+    title: Conduction block in PMP22 deficiency.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '16024889'
+    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.

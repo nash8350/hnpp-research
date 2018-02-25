@@ -41,5 +41,19 @@ abstract: >-
   both neurophysiological methods and DNA analysis. The distinction between HNPP
   and hereditary neuralgic amyotrophy is discussed.
 date: 2001/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '11439387'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11439387%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25326571'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies presenting with
+      sciatic neuropathy.
+  - pmid: '21429232'
+    title: >-
+      Recovery of brachial plexus lesions resulting from heavy backpack use a
+      follow-up case series.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.

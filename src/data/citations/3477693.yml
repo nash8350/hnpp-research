@@ -29,5 +29,15 @@ abstract: >-
   lasting is a feature of this type of hereditary neuropathy, which should be
   considered in the differential diagnosis of this electrophysiologic finding.
 date: 1987/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '3477693'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=3477693%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '15205993'
+    title: >-
+      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
+      with liability to pressure palsies and CMT1A phenotypes.
+  - pmid: '7931393'
+    title: >-
+      DNA analysis in Finnish patients with hereditary neuropathy with liability
+      to pressure palsies (HNPP).

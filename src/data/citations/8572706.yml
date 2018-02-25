@@ -32,5 +32,29 @@ abstract: >-
   whole-cell hybridization technique is available for the identification of
   small or low-rRNA-content bacterial cells in the natural environment.
 date: 1996/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '3162770'
+  - pmid: '8517747'
+  - pmid: '13611202'
+  - pmid: '2466341'
+  - pmid: '1444414'
+  - pmid: '16345752'
+  - pmid: '1688842'
+  - pmid: '3243435'
+  - pmid: '7646023'
+  - pmid: '2200342'
+  - pmid: '2231712'
+  - pmid: '1967116'
+  - pmid: '7679962'
+  - pmid: '1591615'
 pmid: '8572706'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8572706%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '11679354'
+    title: >-
+      Direct detection by in situ PCR of the amoA gene in biofilm resulting from
+      a nitrogen removal process.
+  - pmid: '9546190'
+    title: >-
+      Development of a direct in situ PCR method for detection of specific
+      bacteria in natural environments.

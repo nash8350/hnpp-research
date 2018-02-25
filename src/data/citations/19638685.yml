@@ -41,5 +41,28 @@ abstract: >-
   cases of CMT, we propose (in contrast to the previous studies) to perform
   Q-PCR analysis in all patients diagnosed with CMT.
 date: 2009/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '12477701'
+  - pmid: '16775379'
+  - pmid: '8510709'
+  - pmid: '1303281'
+  - pmid: '10869062'
+  - pmid: '2220808'
+  - pmid: '7501152'
+  - pmid: '1303228'
+  - pmid: '2797453'
+  - pmid: '10442687'
+  - pmid: '11140948'
+  - pmid: '8422677'
+  - pmid: '8012388'
+  - pmid: '2316525'
+  - pmid: '1822787'
+  - pmid: '8800924'
+  - pmid: '1674726'
 pmid: '19638685'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19638685%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25342198'
+    title: >-
+      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
+      of CMT1A/HNPP diseases.

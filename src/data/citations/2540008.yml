@@ -34,5 +34,15 @@ abstract: >-
   and anatomical data support the hypothesis that these cases of HNPP and the
   HNA may represent the same disease.
 date: 1989/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '2540008'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2540008%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '8125763'
+    title: >-
+      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
+      review of the literature.

@@ -61,5 +61,17 @@ abstract: >-
   morphological and molecular evaluation of inherited and other demyelinating
   neuropathies.
 date: 2005/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15774502'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15774502%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '21670407'
+    title: Neuropathy in a human without the PMP22 gene.
+  - pmid: '20071523'
+    title: Conduction block in PMP22 deficiency.
+  - pmid: '19447823'
+    title: PMP22 expression in dermal nerve myelin from patients with CMT1A.

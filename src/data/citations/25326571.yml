@@ -41,5 +41,15 @@ abstract: >-
   compression neuropathies in the upper limbs, HNPP was contemplated and
   eventually confirmed by genetic testing.
 date: 2014/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '21988036'
+  - pmid: '10734269'
+  - pmid: '15668057'
+  - pmid: '9843070'
+  - pmid: '15703012'
+  - pmid: '8422677'
+  - pmid: '23177034'
+  - pmid: '11439387'
 pmid: '25326571'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25326571%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

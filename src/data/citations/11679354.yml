@@ -48,5 +48,31 @@ abstract: >-
   study, detection of cells in a biofilm based on their function was
   demonstrated.
 date: 2001/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '9546190'
+  - pmid: '8787412'
+  - pmid: '3162770'
+  - pmid: '9361404'
+  - pmid: '8517747'
+  - pmid: '2466341'
+  - pmid: '9406389'
+  - pmid: '9779422'
+  - pmid: '1688842'
+  - pmid: '2164214'
+  - pmid: '4939767'
+  - pmid: '8593039'
+  - pmid: '2200342'
+  - pmid: '2231712'
+  - pmid: '1342961'
+  - pmid: '10543829'
+  - pmid: '8526521'
+  - pmid: '1661072'
+  - pmid: '8572706'
+  - pmid: '8953706'
+  - pmid: '8493534'
+  - pmid: '16232850'
+  - pmid: '9159200'
+  - pmid: '7683183'
 pmid: '11679354'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11679354%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

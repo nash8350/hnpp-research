@@ -43,5 +43,20 @@ abstract: >-
   facilitate appropriate genetic counseling and also for the appropriate care
   for these patients.
 date: 2015/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '26189194'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26189194%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '27761228'
+    title: >-
+      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
+      Experience in Southern Brazil.
+  - pmid: '27386852'
+    title: >-
+      Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from
+      replication-based mechanisms and result in Smith-Magenis syndrome with
+      evident peripheral neuropathy.

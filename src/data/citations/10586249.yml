@@ -35,5 +35,11 @@ abstract: >-
   operative during development. Such considerations should be taken into account
   in the design of potential novel treatment strategies.
 date: 1999/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '10586249'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10586249%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25342198'
+    title: >-
+      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
+      of CMT1A/HNPP diseases.

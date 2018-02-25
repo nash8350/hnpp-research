@@ -21,5 +21,18 @@ abstract: >-
   to be considered in a child with painless monoparesis and to emphasize the
   importance of electrophysiological studies in the diagnosis.
 date: 2012/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '8396068'
+  - pmid: '12682341'
+  - pmid: '14678806'
+  - pmid: '18760885'
+  - pmid: '17183456'
+  - pmid: '17607607'
+  - pmid: '15804150'
 pmid: '22953141'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22953141%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24251057'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy a recurrent and
+      bilateral foot drop case report.

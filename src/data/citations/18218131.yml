@@ -32,5 +32,25 @@ abstract: >-
   at the wrists and ulnar neuropathy at the elbow with mild peripheral
   demyelinating polyneuropathy associated with the PMP-22 gene deletion.
 date: 2008/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '11376203'
+  - pmid: '15489403'
+  - pmid: '14616306'
+  - pmid: '4345910'
+  - pmid: '7501152'
+  - pmid: '14212604'
+  - pmid: '14638986'
+  - pmid: '17183456'
+  - pmid: '10842280'
+  - pmid: '9270678'
+  - pmid: '15703012'
+  - pmid: '8422677'
+  - pmid: '10227632'
+  - pmid: '20271590'
 pmid: '18218131'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18218131%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).

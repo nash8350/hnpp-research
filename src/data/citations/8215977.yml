@@ -41,5 +41,11 @@ abstract: >-
   and are both likely to be consequences of unequal crossing over during germ
   cell meiosis.
 date: 1993/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8215977'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8215977%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25342198'
+    title: >-
+      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
+      of CMT1A/HNPP diseases.

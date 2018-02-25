@@ -55,5 +55,17 @@ abstract: >-
   interacting with this key regulatory element will shed light on its role in
   regulating peripheral nerve myelination.
 date: 2001/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '11550219'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11550219%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '22180461'
+    title: >-
+      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
+      PMP22.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.

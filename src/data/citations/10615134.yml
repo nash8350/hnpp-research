@@ -55,5 +55,16 @@ abstract: >-
   pertain to the 17p11.2 region, but may also be common to other regions of the
   genome where interstitial microdeletion syndromes have been defined.
 date: 1999/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '10615134'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10615134%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '14757858'
+    title: >-
+      Comparative genomic hybridisation using a proximal 17p BAC/PAC array
+      detects rearrangements responsible for four genomic disorders.
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.

@@ -78,5 +78,15 @@ abstract: >-
   conclusion, micromutations of PMP22 cause a clinical and pathological
   continuum of demyelinating neuropathies that may include atypical phenotypes.
 date: 2011/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '21252112'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21252112%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '25685136'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
+      Acute Brachial Plexopathy A Lover's Palsy.

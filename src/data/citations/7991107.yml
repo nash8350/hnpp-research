@@ -47,5 +47,15 @@ abstract: >-
   disease is not linked to any other gene in the HNPP deleted region. We
   conclude that HNA and HNPP are distinct genetic entities.
 date: 1994/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '7991107'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7991107%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '19654968'
+    title: >-
+      Charcot-Marie-Tooth 1A concurrent with schwannomas of the spinal cord and
+      median nerve.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.

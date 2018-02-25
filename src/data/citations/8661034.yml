@@ -33,5 +33,12 @@ abstract: >-
   by 137 cosmids with a minimum overlap set of 52 cosmids assigned to 17 bins
   and 9 contigs.
 date: 1996/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8661034'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8661034%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.

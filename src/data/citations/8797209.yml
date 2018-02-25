@@ -46,5 +46,11 @@ abstract: >-
   gene analysis is sometimes essential in the differential diagnosis of
   hereditary peripheral neuropathies.
 date: 1996/08
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8797209'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8797209%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '28489810'
+    title: >-
+      A case report of hereditary neuropathy with liability to pressure palsies
+      accompanied by type 2 diabetes mellitus and psoriasis.

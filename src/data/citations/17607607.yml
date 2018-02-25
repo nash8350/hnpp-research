@@ -29,5 +29,15 @@ abstract: >-
   clinical and genetic characteristics of patients with an early onset (<10
   years) of HNPP.
 date: 2007/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '17607607'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17607607%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24251057'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy a recurrent and
+      bilateral foot drop case report.
+  - pmid: '22953141'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy presenting with
+      hand drop in a young child.

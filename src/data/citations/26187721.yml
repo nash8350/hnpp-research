@@ -14,5 +14,17 @@ authors:
 keywords: []
 abstract: ''
 date: 2015/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '12439896'
+  - pmid: '20386995'
+  - pmid: '19809938'
+  - pmid: '10734269'
+  - pmid: '24146347'
+  - pmid: '25046447'
+  - pmid: '14607795'
+  - pmid: '20456730'
+  - pmid: '18055266'
+  - pmid: '20878740'
 pmid: '26187721'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26187721%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

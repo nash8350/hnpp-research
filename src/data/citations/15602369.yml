@@ -36,5 +36,11 @@ abstract: >-
   testing was confirmatory. This case demonstrates that HNPP can present in an
   acute manner, mimicking AIDP.
 date: 2004/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15602369'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15602369%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26640726'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsies Masked by
+      Previous Gunshots and Tuberculosis.

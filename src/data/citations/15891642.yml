@@ -62,5 +62,15 @@ abstract: >-
   explained by the liability for exogenous factors associated with this
   disorder.
 date: 2005/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15891642'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15891642%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26640726'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsies Masked by
+      Previous Gunshots and Tuberculosis.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.

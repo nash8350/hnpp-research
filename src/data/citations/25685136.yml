@@ -18,5 +18,24 @@ abstract: >-
   His father, who had a symmetrical polyneuropathy without recurrent
   mononeuropathies, shared the PMP22 deletion.
 date: 2015/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '11697522'
+  - pmid: '9712007'
+  - pmid: '19830275'
+  - pmid: '12682341'
+  - pmid: '11494267'
+  - pmid: '2327739'
+  - pmid: '10496268'
+  - pmid: '18803325'
+  - pmid: '16810438'
+  - pmid: '17183456'
+  - pmid: '22190321'
+  - pmid: '21252112'
+  - pmid: '16186812'
+  - pmid: '22102454'
+  - pmid: '10996784'
+  - pmid: '10734003'
+  - pmid: '18382985'
 pmid: '25685136'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25685136%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

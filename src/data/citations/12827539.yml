@@ -48,5 +48,12 @@ abstract: >-
   avoiding the need for nerve biopsy. In conclusion, the diagnosis of HNPP
   should be invoked in early onset entrapment neuropathies.
 date: 2003/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '12827539'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12827539%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '15083272'
+    title: >-
+      [Delayed paresis of the femoral nerve after total hip arthroplasty
+      associated with hereditary neuropathy with liability to pressure palsies
+      (HNPP)].

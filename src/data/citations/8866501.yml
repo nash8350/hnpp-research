@@ -42,5 +42,11 @@ abstract: >-
   than to a general inability of the motor system to control the movement
   properly.
 date: 1996/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8866501'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8866501%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27761228'
+    title: >-
+      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
+      Experience in Southern Brazil.

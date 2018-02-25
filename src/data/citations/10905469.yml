@@ -49,5 +49,15 @@ abstract: >-
   be considered for relatives of patients with PNP because peroneal
   mononeuropathies may be the first expression of HNPP.
 date: 2000/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '10905469'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10905469%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23185166'
+    title: >-
+      Two cases of elderly-onset hereditary neuropathy with liability to
+      pressure palsy manifesting bilateral peroneal nerve palsies.

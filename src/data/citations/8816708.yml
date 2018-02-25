@@ -59,5 +59,9 @@ abstract: >-
   type of mutation and its subsequent effect on protein function (i.e., loss of
   function versus dominant negative).
 date: 1996/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8816708'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8816708%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '9418989'
+    title: Animal models for inherited peripheral neuropathies.

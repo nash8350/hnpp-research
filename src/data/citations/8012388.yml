@@ -43,5 +43,81 @@ abstract: >-
   shift, providing strong evidence that this gene has an important role in the
   pathogenesis of the disease.
 date: 1994/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8012388'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8012388%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '27583434'
+    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '25374586'
+    title: >-
+      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
+      deficiency.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '19638685'
+    title: >-
+      Screening of the 17p11.2--p12 region in a large cohort of patients with
+      Charcot-Marie-Tooth (CMT) disease or hereditary neuropathy with liability
+      to pressure palsies (HNPP).
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '10727485'
+    title: >-
+      Clinical syndromes associated with tomacula or myelin swellings in sural
+      nerve biopsies.
+  - pmid: '9418989'
+    title: Animal models for inherited peripheral neuropathies.
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.
+  - pmid: '9032649'
+    title: >-
+      Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
+      European descent.
+  - pmid: '8937360'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies with a partial
+      deletion of the region often duplicated in Charcot-Marie-Tooth disease,
+      type 1A.
+  - pmid: '8651299'
+    title: >-
+      Recombination hot spot in a 3.2-kb region of the Charcot-Marie-Tooth type
+      1A repeat sequences new tools for molecular diagnosis of hereditary
+      neuropathy with liability to pressure palsies and of Charcot-Marie-Tooth
+      type 1A. French CMT Collaborative Research Group.
+  - pmid: '8936351'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies the same
+      molecular defect can result in diverse clinical presentation.
+  - pmid: '8557256'
+    title: >-
+      Molecular genetic analysis of the 17p11.2 region in patients with
+      hereditary neuropathy with liability to pressure palsies (HNPP).
+  - pmid: '7643137'
+    title: >-
+      Molecular diagnosis of hereditary neuropathy with liability to pressure
+      palsies (HNPP) by detection of 17p11.2 deletion in Italian patients.
+  - pmid: '7825607'
+    title: >-
+      A 1.5-Mb deletion in 17p11.2-p12 is frequently observed in Italian
+      families with hereditary neuropathy with liability to pressure palsies.

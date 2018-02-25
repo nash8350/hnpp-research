@@ -39,5 +39,15 @@ abstract: >-
   neuropathy. Our experience shows that MRI could be a complementary tool for
   the diagnosis of these patients.
 date: 2013/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '24239057'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24239057%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29079893'
+    title: >-
+      Characterisation of pain in people with hereditary neuropathy with
+      liability to pressure palsy.
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.

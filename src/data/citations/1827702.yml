@@ -50,5 +50,11 @@ abstract: >-
   Characteristic morphological changes in sural nerve biopsy including
   tomaculous swelling were present.
 date: 1991/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '1827702'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1827702%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '8396068'
+    title: >-
+      Gene for hereditary neuropathy with liability to pressure palsies (HNPP)
+      maps to chromosome 17 at or close to the locus for HMSN type 1.

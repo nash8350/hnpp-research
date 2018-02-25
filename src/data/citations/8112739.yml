@@ -50,5 +50,55 @@ abstract: >-
   markers on chromosome 1q are inconsistent with a possible involvement of the
   locus for HMSNIb in the present family.
 date: 1994/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '1971099'
+  - pmid: '2335351'
+  - pmid: '2388856'
+  - pmid: '1303281'
+  - pmid: '2073835'
+  - pmid: '2020558'
+  - pmid: '8396068'
+  - pmid: '3344216'
+  - pmid: '6312838'
+  - pmid: '1303228'
+  - pmid: '1303231'
+  - pmid: '1303229'
+  - pmid: '1303282'
+  - pmid: '1891385'
+  - pmid: '2916582'
+  - pmid: '1677316'
+  - pmid: '8422677'
+  - pmid: '2388867'
+  - pmid: '6185651'
+  - pmid: '3859205'
+  - pmid: '8393091'
 pmid: '8112739'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8112739%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.
+  - pmid: '9418989'
+    title: Animal models for inherited peripheral neuropathies.
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.
+  - pmid: '8937360'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies with a partial
+      deletion of the region often duplicated in Charcot-Marie-Tooth disease,
+      type 1A.
+  - pmid: '8557256'
+    title: >-
+      Molecular genetic analysis of the 17p11.2 region in patients with
+      hereditary neuropathy with liability to pressure palsies (HNPP).
+  - pmid: '7643137'
+    title: >-
+      Molecular diagnosis of hereditary neuropathy with liability to pressure
+      palsies (HNPP) by detection of 17p11.2 deletion in Italian patients.
+  - pmid: '7825607'
+    title: >-
+      A 1.5-Mb deletion in 17p11.2-p12 is frequently observed in Italian
+      families with hereditary neuropathy with liability to pressure palsies.

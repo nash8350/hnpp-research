@@ -21,5 +21,11 @@ keywords:
   - keyword: 'Repetitive Sequences, Nucleic Acid'
 abstract: ''
 date: 1995/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '7586531'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7586531%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '10727485'
+    title: >-
+      Clinical syndromes associated with tomacula or myelin swellings in sural
+      nerve biopsies.

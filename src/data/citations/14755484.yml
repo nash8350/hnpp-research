@@ -49,5 +49,47 @@ abstract: >-
   the function of PMP22, at least in part, is to stabilize myelin so that it
   will be protected from injuries resulting from repetitive, minor trauma.
 date: 2004/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '14755484'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14755484%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29079893'
+    title: >-
+      Characterisation of pain in people with hereditary neuropathy with
+      liability to pressure palsy.
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).
+  - pmid: '26012543'
+    title: >-
+      Coexistence of a T118M PMP22 missense mutation and chromosome 17
+      (17p11.2-p12) deletion.
+  - pmid: '25374586'
+    title: >-
+      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
+      deficiency.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '24339129'
+    title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.
+  - pmid: '21670407'
+    title: Neuropathy in a human without the PMP22 gene.
+  - pmid: '21280073'
+    title: Charcot-Marie-Tooth disease subtypes and genetic testing strategies.
+  - pmid: '20071523'
+    title: Conduction block in PMP22 deficiency.
+  - pmid: '19447823'
+    title: PMP22 expression in dermal nerve myelin from patients with CMT1A.
+  - pmid: '18751796'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies case report and
+      discussion.

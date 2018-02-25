@@ -24,5 +24,11 @@ keywords:
   - keyword: Recurrence
 abstract: ''
 date: 2008/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '19099137'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19099137%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27761228'
+    title: >-
+      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
+      Experience in Southern Brazil.

@@ -42,5 +42,11 @@ abstract: >-
   elusive. Our results further underscore the clinical and genetic heterogeneity
   of this group of neuropathies.
 date: 2014/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '24878226'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24878226%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.

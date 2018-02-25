@@ -32,5 +32,15 @@ abstract: >-
   and HNPP showed, respectively, an elevated and reduced expression of PMP22
   level compared with controls.
 date: 1996/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8651657'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8651657%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '19447823'
+    title: PMP22 expression in dermal nerve myelin from patients with CMT1A.
+  - pmid: '15205993'
+    title: >-
+      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
+      with liability to pressure palsies and CMT1A phenotypes.
+  - pmid: '9418989'
+    title: Animal models for inherited peripheral neuropathies.

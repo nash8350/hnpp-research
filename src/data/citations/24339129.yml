@@ -60,5 +60,73 @@ abstract: >-
   PMP22 deficiency affects nerve conduction not through removal of myelin, but
   through disruption of myelin junctions.
 date: 2013/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '10839370'
+  - pmid: '23224996'
+  - pmid: '10908190'
+  - pmid: '10856295'
+  - pmid: '11283412'
+  - pmid: '11717414'
+  - pmid: '12401452'
+  - pmid: '14755484'
+  - pmid: '7581450'
+  - pmid: '8967749'
+  - pmid: '8769425'
+  - pmid: '9169527'
+  - pmid: '9482781'
+  - pmid: '15883201'
+  - pmid: '16916751'
+  - pmid: '17208176'
+  - pmid: '17099249'
+  - pmid: '18048693'
+  - pmid: '17854762'
+  - pmid: '18365233'
+  - pmid: '18556664'
+  - pmid: '19823091'
+  - pmid: '20071523'
+  - pmid: '21106834'
+  - pmid: '21245199'
+  - pmid: '21307239'
+  - pmid: '22157617'
+  - pmid: '22090315'
+  - pmid: '22488882'
+  - pmid: '22733753'
+  - pmid: '10837817'
 pmid: '24339129'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24339129%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '28912683'
+    title: >-
+      Nano-scale Biophysical and Structural Investigations on Intact and
+      Neuropathic Nerve Fibers by Simultaneous Combination of Atomic Force and
+      Confocal Microscopy.
+  - pmid: '27799291'
+    title: >-
+      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
+      hypermyelination.
+  - pmid: '27749933'
+    title: >-
+      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
+      Hereditary Neuropathy with Liability to Pressure Palsies.
+  - pmid: '27583434'
+    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
+  - pmid: '26761923'
+    title: >-
+      Phenotype HNPP (Hereditary Neuropathy With Liability to Pressure Palsies)
+      Induced by Medical Procedures.
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '25429154'
+    title: >-
+      PMP22 is critical for actin-mediated cellular functions and for
+      establishing lipid rafts.
+  - pmid: '25374586'
+    title: >-
+      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
+      deficiency.

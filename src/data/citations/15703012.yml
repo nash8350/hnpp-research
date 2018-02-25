@@ -15,5 +15,15 @@ keywords:
   - keyword: Sciatic Neuropathy
 abstract: ''
 date: 2005/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15703012'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15703012%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25326571'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies presenting with
+      sciatic neuropathy.
+  - pmid: '18218131'
+    title: >-
+      Unusual presentation of hereditary neuropathy with liability to pressure
+      palsies.

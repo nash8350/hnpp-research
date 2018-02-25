@@ -28,5 +28,16 @@ keywords:
   - keyword: Sex Characteristics
 abstract: ''
 date: 1997/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9326925'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9326925%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.

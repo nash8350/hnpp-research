@@ -56,5 +56,11 @@ abstract: >-
   axonal excitability in HNPP, and these abnormalities would predispose the
   nerves to conduction block when subjected to pressure or stretch.
 date: 2013/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '23418209'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23418209%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.

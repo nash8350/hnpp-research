@@ -53,5 +53,11 @@ abstract: >-
   suspicion and thorough electrodiagnostic evaluation can lead to correct
   diagnosis of HNPP, despite the absence of a positive family history.
 date: 2007/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '17922888'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17922888%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).

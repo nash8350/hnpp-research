@@ -44,5 +44,55 @@ abstract: >-
   not have distal slowing. These findings do not support a distal myelinopathy
   as a determinant of the conduction abnormalities in HNPP.
 date: 2002/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '12084875'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12084875%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27583434'
+    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
+  - pmid: '26761923'
+    title: >-
+      Phenotype HNPP (Hereditary Neuropathy With Liability to Pressure Palsies)
+      Induced by Medical Procedures.
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '25374586'
+    title: >-
+      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
+      deficiency.
+  - pmid: '25253751'
+    title: >-
+      Proximal nerve magnetization transfer MRI relates to disability in
+      Charcot-Marie-Tooth diseases.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '23207550'
+    title: Electrophysiological comparison between males and females in HNPP.
+  - pmid: '21670407'
+    title: Neuropathy in a human without the PMP22 gene.
+  - pmid: '21280073'
+    title: Charcot-Marie-Tooth disease subtypes and genetic testing strategies.
+  - pmid: '20071523'
+    title: Conduction block in PMP22 deficiency.
+  - pmid: '19306083'
+    title: Entrapment in anti myelin-associated glycoprotein neuropathy.
+  - pmid: '18751796'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies case report and
+      discussion.
+  - pmid: '16024889'
+    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.
+  - pmid: '15205993'
+    title: >-
+      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
+      with liability to pressure palsies and CMT1A phenotypes.

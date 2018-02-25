@@ -31,5 +31,14 @@ abstract: >-
   disease in pediatric population and the importance of high index of clinical
   suspicion for its diagnosis.
 date: 2013/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '8936351'
+  - pmid: '11494267'
+  - pmid: '17607607'
+  - pmid: '22953141'
+  - pmid: '18502948'
+  - pmid: '22098098'
+  - pmid: '18760885'
 pmid: '24251057'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24251057%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

@@ -38,5 +38,19 @@ abstract: >-
   will help shape imaging protocols to better detect conditions with non-uniform
   nerve enlargements.
 date: 2011/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '22102454'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22102454%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25685136'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
+      Acute Brachial Plexopathy A Lover's Palsy.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '24639934'
+    title: >-
+      Sonographic evaluation of the peripheral nerves in hereditary neuropathy
+      with liability to pressure palsies a case report.

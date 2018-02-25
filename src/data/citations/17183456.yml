@@ -28,5 +28,19 @@ abstract: >-
   deletion of the peripheral myelin protein 22 gene (PMP22) on chromosome
   17p11.2. The authors present a family case with genetically proven HNPP.
 date: 2006/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '17183456'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17183456%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25685136'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
+      Acute Brachial Plexopathy A Lover's Palsy.
+  - pmid: '22953141'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy presenting with
+      hand drop in a young child.
+  - pmid: '18218131'
+    title: >-
+      Unusual presentation of hereditary neuropathy with liability to pressure
+      palsies.

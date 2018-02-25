@@ -40,5 +40,20 @@ abstract: >-
   an abnormal mRNA in which a premature stop codon probably produces a truncated
   non-functional protein.
 date: 2005/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '9040736'
+  - pmid: '9187667'
+  - pmid: '8510709'
+  - pmid: '9452106'
+  - pmid: '7825607'
+  - pmid: '11369192'
+  - pmid: '11583144'
 pmid: '16199442'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16199442%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '16570190'
+    title: Identification of Alu elements mediating a partial PMP22 deletion.

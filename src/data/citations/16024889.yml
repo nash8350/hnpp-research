@@ -73,5 +73,63 @@ abstract: >-
   Unlike Charcot-Marie-Tooth disease type 1A, age associated axonal damage may
   not occur unless the nerves are subjected to compression.
 date: 2005/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '12477701'
+  - pmid: '7944298'
+  - pmid: '12439896'
+  - pmid: '12433265'
+  - pmid: '8967749'
+  - pmid: '10506096'
+  - pmid: '12838517'
+  - pmid: '9482573'
+  - pmid: '9048912'
+  - pmid: '10869062'
+  - pmid: '4345910'
+  - pmid: '8780105'
+  - pmid: '10727485'
+  - pmid: '7501152'
+  - pmid: '1371237'
+  - pmid: '3703263'
+  - pmid: '2917278'
+  - pmid: '14212604'
+  - pmid: '2843078'
+  - pmid: '10094252'
+  - pmid: '2797453'
+  - pmid: '12084875'
+  - pmid: '11673320'
+  - pmid: '1700806'
+  - pmid: '9894872'
+  - pmid: '1677316'
+  - pmid: '8422677'
+  - pmid: '2221844'
+  - pmid: '13184660'
+  - pmid: '10227632'
+  - pmid: '14345676'
+  - pmid: '10636123'
+  - pmid: '497808'
+  - pmid: '8634706'
 pmid: '16024889'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16024889%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '28948078'
+    title: >-
+      Muscle training-induced bilateral brachial plexopathy in an adolescent
+      with sporadic hereditary neuropathy with liability to pressure palsies.
+  - pmid: '28489810'
+    title: >-
+      A case report of hereditary neuropathy with liability to pressure palsies
+      accompanied by type 2 diabetes mellitus and psoriasis.
+  - pmid: '26012543'
+    title: >-
+      Coexistence of a T118M PMP22 missense mutation and chromosome 17
+      (17p11.2-p12) deletion.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23207550'
+    title: Electrophysiological comparison between males and females in HNPP.
+  - pmid: '23185166'
+    title: >-
+      Two cases of elderly-onset hereditary neuropathy with liability to
+      pressure palsy manifesting bilateral peroneal nerve palsies.

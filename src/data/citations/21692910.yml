@@ -53,5 +53,11 @@ abstract: >-
   Clinicians should test for this mutation in those patients exhibiting a
   generalised neuropathy combined with compressive like episodes.
 date: 2011/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '21692910'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21692910%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.

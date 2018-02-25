@@ -44,5 +44,11 @@ abstract: >-
   alert about this subject. Awareness of HNPP may help avoid unnecessary
   operative interventions.
 date: 2006/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '16601541'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16601541%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '18751796'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies case report and
+      discussion.

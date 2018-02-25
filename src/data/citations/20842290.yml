@@ -42,5 +42,15 @@ abstract: >-
   nucleotiode level, however rarely occurring SNPs variant in the PMP22
   regulatory sequence may be associated with the gene dosage effect.
 date: 2010/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '20842290'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20842290%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25342198'
+    title: >-
+      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
+      of CMT1A/HNPP diseases.
+  - pmid: '22180461'
+    title: >-
+      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
+      PMP22.

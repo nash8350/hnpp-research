@@ -49,5 +49,14 @@ abstract: >-
   and has the additional advantage of being a fast and uniform assay for
   quantitative analysis of both CMT1A and HNPP.
 date: 2003/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '12634865'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12634865%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16570190'
+    title: Identification of Alu elements mediating a partial PMP22 deletion.
+  - pmid: '15988805'
+    title: >-
+      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
+      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
+      liability to pressure palsies.

@@ -30,5 +30,23 @@ abstract: >-
   patients, the immunoreactivity to NFκB and RAGE in macrophages may support
   their role in axonal degeneration without inflammatory milieu.
 date: 2015/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '23045170'
+  - pmid: '21040139'
+  - pmid: '2729918'
+  - pmid: '22211895'
+  - pmid: '11438178'
+  - pmid: '19477910'
+  - pmid: '15576484'
+  - pmid: '23628898'
+  - pmid: '18448798'
+  - pmid: '19273137'
+  - pmid: '17427284'
+  - pmid: '24395344'
+  - pmid: '15170618'
+  - pmid: '18385332'
+  - pmid: '12222959'
+  - pmid: '18267068'
 pmid: '28360724'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28360724%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

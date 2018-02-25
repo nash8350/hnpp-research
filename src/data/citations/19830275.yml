@@ -34,5 +34,15 @@ abstract: >-
   HNPP, even if they lack the typical HNPP phenotype, should be tested for point
   mutations in the PMP22 gene.
 date: 2009/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '19830275'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19830275%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '25685136'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
+      Acute Brachial Plexopathy A Lover's Palsy.

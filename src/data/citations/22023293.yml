@@ -38,5 +38,11 @@ abstract: >-
   clinical features. There are currently no treatments to cure the disease, but
   therapies seek to alleviate the symptoms and recurring episodes.
 date: 2011/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '22023293'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22023293%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.

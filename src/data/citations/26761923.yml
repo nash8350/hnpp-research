@@ -32,5 +32,18 @@ abstract: >-
   mutation can be asymptomatic. Lack of symptoms can contribute to
   underrecognition of the disease.
 date: 2016/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '7061551'
+  - pmid: '1677316'
+  - pmid: '24339129'
+  - pmid: '1552545'
+  - pmid: '9447611'
+  - pmid: '16376265'
+  - pmid: '20071523'
+  - pmid: '23224996'
+  - pmid: '11740762'
+  - pmid: '12084875'
+  - pmid: '8422677'
 pmid: '26761923'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26761923%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

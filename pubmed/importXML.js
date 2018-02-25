@@ -2,9 +2,6 @@ const fs = require("fs");
 const yaml = require('js-yaml');
 const xml2js = require('xml2js');
 
-const get = (p, o) =>
-  p.reduce((xs, x) => (xs && xs[x]) ? xs[x] : "", o);
-
 const content = fs.readFileSync("pubmed/pubmed.xml");
 let data = {};
 const options = { 
@@ -12,9 +9,15 @@ const options = {
     mergeAttrs: true,
     explicitArray: false
 };
+
 xml2js.parseString(content, options, function (err, result) {
     data = result;
 });
+
+const get = (p, o) =>
+  p.reduce((xs, x) => (xs && xs[x]) ? xs[x] : "", o);
+
+const citationList = [];
 
 data.PubmedArticleSet.PubmedArticle.forEach(article => {
 
@@ -33,14 +36,14 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
     if(article.MedlineCitation.Article.AuthorList) {
         if(Array.isArray(article.MedlineCitation.Article.AuthorList.Author)) {
             article.MedlineCitation.Article.AuthorList.Author.forEach(author => {
-                citation.authors.push({ name: author.LastName + " " + author.Initials });
+                if(author.LastName)
+                    citation.authors.push({ name: author.LastName + " " + author.Initials });
             })
         } else {
             if(article.MedlineCitation.Article.AuthorList.hasOwnProperty("Author"))
                 citation.authors.push({ name: article.MedlineCitation.Article.AuthorList.Author.ForeName + " " + article.MedlineCitation.Article.AuthorList.Author.LastName });
         }
     }
-
 
     //get unique mesh terms and keywords
     uniqueKeywords = new Set();
@@ -92,6 +95,21 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         } 
     })
 
+    // add a link
+    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
+
+    // cites
+    citation.cites = [];
+    if(article.MedlineCitation && article.MedlineCitation.CommentsCorrectionsList) {
+        if(Array.isArray(article.MedlineCitation.CommentsCorrectionsList.CommentsCorrections)) {
+            article.MedlineCitation.CommentsCorrectionsList.CommentsCorrections.forEach( comment => {
+                if(comment.RefType == "Cites") {
+                    citation.cites.push({ pmid: comment.PMID.value });
+                }
+            })
+        }
+    }
+
     // set filename to the PMID
     citation.pmid = "missing";
     const ids = article.PubmedData.ArticleIdList.ArticleId;
@@ -104,11 +122,28 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
     } else {
         citation.pmid = article.PubmedData.ArticleIdList.ArticleId.value;
     }
+
+    citationList.push(citation);
+})
+
+// cited by
+citationList.forEach(c1 => {
+    c1.citedBy = [];
+    citationList.forEach(c2 => {
+        c2.cites.forEach(c3 => {
+            if(c3.pmid == c1.pmid) {
+                c1.citedBy.push ({
+                    pmid: c2.pmid,
+                    title: c2.title
+                })
+            }
+        })
+    })
+})
+
+// write files
+citationList.forEach(citation => {
     const file = "src/data/citations/" + citation.pmid + ".yml";
-
-    // add a link
-    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
-
     fs.writeFileSync(file, yaml.safeDump(citation));
     console.log("writing " + file);
 })

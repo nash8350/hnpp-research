@@ -49,5 +49,12 @@ abstract: >-
   results obtained by Southern blot analysis. Concordant results were obtained
   in 49 of the 50 cases.
 date: 1998/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9521270'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9521270%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '15988805'
+    title: >-
+      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
+      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
+      liability to pressure palsies.

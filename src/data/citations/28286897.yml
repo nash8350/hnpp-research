@@ -33,5 +33,29 @@ abstract: >-
   Further studies are needed to comprehend the overall picture of the disease in
   Mediterranean area.
 date: 2017/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '22781092'
+  - pmid: '24705285'
+  - pmid: '9595994'
+  - pmid: '20865121'
+  - pmid: '4297451'
+  - pmid: '3344216'
+  - pmid: '22012984'
+  - pmid: '23207550'
+  - pmid: '27535533'
+  - pmid: '25429913'
+  - pmid: '9040744'
+  - pmid: '7891814'
+  - pmid: '12207152'
+  - pmid: '26849231'
+  - pmid: '11325886'
+  - pmid: '22577229'
+  - pmid: '11835375'
+  - pmid: '12754702'
+  - pmid: '23743332'
+  - pmid: '24078732'
+  - pmid: '7774040'
+  - pmid: '24894446'
 pmid: '28286897'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28286897%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

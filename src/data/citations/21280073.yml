@@ -52,5 +52,43 @@ abstract: >-
   propose a strategy of focused genetic testing for CMT, illustrated in a series
   of flow diagrams created as testing guides.
 date: 2011/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '7218272'
+  - pmid: '19056667'
+  - pmid: '10869062'
+  - pmid: '11003782'
+  - pmid: '12084875'
+  - pmid: '14711881'
+  - pmid: '14755484'
+  - pmid: '15064763'
+  - pmid: '15207873'
+  - pmid: '4430158'
+  - pmid: '7397478'
+  - pmid: '19627867'
+  - pmid: '7485175'
+  - pmid: '8800924'
+  - pmid: '15549395'
+  - pmid: '16043786'
+  - pmid: '16775368'
+  - pmid: '16714318'
+  - pmid: '17353473'
+  - pmid: '18227419'
+  - pmid: '19086068'
+  - pmid: '19056666'
 pmid: '21280073'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21280073%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.
+  - pmid: '26933540'
+    title: Hereditary Neuropathy with Liability to Pressure Palsies.
+  - pmid: '25430934'
+    title: >-
+      CMT subtypes and disease burden in patients enrolled in the Inherited
+      Neuropathies Consortium natural history study a cross-sectional analysis.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.

@@ -62,5 +62,19 @@ abstract: >-
   these sites in the development of the distinct background polyneuropathy in
   HNPP.
 date: 2003/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '14616306'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14616306%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '18218131'
+    title: >-
+      Unusual presentation of hereditary neuropathy with liability to pressure
+      palsies.

@@ -38,5 +38,15 @@ abstract: >-
   mechanisms and will provide a basis for gene therapy and/or other therapeutic
   approaches such as treatment with neurotrophic growth factors.
 date: 1997/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '10975746'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10975746%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.
+  - pmid: '9678704'
+    title: >-
+      Mutation analysis of the nerve specific promoter of the peripheral myelin
+      protein 22 gene in CMT1 disease and HNPP.

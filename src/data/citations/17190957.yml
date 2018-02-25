@@ -35,5 +35,19 @@ abstract: >-
   potentials. MRI abnormalities were observed in four patients. Our study
   suggests subclinical but functionally relevant CNS myelin damage in HNPP.
 date: 2006/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '17190957'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17190957%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27749933'
+    title: >-
+      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
+      Hereditary Neuropathy with Liability to Pressure Palsies.
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.

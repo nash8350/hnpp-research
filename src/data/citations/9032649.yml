@@ -54,5 +54,55 @@ abstract: >-
   reliable DNA diagnostic tool for the identification of the CMT1A duplication
   and HNPP deletion in most patients.
 date: 1997/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '1677316'
+  - pmid: '1552545'
+  - pmid: '8674212'
+  - pmid: '8789446'
+  - pmid: '1303230'
+  - pmid: '1303231'
+  - pmid: '1303281'
+  - pmid: '1303282'
+  - pmid: '8099303'
+  - pmid: '8510709'
+  - pmid: '8105684'
+  - pmid: '8252046'
+  - pmid: '7903071'
+  - pmid: '8111370'
+  - pmid: '8111385'
+  - pmid: '7909361'
+  - pmid: '8210227'
+  - pmid: '8004087'
+  - pmid: '8012365'
+  - pmid: '8012388'
+  - pmid: '8033938'
+  - pmid: '8422677'
+  - pmid: '1303228'
+  - pmid: '1303229'
+  - pmid: '7944298'
+  - pmid: '7825607'
+  - pmid: '7834893'
+  - pmid: '7541290'
+  - pmid: '8532623'
+  - pmid: '8557256'
+  - pmid: '8589720'
+  - pmid: '8634706'
+  - pmid: '8967749'
+  - pmid: '8644705'
+  - pmid: '8800924'
 pmid: '9032649'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9032649%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '20493460'
+    title: >-
+      Mechanisms for nonrecurrent genomic rearrangements associated with CMT1A
+      or HNPP rare CNVs as a cause for missing heritability.
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.
+  - pmid: '9545397'
+    title: >-
+      Human meiotic recombination products revealed by sequencing a hotspot for
+      homologous strand exchange in multiple HNPP deletion patients.

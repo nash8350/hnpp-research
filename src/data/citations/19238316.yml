@@ -42,5 +42,13 @@ abstract: >-
   HNPP associated with ALS. We discuss significant clinical and
   electrodiagnostic findings of this interesting case.
 date: 2009/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '11784354'
+  - pmid: '8609929'
+  - pmid: '9447611'
+  - pmid: '15114362'
+  - pmid: '7613613'
+  - pmid: '17190961'
 pmid: '19238316'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19238316%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

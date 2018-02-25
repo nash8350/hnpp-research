@@ -38,5 +38,15 @@ abstract: >-
   electrophysiological and genetic tests should be done to investigate this
   disorder.
 date: 2005/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15804150'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15804150%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).
+  - pmid: '22953141'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy presenting with
+      hand drop in a young child.

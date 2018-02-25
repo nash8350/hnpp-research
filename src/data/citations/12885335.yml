@@ -36,5 +36,12 @@ abstract: >-
   effective and can detect a 50% change in gene copy number. This represents an
   ideal assay for any small diagnostic laboratory.
 date: 2003/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '12885335'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12885335%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '15988805'
+    title: >-
+      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
+      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
+      liability to pressure palsies.

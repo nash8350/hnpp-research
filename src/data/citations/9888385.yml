@@ -32,5 +32,12 @@ abstract: >-
   This large number of genetically defined patients provides an exceptional
   opportunity to examine the correlation between phenotype and genotype.
 date: 1999/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9888385'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9888385%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '15988805'
+    title: >-
+      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
+      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
+      liability to pressure palsies.

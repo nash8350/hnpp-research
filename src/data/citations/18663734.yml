@@ -48,5 +48,11 @@ abstract: >-
   demyelinating neuropathy with acute nerve compression as well as in cases of
   the HNPP phenotype associated with normal the PMP22 gene.
 date: 2008/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '18663734'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18663734%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.

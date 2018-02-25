@@ -38,5 +38,21 @@ abstract: >-
   situ PCR. By image analysis, E. coli cells in polluted river water also were
   detected.
 date: 1998/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '2231712'
+  - pmid: '2041798'
+  - pmid: '1661072'
+  - pmid: '8386712'
+  - pmid: '3162770'
+  - pmid: '7533976'
+  - pmid: '7538215'
+  - pmid: '8526521'
+  - pmid: '8572706'
+  - pmid: '7984417'
 pmid: '9546190'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9546190%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '11679354'
+    title: >-
+      Direct detection by in situ PCR of the amoA gene in biofilm resulting from
+      a nitrogen removal process.

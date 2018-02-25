@@ -39,5 +39,15 @@ abstract: >-
   patients with brachial plexopathy if brachial plexopathy develops after
   push-ups or if the distal motor latency of median nerves is prolonged.
 date: 2014/09
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '25175852'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25175852%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '28948078'
+    title: >-
+      Muscle training-induced bilateral brachial plexopathy in an adolescent
+      with sporadic hereditary neuropathy with liability to pressure palsies.
+  - pmid: '26347841'
+    title: >-
+      Complex Scapular Winging following Total Shoulder Arthroplasty in a
+      Patient with Ehlers-Danlos Syndrome.

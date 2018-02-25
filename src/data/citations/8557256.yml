@@ -48,5 +48,76 @@ abstract: >-
   DNA with a CMT1A-REP probe allows direct detection of the HNPP deletion or the
   CMT1A duplication for DNA diagnostic purposes.
 date: 1996/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '8111385'
+  - pmid: '8111370'
+  - pmid: '7527371'
+  - pmid: '7944298'
+  - pmid: '7530774'
+  - pmid: '2335351'
+  - pmid: '7694726'
+  - pmid: '8252046'
+  - pmid: '6326095'
+  - pmid: '8510709'
+  - pmid: '1303281'
+  - pmid: '8105684'
+  - pmid: '8210227'
+  - pmid: '7931393'
+  - pmid: '8135298'
+  - pmid: '8396068'
+  - pmid: '1552545'
+  - pmid: '7693130'
+  - pmid: '1303228'
+  - pmid: '1303231'
+  - pmid: '3538420'
+  - pmid: '1303230'
+  - pmid: '7693129'
+  - pmid: '1303229'
+  - pmid: '7688964'
+  - pmid: '7505151'
+  - pmid: '1303282'
+  - pmid: '7545953'
+  - pmid: '1301169'
+  - pmid: '8028042'
+  - pmid: '1349106'
+  - pmid: '6932477'
+  - pmid: '7959791'
+  - pmid: '8004109'
+  - pmid: '1677316'
+  - pmid: '7825607'
+  - pmid: '8112739'
+  - pmid: '8004087'
+  - pmid: '8422677'
+  - pmid: '8266101'
+  - pmid: '8012365'
+  - pmid: '7909361'
+  - pmid: '8012388'
+  - pmid: '8162049'
+  - pmid: '2388867'
+  - pmid: '7512319'
+  - pmid: '13184660'
+  - pmid: '8401506'
+  - pmid: '7903071'
+  - pmid: '1822787'
+  - pmid: '8413376'
+  - pmid: '20271590'
+  - pmid: '7783177'
 pmid: '8557256'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8557256%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '15988805'
+    title: >-
+      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
+      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
+      liability to pressure palsies.
+  - pmid: '9032649'
+    title: >-
+      Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
+      European descent.
+  - pmid: '8937360'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies with a partial
+      deletion of the region often duplicated in Charcot-Marie-Tooth disease,
+      type 1A.

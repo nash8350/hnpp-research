@@ -26,5 +26,17 @@ abstract: >-
   Molecular analysis of thegene detected deletion of the 1.5-Mb fragment in all
   patients.
 date: 2016/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '23224996'
+  - pmid: '8866501'
+  - pmid: '24646194'
+  - pmid: '26189194'
+  - pmid: '9447611'
+  - pmid: '26982985'
+  - pmid: '19099137'
+  - pmid: '10227632'
+  - pmid: '8393091'
+  - pmid: '24726093'
 pmid: '27761228'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27761228%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

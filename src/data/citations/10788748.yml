@@ -33,5 +33,11 @@ abstract: >-
   Hereditary peripheral neuropathies may be a factor in triggering the
   autoimmune demyelinating disorder of the central nervous system.
 date: 2000/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '10788748'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10788748%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27749933'
+    title: >-
+      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
+      Hereditary Neuropathy with Liability to Pressure Palsies.

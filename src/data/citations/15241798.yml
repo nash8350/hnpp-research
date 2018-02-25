@@ -54,5 +54,9 @@ abstract: >-
   high-throughput testing and offers distinct advantages over other testing
   methods.
 date: 2004/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15241798'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15241798%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16570190'
+    title: Identification of Alu elements mediating a partial PMP22 deletion.

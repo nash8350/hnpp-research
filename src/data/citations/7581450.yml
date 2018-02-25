@@ -46,5 +46,43 @@ abstract: >-
   of peripheral nerves, the maintenance of axons and the determination of myelin
   thickness and stability.
 date: 1995/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '7581450'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7581450%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '27799291'
+    title: >-
+      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
+      hypermyelination.
+  - pmid: '27583434'
+    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '25429154'
+    title: >-
+      PMP22 is critical for actin-mediated cellular functions and for
+      establishing lipid rafts.
+  - pmid: '25374586'
+    title: >-
+      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
+      deficiency.
+  - pmid: '24339129'
+    title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '21670407'
+    title: Neuropathy in a human without the PMP22 gene.
+  - pmid: '20071523'
+    title: Conduction block in PMP22 deficiency.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '9418989'
+    title: Animal models for inherited peripheral neuropathies.
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.

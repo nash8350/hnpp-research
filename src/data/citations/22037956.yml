@@ -25,5 +25,18 @@ keywords:
   - keyword: Radial Nerve
 abstract: ''
 date: 2011/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '15544900'
+  - pmid: '11673320'
+  - pmid: '10680781'
+  - pmid: '19654968'
+  - pmid: '16969831'
+  - pmid: '12210843'
+  - pmid: '9040736'
 pmid: '22037956'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22037956%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25324890'
+    title: >-
+      Does hereditary neuropathy with liability to pressure palsy predispose to
+      schwannomatosis?

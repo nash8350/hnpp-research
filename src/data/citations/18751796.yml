@@ -21,5 +21,35 @@ abstract: >-
   self-limiting disease is controversial, and this patient suffered minimal
   disability with treatment including splinting and surgical releases.
 date: 2008/08
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '10636123'
+  - pmid: '12210462'
+  - pmid: '10734269'
+  - pmid: '10842280'
+  - pmid: '11140841'
+  - pmid: '11466642'
+  - pmid: '11494267'
+  - pmid: '12084875'
+  - pmid: '12682341'
+  - pmid: '14755484'
+  - pmid: '3476973'
+  - pmid: '8125763'
+  - pmid: '7501152'
+  - pmid: '8609929'
+  - pmid: '9447611'
+  - pmid: '10227632'
+  - pmid: '16344349'
+  - pmid: '16344182'
+  - pmid: '10680781'
+  - pmid: '16601541'
 pmid: '18751796'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18751796%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26512614'
+    title: >-
+      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
+      Neuropathy With Liability to Pressure Palsies (HNPP).
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.

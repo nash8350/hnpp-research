@@ -37,5 +37,12 @@ abstract: >-
   of this region in over 45 patient and control samples studied. Conclusions
   This assay appears to provide a reliable and consistent method of analysis.
 date: 1996/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '10330199'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10330199%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '15988805'
+    title: >-
+      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
+      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
+      liability to pressure palsies.

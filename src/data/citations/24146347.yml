@@ -41,5 +41,11 @@ abstract: >-
   with a clinical presentation of CIDP, especially when positive family history
   or unexpected neurophysiological features are present.
 date: 2013/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '24146347'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24146347%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '26187721'
+    title: >-
+      An n-of-one RCT for intravenous immunoglobulin G for inflammation in
+      hereditary neuropathy with liability to pressure palsy (HNPP).

@@ -32,5 +32,7 @@ abstract: >-
   probe used, these methods detect single-copy genes from as little as 0.3
   micrograms of total genomic DNA.
 date: 1993/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8509946'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8509946%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

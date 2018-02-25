@@ -22,5 +22,17 @@ keywords:
   - keyword: Paralysis
 abstract: ''
 date: 2003/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '12796555'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12796555%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '23185166'
+    title: >-
+      Two cases of elderly-onset hereditary neuropathy with liability to
+      pressure palsy manifesting bilateral peroneal nerve palsies.
+  - pmid: '15205993'
+    title: >-
+      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
+      with liability to pressure palsies and CMT1A phenotypes.

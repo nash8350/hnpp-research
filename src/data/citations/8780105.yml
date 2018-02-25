@@ -47,5 +47,37 @@ abstract: >-
   thought. The prevalence of the disease is probably underestimated, and the
   availability of molecular diagnosis should increase disease detection.
 date: 1996/04
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8780105'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8780105%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '28489810'
+    title: >-
+      A case report of hereditary neuropathy with liability to pressure palsies
+      accompanied by type 2 diabetes mellitus and psoriasis.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23881104'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy fulminant radicular
+      dysfunction during anterolateral lumbar interbody fusion.
+  - pmid: '23185166'
+    title: >-
+      Two cases of elderly-onset hereditary neuropathy with liability to
+      pressure palsy manifesting bilateral peroneal nerve palsies.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '16024889'
+    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.
+  - pmid: '15205993'
+    title: >-
+      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
+      with liability to pressure palsies and CMT1A phenotypes.
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.

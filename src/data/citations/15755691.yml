@@ -52,5 +52,13 @@ abstract: >-
   identified a number of candidate genes that may play important roles in the
   disease process or in myelination per se.
 date: 2005/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15755691'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15755691%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.

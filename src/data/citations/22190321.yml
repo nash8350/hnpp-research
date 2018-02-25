@@ -37,5 +37,11 @@ abstract: >-
   demonstrate the important role of small deletions in the PMP22 gene in the
   etiology of HNPP with a normal microsatellite study.
 date: 2011/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '22190321'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22190321%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25685136'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
+      Acute Brachial Plexopathy A Lover's Palsy.

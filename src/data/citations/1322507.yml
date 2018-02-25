@@ -40,5 +40,24 @@ abstract: >-
   degeneration. Attention is drawn to the atypical presentation without pressure
   palsies of HNPP.
 date: 1992/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '1322507'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1322507%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '27386852'
+    title: >-
+      Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from
+      replication-based mechanisms and result in Smith-Magenis syndrome with
+      evident peripheral neuropathy.
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '8396068'
+    title: >-
+      Gene for hereditary neuropathy with liability to pressure palsies (HNPP)
+      maps to chromosome 17 at or close to the locus for HMSN type 1.

@@ -30,7 +30,6 @@ authors:
   - name: Zuchner S
   - name: Scherer SS
   - name: Shy ME
-  - name: undefined undefined
 keywords:
   - keyword: 'Adaptor Proteins, Signal Transducing'
   - keyword: Cell Cycle Proteins
@@ -77,5 +76,40 @@ abstract: >-
   These data will provide a representative baseline for longitudinal studies of
   CMT. ID number NCT01193075.
 date: 2014/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '22003934'
+  - pmid: '22243284'
+  - pmid: '22522479'
+  - pmid: '22577229'
+  - pmid: '23279425'
+  - pmid: '23743332'
+  - pmid: '23931782'
+  - pmid: '23797954'
+  - pmid: '24018473'
+  - pmid: '24078732'
+  - pmid: '23963961'
+  - pmid: '25400013'
+  - pmid: '25157034'
+  - pmid: '14711881'
+  - pmid: '4430158'
+  - pmid: '1677316'
+  - pmid: '1303230'
+  - pmid: '9126058'
+  - pmid: '15824348'
+  - pmid: '16787513'
+  - pmid: '17353473'
+  - pmid: '18227419'
+  - pmid: '19135335'
+  - pmid: '20482598'
+  - pmid: '21280073'
+  - pmid: '21393063'
+  - pmid: '21508331'
+  - pmid: '21326314'
+  - pmid: '21692908'
 pmid: '25430934'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25430934%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.

@@ -52,5 +52,13 @@ abstract: >-
   development continue to be important for Schwann cell survival throughout
   life.
 date: 1998/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9630241'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9630241%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29127354'
+    title: >-
+      Clinical and Molecular Characterization of PMP22 point mutations in
+      Taiwanese patients with Inherited Neuropathy.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.

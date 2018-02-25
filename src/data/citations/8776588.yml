@@ -59,5 +59,16 @@ abstract: >-
   CMT1A-REP sequence appeared as a repeat before the divergence of chimpanzee
   and human, but after gorilla and human around 6 to 7 million years ago.
 date: 1996/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8776588'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8776588%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.

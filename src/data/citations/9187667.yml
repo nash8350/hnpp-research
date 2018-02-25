@@ -56,5 +56,25 @@ abstract: >-
   Ectopic mRNA analysis on leukocytes suggests that this mutation might behave
   as a null allele.
 date: 1997/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9187667'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9187667%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '16199442'
+    title: >-
+      An abnormal mRNA produced by a novel PMP22 splice site mutation associated
+      with HNPP.
+  - pmid: '10727485'
+    title: >-
+      Clinical syndromes associated with tomacula or myelin swellings in sural
+      nerve biopsies.

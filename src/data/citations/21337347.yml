@@ -33,5 +33,13 @@ abstract: >-
   The novel R159C mutation represents a very rare case of a dominant PMP22
   mutation causing an axonal neuropathy.
 date: 2011/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '21337347'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21337347%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24819634'
+    title: >-
+      Mutation analysis of MFN2, GJB1, MPZ and PMP22 in Italian patients with
+      axonal Charcot-Marie-Tooth disease.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.

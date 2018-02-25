@@ -43,5 +43,11 @@ abstract: >-
   demonstrate that corticosteroid therapy may also be beneficial in individuals
   with HNPP who have a protracted or incomplete course of recovery.
 date: 2011/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '22098098'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22098098%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24251057'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy a recurrent and
+      bilateral foot drop case report.

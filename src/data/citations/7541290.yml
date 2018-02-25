@@ -42,5 +42,11 @@ abstract: >-
   protein. These molecular genetic advances can be translated into clinical
   practice, leading to improved diagnosis and genetic counselling.
 date: 1995/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '7541290'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7541290%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '9032649'
+    title: >-
+      Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
+      European descent.

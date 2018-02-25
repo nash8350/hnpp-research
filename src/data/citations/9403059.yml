@@ -62,5 +62,12 @@ abstract: >-
   the CMT1A-REP binary repeat could explain the maintenance of this repeat in
   humans.
 date: 1997/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9403059'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9403059%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.

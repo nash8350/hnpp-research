@@ -36,5 +36,11 @@ abstract: >-
   and entrapment. Sural nerve biopsy revealed multiple tomacula consistent with
   the diagnosis of HNLPP.
 date: 1994/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8033945'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8033945%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '8936351'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies the same
+      molecular defect can result in diverse clinical presentation.

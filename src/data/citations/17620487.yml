@@ -65,5 +65,32 @@ abstract: >-
   deletion. They also demonstrate that reduction of PMP22 is sufficient to cause
   the full HNPP phenotype.
 date: 2007/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '17620487'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17620487%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '27583434'
+    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
+  - pmid: '27386852'
+    title: >-
+      Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from
+      replication-based mechanisms and result in Smith-Magenis syndrome with
+      evident peripheral neuropathy.
+  - pmid: '25792482'
+    title: >-
+      Molecular regulators of nerve conduction - Lessons from inherited
+      neuropathies and rodent genetic models.
+  - pmid: '25374586'
+    title: >-
+      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
+      deficiency.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '20071523'
+    title: Conduction block in PMP22 deficiency.
+  - pmid: '19447823'
+    title: PMP22 expression in dermal nerve myelin from patients with CMT1A.

@@ -22,9 +22,6 @@ authors:
   - name: Miller RG
   - name: Polydefkis M
   - name: Sumner AJ
-  - name: undefined undefined
-  - name: undefined undefined
-  - name: undefined undefined
 keywords:
   - keyword: Algorithms
   - keyword: Clinical Laboratory Techniques
@@ -71,5 +68,9 @@ abstract: >-
   cryptogenic polyneuropathy who do not exhibit a hereditary neuropathy
   phenotype (Level U).
 date: 2008/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '19086068'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19086068%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '21280073'
+    title: Charcot-Marie-Tooth disease subtypes and genetic testing strategies.

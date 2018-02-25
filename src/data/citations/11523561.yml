@@ -30,5 +30,11 @@ abstract: >-
   painful attacks of brachial plexus palsies in genetically susceptible
   individuals.
 date: 2001/08
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '11523561'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11523561%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.

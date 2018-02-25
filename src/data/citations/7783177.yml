@@ -39,5 +39,28 @@ abstract: >-
   the duplicated region, allowing us to propose them as diagnostic markers for
   CMT1A and HNPP.
 date: 1995/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '4297451'
+  - pmid: '1677316'
+  - pmid: '1721895'
+  - pmid: '1436057'
+  - pmid: '8422677'
+  - pmid: '7545953'
+  - pmid: '8099303'
+  - pmid: '8401506'
+  - pmid: '8111370'
+  - pmid: '8111385'
+  - pmid: '1303282'
 pmid: '7783177'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7783177%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '8651299'
+    title: >-
+      Recombination hot spot in a 3.2-kb region of the Charcot-Marie-Tooth type
+      1A repeat sequences new tools for molecular diagnosis of hereditary
+      neuropathy with liability to pressure palsies and of Charcot-Marie-Tooth
+      type 1A. French CMT Collaborative Research Group.
+  - pmid: '8557256'
+    title: >-
+      Molecular genetic analysis of the 17p11.2 region in patients with
+      hereditary neuropathy with liability to pressure palsies (HNPP).

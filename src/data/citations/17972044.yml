@@ -29,5 +29,13 @@ abstract: >-
   consequent to non-traumatic stretching of the middle and the lower trunks was
   made.
 date: 2007/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '16412841'
+  - pmid: '11870699'
+  - pmid: '10083998'
+  - pmid: '11437168'
+  - pmid: '14871452'
+  - pmid: '15452843'
 pmid: '17972044'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17972044%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

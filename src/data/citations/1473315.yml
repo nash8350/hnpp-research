@@ -32,5 +32,15 @@ abstract: >-
   liability to pressure palsies, but also in any case with chronic sensory-motor
   neuropathy.
 date: 1992/11
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '1473315'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1473315%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '8936351'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies the same
+      molecular defect can result in diverse clinical presentation.
+  - pmid: '8125763'
+    title: >-
+      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
+      review of the literature.

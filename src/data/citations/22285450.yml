@@ -25,5 +25,11 @@ abstract: >-
   similarities in the molecular pathology underlying these conditions, and here
   we compare the molecular genetics and cellular pathology of the two groups.
 date: 2012/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '22285450'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22285450%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24819634'
+    title: >-
+      Mutation analysis of MFN2, GJB1, MPZ and PMP22 in Italian patients with
+      axonal Charcot-Marie-Tooth disease.

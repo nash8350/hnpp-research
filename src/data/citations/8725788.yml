@@ -37,5 +37,12 @@ abstract: >-
   Hereditary Neuropathy with Liability to Pressure Palsies (HNPP) and
   Charcot-Marie-Tooth Type 1A disease (CMT1A).
 date: 1996/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8725788'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8725788%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '9973284'
+    title: >-
+      DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
+      individual with a family history of autosomal dominant carpal tunnel
+      syndrome.

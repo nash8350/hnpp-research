@@ -20,5 +20,11 @@ keywords:
   - keyword: Radiculopathy
 abstract: ''
 date: 2016/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '26773980'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26773980%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29079893'
+    title: >-
+      Characterisation of pain in people with hereditary neuropathy with
+      liability to pressure palsy.

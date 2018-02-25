@@ -43,5 +43,17 @@ abstract: >-
   clinical, electrophysiologic, and pathologic differences, that HNA and HNPP
   are distinct disorders.
 date: 1994/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '7991108'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7991108%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '8936351'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies the same
+      molecular defect can result in diverse clinical presentation.

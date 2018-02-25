@@ -53,5 +53,30 @@ abstract: >-
   LITAF sequence variant would be a good candidate for a biomarker in the case
   of the CMT1A/HNPP disorders.
 date: 2014/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '10586249'
+  - pmid: '8215977'
+  - pmid: '12525712'
+  - pmid: '14608378'
+  - pmid: '1677316'
+  - pmid: '1822787'
+  - pmid: '7501164'
+  - pmid: '9403478'
+  - pmid: '10022584'
+  - pmid: '15786462'
+  - pmid: '15776429'
+  - pmid: '16787513'
+  - pmid: '19638685'
+  - pmid: '19691535'
+  - pmid: '19941344'
+  - pmid: '20538976'
+  - pmid: '20842290'
+  - pmid: '21504497'
+  - pmid: '23166352'
+  - pmid: '23576546'
+  - pmid: '25058650'
+  - pmid: '24668782'
+  - pmid: '11140948'
 pmid: '25342198'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25342198%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

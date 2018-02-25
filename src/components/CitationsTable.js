@@ -1,6 +1,5 @@
 import React from 'react';
-//import ReactTable from 'react-table'
-//import 'react-table/react-table.css'
+import CitationFilter from '../components/CitationFilter';
 import Content, { HTMLContent } from '../components/Content';
 import {
   PagingState,
@@ -34,26 +33,15 @@ const TitleTypeProvider = props => (
 export default ({ citations }) => (
   <div className="columns">
     <div className="column is-2">
-      <h1 className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Filter by tag</h1>
-      <div className="field">
-        <div className="control">
-          <label className="checkbox">
-            <input type="checkbox"/>
-            <span className="horiz-padded">Epidemiology</span>
-          </label>
-          <label className="checkbox">
-            <input type="checkbox"/>
-            <span className="horiz-padded">Symptoms</span>
-          </label>
-        </div>
-      </div>
+      <CitationFilter/>
     </div>
     <div className="column is-10">
       <Grid
         rows={citations}
         columns={[
           { name: 'date', title: 'Date' },
-          { name: 'title', title: 'Title' }
+          { name: 'title', title: 'Title' },
+          { name: 'numCitedBy', title: 'Cited By' }
         ]}>
         <PagingState
           defaultCurrentPage={0}
@@ -73,7 +61,8 @@ export default ({ citations }) => (
         <Table />
         <TableColumnResizing defaultColumnWidths={[
           { columnName: 'date', width: 100 },
-          { columnName: 'title', width: tableWidth-100 }
+          { columnName: 'title', width: tableWidth-200 },
+          { columnName: 'numCitedBy', width: 100 }
         ]}/>
         <TableHeaderRow 
           showSortingControls

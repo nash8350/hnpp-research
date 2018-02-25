@@ -54,5 +54,21 @@ abstract: >-
   environmental factors might be responsible for the distinctive features of
   HNPP and HMSN IA.
 date: 1995/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '7753126'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7753126%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23207550'
+    title: Electrophysiological comparison between males and females in HNPP.
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.
+  - pmid: '8936351'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies the same
+      molecular defect can result in diverse clinical presentation.

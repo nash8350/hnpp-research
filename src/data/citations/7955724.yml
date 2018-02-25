@@ -46,5 +46,11 @@ abstract: >-
   of the PMP-22 gene. From these data we conclude that the PMP-22 gene also was
   deleted in the Japanese family with HNPP.
 date: 1994/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '7955724'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7955724%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.

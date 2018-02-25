@@ -57,5 +57,19 @@ abstract: >-
   HNPP and must be thoroughly investigated in patients with acute painless
   mononeuropathy/plexopathy.
 date: 1998/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '9843070'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9843070%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '25326571'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies presenting with
+      sciatic neuropathy.
+  - pmid: '21429232'
+    title: >-
+      Recovery of brachial plexus lesions resulting from heavy backpack use a
+      follow-up case series.

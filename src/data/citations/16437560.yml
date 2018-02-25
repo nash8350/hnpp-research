@@ -47,5 +47,21 @@ abstract: >-
   these findings suggest that T118M is a pathogenic mutation causing a
   dominantly inherited form of CMT by a partial loss of PMP22 function.
 date: 2006/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '16437560'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16437560%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.
+  - pmid: '26012543'
+    title: >-
+      Coexistence of a T118M PMP22 missense mutation and chromosome 17
+      (17p11.2-p12) deletion.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '21670407'
+    title: Neuropathy in a human without the PMP22 gene.
+  - pmid: '19513300'
+    title: A Family Harboring CMT1A Duplication and HNPP Deletion.

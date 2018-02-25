@@ -22,5 +22,20 @@ abstract: >-
   mutations within a single family. We report a rare family harboring CMT1A
   duplication and HNPP deletion.
 date: 2007/06
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '16775374'
+  - pmid: '16775371'
+  - pmid: '16437560'
+  - pmid: '8634706'
+  - pmid: '11835375'
+  - pmid: '8111370'
+  - pmid: '15367862'
+  - pmid: '15031668'
+  - pmid: '8644705'
 pmid: '19513300'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19513300%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '19654968'
+    title: >-
+      Charcot-Marie-Tooth 1A concurrent with schwannomas of the spinal cord and
+      median nerve.

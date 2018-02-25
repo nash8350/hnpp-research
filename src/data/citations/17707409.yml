@@ -49,5 +49,11 @@ abstract: >-
   shift on the reading frame starting at codon 4 and leads to the introduction
   of a premature stop at codon 6.
 date: 2007/08
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '17707409'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17707409%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '29078790'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+      family with a new point mutation in PMP22 gene.

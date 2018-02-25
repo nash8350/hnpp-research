@@ -55,5 +55,32 @@ abstract: >-
   and identifying rearrangement breakpoints, even in LCR-rich regions of the
   genome.
 date: 2004/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '10615134'
+  - pmid: '10398439'
+  - pmid: '11381029'
+  - pmid: '11818139'
+  - pmid: '11923193'
+  - pmid: '11997338'
+  - pmid: '11997339'
+  - pmid: '12649807'
+  - pmid: '12915473'
+  - pmid: '2425619'
+  - pmid: '3728561'
+  - pmid: '1677316'
+  - pmid: '1746552'
+  - pmid: '1639385'
+  - pmid: '8422677'
+  - pmid: '1303282'
+  - pmid: '8105684'
+  - pmid: '8004087'
+  - pmid: '8651284'
+  - pmid: '9096765'
+  - pmid: '9326934'
+  - pmid: '9491330'
+  - pmid: '9605871'
+  - pmid: '9973284'
+  - pmid: '11159946'
 pmid: '14757858'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14757858%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

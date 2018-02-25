@@ -42,5 +42,28 @@ abstract: >-
   independent events, we could not completely ignore the possibility that the
   coincidence of two diseases might be due to a shared genetic background.
 date: 2009/08
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '7397478'
+  - pmid: '7674010'
+  - pmid: '9040737'
+  - pmid: '12056842'
+  - pmid: '12447105'
+  - pmid: '9040744'
+  - pmid: '1677316'
+  - pmid: '7991107'
+  - pmid: '16969831'
+  - pmid: '8422677'
+  - pmid: '19513300'
+  - pmid: '16481890'
+  - pmid: '17362838'
 pmid: '19654968'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19654968%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25324890'
+    title: >-
+      Does hereditary neuropathy with liability to pressure palsy predispose to
+      schwannomatosis?
+  - pmid: '22037956'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy combined with
+      suspected schwannomas of the peroneal and radial nerves.

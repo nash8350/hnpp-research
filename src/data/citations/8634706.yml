@@ -42,5 +42,30 @@ abstract: >-
   between proximal and distal CMT1A-REP repeat sequences. Probes useful for
   molecular-based diagnosis of CMT1A and HNPP are described.
 date: 1995/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8634706'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8634706%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '19513300'
+    title: A Family Harboring CMT1A Duplication and HNPP Deletion.
+  - pmid: '16024889'
+    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.
+  - pmid: '11381029'
+    title: >-
+      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
+      genome architectural features and provides insights into the recent
+      evolution of new genes.
+  - pmid: '9545397'
+    title: >-
+      Human meiotic recombination products revealed by sequencing a hotspot for
+      homologous strand exchange in multiple HNPP deletion patients.
+  - pmid: '9032649'
+    title: >-
+      Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
+      European descent.
+  - pmid: '8651299'
+    title: >-
+      Recombination hot spot in a 3.2-kb region of the Charcot-Marie-Tooth type
+      1A repeat sequences new tools for molecular diagnosis of hereditary
+      neuropathy with liability to pressure palsies and of Charcot-Marie-Tooth
+      type 1A. French CMT Collaborative Research Group.

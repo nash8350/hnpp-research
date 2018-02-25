@@ -28,5 +28,15 @@ keywords:
   - keyword: Vocal Cord Paralysis
 abstract: ''
 date: 2001/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '11376203'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11376203%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '18218131'
+    title: >-
+      Unusual presentation of hereditary neuropathy with liability to pressure
+      palsies.

@@ -38,5 +38,27 @@ abstract: >-
   assessing the risk during genetic counselling, due to the inheritance of the
   mutation.
 date: 1995/05
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '1487234'
+  - pmid: '8179301'
+  - pmid: '8105684'
+  - pmid: '1301995'
+  - pmid: '4297451'
+  - pmid: '1486731'
+  - pmid: '14212604'
+  - pmid: '6312838'
+  - pmid: '1640430'
+  - pmid: '1301169'
+  - pmid: '1349106'
+  - pmid: '7294727'
+  - pmid: '1677316'
+  - pmid: '8112739'
+  - pmid: '8422677'
+  - pmid: '8230595'
+  - pmid: '8012388'
+  - pmid: '7903071'
 pmid: '7643137'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7643137%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.

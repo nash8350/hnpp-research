@@ -48,5 +48,17 @@ abstract: >-
   gene that respond differently to axonal signals received by Schwann cells
   during nerve development, and during remyelination.
 date: 2005/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '15723356'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15723356%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '22180461'
+    title: >-
+      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
+      PMP22.

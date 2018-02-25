@@ -48,5 +48,60 @@ abstract: >-
   frequency at which these abnormalities arise and the underlying molecular
   characteristics of the genome in this region.
 date: 1999/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '1141922'
+  - pmid: '9820031'
+  - pmid: '468243'
+  - pmid: '7241167'
+  - pmid: '7081295'
+  - pmid: '6681937'
+  - pmid: '2425619'
+  - pmid: '2425620'
+  - pmid: '3597507'
+  - pmid: '2178819'
+  - pmid: '1746552'
+  - pmid: '1554316'
+  - pmid: '8422677'
+  - pmid: '1486731'
+  - pmid: '8465847'
+  - pmid: '1303282'
+  - pmid: '8500795'
+  - pmid: '8132119'
+  - pmid: '8135286'
+  - pmid: '8004087'
+  - pmid: '7825574'
+  - pmid: '7633408'
+  - pmid: '8589720'
+  - pmid: '8967749'
+  - pmid: '8655146'
+  - pmid: '8684798'
+  - pmid: '8725788'
+  - pmid: '8834051'
+  - pmid: '8862346'
+  - pmid: '8882782'
+  - pmid: '9052822'
+  - pmid: '9096765'
+  - pmid: '9105971'
+  - pmid: '9153141'
+  - pmid: '9285799'
+  - pmid: '9326934'
+  - pmid: '9545397'
+  - pmid: '464452'
 pmid: '9973284'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9973284%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '28692128'
+    title: Carpal tunnel syndrome in inherited neuropathies A retrospective survey.
+  - pmid: '27386852'
+    title: >-
+      Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from
+      replication-based mechanisms and result in Smith-Magenis syndrome with
+      evident peripheral neuropathy.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.
+  - pmid: '14757858'
+    title: >-
+      Comparative genomic hybridisation using a proximal 17p BAC/PAC array
+      detects rearrangements responsible for four genomic disorders.

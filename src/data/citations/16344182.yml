@@ -50,5 +50,15 @@ abstract: >-
   and patients who have multiple surgical releases for upper-extremity
   entrapment neuropathies.
 date: 2005/12
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '16344182'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16344182%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25337104'
+    title: >-
+      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
+      hereditary neuropathy with liability to pressure palsies patients.
+  - pmid: '18751796'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies case report and
+      discussion.

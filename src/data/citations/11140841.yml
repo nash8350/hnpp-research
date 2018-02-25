@@ -44,5 +44,15 @@ abstract: >-
   gene. The clinical phenotypes of the patients correlate well with the effect
   of the mutation on the protein.
 date: 2001/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '11140841'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11140841%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '18751796'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsies case report and
+      discussion.
+  - pmid: '16775374'
+    title: >-
+      Inherited focal, episodic neuropathies hereditary neuropathy with
+      liability to pressure palsies and hereditary neuralgic amyotrophy.

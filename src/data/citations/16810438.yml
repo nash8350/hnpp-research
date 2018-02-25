@@ -28,5 +28,11 @@ abstract: >-
   presented to promote awareness and recognition of this disease in the local
   and regional context.
 date: 2006/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '16810438'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16810438%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25685136'
+    title: >-
+      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
+      Acute Brachial Plexopathy A Lover's Palsy.

@@ -42,5 +42,35 @@ abstract: >-
   defect, the different clinical symptomatology of the two patients is
   discussed.
 date: 1996/03
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites:
+  - pmid: '7944298'
+  - pmid: '864493'
+  - pmid: '1303281'
+  - pmid: '4345910'
+  - pmid: '431042'
+  - pmid: '7753126'
+  - pmid: '14212604'
+  - pmid: '1303231'
+  - pmid: '8033945'
+  - pmid: '3476973'
+  - pmid: '1677316'
+  - pmid: '8004087'
+  - pmid: '8422677'
+  - pmid: '2276038'
+  - pmid: '2556882'
+  - pmid: '2381536'
+  - pmid: '8012388'
+  - pmid: '13184660'
+  - pmid: '2444411'
+  - pmid: '8393091'
+  - pmid: '1473315'
+  - pmid: '7991108'
+  - pmid: '1822787'
+  - pmid: '1117305'
 pmid: '8936351'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8936351%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24251057'
+    title: >-
+      Hereditary neuropathy with liability to pressure palsy a recurrent and
+      bilateral foot drop case report.

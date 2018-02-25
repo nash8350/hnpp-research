@@ -46,5 +46,13 @@ abstract: >-
   informative familial history, or clinical symptoms or even suggestive EMG or
   histopathological data (tomaculas).
 date: 1995/10
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8848937'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8848937%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '23224996'
+    title: The PMP22 gene and its related diseases.
+  - pmid: '9391880'
+    title: >-
+      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
+      the value of direct DNA diagnosis.

@@ -48,5 +48,26 @@ abstract: >-
   generalized neuropathy, and in patients with multifocal neuropathies that do
   not conform to the classic clinical practice of HNPP.
 date: 1996/02
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '8967749'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8967749%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24339129'
+    title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.
+  - pmid: '16024889'
+    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.
+  - pmid: '15205993'
+    title: >-
+      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
+      with liability to pressure palsies and CMT1A phenotypes.
+  - pmid: '9973284'
+    title: >-
+      DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
+      individual with a family history of autosomal dominant carpal tunnel
+      syndrome.
+  - pmid: '9418989'
+    title: Animal models for inherited peripheral neuropathies.
+  - pmid: '9032649'
+    title: >-
+      Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
+      European descent.

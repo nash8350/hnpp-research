@@ -48,5 +48,16 @@ abstract: >-
   quantitative PCR is the first method of choice in diagnosing PMP22 duplication
   and deletion.
 date: 2001/01
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '11140948'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11140948%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '25342198'
+    title: >-
+      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
+      of CMT1A/HNPP diseases.
+  - pmid: '19638685'
+    title: >-
+      Screening of the 17p11.2--p12 region in a large cohort of patients with
+      Charcot-Marie-Tooth (CMT) disease or hereditary neuropathy with liability
+      to pressure palsies (HNPP).

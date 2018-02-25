@@ -29,5 +29,11 @@ abstract: >-
   clinically related to HNPP and its genotype could be a chromosome 17p11.2
   deletion.
 date: 2005/07
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
+cites: []
 pmid: '16007675'
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16007675%5Buid%5D&cmd=DetailsSearch'
+citedBy:
+  - pmid: '24646194'
+    title: >-
+      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
+      Hereditary Neuropathy with liability to Pressure Palsies.
