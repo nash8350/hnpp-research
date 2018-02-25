@@ -36,9 +36,6 @@ export default ({ data }) => {
     if(citation.keywordlist.length > 1)
       citation.keywordlist = citation.keywordlist.substring(0, citation.keywordlist.length - 2);
 
-    if(citation.abstractLink == undefined)
-      console.log("un");
-
     citations.push(citation);
   });
 

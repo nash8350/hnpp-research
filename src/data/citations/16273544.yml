@@ -13,7 +13,6 @@ keywords:
   - keyword: Biotinylation
   - keyword: methods
   - keyword: 'Blotting, Western'
-  - keyword: methods
   - keyword: Bromodeoxyuridine
   - keyword: metabolism
   - keyword: Cell Count
@@ -24,40 +23,25 @@ keywords:
   - keyword: Gene Expression Regulation
   - keyword: genetics
   - keyword: Glycine
-  - keyword: genetics
   - keyword: Hemagglutinins
-  - keyword: metabolism
   - keyword: Humans
   - keyword: Immunohistochemistry
-  - keyword: methods
   - keyword: Intracellular Space
-  - keyword: metabolism
   - keyword: Lysosomal-Associated Membrane Protein 1
-  - keyword: metabolism
   - keyword: Mutagenesis
   - keyword: physiology
   - keyword: Myelin Proteins
-  - keyword: genetics
-  - keyword: metabolism
   - keyword: Peripheral Nervous System Diseases
-  - keyword: genetics
   - keyword: 'Protein Structure, Tertiary'
   - keyword: drug effects
-  - keyword: genetics
   - keyword: Protein Transport
-  - keyword: genetics
   - keyword: Proto-Oncogene Proteins c-myc
-  - keyword: metabolism
   - keyword: Rats
   - keyword: 'Receptor, Nerve Growth Factor'
-  - keyword: metabolism
   - keyword: Schwann Cells
-  - keyword: metabolism
   - keyword: Severity of Illness Index
   - keyword: Subcellular Fractions
-  - keyword: metabolism
   - keyword: Transfection
-  - keyword: methods
 abstract: >-
   Alterations in peripheral myelin protein 22 (PMP22) expression are associated
   with a heterogeneous group of hereditary demyelinating peripheral

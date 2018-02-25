@@ -41,18 +41,26 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         }
     }
 
-    //get the mesh terms
+
+    //get unique mesh terms and keywords
+    uniqueKeywords = new Set();
     citation.keywords = [];
+    function addUniqueKeyword(key) {
+        if(!uniqueKeywords.has(key)) {
+            citation.keywords.push({ keyword: key });
+            uniqueKeywords.add(key);
+        }
+    }
     if(article.MedlineCitation.MeshHeadingList) {
         article.MedlineCitation.MeshHeadingList.MeshHeading.forEach(heading => {
-            citation.keywords.push({ keyword: heading.DescriptorName.value });
+            addUniqueKeyword(heading.DescriptorName.value);
             if(heading.QualifierName) {
                 if(Array.isArray(heading.QualifierName)) {
                     heading.QualifierName.forEach(qualifier => {
-                        citation.keywords.push({ keyword: qualifier.value });
+                        addUniqueKeyword(qualifier.value);
                     })
                 } else {
-                    citation.keywords.push({ keyword: heading.QualifierName.value });
+                    addUniqueKeyword(heading.QualifierName.value);
                 }
             }
         })

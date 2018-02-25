@@ -16,18 +16,14 @@ keywords:
   - keyword: 'Embryo, Mammalian'
   - keyword: cytology
   - keyword: 'Ganglia, Spinal'
-  - keyword: cytology
   - keyword: metabolism
   - keyword: Mice
   - keyword: 'Mice, Inbred C57BL'
   - keyword: 'Microscopy, Confocal'
   - keyword: Neurites
-  - keyword: metabolism
   - keyword: Neuronal Outgrowth
   - keyword: physiology
   - keyword: Schwann Cells
-  - keyword: cytology
-  - keyword: metabolism
   - keyword: 'Stress, Mechanical'
 abstract: >-
   Migration of Schwann cells (SCs) progenitors and neurite outgrowth from

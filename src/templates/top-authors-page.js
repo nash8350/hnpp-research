@@ -1,6 +1,6 @@
 import React from 'react';
 import graphql from 'graphql';
-import TopAuthorsTable from '../components/TopAuthorsTable';
+import CitationsGroupedTable from '../components/CitationsGroupedTable';
 
 export const TopAuthorsPageTemplate = ({
   title, description, authorList}) => (
@@ -9,7 +9,21 @@ export const TopAuthorsPageTemplate = ({
       <h3 className="has-text-weight-semibold is-size-2">{title}</h3>
       <p>{description}</p>
       <br/>
-      <TopAuthorsTable authorList={authorList} />
+      <CitationsGroupedTable 
+        data={authorList} 
+        cols={[
+            { name: 'item', title: 'Author' },
+            { name: 'date', title: 'Date' },
+            { name: 'title', title: 'Title' }
+          ]}
+        colWidths={[
+            { columnName: 'item', width: 200 },
+            { columnName: 'date', width: 125 },
+            { columnName: 'title', width: 800-125 }
+          ]}
+        groupBy='item'
+        tableWidth={800}
+        />
     </div>
   </section>
 );
@@ -26,7 +40,7 @@ export default ({ data }) => {
         citation.authorlist += author.name + ", ";
         })
         if(citation.authorlist.length > 1)
-        citation.authorlist = citation.authorlist.substring(0, citation.authorlist.length - 2);
+          citation.authorlist = citation.authorlist.substring(0, citation.authorlist.length - 2);
 
         //create a table of authors
         citation.authors.forEach(author => {
@@ -41,14 +55,17 @@ export default ({ data }) => {
     const authorTable = [];
     for(let name in authorMap) {
         authorTable.push({
-            author: name,
-            numArticles: authorMap[name].length,
-            citations: authorMap[name]
+          item: name,
+          numArticles: authorMap[name].length,
+          citations: authorMap[name]
         })
     }
     authorTable.sort(function(a, b) {
         return b.numArticles - a.numArticles;
     });
+    authorTable.forEach(row => {
+        row.item = row.item + " (" + row.numArticles + ")";
+    })
 
   return (
     <TopAuthorsPageTemplate

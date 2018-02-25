@@ -18,7 +18,6 @@ keywords:
   - keyword: 'Ganglia, Spinal'
   - keyword: cytology
   - keyword: Gene Expression
-  - keyword: physiology
   - keyword: Gene Transfer Techniques
   - keyword: In Situ Hybridization
   - keyword: 'Microscopy, Confocal'
@@ -27,25 +26,14 @@ keywords:
   - keyword: analysis
   - keyword: genetics
   - keyword: Myelin Sheath
-  - keyword: chemistry
-  - keyword: physiology
-  - keyword: ultrastructure
   - keyword: Neurons
-  - keyword: chemistry
-  - keyword: cytology
-  - keyword: physiology
   - keyword: Polymerase Chain Reaction
   - keyword: 'RNA, Messenger'
-  - keyword: analysis
   - keyword: Rats
   - keyword: 'Rats, Wistar'
   - keyword: Recombinant Proteins
-  - keyword: genetics
   - keyword: Retroviridae
   - keyword: Schwann Cells
-  - keyword: chemistry
-  - keyword: cytology
-  - keyword: physiology
 abstract: >-
   Severe inherited dysmyelinating diseases of the peripheral nervous system, the
   Charcot-Marie-Tooth type1A disease (CMT1A) and the hereditary neuropathy with

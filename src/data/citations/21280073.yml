@@ -15,7 +15,6 @@ keywords:
   - keyword: Age of Onset
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Child Development
   - keyword: physiology
   - keyword: Female
@@ -26,17 +25,11 @@ keywords:
   - keyword: Infant
   - keyword: Male
   - keyword: Mutation
-  - keyword: genetics
-  - keyword: physiology
   - keyword: Neural Conduction
-  - keyword: genetics
-  - keyword: physiology
   - keyword: Pedigree
   - keyword: Phenotype
   - keyword: Ulnar Nerve
-  - keyword: physiology
   - keyword: Walking
-  - keyword: physiology
 abstract: >-
   Charcot-Marie-Tooth disease (CMT) affects 1 in 2,500 people and is caused by
   mutations in more than 30 genes. Identifying the genetic cause of CMT is often
