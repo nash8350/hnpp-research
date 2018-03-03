@@ -18,8 +18,14 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch Program",
+            "name": "Import XML",
             "program": "${workspaceFolder}\\pubmed\\importXML.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Add categories",
+            "program": "${workspaceFolder}\\pubmed\\addCategories.js"
         }
     ]
 }

@@ -123,10 +123,8 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         citation.pmid = article.PubmedData.ArticleIdList.ArticleId.value;
     }
 
-    // add a dummy category
-    citation.categories = [{
-        name: "blank"
-    }]
+    // add blank categories
+    citation.categories = [];
 
     citationList.push(citation);
 })
