@@ -50,4 +50,6 @@ date: 1999/05
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '9933299'
+categories:
+  - name: blank
 citedBy: []

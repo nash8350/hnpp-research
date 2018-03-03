@@ -58,6 +58,8 @@ cites:
   - pmid: '8012388'
   - pmid: '7903071'
 pmid: '7643137'
+categories:
+  - name: blank
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

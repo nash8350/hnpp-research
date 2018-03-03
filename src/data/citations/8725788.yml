@@ -39,6 +39,8 @@ date: 1996/05
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '8725788'
+categories:
+  - name: blank
 citedBy:
   - pmid: '9973284'
     title: >-

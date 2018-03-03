@@ -18,6 +18,8 @@ date: 2008/04
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '18440055'
+categories:
+  - name: blank
 citedBy:
   - pmid: '24639934'
     title: >-

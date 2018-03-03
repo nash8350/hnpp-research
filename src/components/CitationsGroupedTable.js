@@ -149,6 +149,7 @@ export default class CitationTable extends React.Component {
             <TableRowDetail
               contentComponent={({ row }) => (
                 <div className="container is-pulled-left" style={{width: this.props.tableWidth, marginLeft: 100}}>
+                  <a className="is-pulled-right vert-padded" href={row.abstractLink}>View on Pubmed</a>
                   <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Abstract</h4>
                   <p>{row.abstract}</p>
                   <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Authors</h4>
@@ -161,8 +162,6 @@ export default class CitationTable extends React.Component {
                       <li className="bullet">{keyword.keyword}</li>
                     ))}
                   </ul>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Links</h4>
-                  <a href={row.abstractLink}>View on Pubmed</a>
                   <br/>
                 </div>
               )}

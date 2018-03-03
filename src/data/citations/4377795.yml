@@ -25,6 +25,8 @@ date: 1974/11
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '4377795'
+categories:
+  - name: blank
 citedBy:
   - pmid: '3220711'
     title: Recurrent familial neuropathy due to liability to pressure palsies.

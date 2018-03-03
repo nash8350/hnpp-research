@@ -38,4 +38,6 @@ date: 2017/04
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '28407266'
+categories:
+  - name: blank
 citedBy: []

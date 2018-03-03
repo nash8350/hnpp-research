@@ -52,4 +52,6 @@ date: 1998/07
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '9678509'
+categories:
+  - name: blank
 citedBy: []

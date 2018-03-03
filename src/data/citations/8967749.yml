@@ -50,6 +50,8 @@ date: 1996/02
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '8967749'
+categories:
+  - name: blank
 citedBy:
   - pmid: '24339129'
     title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.

@@ -52,6 +52,8 @@ cites:
   - pmid: '6157801'
   - pmid: '7439214'
 pmid: '6174708'
+categories:
+  - name: blank
 citedBy:
   - pmid: '6185651'
     title: >-

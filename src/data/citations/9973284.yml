@@ -88,6 +88,8 @@ cites:
   - pmid: '9545397'
   - pmid: '464452'
 pmid: '9973284'
+categories:
+  - name: blank
 citedBy:
   - pmid: '28692128'
     title: Carpal tunnel syndrome in inherited neuropathies A retrospective survey.

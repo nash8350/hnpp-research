@@ -59,6 +59,8 @@ cites:
   - pmid: '6185651'
   - pmid: '20271590'
 pmid: '3220711'
+categories:
+  - name: blank
 citedBy:
   - pmid: '20071523'
     title: Conduction block in PMP22 deficiency.

@@ -52,6 +52,8 @@ cites:
   - pmid: '10227632'
   - pmid: '10636123'
 pmid: '23207550'
+categories:
+  - name: blank
 citedBy:
   - pmid: '28286897'
     title: Charcot-Marie-Tooth disease genetic subtypes in the Sardinian population.

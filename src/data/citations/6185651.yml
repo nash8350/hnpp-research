@@ -68,6 +68,8 @@ cites:
   - pmid: '20271590'
   - pmid: '4434174'
 pmid: '6185651'
+categories:
+  - name: blank
 citedBy:
   - pmid: '9418989'
     title: Animal models for inherited peripheral neuropathies.

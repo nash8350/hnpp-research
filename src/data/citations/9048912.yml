@@ -44,6 +44,8 @@ date: 1997/02
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '9048912'
+categories:
+  - name: blank
 citedBy:
   - pmid: '16024889'
     title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.

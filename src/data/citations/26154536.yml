@@ -23,4 +23,6 @@ date: 2015/07
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '26154536'
+categories:
+  - name: blank
 citedBy: []

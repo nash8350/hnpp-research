@@ -47,6 +47,8 @@ date: 2014/11
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '25429913'
+categories:
+  - name: blank
 citedBy:
   - pmid: '28286897'
     title: Charcot-Marie-Tooth disease genetic subtypes in the Sardinian population.

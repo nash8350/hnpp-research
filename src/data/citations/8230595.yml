@@ -26,6 +26,8 @@ date: 1993/11
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '8230595'
+categories:
+  - name: blank
 citedBy:
   - pmid: '7643137'
     title: >-

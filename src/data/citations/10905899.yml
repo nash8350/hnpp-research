@@ -26,4 +26,6 @@ date: 2000/07
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '10905899'
+categories:
+  - name: blank
 citedBy: []

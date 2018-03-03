@@ -71,6 +71,8 @@ date: 2008/12
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
 pmid: '19056666'
+categories:
+  - name: blank
 citedBy:
   - pmid: '21280073'
     title: Charcot-Marie-Tooth disease subtypes and genetic testing strategies.
