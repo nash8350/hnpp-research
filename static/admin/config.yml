@@ -61,8 +61,10 @@ collections:
     create: true
     format: yaml
     fields:
-      - { name: uid, label: UID, widget: string }
+      - { name: pmid, label: "Pubmed ID", widget: string }
       - { name: title, label: Title, widget: string }
-      - { name: pubdate, label: Date, widget: string }
-      - { name: source, label: Source, widget: string }
+      - { name: date, label: Date, widget: datetime }
+      - { name: abstractLink, label: "Abstract Link", widget: string }
+      - { name: abstract, label: Abstract, widget: string }
       - { name: authors, label: Authors, widget: list, field: {name: name, label: Name, widget: string }}
+      - { name: keywords, label: Keywords, widget: list, field: {name: keyword, label: Keyword, widget: string }}

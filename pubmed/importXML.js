@@ -28,8 +28,8 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
 
     citation.title = get(['MedlineCitation','Article','ArticleTitle'], article);
     citation.title = citation.title.replace(/:/g,"").trim();
-    citation.journal = get(['MedlineCitation','Article','Journal','Title'], article);
-    citation.journal = citation.journal.replace(/:/g,"").trim();
+    //citation.journal = get(['MedlineCitation','Article','Journal','Title'], article);
+    //citation.journal = citation.journal.replace(/:/g,"").trim();
 
     //get the authors
     citation.authors = [];
