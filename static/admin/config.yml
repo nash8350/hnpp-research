@@ -53,7 +53,6 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "product-page"}
           - {label: "Path", name: "path", widget: "hidden", default: "/research"}
           - {label: Title, name: title, widget: string}
-          - {label: Heading, name: heading, widget: string}
           - {label: Description, name: description, widget: string}
   - name: "citations"
     label: "Citations"
@@ -66,5 +65,3 @@ collections:
       - { name: date, label: Date, widget: datetime }
       - { name: abstractLink, label: "Abstract Link", widget: string }
       - { name: abstract, label: Abstract, widget: string }
-      - { name: authors, label: Authors, widget: list, field: {name: name, label: Name, widget: string }}
-      - { name: keywords, label: Keywords, widget: list, field: {name: keyword, label: Keyword, widget: string }}
