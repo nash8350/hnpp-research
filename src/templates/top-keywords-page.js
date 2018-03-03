@@ -54,7 +54,6 @@ export const topKeywordsQuery = graphql`
       edges {
         node {
           pmid
-          journal
           title
           abstract
           date
