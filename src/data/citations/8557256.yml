@@ -1,6 +1,28 @@
+pmid: '8557256'
 title: >-
   Molecular genetic analysis of the 17p11.2 region in patients with hereditary
   neuropathy with liability to pressure palsies (HNPP).
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is in most
+  cases associated with an interstitial deletion of the same 1.5-Mb region at
+  17p11.2 that is duplicated in Charcot-Marie-Tooth type 1A (CMT1A) patients.
+  Unequal crossing-over following misalignment at flanking repeat sequences
+  (CMT1A-REP), either leads to tandem duplication in CMT1A patients or deletion
+  in HNPP patients. With the use of polymorphic DNA markers located within the
+  CMT1A/HNPP duplication/deletion region we detected the HNPP deletion in 16
+  unrelated HNPP patients, 11 of Belgian and 5 of French origin. In all cases,
+  the 1.5-Mb size of the HNPP deletion was confirmed by EcoRI dosage analysis
+  using a CMT1A-REP probe. In the 16 HNPP patients, the same 370/320-kb EagI
+  deletion-junction fragments were detected with pulsed field gel
+  electrophoresis (PFGE), while in CMT1A patients, a 150-kb EagI
+  duplication-junction fragment was seen. Thus, PFGE analysis of EagI-digested
+  DNA with a CMT1A-REP probe allows direct detection of the HNPP deletion or the
+  CMT1A duplication for DNA diagnostic purposes.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Timmerman V
   - name: Löfgren A
@@ -30,24 +52,7 @@ keywords:
   - keyword: Polymerase Chain Reaction
   - keyword: Restriction Mapping
   - keyword: Sequence Deletion
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is in most
-  cases associated with an interstitial deletion of the same 1.5-Mb region at
-  17p11.2 that is duplicated in Charcot-Marie-Tooth type 1A (CMT1A) patients.
-  Unequal crossing-over following misalignment at flanking repeat sequences
-  (CMT1A-REP), either leads to tandem duplication in CMT1A patients or deletion
-  in HNPP patients. With the use of polymorphic DNA markers located within the
-  CMT1A/HNPP duplication/deletion region we detected the HNPP deletion in 16
-  unrelated HNPP patients, 11 of Belgian and 5 of French origin. In all cases,
-  the 1.5-Mb size of the HNPP deletion was confirmed by EcoRI dosage analysis
-  using a CMT1A-REP probe. In the 16 HNPP patients, the same 370/320-kb EagI
-  deletion-junction fragments were detected with pulsed field gel
-  electrophoresis (PFGE), while in CMT1A patients, a 150-kb EagI
-  duplication-junction fragment was seen. Thus, PFGE analysis of EagI-digested
-  DNA with a CMT1A-REP probe allows direct detection of the HNPP deletion or the
-  CMT1A duplication for DNA diagnostic purposes.
 date: 1996/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '8111385'
   - pmid: '8111370'
@@ -102,9 +107,7 @@ cites:
   - pmid: '8413376'
   - pmid: '20271590'
   - pmid: '7783177'
-pmid: '8557256'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8557256%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

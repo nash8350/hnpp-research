@@ -1,6 +1,21 @@
+pmid: '1827702'
 title: >-
   Clinical and electrodiagnostic findings, nerve biopsy and blood group markers
   in a family with hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  Clinical, electrophysiologic and biopsy findings as well as studies of blood
+  group markers in a family with hereditary neuropathy with liability to
+  pressure palsies (HNPP) are reported. There was an autosomal dominant trait
+  without genetic linkage between the HNPP gene and blood group markers
+  controlled by chromosome 1. Reduced motor and sensory nerve conduction
+  velocity was found in clinically affected and unaffected nerves.
+  Characteristic morphological changes in sural nerve biopsy including
+  tomaculous swelling were present.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Leblhuber F
   - name: Reisecker F
@@ -39,21 +54,9 @@ keywords:
   - keyword: Rh-Hr Blood-Group System
   - keyword: Sural Nerve
   - keyword: pathology
-abstract: >-
-  Clinical, electrophysiologic and biopsy findings as well as studies of blood
-  group markers in a family with hereditary neuropathy with liability to
-  pressure palsies (HNPP) are reported. There was an autosomal dominant trait
-  without genetic linkage between the HNPP gene and blood group markers
-  controlled by chromosome 1. Reduced motor and sensory nerve conduction
-  velocity was found in clinically affected and unaffected nerves.
-  Characteristic morphological changes in sural nerve biopsy including
-  tomaculous swelling were present.
 date: 1991/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '1827702'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1827702%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8396068'
     title: >-

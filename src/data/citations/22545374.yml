@@ -1,6 +1,17 @@
+pmid: '22545374'
 title: >-
   Hereditary neuropathy with liability to pressure palsies occurring during
   military training.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal-dominant peripheral neuropathy characterized by recurrent isolated
+  nerve palsies, which are precipitated by trivial compression and trauma.
+  Although HNPP has been well-described in literature, it often goes
+  unrecognized. We report a case of HNPP occurring during military training to
+  promote recognition and proper management of this entity.
+categories:
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Delacour H
   - name: Bompaire F
@@ -21,17 +32,7 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: Neurologic Examination
   - keyword: Young Adult
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal-dominant peripheral neuropathy characterized by recurrent isolated
-  nerve palsies, which are precipitated by trivial compression and trauma.
-  Although HNPP has been well-described in literature, it often goes
-  unrecognized. We report a case of HNPP occurring during military training to
-  promote recognition and proper management of this entity.
 date: 2012/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '22545374'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22545374%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

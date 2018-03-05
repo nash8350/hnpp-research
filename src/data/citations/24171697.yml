@@ -1,4 +1,24 @@
+pmid: '24171697'
 title: Is carpal tunnel decompression warranted for HNPP?
+abstract: >-
+  The role of carpal tunnel decompression surgery for patients that have
+  hereditary neuropathy with liability to pressure palsy (HNPP) is currently
+  unknown. Since recovery from carpal tunnel compression is often associated
+  with remyelination or nodal reconstruction rather than axonal regeneration, it
+  is uncertain whether the PMP22 deletion associated with HNPP interrupts myelin
+  or nodal reconstitution. We describe two patients with genetically confirmed
+  HNPP and symptomatic carpal tunnel syndrome that had clinical and
+  electrophysiological improvement after surgical decompression. The findings
+  indicate a capacity for conduction repair in HNPP. They also suggest a need
+  for further investigation and discussion around whether to offer carpal tunnel
+  decompression to symptomatic HNPP patients.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Earle N
   - name: Zochodne DW
@@ -18,24 +38,9 @@ keywords:
   - keyword: Male
   - keyword: Middle Aged
   - keyword: Myelin Proteins
-abstract: >-
-  The role of carpal tunnel decompression surgery for patients that have
-  hereditary neuropathy with liability to pressure palsy (HNPP) is currently
-  unknown. Since recovery from carpal tunnel compression is often associated
-  with remyelination or nodal reconstruction rather than axonal regeneration, it
-  is uncertain whether the PMP22 deletion associated with HNPP interrupts myelin
-  or nodal reconstitution. We describe two patients with genetically confirmed
-  HNPP and symptomatic carpal tunnel syndrome that had clinical and
-  electrophysiological improvement after surgical decompression. The findings
-  indicate a capacity for conduction repair in HNPP. They also suggest a need
-  for further investigation and discussion around whether to offer carpal tunnel
-  decompression to symptomatic HNPP patients.
 date: 2013/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '24171697'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24171697%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28692128'
     title: Carpal tunnel syndrome in inherited neuropathies A retrospective survey.

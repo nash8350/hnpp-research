@@ -1,6 +1,13 @@
+pmid: '23279343'
 title: >-
   Hereditary neuropathy with liability to pressure palsies. Diagnosis in the
   first family (1947) confirmed.
+abstract: >-
+  In 1947, the Dutch neurologist De Jong published the first family with, what
+  later would be called, hereditary neuropathy with liability to pressure
+  palsies (HNPP). We recently found a new case from this family and were able to
+  confirm the diagnosis by DNA analysis.
+categories: []
 authors:
   - name: Koehler PJ
   - name: Baas F
@@ -23,15 +30,7 @@ keywords:
   - keyword: Netherlands
   - keyword: Neural Conduction
   - keyword: Pedigree
-abstract: >-
-  In 1947, the Dutch neurologist De Jong published the first family with, what
-  later would be called, hereditary neuropathy with liability to pressure
-  palsies (HNPP). We recently found a new case from this family and were able to
-  confirm the diagnosis by DNA analysis.
 date: 2013/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '23279343'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23279343%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

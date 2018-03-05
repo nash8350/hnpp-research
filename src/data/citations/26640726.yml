@@ -1,10 +1,7 @@
+pmid: '26640726'
 title: >-
   Hereditary Neuropathy with Liability to Pressure Palsies Masked by Previous
   Gunshots and Tuberculosis.
-authors:
-  - name: Gencik M
-  - name: Finsterer J
-keywords: []
 abstract: >-
   Objectives. Although hereditary neuropathy with liability to pressure palsies
   (HNPP) presents with a distinct phenotype on history, clinical exam, and nerve
@@ -23,8 +20,18 @@ abstract: >-
   mild, painless, distal quadriparesis. The diagnosis of HNPP may be blurred by
   a history of tuberculosis, tuberculostatic treatment, hepatitis, and the
   presence of elevated CSF-protein.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: Gencik M
+  - name: Finsterer J
+keywords: []
 date: 2015/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '21477422'
   - pmid: '15891642'
@@ -32,7 +39,5 @@ cites:
   - pmid: '16775374'
   - pmid: '15602369'
   - pmid: '962634'
-pmid: '26640726'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26640726%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,16 +1,5 @@
+pmid: '11345007'
 title: Molecular basis of hereditary neuropathies.
-authors:
-  - name: P F Chance
-keywords:
-  - keyword: Brachial Plexus Neuritis
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: Electrodiagnosis
-  - keyword: methods
-  - keyword: Electrophysiology
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
 abstract: >-
   Inherited disorders of peripheral nerves represent a common group of
   neurologic diseases. Charcot-Marie-Tooth neuropathy type 1 (CMT1) is a
@@ -39,10 +28,26 @@ abstract: >-
   chromosomes 8q, 10q, and 11q. Hereditary neuralgic amyotrophy (familial
   brachial plexus neuropathy) is an autosomal dominant disorder causing painful,
   recurrent brachial plexopathies and maps to chromosome 17q25.
-date: 2001/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '11345007'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: P F Chance
+keywords:
+  - keyword: Brachial Plexus Neuritis
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Electrodiagnosis
+  - keyword: methods
+  - keyword: Electrophysiology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+date: 2001/05
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11345007%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

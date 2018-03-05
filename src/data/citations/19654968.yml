@@ -1,6 +1,23 @@
+pmid: '19654968'
 title: >-
   Charcot-Marie-Tooth 1A concurrent with schwannomas of the spinal cord and
   median nerve.
+abstract: >-
+  We identified Charcot-Marie-Tooth disease type 1A (CMT1A) in a family with
+  schwannomas in the spinal cord and median nerve. The CMT1A in this family
+  showed an autosomal dominant pattern, like other CMT patients with PMP22
+  duplication, and the family also indicated a possible genetic predisposition
+  to schwannomas by 'mother-to-son' transmission. CMT1A is mainly caused by
+  duplication of chromosome 17p11.2-p12 (PMP22 gene duplication). A schwannoma
+  is a benign encapsulated tumor originating from a Schwann cell. A case of
+  hereditary neuropathy with liability to pressure palsies (HNPP) concurrent
+  with schwannoma has been previously reported. Although it seems that the
+  co-occurrence of CMT1A and schwannomas in a family would be the result of
+  independent events, we could not completely ignore the possibility that the
+  coincidence of two diseases might be due to a shared genetic background.
+categories:
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Kwon JY
   - name: Chung KW
@@ -27,21 +44,7 @@ keywords:
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Neoplasms
   - keyword: Spinal Cord Neoplasms
-abstract: >-
-  We identified Charcot-Marie-Tooth disease type 1A (CMT1A) in a family with
-  schwannomas in the spinal cord and median nerve. The CMT1A in this family
-  showed an autosomal dominant pattern, like other CMT patients with PMP22
-  duplication, and the family also indicated a possible genetic predisposition
-  to schwannomas by 'mother-to-son' transmission. CMT1A is mainly caused by
-  duplication of chromosome 17p11.2-p12 (PMP22 gene duplication). A schwannoma
-  is a benign encapsulated tumor originating from a Schwann cell. A case of
-  hereditary neuropathy with liability to pressure palsies (HNPP) concurrent
-  with schwannoma has been previously reported. Although it seems that the
-  co-occurrence of CMT1A and schwannomas in a family would be the result of
-  independent events, we could not completely ignore the possibility that the
-  coincidence of two diseases might be due to a shared genetic background.
 date: 2009/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '7397478'
   - pmid: '7674010'
@@ -56,9 +59,7 @@ cites:
   - pmid: '19513300'
   - pmid: '16481890'
   - pmid: '17362838'
-pmid: '19654968'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19654968%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25324890'
     title: >-

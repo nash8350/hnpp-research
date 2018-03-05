@@ -1,8 +1,5 @@
+pmid: '29086924'
 title: Transgenic Mouse Models of CMT1A and HNPP.
-authors:
-  - name: Suter U
-  - name: Nave KA
-keywords: []
 abstract: >-
   We have generated several PMP22 animal mutants with altered PMP22 gene dosage.
   A moderate increase in the number of PMP22 genes led to hypomyelination
@@ -21,10 +18,20 @@ abstract: >-
   impaired neuron-Schwann cell interactions that are likely already to be
   operative during development. Such considerations should be taken into account
   in the design of potential novel treatment strategies.
-date: 1999/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '29086924'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Suter U
+  - name: Nave KA
+keywords: []
+date: 1999/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29086924%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

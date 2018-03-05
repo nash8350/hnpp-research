@@ -1,11 +1,7 @@
+pmid: '25685136'
 title: >-
   Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an Acute
   Brachial Plexopathy A Lover's Palsy.
-authors:
-  - name: Wedderburn S
-  - name: Pateria P
-  - name: Panegyres PK
-keywords: []
 abstract: >-
   It is generally regarded that patients with hereditary neuropathy to pressure
   palsies, due to a deletion in the PMP22 gene, show recurrent pressure palsy
@@ -16,8 +12,17 @@ abstract: >-
   plexopathy after his partner slept on his arm - a PMP22 deletion was found.
   His father, who had a symmetrical polyneuropathy without recurrent
   mononeuropathies, shared the PMP22 deletion.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Wedderburn S
+  - name: Pateria P
+  - name: Panegyres PK
+keywords: []
 date: 2015/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '11697522'
   - pmid: '9712007'
@@ -36,7 +41,5 @@ cites:
   - pmid: '10996784'
   - pmid: '10734003'
   - pmid: '18382985'
-pmid: '25685136'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25685136%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

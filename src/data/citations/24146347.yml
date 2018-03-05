@@ -1,7 +1,31 @@
+pmid: '24146347'
 title: >-
   Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) associated to
   hereditary neuropathy with liability to pressure palsies (HNPP) and revealed
   after influenza AH1N1 vaccination.
+abstract: >-
+  Neurological complications of AH1N1 vaccination such as Guillain-Barré
+  syndrome were described in the previous years. Several reports suggest that
+  hereditary neuropathies may be a predisposing factor for immune-mediated
+  neuropathies. We report the case of a 54-year-old female who developed chronic
+  inflammatory demyelinating polyradiculoneuropathy (CIDP) 5 weeks after AH1N1
+  vaccination. She had no previous neurological history, but neurophysiological
+  features led us to suspect an underlying hereditary neuropathy. PMP22 gene
+  analysis showed a typical deletion, confirming the diagnosis of hereditary
+  neuropathy with liability to pressure palsies (HNPP). We observed a
+  significant clinical and neurophysiological improvement of the neuropathy
+  after intravenous immunoglobulin treatment. This is, to our knowledge, the
+  first reported case of CIDP potentially triggered by AH1N1 vaccination. This
+  and previous observations suggest that genetic-determined neuropathies could
+  predispose to the occurrence of immune-mediated neuropathies. One must recall
+  the possibility of a superimposed hereditary neuropathy like HNPP in patients
+  with a clinical presentation of CIDP, especially when positive family history
+  or unexpected neurophysiological features are present.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Remiche G
   - name: Abramowicz M
@@ -21,30 +45,9 @@ keywords:
   - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
   - keyword: drug therapy
   - keyword: etiology
-abstract: >-
-  Neurological complications of AH1N1 vaccination such as Guillain-Barré
-  syndrome were described in the previous years. Several reports suggest that
-  hereditary neuropathies may be a predisposing factor for immune-mediated
-  neuropathies. We report the case of a 54-year-old female who developed chronic
-  inflammatory demyelinating polyradiculoneuropathy (CIDP) 5 weeks after AH1N1
-  vaccination. She had no previous neurological history, but neurophysiological
-  features led us to suspect an underlying hereditary neuropathy. PMP22 gene
-  analysis showed a typical deletion, confirming the diagnosis of hereditary
-  neuropathy with liability to pressure palsies (HNPP). We observed a
-  significant clinical and neurophysiological improvement of the neuropathy
-  after intravenous immunoglobulin treatment. This is, to our knowledge, the
-  first reported case of CIDP potentially triggered by AH1N1 vaccination. This
-  and previous observations suggest that genetic-determined neuropathies could
-  predispose to the occurrence of immune-mediated neuropathies. One must recall
-  the possibility of a superimposed hereditary neuropathy like HNPP in patients
-  with a clinical presentation of CIDP, especially when positive family history
-  or unexpected neurophysiological features are present.
 date: 2013/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '24146347'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24146347%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26187721'
     title: >-

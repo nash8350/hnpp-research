@@ -2,55 +2,70 @@ const fs = require("fs");
 const yaml = require('js-yaml');
 
 // adds a category to the citation with the given name if it matches the regex
-// returns true if updated
+// returns true if added
 const addCategory = (citation, categoryName, regex) => {
-    // don't add if it already exists
-    let exists = false;
-    citation.categories.forEach(category => {
-        if(category.name == categoryName)
-            exists = true;
-    })
-    if(exists)
-        return false;
 
     // check regex
-    const s = citation.title + citation.abstract;
-    if(s.search(new RegExp(regex, "i")) >= 0) {
-        citation.categories.push({name: categoryName});
+    const s = citation.title + " " + citation.abstract;
+    const matches = s.search(new RegExp(regex, "i")) >= 0;
+    if(!matches)
+        return false;
+
+    // update if it already exists
+    let exists = false;
+    citation.categories.forEach(category => {
+        if(category.name == categoryName) {
+            exists = true;
+        }
+    })
+    if(exists) {
+        return false;
+    } else { 
+        // add a new one
+        citation.categories.push({ 
+            name: categoryName,
+            enabled: true
+        })
         return true;
     }
-
-    return false;
 }
 
 const directory = "src/data/citations/";
 let numUpdated = 0;
+const overwrite = false;
 
 // check each citation file
 fs.readdirSync(directory).forEach(filename => {
     const content = fs.readFileSync(directory + filename);
     const citation = yaml.safeLoad(content);
+    const oldUpdated = numUpdated;
+
+    if(overwrite)
+        citation.categories = [];
 
     // add categories
     numUpdated += addCategory(citation, "Symptoms", 
-        "symptom|pain|weak|numb|impair|quality of life|sever|fibro|restless");
+        "(\\sensor|symptom|\\bpain|\\bweak|\\bnumb|impairment|quality of life|\\bsever|\\bfibro|restless)");
 
     numUpdated += addCategory(citation, "Diagnosis", 
-        "morph|abnormal|mri|scan|biops|diagnos|electro|action potential|amplitude|velocity|ultrasound|conduction|test|latenc|imag");
+        "(differential|missense|morphalogical|\\bsensitivity|specificity|\\bmri\\b|\\bscan|biops|electro|action potential|amplitude|velocity|ultraso|conduction|latenc|imag)");
 
     numUpdated += addCategory(citation, "Genetics", 
-        "sequence|pmp|gene|peripheral myelin protein|mutat|wild|duplicat|17p11|dna");
+        "(exon|exome|copy number|\\bloci|\\blocus|linkage|pcr\\b|polymorphism|point mutation|\\bSNP|\\bmice\\b|\\bmouse|MLPA|\\bFISH\\b|fluoresc|proband)");
 
     numUpdated += addCategory(citation, "Therapies", 
-        "therap|interven|immobil|splint|inject|surgery|drug|compound");
+        "(treatment|treated|outcome|\\btherap|\\binterven|\\bimmobil|splint|inject|steroid|surgery|\\bdrug|pharma)");
 
-    numUpdated += addCategory(citation, "Prevalance", 
-        "frequenc|prevalence|epidemiolog|survey|bank|retrospect|population");
+    numUpdated += addCategory(citation, "Prevalence", 
+        "(frequenc|prevalence|epidemiolog|survey|bank\\b|retrospect|population)");
 
     numUpdated += addCategory(citation, "Case Studies", 
-        "a case|a patient|girl|woman|man|boy|infant|mother|baby");
+        "(\\ba case\\b|\\ba patient\\b|\\bgirl\\b|woman|\\bman\\b|boy|\\binfant|\\bmother|\\bbaby)");
 
-    if(citation.categories.length > 0) {
+    numUpdated += addCategory(citation, "Biochemistry", 
+        "(white matter|mitochondria|biomech|\\bmice\\b|\\bmouse|culture|microscop|\\bteas|lipid|mrna|vitro|receptor|integrin|laminin|actin|permeability|kinase|junction|polymer)");
+
+    if(numUpdated > oldUpdated) {
         fs.writeFileSync(directory + filename, yaml.safeDump(citation));
         console.log("writing " + directory + filename);
     }

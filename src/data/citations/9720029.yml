@@ -1,29 +1,7 @@
+pmid: '9720029'
 title: >-
   rRNA-targeted fluorescent in situ hybridization analysis of bacterial
   community structure in river water.
-authors:
-  - name: Kenzaka T
-  - name: Yamaguchi N
-  - name: Tani K
-  - name: Nasu M
-keywords:
-  - keyword: Bacteria
-  - keyword: genetics
-  - keyword: isolation & purification
-  - keyword: Diazonium Compounds
-  - keyword: Fluorescein-5-isothiocyanate
-  - keyword: Fluorescent Dyes
-  - keyword: Fresh Water
-  - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Naphthalenes
-  - keyword: Oligonucleotide Probes
-  - keyword: chemical synthesis
-  - keyword: RNA Probes
-  - keyword: 'RNA, Ribosomal, 16S'
-  - keyword: analysis
-  - keyword: 'RNA, Ribosomal, 23S'
-  - keyword: Species Specificity
-  - keyword: Water Microbiology
 abstract: >-
   An improved in situ hybridization technique, HNPP-FISH, using
   2-hydroxy-3-naphthoic acid 2'-phenylanilide phosphate (HNPP) and Fast Red TR
@@ -47,10 +25,33 @@ abstract: >-
   community structure during the sampling period at either site. The improved
   HNPP-FISH technique should be a useful tool for the analysis of microbial
   community composition.
-date: 1998/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '9720029'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Kenzaka T
+  - name: Yamaguchi N
+  - name: Tani K
+  - name: Nasu M
+keywords:
+  - keyword: Bacteria
+  - keyword: genetics
+  - keyword: isolation & purification
+  - keyword: Diazonium Compounds
+  - keyword: Fluorescein-5-isothiocyanate
+  - keyword: Fluorescent Dyes
+  - keyword: Fresh Water
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Naphthalenes
+  - keyword: Oligonucleotide Probes
+  - keyword: chemical synthesis
+  - keyword: RNA Probes
+  - keyword: 'RNA, Ribosomal, 16S'
+  - keyword: analysis
+  - keyword: 'RNA, Ribosomal, 23S'
+  - keyword: Species Specificity
+  - keyword: Water Microbiology
+date: 1998/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9720029%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

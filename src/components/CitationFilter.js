@@ -7,7 +7,17 @@ const handleKeyPress = (event, onFilterChange) => {
   }
 }
 
-export default ({date, search, onFilterChange}) => (
+const categories = [
+  "Symptoms",
+  "Diagnosis",
+  "Genetics",
+  "Therapies",
+  "Prevalence",
+  "Case Studies",
+  "Biochemistry"
+]
+
+export default ({date, search, category, onFilterChange}) => (
   <div className="container">
     <div className="field">
       <label className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Search</label>
@@ -15,6 +25,25 @@ export default ({date, search, onFilterChange}) => (
         <input type="text" name="search" style={{boxSizing: "content-box"}} onKeyPress={(e) => handleKeyPress(e, onFilterChange)} />
       </div>
     </div>
+    <h1 className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Categories</h1>
+    <div className="field">
+      <div className="control">
+        <label className="radio">
+          <input type="radio" name="category" value="" checked={category == ""} onChange={onFilterChange}/>
+          <span className="horiz-padded">Show all</span>
+        </label>
+      </div>
+    </div>
+    {categories.map(categoryName => (
+      <div className="field" key={categoryName}>
+        <div className="control">
+          <label className="radio">
+            <input type="radio" name="category" value={categoryName} checked={category == categoryName} onChange={onFilterChange}/>
+            <span className="horiz-padded">{categoryName}</span>
+          </label>
+        </div>
+      </div>
+    ))}
     <h1 className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Date</h1>
     <div className="field">
       <div className="control">

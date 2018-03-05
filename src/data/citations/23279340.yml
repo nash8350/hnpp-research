@@ -1,6 +1,32 @@
+pmid: '23279340'
 title: >-
   Sonographic and electrodiagnostic features of hereditary neuropathy with
   liability to pressure palsies.
+abstract: >-
+  In hereditary neuropathy with liability to pressure palsies (HNPP), the
+  increase in distal motor latencies (DMLs) is often out of proportion to the
+  slowing of conduction velocities, but the pathophysiological mechanism is
+  still unclear. We used a combined electrophysiological and ultrasonographic
+  (US) approach to provide insight into this issue. Twelve HNPP subjects
+  underwent extensive electrophysiological studies and US measurements of the
+  cross-sectional area (CSA) of several peripheral nerves. US nerve enlargement
+  was only observed in the carpal tunnel, Guyon's canal, the elbow and the
+  fibular head. We did not observe US abnormalities at sites where nerve
+  entrapment is uncommon. An increase in DMLs was observed regardless of US
+  nerve enlargement. The increased nerve CSA only in common sites of entrapment
+  likely reflected the well-documented nerve vulnerability to mechanical stress
+  in HNPP. No morphometric changes were seen in the distal nerve segments where
+  compression/entrapment is unlikely, despite the fact that the DMLs were
+  increased. These data suggest that factors other than mechanical stress are
+  responsible for the distal slowing of action potential propagation. We
+  speculate that a mixture of mechanical insults and an axon-initiated process
+  in the distal nerves underlies the distal slowing and/or conduction failure in
+  HNPP.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Ginanneschi F
   - name: Filippou G
@@ -35,32 +61,9 @@ keywords:
   - keyword: Predictive Value of Tests
   - keyword: Ultrasonography
   - keyword: Young Adult
-abstract: >-
-  In hereditary neuropathy with liability to pressure palsies (HNPP), the
-  increase in distal motor latencies (DMLs) is often out of proportion to the
-  slowing of conduction velocities, but the pathophysiological mechanism is
-  still unclear. We used a combined electrophysiological and ultrasonographic
-  (US) approach to provide insight into this issue. Twelve HNPP subjects
-  underwent extensive electrophysiological studies and US measurements of the
-  cross-sectional area (CSA) of several peripheral nerves. US nerve enlargement
-  was only observed in the carpal tunnel, Guyon's canal, the elbow and the
-  fibular head. We did not observe US abnormalities at sites where nerve
-  entrapment is uncommon. An increase in DMLs was observed regardless of US
-  nerve enlargement. The increased nerve CSA only in common sites of entrapment
-  likely reflected the well-documented nerve vulnerability to mechanical stress
-  in HNPP. No morphometric changes were seen in the distal nerve segments where
-  compression/entrapment is unlikely, despite the fact that the DMLs were
-  increased. These data suggest that factors other than mechanical stress are
-  responsible for the distal slowing of action potential propagation. We
-  speculate that a mixture of mechanical insults and an axon-initiated process
-  in the distal nerves underlies the distal slowing and/or conduction failure in
-  HNPP.
 date: 2013/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '23279340'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23279340%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27056376'
     title: >-

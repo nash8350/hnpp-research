@@ -1,6 +1,9 @@
+pmid: '25834747'
 title: >-
   Erratum to "Partial Gene Deletions of PMP22 Causing Hereditary Neuropathy with
   Liability to Pressure Palsies".
+abstract: '[This corrects the article DOI 10.1155/2014/946010.].'
+categories: []
 authors:
   - name: Cho SM
   - name: Hong BY
@@ -10,11 +13,7 @@ authors:
   - name: Kim J
   - name: Lee KA
 keywords: []
-abstract: '[This corrects the article DOI 10.1155/2014/946010.].'
 date: 2015/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '25834747'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25834747%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

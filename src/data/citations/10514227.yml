@@ -1,19 +1,7 @@
+pmid: '10514227'
 title: >-
   Charcot-marie-tooth disease and related neuropathies molecular basis for
   distinction and diagnosis.
-authors:
-  - name: D Pareyson
-keywords:
-  - keyword: Animals
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: DNA Mutational Analysis
-  - keyword: 'Diagnosis, Differential'
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: 'Mutation, Missense'
-  - keyword: Point Mutation
 abstract: >-
   Great advances have been made in understanding the molecular basis of
   Charcot-Marie-Tooth disease (CMT) and related neuropathies, namely
@@ -30,10 +18,25 @@ abstract: >-
   detrimental action on peripheral nerves. A tentative rational approach to
   clinical and molecular diagnosis based on genotype-phenotype correlation
   analysis is described.
-date: 1999/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10514227'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: D Pareyson
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: DNA Mutational Analysis
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: 'Mutation, Missense'
+  - keyword: Point Mutation
+date: 1999/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10514227%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,6 +1,24 @@
+pmid: '27861220'
 title: >-
   Hereditary Neuropathy With Liability to Pressure Palsies Diverse Phenotypes in
   Childhood.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is a rare
+  autosomal-dominant disorder that most commonly produces recurrent painless
+  focal sensory and motor neuropathies often preceded by minor, mechanical
+  stress, or minor trauma. Herein, we report 2 pediatric cases of HNPP with
+  atypical presentations; isolated muscle cramping and toe walking.
+  Electrophysiologic testing disclosed multifocal sensorimotor polyneuropathy
+  with slowing of sensory conduction velocities in both cases, which prompted
+  PMP 22 gene deletion testing. Multifocal sensorimotor electrophysiologic
+  abnormalities, with slowing of sensory conduction velocities should raise
+  consideration of HNPP in childhood. These case reports emphasize that the
+  diagnosis of HNPP in children requires a high index of suspicion.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Harada Y
   - name: Puwanant A
@@ -20,22 +38,7 @@ keywords:
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Phenotype
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is a rare
-  autosomal-dominant disorder that most commonly produces recurrent painless
-  focal sensory and motor neuropathies often preceded by minor, mechanical
-  stress, or minor trauma. Herein, we report 2 pediatric cases of HNPP with
-  atypical presentations; isolated muscle cramping and toe walking.
-  Electrophysiologic testing disclosed multifocal sensorimotor polyneuropathy
-  with slowing of sensory conduction velocities in both cases, which prompted
-  PMP 22 gene deletion testing. Multifocal sensorimotor electrophysiologic
-  abnormalities, with slowing of sensory conduction velocities should raise
-  consideration of HNPP in childhood. These case reports emphasize that the
-  diagnosis of HNPP in children requires a high index of suspicion.
 date: 2016/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '27861220'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27861220%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

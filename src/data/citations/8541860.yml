@@ -1,7 +1,10 @@
+pmid: '8541860'
 title: >-
   Constant rearrangement of the CMT1A-REP sequences in HNPP patients with a
   deletion in chromosome 17p11.2 a study of 30 unrelated cases. The French CMT
   Collaborative Research Group.
+abstract: ''
+categories: []
 authors:
   - name: LeGuern E
   - name: Gouider R
@@ -22,13 +25,9 @@ keywords:
   - keyword: 'Genes, Dominant'
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: Humans
-abstract: ''
 date: 1995/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8541860'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8541860%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8651299'
     title: >-

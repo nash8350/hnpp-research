@@ -1,24 +1,8 @@
+pmid: '15988805'
 title: >-
   Effectiveness of real-time quantitative PCR compare to repeat PCR for the
   diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
   liability to pressure palsies.
-authors:
-  - name: Choi JR
-  - name: Lee WH
-  - name: Sunwoo IN
-  - name: Lee EK
-  - name: Lee CH
-  - name: Lim JB
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Gene Dosage
-  - keyword: Genetic Testing
-  - keyword: methods
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Polymerase Chain Reaction
 abstract: >-
   The majority of cases of Charcot-Marie-Tooth type 1A (CMT1A) and of hereditary
   neuropathy with a liability to pressure palsies (HNPP) are the result of
@@ -47,8 +31,31 @@ abstract: >-
   deletions, and it is also faster and easier than currently available methods.
   Therefore, we believe that the real-time quantitative method is useful for
   diagnosing CMT1A and HNPP.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Choi JR
+  - name: Lee WH
+  - name: Sunwoo IN
+  - name: Lee EK
+  - name: Lee CH
+  - name: Lim JB
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: Gene Dosage
+  - keyword: Genetic Testing
+  - keyword: methods
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Polymerase Chain Reaction
 date: 2005/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '9096765'
   - pmid: '9888385'
@@ -74,9 +81,7 @@ cites:
   - pmid: '1822787'
   - pmid: '9195231'
   - pmid: '14555828'
-pmid: '15988805'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15988805%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
     title: >-

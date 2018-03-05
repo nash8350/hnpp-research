@@ -1,4 +1,40 @@
+pmid: '27583434'
 title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
+abstract: >-
+  Schwann cells in the peripheral nervous systems extend their membranes to wrap
+  axons concentrically and form the insulating sheath, called myelin. The spaces
+  between layers of myelin are sealed by myelin junctions. This tight insulation
+  enables rapid conduction of electric impulses (action potentials) through
+  axons. Demyelination (stripping off the insulating sheath) has been widely
+  regarded as one of the most important mechanisms altering the action potential
+  propagation in many neurological diseases. However, the effective nerve
+  conduction is also thought to require a proper myelin seal through myelin
+  junctions such as tight junctions and adherens junctions. In the present
+  study, we have demonstrated the disruption of myelin junctions in a mouse
+  model (Pmp22+/-) of hereditary neuropathy with liability to pressure palsies
+  (HNPP) with heterozygous deletion of Pmp22 gene. We observed a robust increase
+  of F-actin in Pmp22+/- nerve regions where myelin junctions were disrupted,
+  leading to increased myelin permeability. These abnormalities were present
+  long before segmental demyelination at the late phase of Pmp22+/- mice.
+  Moreover, the increase of F-actin levels correlated with an enhanced activity
+  of p21-activated kinase (PAK1), a molecule known to regulate actin
+  polymerization. Pharmacological inhibition of PAK normalized levels of
+  F-actin, and completely prevented the progression of the myelin junction
+  disruption and nerve conduction failure in Pmp22+/- mice. Our findings explain
+  how abnormal myelin permeability is caused in HNPP, leading to impaired action
+  potential propagation in the absence of demyelination. We call it "functional
+  demyelination", a novel mechanism upstream to the actual stripping of myelin
+  that is relevant to many demyelinating diseases. This observation also
+  provides a potential therapeutic approach for HNPP.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Hu B
   - name: Arpag S
@@ -33,34 +69,7 @@ keywords:
   - keyword: pharmacology
   - keyword: p21-Activated Kinases
   - keyword: antagonists & inhibitors
-abstract: >-
-  Schwann cells in the peripheral nervous systems extend their membranes to wrap
-  axons concentrically and form the insulating sheath, called myelin. The spaces
-  between layers of myelin are sealed by myelin junctions. This tight insulation
-  enables rapid conduction of electric impulses (action potentials) through
-  axons. Demyelination (stripping off the insulating sheath) has been widely
-  regarded as one of the most important mechanisms altering the action potential
-  propagation in many neurological diseases. However, the effective nerve
-  conduction is also thought to require a proper myelin seal through myelin
-  junctions such as tight junctions and adherens junctions. In the present
-  study, we have demonstrated the disruption of myelin junctions in a mouse
-  model (Pmp22+/-) of hereditary neuropathy with liability to pressure palsies
-  (HNPP) with heterozygous deletion of Pmp22 gene. We observed a robust increase
-  of F-actin in Pmp22+/- nerve regions where myelin junctions were disrupted,
-  leading to increased myelin permeability. These abnormalities were present
-  long before segmental demyelination at the late phase of Pmp22+/- mice.
-  Moreover, the increase of F-actin levels correlated with an enhanced activity
-  of p21-activated kinase (PAK1), a molecule known to regulate actin
-  polymerization. Pharmacological inhibition of PAK normalized levels of
-  F-actin, and completely prevented the progression of the myelin junction
-  disruption and nerve conduction failure in Pmp22+/- mice. Our findings explain
-  how abnormal myelin permeability is caused in HNPP, leading to impaired action
-  potential propagation in the absence of demyelination. We call it "functional
-  demyelination", a novel mechanism upstream to the actual stripping of myelin
-  that is relevant to many demyelinating diseases. This observation also
-  provides a potential therapeutic approach for HNPP.
 date: 2016/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '12584243'
   - pmid: '1922183'
@@ -104,7 +113,5 @@ cites:
   - pmid: '3711143'
   - pmid: '15308209'
   - pmid: '7581450'
-pmid: '27583434'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27583434%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

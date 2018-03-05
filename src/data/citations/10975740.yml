@@ -1,6 +1,11 @@
+pmid: '10975740'
 title: >-
   Visualization of the CMT1A duplication and HNPP deletion by FISH on stretched
   chromosome fibers.
+abstract: ''
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Rautenstrauss B
   - name: Fuchs C
@@ -18,13 +23,9 @@ keywords:
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
-abstract: ''
 date: 1997/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '10975740'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10975740%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
     title: Identification of Alu elements mediating a partial PMP22 deletion.

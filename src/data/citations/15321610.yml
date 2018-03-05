@@ -1,10 +1,7 @@
+pmid: '15321610'
 title: >-
   Epidural analgesia in labour for a patient with hereditary neuropathy with
   liability to pressure palsy.
-authors:
-  - name: Lepski GR
-  - name: Alderson JD
-keywords: []
 abstract: >-
   Hereditary neuropathy with liability to pressure palsy (HNPP) is a rare but
   probably under-diagnosed disorder of peripheral nerves in which individuals
@@ -17,10 +14,14 @@ abstract: >-
   (low concentration bupivacaine and fentanyl) for analgesia in labour and
   delivery. Labour progressed uneventfully and there were no neurological
   sequelae following delivery.
-date: 2004/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '15321610'
 categories:
-  - name: blank
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Lepski GR
+  - name: Alderson JD
+keywords: []
+date: 2004/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15321610%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

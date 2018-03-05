@@ -1,4 +1,43 @@
+pmid: '21670407'
 title: Neuropathy in a human without the PMP22 gene.
+abstract: >-
+  Haploinsufficiency of PMP22 causes hereditary neuropathy with liability to
+  pressure palsies. However, the biological functions of the PMP22 protein in
+  humans have largely been unexplored owing to the absence of patients with
+  PMP22-null mutations. To investigate the function of PMP22 in the peripheral
+  nervous system by studying a boy without the PMP22 gene and mice without the
+  Pmp22 gene. The clinical and pathological features of a patient with a PMP22
+  homozygous deletion are compared with those of Pmp22-null mice. Clinical
+  evaluation was performed at tertiary hospitals in the United Kingdom.
+  Molecular diagnosis was performed at the West Midlands Regional Genetics
+  Laboratory. Immunohistochemistry and electron microscopy analyses were
+  conducted at Wayne State University, Detroit, Michigan. Analysis of the Pmp22
+  +/- and null mice was performed at Vanderbilt University, Nashville,
+  Tennessee. A 7-year-old boy without the PMP22 gene. Motor and sensory deficits
+  in the proband were nonlength-dependent. Weakness was found in cranial muscles
+  but not in the limbs. Large fiber sensory modalities were profoundly abnormal,
+  which started prior to the maturation of myelin. This is in line with the
+  temporal pattern of PMP22 expression predominantly in cranial motor neurons
+  and dorsal root ganglia during embryonic development, becoming undetectable in
+  adulthood. Moreover, there were conspicuous maturation defects of myelinating
+  Schwann cells; these defects were more significant in motor nerve fibers than
+  in sensory nerve fibers. Taken together, the data suggest that PMP22 is
+  important for the normal function of neurons that express PMP22 during early
+  development, such as cranial motor neurons and spinal sensory neurons.
+  Moreover, PMP22 deficiency differentially affects myelination between motor
+  and sensory nerves, which may have contributed to the unique clinical
+  phenotype in the patient with an absence of PMP22.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Saporta MA
   - name: Katona I
@@ -27,35 +66,7 @@ keywords:
   - keyword: 'Mice, Knockout'
   - keyword: Myelin Proteins
   - keyword: deficiency
-abstract: >-
-  Haploinsufficiency of PMP22 causes hereditary neuropathy with liability to
-  pressure palsies. However, the biological functions of the PMP22 protein in
-  humans have largely been unexplored owing to the absence of patients with
-  PMP22-null mutations. To investigate the function of PMP22 in the peripheral
-  nervous system by studying a boy without the PMP22 gene and mice without the
-  Pmp22 gene. The clinical and pathological features of a patient with a PMP22
-  homozygous deletion are compared with those of Pmp22-null mice. Clinical
-  evaluation was performed at tertiary hospitals in the United Kingdom.
-  Molecular diagnosis was performed at the West Midlands Regional Genetics
-  Laboratory. Immunohistochemistry and electron microscopy analyses were
-  conducted at Wayne State University, Detroit, Michigan. Analysis of the Pmp22
-  +/- and null mice was performed at Vanderbilt University, Nashville,
-  Tennessee. A 7-year-old boy without the PMP22 gene. Motor and sensory deficits
-  in the proband were nonlength-dependent. Weakness was found in cranial muscles
-  but not in the limbs. Large fiber sensory modalities were profoundly abnormal,
-  which started prior to the maturation of myelin. This is in line with the
-  temporal pattern of PMP22 expression predominantly in cranial motor neurons
-  and dorsal root ganglia during embryonic development, becoming undetectable in
-  adulthood. Moreover, there were conspicuous maturation defects of myelinating
-  Schwann cells; these defects were more significant in motor nerve fibers than
-  in sensory nerve fibers. Taken together, the data suggest that PMP22 is
-  important for the normal function of neurons that express PMP22 during early
-  development, such as cranial motor neurons and spinal sensory neurons.
-  Moreover, PMP22 deficiency differentially affects myelination between motor
-  and sensory nerves, which may have contributed to the unique clinical
-  phenotype in the patient with an absence of PMP22.
 date: 2011/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '17131416'
   - pmid: '18698610'
@@ -77,9 +88,7 @@ cites:
   - pmid: '16436605'
   - pmid: '16437560'
   - pmid: '16626749'
-pmid: '21670407'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21670407%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25429154'
     title: >-

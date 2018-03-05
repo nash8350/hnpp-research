@@ -1,6 +1,24 @@
+pmid: '8210227'
 title: >-
   Deletion in the CMT1A locus on chromosome 17p11.2 in hereditary neuropathy
   with liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (NHPP) is an
+  autosomal dominant disease of peripheral nerves, characterized by recurrent
+  focal neuropathies often with an underlying asymptomatic polyneuropathy. We
+  report the clinical, electrophysiological, and histopathological findings in
+  three families with HNPP and confirm the presence of a deletion on chromosome
+  17p11.2, including all the markers known to be duplicated in
+  Charcot-Marie-Tooth disease type 1A. This deletion appears to be the
+  underlying molecular deficit in this disease and provides additional evidence
+  for the importance of this locus for peripheral nerve function.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Verhalle D
   - name: Löfgren A
@@ -37,22 +55,9 @@ keywords:
   - keyword: ultrastructure
   - keyword: Sural Nerve
   - keyword: Ulnar Nerve
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (NHPP) is an
-  autosomal dominant disease of peripheral nerves, characterized by recurrent
-  focal neuropathies often with an underlying asymptomatic polyneuropathy. We
-  report the clinical, electrophysiological, and histopathological findings in
-  three families with HNPP and confirm the presence of a deletion on chromosome
-  17p11.2, including all the markers known to be duplicated in
-  Charcot-Marie-Tooth disease type 1A. This deletion appears to be the
-  underlying molecular deficit in this disease and provides additional evidence
-  for the importance of this locus for peripheral nerve function.
 date: 1994/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8210227'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8210227%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9032649'
     title: >-

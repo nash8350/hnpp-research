@@ -1,27 +1,7 @@
+pmid: '10474898'
 title: >-
   Molecular evolution of the CMT1A-REP region a human- and chimpanzee-specific
   repeat.
-authors:
-  - name: Keller MP
-  - name: Seifried BA
-  - name: Chance PF
-keywords:
-  - keyword: Animals
-  - keyword: Base Sequence
-  - keyword: Cebidae
-  - keyword: genetics
-  - keyword: Cercopithecidae
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Conserved Sequence
-  - keyword: 'Evolution, Molecular'
-  - keyword: Hominidae
-  - keyword: Humans
-  - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Phylogeny
-  - keyword: Polymerase Chain Reaction
-  - keyword: Primates
-  - keyword: 'Repetitive Sequences, Nucleic Acid'
 abstract: >-
   The CMT1A-REP repeat consists of two copies of a 24-kb sequence on human
   chromosome 17p11.2-12 that flank a 1.5-Mb region containing a dosage-sensitive
@@ -48,12 +28,35 @@ abstract: >-
   was duplicated during primate evolution, provide support for a
   human-chimpanzee clade, and suggest that insertion of the MLE into the
   CMT1A-REP sequence occurred in the ancestor of anthropoid primates.
-date: 1999/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10474898'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Keller MP
+  - name: Seifried BA
+  - name: Chance PF
+keywords:
+  - keyword: Animals
+  - keyword: Base Sequence
+  - keyword: Cebidae
+  - keyword: genetics
+  - keyword: Cercopithecidae
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Conserved Sequence
+  - keyword: 'Evolution, Molecular'
+  - keyword: Hominidae
+  - keyword: Humans
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Phylogeny
+  - keyword: Polymerase Chain Reaction
+  - keyword: Primates
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+date: 1999/09
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10474898%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
     title: >-

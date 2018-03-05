@@ -1,6 +1,30 @@
+pmid: '9292696'
 title: >-
   Molecular diagnosis of PMP22-associated neuropathies using fluorescence in
   situ hybridization (FISH) on archival peripheral nerve tissue preparations.
+abstract: >-
+  Charcot-Marie-Tooth (CMT) syndrome type 1 and tomaculous neuropathy, also
+  called hereditary neuropathy with liability to pressure palsies (HNPP),
+  represent two groups of neurological disorders with different subtypes, which
+  can be distinguished at the molecular level. It is known that a 1.5-mb region
+  on chromosome 17p11.2-12, which includes the gene for the peripheral myelin
+  protein 22 kDa (PMP22), is duplicated in more than 95% of patients with CMT
+  type 1A (CMT1A; gene dosage 3) and is deleted in about 90% of subjects
+  suffering from HNPP (gene dosage 1). This duplication/deletion can be detected
+  reliably by interphase-two-color fluorescence in situ hybridization (FISH). We
+  report here a technique for extraction of nuclei from paraffin-embedded and
+  cryofixed sural nerve biopsies for precise molecular diagnosis, employing
+  interphase-two-color FISH in clinically diagnosed CMT1 or HNPP patients.
+  Following this technique we were able to identify six CMT1A duplications in 13
+  clinically diagnosed CMT1 cases and five HNPP deletions in 6 clinically
+  diagnosed HNPP cases; 8 control persons were included in this study. This is
+  the first report on the use of FISH in the detection of 17p11.2-12 duplication
+  and deletion in archival biopsy material.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Liehr T
   - name: Grehl H
@@ -22,30 +46,9 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: Peripheral Nervous System Diseases
   - keyword: Sural Nerve
-abstract: >-
-  Charcot-Marie-Tooth (CMT) syndrome type 1 and tomaculous neuropathy, also
-  called hereditary neuropathy with liability to pressure palsies (HNPP),
-  represent two groups of neurological disorders with different subtypes, which
-  can be distinguished at the molecular level. It is known that a 1.5-mb region
-  on chromosome 17p11.2-12, which includes the gene for the peripheral myelin
-  protein 22 kDa (PMP22), is duplicated in more than 95% of patients with CMT
-  type 1A (CMT1A; gene dosage 3) and is deleted in about 90% of subjects
-  suffering from HNPP (gene dosage 1). This duplication/deletion can be detected
-  reliably by interphase-two-color fluorescence in situ hybridization (FISH). We
-  report here a technique for extraction of nuclei from paraffin-embedded and
-  cryofixed sural nerve biopsies for precise molecular diagnosis, employing
-  interphase-two-color FISH in clinically diagnosed CMT1 or HNPP patients.
-  Following this technique we were able to identify six CMT1A duplications in 13
-  clinically diagnosed CMT1 cases and five HNPP deletions in 6 clinically
-  diagnosed HNPP cases; 8 control persons were included in this study. This is
-  the first report on the use of FISH in the detection of 17p11.2-12 duplication
-  and deletion in archival biopsy material.
 date: 1997/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9292696'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9292696%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15083272'
     title: >-

@@ -1,4 +1,27 @@
+pmid: '18786029'
 title: An improved in situ hybridization method for the detection of fish pathogens.
+abstract: >-
+  A fluorescent in situ hybridization (FISH) method was developed for detection
+  of infectious pancreatic necrosis virus (IPNV) in paraffin-embedded tissues of
+  Atlantic salmon, Salmo salar L. Several methods of probe labelling and
+  detection were evaluated and found unsuitable for FISH because of tissue
+  autofluorescence. Likewise, the use of avidin to detect biotin-labelled probe
+  was obviated by the presence of endogenous biotin. An existing approach, using
+  digoxigenin (DIG)-labelled probes and detection by anti-DIG antibody-labelled
+  with alkaline phosphatase, was modified to use a fluorescent substrate,
+  2-hydroxy-3-naphthoic acid-2'-phenylanilide phosphate/4-chloro-2-methylbenzene
+  diazonium hemi-zinc chloride salt (HNPP/Fast Red TR). This improved method
+  allowed sensitive detection of IPNV target, without interference from
+  autofluorescence or endogenous alkaline phosphatase. Furthermore, the reporter
+  produces a discrete, non-fading signal, which is particularly suitable for
+  analysis by confocal microscopy.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: McCarthy UM
   - name: Urquhart KL
@@ -25,25 +48,7 @@ keywords:
   - keyword: Naphthalenes
   - keyword: Paraffin Embedding
   - keyword: Salmo salar
-abstract: >-
-  A fluorescent in situ hybridization (FISH) method was developed for detection
-  of infectious pancreatic necrosis virus (IPNV) in paraffin-embedded tissues of
-  Atlantic salmon, Salmo salar L. Several methods of probe labelling and
-  detection were evaluated and found unsuitable for FISH because of tissue
-  autofluorescence. Likewise, the use of avidin to detect biotin-labelled probe
-  was obviated by the presence of endogenous biotin. An existing approach, using
-  digoxigenin (DIG)-labelled probes and detection by anti-DIG antibody-labelled
-  with alkaline phosphatase, was modified to use a fluorescent substrate,
-  2-hydroxy-3-naphthoic acid-2'-phenylanilide phosphate/4-chloro-2-methylbenzene
-  diazonium hemi-zinc chloride salt (HNPP/Fast Red TR). This improved method
-  allowed sensitive detection of IPNV target, without interference from
-  autofluorescence or endogenous alkaline phosphatase. Furthermore, the reporter
-  produces a discrete, non-fading signal, which is particularly suitable for
-  analysis by confocal microscopy.
 date: 2008/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '18786029'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18786029%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

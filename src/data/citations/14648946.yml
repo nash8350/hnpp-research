@@ -1,28 +1,5 @@
+pmid: '14648946'
 title: Carpal tunnel syndrome in children.
-authors:
-  - name: Van Meir N
-  - name: De Smet L
-keywords:
-  - keyword: Adolescent
-  - keyword: Age Distribution
-  - keyword: Age of Onset
-  - keyword: Belgium
-  - keyword: epidemiology
-  - keyword: Carpal Tunnel Syndrome
-  - keyword: diagnosis
-  - keyword: Child
-  - keyword: 'Child, Preschool'
-  - keyword: Electromyography
-  - keyword: methods
-  - keyword: Female
-  - keyword: Follow-Up Studies
-  - keyword: Humans
-  - keyword: Incidence
-  - keyword: Male
-  - keyword: Neural Conduction
-  - keyword: Risk Factors
-  - keyword: Severity of Illness Index
-  - keyword: Sex Distribution
 abstract: >-
   Carpal tunnel syndrome (CTS) is rarely seen in children. A literature search
   in 1989 revealed 52 published cases. The authors review 163 additional cases
@@ -73,10 +50,42 @@ abstract: >-
   a family history must be taken. Children with storage disease may benefit from
   early clinical and electrophysiological screening before they develop obvious
   clinical signs.
-date: 2003/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '14648946'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Van Meir N
+  - name: De Smet L
+keywords:
+  - keyword: Adolescent
+  - keyword: Age Distribution
+  - keyword: Age of Onset
+  - keyword: Belgium
+  - keyword: epidemiology
+  - keyword: Carpal Tunnel Syndrome
+  - keyword: diagnosis
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: Electromyography
+  - keyword: methods
+  - keyword: Female
+  - keyword: Follow-Up Studies
+  - keyword: Humans
+  - keyword: Incidence
+  - keyword: Male
+  - keyword: Neural Conduction
+  - keyword: Risk Factors
+  - keyword: Severity of Illness Index
+  - keyword: Sex Distribution
+date: 2003/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14648946%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

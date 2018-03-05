@@ -1,6 +1,11 @@
+pmid: '12427913'
 title: >-
   Hereditary neuropathy with liability to pressure palsies emerging during
   vincristine treatment.
+abstract: ''
+categories:
+  - name: Therapies
+    enabled: true
 authors:
   - name: Kalfakis N
   - name: Panas M
@@ -23,13 +28,9 @@ keywords:
   - keyword: chemically induced
   - keyword: Pressure
   - keyword: Vincristine
-abstract: ''
 date: 2002/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12427913'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12427913%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28489810'
     title: >-

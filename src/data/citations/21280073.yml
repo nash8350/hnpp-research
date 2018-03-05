@@ -1,4 +1,31 @@
+pmid: '21280073'
 title: Charcot-Marie-Tooth disease subtypes and genetic testing strategies.
+abstract: >-
+  Charcot-Marie-Tooth disease (CMT) affects 1 in 2,500 people and is caused by
+  mutations in more than 30 genes. Identifying the genetic cause of CMT is often
+  necessary for family planning, natural history studies, and for entry into
+  clinical trials. However genetic testing can be both expensive and confusing
+  to patients and physicians. We analyzed data from 1,024 of our patients to
+  determine the percentage and features of each CMT subtype within this clinic
+  population. We identified distinguishing clinical and physiological features
+  of the subtypes that could be used to direct genetic testing for patients with
+  CMT. Of 1,024 patients evaluated, 787 received CMT diagnoses. A total of 527
+  patients with CMT (67%) received a genetic subtype, while 260 did not have a
+  mutation identified. The most common CMT subtypes were CMT1A, CMT1X,
+  hereditary neuropathy with liability to pressure palsies (HNPP), CMT1B, and
+  CMT2A. All other subtypes accounted for less than 1% each. Eleven patients had
+  >1 genetically identified subtype of CMT. Patients with genetically identified
+  CMT were separable into specific groups based on age of onset and the degree
+  of slowing of motor nerve conduction velocities. Combining features of the
+  phenotypic and physiology groups allowed us to identify patients who were
+  highly likely to have specific subtypes of CMT. Based on these results, we
+  propose a strategy of focused genetic testing for CMT, illustrated in a series
+  of flow diagrams created as testing guides.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Saporta AS
   - name: Sottile SL
@@ -29,29 +56,7 @@ keywords:
   - keyword: Phenotype
   - keyword: Ulnar Nerve
   - keyword: Walking
-abstract: >-
-  Charcot-Marie-Tooth disease (CMT) affects 1 in 2,500 people and is caused by
-  mutations in more than 30 genes. Identifying the genetic cause of CMT is often
-  necessary for family planning, natural history studies, and for entry into
-  clinical trials. However genetic testing can be both expensive and confusing
-  to patients and physicians. We analyzed data from 1,024 of our patients to
-  determine the percentage and features of each CMT subtype within this clinic
-  population. We identified distinguishing clinical and physiological features
-  of the subtypes that could be used to direct genetic testing for patients with
-  CMT. Of 1,024 patients evaluated, 787 received CMT diagnoses. A total of 527
-  patients with CMT (67%) received a genetic subtype, while 260 did not have a
-  mutation identified. The most common CMT subtypes were CMT1A, CMT1X,
-  hereditary neuropathy with liability to pressure palsies (HNPP), CMT1B, and
-  CMT2A. All other subtypes accounted for less than 1% each. Eleven patients had
-  >1 genetically identified subtype of CMT. Patients with genetically identified
-  CMT were separable into specific groups based on age of onset and the degree
-  of slowing of motor nerve conduction velocities. Combining features of the
-  phenotypic and physiology groups allowed us to identify patients who were
-  highly likely to have specific subtypes of CMT. Based on these results, we
-  propose a strategy of focused genetic testing for CMT, illustrated in a series
-  of flow diagrams created as testing guides.
 date: 2011/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '7218272'
   - pmid: '19056667'
@@ -75,9 +80,7 @@ cites:
   - pmid: '18227419'
   - pmid: '19086068'
   - pmid: '19056666'
-pmid: '21280073'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21280073%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
     title: >-

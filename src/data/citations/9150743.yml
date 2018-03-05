@@ -1,6 +1,25 @@
+pmid: '9150743'
 title: >-
   Polymorphisms in the PMP-22 gene region (17p11.2-12) are crucial for
   simplified diagnosis of duplications/deletions.
+abstract: >-
+  DNA duplications and deletions of a 1.5-Mb region in chromosome 17p11.2-12
+  comprising the gene encoding peripheral myelin protein 22 (PMP-22) are the
+  common mutations in Charcot-Marie-Tooth disease type 1 (CMT1) and hereditary
+  neuropathy with liability to pressure palsies (HNPP). A 1.7-kb recombination
+  hotspot region has been identified within misaligned flanking repeats
+  (CMT1-REP elements) by detection of CMT- and HNPP-specific junction fragments
+  in Southern blot analyses. In order to simplify routine diagnosis we introduce
+  a polymerase chain reaction-based method to identify directly specific REP
+  junction fragments. Using this test, specific fragments were detected in
+  approximately 67% of both CMT duplication and HNPP deletion cases.
+  Polymorphism within a specific restriction enzyme recognition site is crucial
+  for both Southern blot and PCR analyses of junction fragments.
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Haupt A
   - name: Schöls L
@@ -24,25 +43,9 @@ keywords:
   - keyword: 'Repetitive Sequences, Nucleic Acid'
   - keyword: Restriction Mapping
   - keyword: Sequence Deletion
-abstract: >-
-  DNA duplications and deletions of a 1.5-Mb region in chromosome 17p11.2-12
-  comprising the gene encoding peripheral myelin protein 22 (PMP-22) are the
-  common mutations in Charcot-Marie-Tooth disease type 1 (CMT1) and hereditary
-  neuropathy with liability to pressure palsies (HNPP). A 1.7-kb recombination
-  hotspot region has been identified within misaligned flanking repeats
-  (CMT1-REP elements) by detection of CMT- and HNPP-specific junction fragments
-  in Southern blot analyses. In order to simplify routine diagnosis we introduce
-  a polymerase chain reaction-based method to identify directly specific REP
-  junction fragments. Using this test, specific fragments were detected in
-  approximately 67% of both CMT duplication and HNPP deletion cases.
-  Polymorphism within a specific restriction enzyme recognition site is crucial
-  for both Southern blot and PCR analyses of junction fragments.
 date: 1997/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9150743'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9150743%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
     title: >-

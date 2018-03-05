@@ -1,11 +1,7 @@
+pmid: '10804242'
 title: >-
   In Situ Polymerase Chain Reaction Visualization of Vibrio halioticoli Using
   Alginate Lyase Gene AlyVG2.
-authors:
-  - name: Sugimura I
-  - name: Sawabe T
-  - name: Ezura Y
-keywords: []
 abstract: >-
   A prokaryotic in situ polymerase chain reaction (PI-PCR) technique was applied
   to visualize Vibrio halioticoli cells using alginate lyase gene alyVG2 as a
@@ -20,10 +16,17 @@ abstract: >-
   extension and digoxigenin-labeling step of the amplified fragment into the
   first amplification stage allowed us to differentiate V. halioticoli cells
   from V. pelagius cells.
-date: 2000/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10804242'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Sugimura I
+  - name: Sawabe T
+  - name: Ezura Y
+keywords: []
+date: 2000/05
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10804242%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

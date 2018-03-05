@@ -1,25 +1,7 @@
+pmid: '9554482'
 title: >-
   Determination of gene dosage at the PMP22 and androgen receptor loci by
   quantitative PCR.
-authors:
-  - name: Poropat RA
-  - name: Nicholson GA
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: DNA
-  - keyword: Female
-  - keyword: Gene Dosage
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Myelin Proteins
-  - keyword: Polymerase Chain Reaction
-  - keyword: methods
-  - keyword: 'Receptors, Androgen'
-  - keyword: Sensitivity and Specificity
-  - keyword: Sequence Deletion
-  - keyword: X Chromosome
 abstract: >-
   Although many genetic diseases are caused by the presence of point mutations
   in respective genes, an increasing number of diseases are known to be caused
@@ -47,12 +29,37 @@ abstract: >-
   detection of DNA duplications and deletions is sensitive, accurate, and has
   potential applications in the quantitation of changes in gene copy number
   associated with diseases characterized by such chromosomal alterations.
-date: 1998/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '9554482'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Poropat RA
+  - name: Nicholson GA
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: DNA
+  - keyword: Female
+  - keyword: Gene Dosage
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Myelin Proteins
+  - keyword: Polymerase Chain Reaction
+  - keyword: methods
+  - keyword: 'Receptors, Androgen'
+  - keyword: Sensitivity and Specificity
+  - keyword: Sequence Deletion
+  - keyword: X Chromosome
+date: 1998/04
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9554482%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15988805'
     title: >-

@@ -1,14 +1,7 @@
+pmid: '26347841'
 title: >-
   Complex Scapular Winging following Total Shoulder Arthroplasty in a Patient
   with Ehlers-Danlos Syndrome.
-authors:
-  - name: Skedros JG
-  - name: Phippen CM
-  - name: Langston TD
-  - name: Mears CS
-  - name: Trujillo AL
-  - name: Miska RM
-keywords: []
 abstract: >-
   This is a unique case of a female patient with features of classical and
   hypermobile types of Ehlers-Danlos syndrome (EDS) who developed complex
@@ -27,8 +20,22 @@ abstract: >-
   therapists that patients with EDS can have not only a complicated course after
   TSA, but rare concurrent conditions that can further increase the propensity
   of neurological injuries that result in compromised shoulder function.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Skedros JG
+  - name: Phippen CM
+  - name: Langston TD
+  - name: Mears CS
+  - name: Trujillo AL
+  - name: Miska RM
+keywords: []
 date: 2015/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '23845446'
   - pmid: '14996885'
@@ -93,7 +100,5 @@ cites:
   - pmid: '1913369'
   - pmid: '23920413'
   - pmid: '16311893'
-pmid: '26347841'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26347841%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,6 +1,26 @@
+pmid: '15489403'
 title: >-
   Hereditary neuropathy with liability to pressure palsy fulminant development
   with axonal loss during military training.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) is characterised
+  by recurrent mononeuropathies following minor trauma. We describe a case of
+  fulminant HNPP beginning on the first day of military physical training.
+  Protracted weakness, muscle atrophy, hand contractures, and multifocal sensory
+  loss developed during a further three weeks of basic training. Nerve
+  conduction changes were typical of HNPP, but without segmental slowing.
+  Electromyographically, there was prominent acute denervation in muscles of the
+  hands and right shoulder. Sural nerve biopsy demonstrated tomaculae and
+  remyelination. Genetic testing revealed PMP-22 gene deletion. This case report
+  demonstrates that HNPP can present with rapidly progressive peripheral nerve
+  dysfunction and electrophysiological evidence of focal axonal loss.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Horowitz SH
   - name: Spollen LE
@@ -29,24 +49,9 @@ keywords:
   - keyword: Physical Education and Training
   - keyword: Retrograde Degeneration
   - keyword: Sural Nerve
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsy (HNPP) is characterised
-  by recurrent mononeuropathies following minor trauma. We describe a case of
-  fulminant HNPP beginning on the first day of military physical training.
-  Protracted weakness, muscle atrophy, hand contractures, and multifocal sensory
-  loss developed during a further three weeks of basic training. Nerve
-  conduction changes were typical of HNPP, but without segmental slowing.
-  Electromyographically, there was prominent acute denervation in muscles of the
-  hands and right shoulder. Sural nerve biopsy demonstrated tomaculae and
-  remyelination. Genetic testing revealed PMP-22 gene deletion. This case report
-  demonstrates that HNPP can present with rapidly progressive peripheral nerve
-  dysfunction and electrophysiological evidence of focal axonal loss.
 date: 2004/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '15489403'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15489403%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28948078'
     title: >-

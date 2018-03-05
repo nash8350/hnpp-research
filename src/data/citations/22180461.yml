@@ -1,6 +1,31 @@
+pmid: '22180461'
 title: >-
   Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
   PMP22.
+abstract: >-
+  Myelin insulates axons in the peripheral nervous system to allow rapid
+  propagation of action potentials, and proper myelination requires the precise
+  regulation of genes encoding myelin proteins, including PMP22. The correct
+  gene dosage of PMP22 is critical; a duplication of PMP22 is the most common
+  cause of the peripheral neuropathy Charcot-Marie-Tooth Disease (CMT)
+  (classified as type 1A), while a deletion of PMP22 leads to another peripheral
+  neuropathy, hereditary neuropathy with liability to pressure palsies.
+  Recently, duplications upstream of PMP22, but not containing the gene itself,
+  were reported in patients with CMT1A like symptoms, suggesting that this
+  region contains regulators of PMP22. Using chromatin immunoprecipitation
+  analysis of two transcription factors known to upregulate PMP22-EGR2 and
+  SOX10-we found several enhancers in this upstream region that contain open
+  chromatin and direct reporter gene expression in tissue culture and in vivo in
+  zebrafish. These studies provide a novel means to identify critical regulatory
+  elements in genes that are required for myelination, and elucidate the
+  functional significance of non-coding genomic rearrangements.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Jones EA
   - name: Brewer MH
@@ -34,25 +59,7 @@ keywords:
   - keyword: SOXE Transcription Factors
   - keyword: Zebrafish
   - keyword: embryology
-abstract: >-
-  Myelin insulates axons in the peripheral nervous system to allow rapid
-  propagation of action potentials, and proper myelination requires the precise
-  regulation of genes encoding myelin proteins, including PMP22. The correct
-  gene dosage of PMP22 is critical; a duplication of PMP22 is the most common
-  cause of the peripheral neuropathy Charcot-Marie-Tooth Disease (CMT)
-  (classified as type 1A), while a deletion of PMP22 leads to another peripheral
-  neuropathy, hereditary neuropathy with liability to pressure palsies.
-  Recently, duplications upstream of PMP22, but not containing the gene itself,
-  were reported in patients with CMT1A like symptoms, suggesting that this
-  region contains regulators of PMP22. Using chromatin immunoprecipitation
-  analysis of two transcription factors known to upregulate PMP22-EGR2 and
-  SOX10-we found several enhancers in this upstream region that contain open
-  chromatin and direct reporter gene expression in tissue culture and in vivo in
-  zebrafish. These studies provide a novel means to identify critical regulatory
-  elements in genes that are required for myelination, and elucidate the
-  functional significance of non-coding genomic rearrangements.
 date: 2011/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '20493460'
   - pmid: '19534778'
@@ -128,9 +135,7 @@ cites:
   - pmid: '9412504'
   - pmid: '11156606'
   - pmid: '15723356'
-pmid: '22180461'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22180461%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

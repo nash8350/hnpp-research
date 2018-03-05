@@ -1,6 +1,30 @@
+pmid: '8780105'
 title: >-
   Phenotypic heterogeneity in hereditary neuropathy with liability to pressure
   palsies associated with chromosome 17p11.2-12 deletion.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is commonly
+  associated with a 1.5-megabase deletion on chromosome 17p11.2-12. We analyzed
+  the phenotypic expression of the deletion in 39 HNPP patients from 16 families
+  carrying the deletion. Two-thirds of the individuals had episodes of acute
+  mononeuropathy, often involving nerve territories of the upper limbs or
+  brachial plexus; however, 41% of affected subjects were unaware of their
+  disease, and 25% were almost or totally free of symptoms; one-third complained
+  of chronic symptoms and four older patients had a picture of polyneuropathy.
+  Electrophysiologic abnormalities differed among affected subjects, ranging
+  from conduction abnormalities localized at common entrapment sites to diffuse
+  conduction slowing, usually more evident at entrapment sites; patients from
+  one family had preeminent proximal involvement. The spectrum of phenotypic
+  expression of deletion-associated HNPP appears to be broader than previously
+  thought. The prevalence of the disease is probably underestimated, and the
+  availability of molecular diagnosis should increase disease detection.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Pareyson D
   - name: Scaioli V
@@ -29,28 +53,9 @@ keywords:
   - keyword: Paralysis
   - keyword: Phenotype
   - keyword: Pressure
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is commonly
-  associated with a 1.5-megabase deletion on chromosome 17p11.2-12. We analyzed
-  the phenotypic expression of the deletion in 39 HNPP patients from 16 families
-  carrying the deletion. Two-thirds of the individuals had episodes of acute
-  mononeuropathy, often involving nerve territories of the upper limbs or
-  brachial plexus; however, 41% of affected subjects were unaware of their
-  disease, and 25% were almost or totally free of symptoms; one-third complained
-  of chronic symptoms and four older patients had a picture of polyneuropathy.
-  Electrophysiologic abnormalities differed among affected subjects, ranging
-  from conduction abnormalities localized at common entrapment sites to diffuse
-  conduction slowing, usually more evident at entrapment sites; patients from
-  one family had preeminent proximal involvement. The spectrum of phenotypic
-  expression of deletion-associated HNPP appears to be broader than previously
-  thought. The prevalence of the disease is probably underestimated, and the
-  availability of molecular diagnosis should increase disease detection.
 date: 1996/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8780105'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8780105%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28489810'
     title: >-

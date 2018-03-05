@@ -1,24 +1,7 @@
+pmid: '8375058'
 title: >-
   Quantitative measurement of duplicated DNA as a diagnostic test for
   Charcot-Marie-Tooth disease type 1a.
-authors:
-  - name: Hensels GW
-  - name: Janssen EA
-  - name: Hoogendijk JE
-  - name: Valentijn LJ
-  - name: Baas F
-  - name: Bolhuis PA
-keywords:
-  - keyword: Autoradiography
-  - keyword: 'Blotting, Southern'
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: DNA
-  - keyword: analysis
-  - keyword: DNA Probes
-  - keyword: Humans
-  - keyword: Nucleic Acid Hybridization
 abstract: >-
   Charcot-Marie-Tooth disease type 1 (CMT1) is a hereditary motor and sensory
   neuropathy. The autosomal dominant subtype is often linked with a large
@@ -38,12 +21,28 @@ abstract: >-
   four unrelated patients with HNPP yielded test values of 63% and 54%,
   respectively, of those for nonduplicated samples (CV 19% and 18%,
   respectively; n = 4), suggesting a deletion in 17p11.2.
+categories: []
+authors:
+  - name: Hensels GW
+  - name: Janssen EA
+  - name: Hoogendijk JE
+  - name: Valentijn LJ
+  - name: Baas F
+  - name: Bolhuis PA
+keywords:
+  - keyword: Autoradiography
+  - keyword: 'Blotting, Southern'
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: DNA Probes
+  - keyword: Humans
+  - keyword: Nucleic Acid Hybridization
 date: 1993/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8375058'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8375058%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9391880'
     title: >-

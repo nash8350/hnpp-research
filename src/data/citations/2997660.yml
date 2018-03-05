@@ -1,6 +1,19 @@
+pmid: '2997660'
 title: >-
   Long-lasting conduction block in hereditary neuropathy with liability to
   pressure palsies.
+abstract: >-
+  We detected 29 conduction blocks in 12 patients with hereditary neuropathy and
+  liability to pressure palsies. The blocks occurred at entrapment sites, most
+  often the ulnar nerve at the elbow. Some had lasted for several years. This
+  kind of block seems to be characteristic of the neuropathy, and may be related
+  to the localized thickening of myelin ("tomacula"). In one patient with two
+  permanent and severe blocks, neurolysis was beneficial.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Magistris MR
   - name: Roth G
@@ -10,19 +23,9 @@ keywords:
   - keyword: Paralysis
   - keyword: physiopathology
   - keyword: Peripheral Nervous System Diseases
-abstract: >-
-  We detected 29 conduction blocks in 12 patients with hereditary neuropathy and
-  liability to pressure palsies. The blocks occurred at entrapment sites, most
-  often the ulnar nerve at the elbow. Some had lasted for several years. This
-  kind of block seems to be characteristic of the neuropathy, and may be related
-  to the localized thickening of myelin ("tomacula"). In one patient with two
-  permanent and severe blocks, neurolysis was beneficial.
 date: 1985/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '2997660'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2997660%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '3220711'
     title: Recurrent familial neuropathy due to liability to pressure palsies.

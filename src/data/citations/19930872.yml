@@ -1,6 +1,33 @@
+pmid: '19930872'
 title: >-
   Molecular diagnosis of PMP22 gene duplications and deletions comparison of
   different methods.
+abstract: >-
+  Several techniques can be used to diagnose Charcot-Marie-Tooth disease type 1A
+  (CMT1A) and hereditary neuro pathy with liability to pressure palsies (HNPP),
+  but no technique combines simplicity with high sensitivity. Multiplex
+  ligation-dependent probe amplification (MLPA) was applied to develop an
+  efficient and sensitive test for the detection of duplication/deletion of the
+  peripheral myelin protein 22 (PMP22) gene. The study sample included 70
+  probands that had each been previously analysed by fluorescence in situ
+  hibridization (FISH) and the restriction fragment length
+  polymorphism-polymerase chain reaction (RFLP-PCR) assay, both of which detect
+  a unique recombination fragment uniquely present in most patients with the
+  duplication. A total of nine duplications and 19 deletions were detected in
+  the 70 probands using MLPA, and there was 100% concordance between MPLA and
+  FISH. A single duplication was missed by the RFLP-PCR assay, which accords
+  with the lower sensitivity of this method. It is concluded that the MLPA
+  allows accurate detection of PMP22 gene duplications/deletions and could be
+  used for the molecular diagnosis of these two neuropathies.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Stangler Herodez S
   - name: Zagradisnik B
@@ -21,29 +48,9 @@ keywords:
   - keyword: Polymerase Chain Reaction
   - keyword: 'Polymorphism, Restriction Fragment Length'
   - keyword: Prognosis
-abstract: >-
-  Several techniques can be used to diagnose Charcot-Marie-Tooth disease type 1A
-  (CMT1A) and hereditary neuro pathy with liability to pressure palsies (HNPP),
-  but no technique combines simplicity with high sensitivity. Multiplex
-  ligation-dependent probe amplification (MLPA) was applied to develop an
-  efficient and sensitive test for the detection of duplication/deletion of the
-  peripheral myelin protein 22 (PMP22) gene. The study sample included 70
-  probands that had each been previously analysed by fluorescence in situ
-  hibridization (FISH) and the restriction fragment length
-  polymorphism-polymerase chain reaction (RFLP-PCR) assay, both of which detect
-  a unique recombination fragment uniquely present in most patients with the
-  duplication. A total of nine duplications and 19 deletions were detected in
-  the 70 probands using MLPA, and there was 100% concordance between MPLA and
-  FISH. A single duplication was missed by the RFLP-PCR assay, which accords
-  with the lower sensitivity of this method. It is concluded that the MLPA
-  allows accurate detection of PMP22 gene duplications/deletions and could be
-  used for the molecular diagnosis of these two neuropathies.
 date: 2009/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '19930872'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19930872%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
     title: >-

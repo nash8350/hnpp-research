@@ -1,6 +1,27 @@
+pmid: '8125763'
 title: >-
   Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
   review of the literature.
+abstract: >-
+  Tomaculous neuropathy has a distinctive pathological pattern of myelin
+  thickenings in a high proportion of internodes but no specific pattern of
+  nerve degeneration. We have analyzed the variable clinical expression of this
+  disorder in a large series of patients. Different phenotypes have been
+  recognized the majority of our patients (52 cases) had hereditary neuropathy
+  with liability to pressure palsy (HNPP) showing wide variability of clinical
+  progression and of severity of the single episodes. 3 patients suffered from
+  familial recurrent brachial plexus neuropathy (FBPN); 5 patients had a
+  symmetrical progressive sensorimotor involvement of the limbs (SSMN),
+  predominantly in the distal portions and leading to permanent disability. The
+  explanation for this clinical variability does not emerge from our data or
+  from the literature. Segmental demyelination is the major change correlating
+  with the episodes of nerve palsy; axonal degeneration might be rarely
+  associated. The myelin sausages are the markers of a selective vulnerability
+  of the nerve fibers either to mechanical injury or to some other unknown
+  event.
+categories:
+  - name: Symptoms
+    enabled: true
 authors:
   - name: Rizzuto N
   - name: Moretto G
@@ -26,25 +47,7 @@ keywords:
   - keyword: etiology
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
-abstract: >-
-  Tomaculous neuropathy has a distinctive pathological pattern of myelin
-  thickenings in a high proportion of internodes but no specific pattern of
-  nerve degeneration. We have analyzed the variable clinical expression of this
-  disorder in a large series of patients. Different phenotypes have been
-  recognized the majority of our patients (52 cases) had hereditary neuropathy
-  with liability to pressure palsy (HNPP) showing wide variability of clinical
-  progression and of severity of the single episodes. 3 patients suffered from
-  familial recurrent brachial plexus neuropathy (FBPN); 5 patients had a
-  symmetrical progressive sensorimotor involvement of the limbs (SSMN),
-  predominantly in the distal portions and leading to permanent disability. The
-  explanation for this clinical variability does not emerge from our data or
-  from the literature. Segmental demyelination is the major change correlating
-  with the episodes of nerve palsy; axonal degeneration might be rarely
-  associated. The myelin sausages are the markers of a selective vulnerability
-  of the nerve fibers either to mechanical injury or to some other unknown
-  event.
 date: 1993/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '4325444'
   - pmid: '531410'
@@ -75,9 +78,7 @@ cites:
   - pmid: '3003872'
   - pmid: '1473315'
   - pmid: '2171842'
-pmid: '8125763'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8125763%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23207550'
     title: Electrophysiological comparison between males and females in HNPP.

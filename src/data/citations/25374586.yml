@@ -1,9 +1,7 @@
+pmid: '25374586'
 title: >-
   Genetic factors for nerve susceptibility to injuries - lessons from PMP22
   deficiency.
-authors:
-  - name: Jun Li
-keywords: []
 abstract: >-
   Genetic factors may be learnt from families with gene mutations that render
   nerve-injury susceptibility even to ordinary physical activities. A typical
@@ -14,8 +12,13 @@ abstract: >-
   susceptibility to injury. This finding should motivate investigators to
   identify additional genetic factors contributing to nerve vulnerability of
   injury.
+categories:
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Jun Li
+keywords: []
 date: 2014/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '23224996'
   - pmid: '19224642'
@@ -52,7 +55,5 @@ cites:
   - pmid: '9120057'
   - pmid: '22492055'
   - pmid: '7581450'
-pmid: '25374586'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25374586%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

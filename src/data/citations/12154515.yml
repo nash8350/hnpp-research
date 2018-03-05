@@ -1,27 +1,8 @@
+pmid: '12154515'
 title: >-
   [Analysis of mutations in the chromosome 17p11.2 region in patients with
   Charcot-Marie-Tooth type 1 disease and in patients with tomaculous
   neuropathy].
-authors:
-  - name: Zamurović N
-  - name: Milić V
-  - name: Dacković J
-  - name: Zamurović D
-  - name: Culjković B
-  - name: Parlović S
-  - name: Apostolski S
-  - name: Romac S
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
-  - keyword: Gene Duplication
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Mutation
-  - keyword: Pedigree
 abstract: >-
   Charcot-Marie-Tooth type 1A disease (CMT1A) and hereditary neuropathy with
   liability to pressure palsies (HNPP) are common inherited disorders of the
@@ -43,10 +24,32 @@ abstract: >-
   DNA diagnostic method, which is useful only for the patients with clinically
   already verified CMT1, and HNPP for further genetic counselling of patients
   and members of their families.
-date: 2002/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '12154515'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Zamurović N
+  - name: Milić V
+  - name: Dacković J
+  - name: Zamurović D
+  - name: Culjković B
+  - name: Parlović S
+  - name: Apostolski S
+  - name: Romac S
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Female
+  - keyword: Gene Duplication
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Mutation
+  - keyword: Pedigree
+date: 2002/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12154515%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

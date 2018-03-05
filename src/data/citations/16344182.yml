@@ -1,25 +1,7 @@
+pmid: '16344182'
 title: >-
   The prevalence of hereditary neuropathy with liability to pressure palsies in
   patients with multiple surgically treated entrapment neuropathies.
-authors:
-  - name: Sander MD
-  - name: Abbasi D
-  - name: Ferguson AL
-  - name: Steyers CM
-  - name: Wang K
-  - name: Morcuende JA
-keywords:
-  - keyword: Case-Control Studies
-  - keyword: Chromosome Deletion
-  - keyword: Genetic Markers
-  - keyword: Genotype
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Nerve Compression Syndromes
-  - keyword: surgery
-  - keyword: Polymerase Chain Reaction
-  - keyword: Prevalence
 abstract: >-
   Hereditary neuropathy with liability to pressure palsies (HNPP) is an
   autosomal-dominant peripheral neuropathy that results from deletion of a
@@ -48,12 +30,41 @@ abstract: >-
   population is 0% to 5%. We found no evidence for an association between HNPP
   and patients who have multiple surgical releases for upper-extremity
   entrapment neuropathies.
-date: 2005/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '16344182'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Sander MD
+  - name: Abbasi D
+  - name: Ferguson AL
+  - name: Steyers CM
+  - name: Wang K
+  - name: Morcuende JA
+keywords:
+  - keyword: Case-Control Studies
+  - keyword: Chromosome Deletion
+  - keyword: Genetic Markers
+  - keyword: Genotype
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: genetics
+  - keyword: Humans
+  - keyword: Nerve Compression Syndromes
+  - keyword: surgery
+  - keyword: Polymerase Chain Reaction
+  - keyword: Prevalence
+date: 2005/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16344182%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
     title: >-

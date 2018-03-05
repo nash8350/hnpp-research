@@ -1,14 +1,5 @@
+pmid: '8882569'
 title: Advances in the genetics of hereditary hypertrophic neuropathy in childhood.
-authors:
-  - name: Ouvrier RA
-  - name: Nicholson GA
-keywords:
-  - keyword: Child
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Neurology
-  - keyword: trends
 abstract: >-
   The peripheral neuropathies constitute approximately 30% of cases seen in a
   pediatric neuromuscular service. Two-thirds of such cases are chronic. Of the
@@ -28,10 +19,24 @@ abstract: >-
   tomaculous neuropathy (hereditary liability to pressure palsies). Finally,
   mutations of the gap junction protein, connexin 32, have been shown to be
   responsible for X-linked dominant CMT.
-date: 1995/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '8882569'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Ouvrier RA
+  - name: Nicholson GA
+keywords:
+  - keyword: Child
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: genetics
+  - keyword: Humans
+  - keyword: Neurology
+  - keyword: trends
+date: 1995/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8882569%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

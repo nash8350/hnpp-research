@@ -1,6 +1,41 @@
+pmid: '9169527'
 title: >-
   Heterozygous peripheral myelin protein 22-deficient mice are affected by a
   progressive demyelinating tomaculous neuropathy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) is associated
+  with a heterozygous 1.5 megabase deletion on chromosome 17 that includes the
+  peripheral myelin protein (PMP) gene PMP22. We show that heterozygous PMP22
+  knock-out mice, which carry only one functional pmp22 allele and thus
+  genetically mimic HNPP closely, display similar morphological and
+  electrophysiological features as observed in HNPP nerves. As reported
+  previously, focal hypermyelinating structures called tomacula, the
+  pathological hallmarks of HNPP, develop progressively in young PMP22(+/0)
+  mice. By following the fate of tomacula during aging, we demonstrate now that
+  these mutant animals are also interesting models for examining HNPP disease
+  mechanisms. Subtle electrophysiological abnormalities are detected in
+  PMP22(+/0) mice >1 year old, and a significant number of abnormally swollen
+  and degenerating tomacula are present. Thinly myelinated axons and
+  supernumerary Schwann cells forming onion bulbs as fingerprints of repeated
+  cycles of demyelination and remyelination are also encountered frequently.
+  Quantitative analyses using electron microscopy on cross sections and light
+  microscopy on single teased nerve fibers suggest that tomacula are
+  intrinsically unstable structures that are prone to degeneration; however, the
+  severity of morphological and electrophysiological abnormalities in PMP22(+/0)
+  mice is variable. These combined findings are reminiscent of the disease
+  progression in HNPP and offer a possible explanation about why some HNPP
+  patients develop a chronic motor and sensory neuropathy later in life that
+  resembles demyelinating forms of Charcot-Marie-Tooth disease by both
+  morphological and clinical criteria.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Adlkofer K
   - name: Frei R
@@ -33,37 +68,9 @@ keywords:
   - keyword: ultrastructure
   - keyword: Nerve Fibers
   - keyword: Sciatic Nerve
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsy (HNPP) is associated
-  with a heterozygous 1.5 megabase deletion on chromosome 17 that includes the
-  peripheral myelin protein (PMP) gene PMP22. We show that heterozygous PMP22
-  knock-out mice, which carry only one functional pmp22 allele and thus
-  genetically mimic HNPP closely, display similar morphological and
-  electrophysiological features as observed in HNPP nerves. As reported
-  previously, focal hypermyelinating structures called tomacula, the
-  pathological hallmarks of HNPP, develop progressively in young PMP22(+/0)
-  mice. By following the fate of tomacula during aging, we demonstrate now that
-  these mutant animals are also interesting models for examining HNPP disease
-  mechanisms. Subtle electrophysiological abnormalities are detected in
-  PMP22(+/0) mice >1 year old, and a significant number of abnormally swollen
-  and degenerating tomacula are present. Thinly myelinated axons and
-  supernumerary Schwann cells forming onion bulbs as fingerprints of repeated
-  cycles of demyelination and remyelination are also encountered frequently.
-  Quantitative analyses using electron microscopy on cross sections and light
-  microscopy on single teased nerve fibers suggest that tomacula are
-  intrinsically unstable structures that are prone to degeneration; however, the
-  severity of morphological and electrophysiological abnormalities in PMP22(+/0)
-  mice is variable. These combined findings are reminiscent of the disease
-  progression in HNPP and offer a possible explanation about why some HNPP
-  patients develop a chronic motor and sensory neuropathy later in life that
-  resembles demyelinating forms of Charcot-Marie-Tooth disease by both
-  morphological and clinical criteria.
 date: 1997/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9169527'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9169527%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27799291'
     title: >-

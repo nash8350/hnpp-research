@@ -1,6 +1,31 @@
+pmid: '18353535'
 title: >-
   Comparison of two PCR-based molecular methods in the diagnosis of CMT 1A and
   HNPP diseases in Chinese.
+abstract: >-
+  Current molecular diagnostic methods in detecting Charcot-Marie-Tooth type 1A
+  (CMT1A) and hereditary neuropathy with liability to pressure palsy (HNPP)
+  diseases are either not sensitive or time-consuming and costing. The aims of
+  this study are improving the accuracy and speeding up the diagnosis. We
+  developed real-time quantitative PCR (QPCR) and three polymorphic short tandem
+  repeats (STRs) methods to test 53 unrelated CMT1A patients, 12 unrelated HNPP
+  patients and 100 normal control subjects. QPCR in detection of pmp22 gene
+  duplication (CMT1A) and deletion (HNPP) showed a sensitivity of 100.00%
+  (53/53) and 100.00% (12/12), respectively. And this method also showed a
+  specificity of 100% (100/100) in CMT1A and 100% (100/100) in HNPP,
+  respectively. In contrast, using three polymorphic STRs method showed a
+  sensitivity of 50/53 (94%) in CMT1A and 12/12 (100.00%) of HNPP patients,
+  respectively. And this method showed a specificity of 97% (100/103) in CMT1A
+  and 100% (100/100) in HNPP, respectively. QPCR and three STRs methods both
+  demonstrate a rapid and robust diagnosis with almost complete informativeness.
+  The high sensitivity and heterozygosity of these three polymorphic markers in
+  detecting CMT1A/HNPP subjects of Caucasian and Chinese showed the potential to
+  become pan-ethnic screening markers in the future.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Chen SR
   - name: Lin KP
@@ -31,29 +56,7 @@ keywords:
   - keyword: Reference Values
   - keyword: Reproducibility of Results
   - keyword: Sensitivity and Specificity
-abstract: >-
-  Current molecular diagnostic methods in detecting Charcot-Marie-Tooth type 1A
-  (CMT1A) and hereditary neuropathy with liability to pressure palsy (HNPP)
-  diseases are either not sensitive or time-consuming and costing. The aims of
-  this study are improving the accuracy and speeding up the diagnosis. We
-  developed real-time quantitative PCR (QPCR) and three polymorphic short tandem
-  repeats (STRs) methods to test 53 unrelated CMT1A patients, 12 unrelated HNPP
-  patients and 100 normal control subjects. QPCR in detection of pmp22 gene
-  duplication (CMT1A) and deletion (HNPP) showed a sensitivity of 100.00%
-  (53/53) and 100.00% (12/12), respectively. And this method also showed a
-  specificity of 100% (100/100) in CMT1A and 100% (100/100) in HNPP,
-  respectively. In contrast, using three polymorphic STRs method showed a
-  sensitivity of 50/53 (94%) in CMT1A and 12/12 (100.00%) of HNPP patients,
-  respectively. And this method showed a specificity of 97% (100/103) in CMT1A
-  and 100% (100/100) in HNPP, respectively. QPCR and three STRs methods both
-  demonstrate a rapid and robust diagnosis with almost complete informativeness.
-  The high sensitivity and heterozygosity of these three polymorphic markers in
-  detecting CMT1A/HNPP subjects of Caucasian and Chinese showed the potential to
-  become pan-ethnic screening markers in the future.
 date: 2008/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '18353535'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18353535%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

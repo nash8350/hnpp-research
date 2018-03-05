@@ -1,15 +1,7 @@
+pmid: '29127354'
 title: >-
   Clinical and Molecular Characterization of PMP22 point mutations in Taiwanese
   patients with Inherited Neuropathy.
-authors:
-  - name: Liao YC
-  - name: Tsai PC
-  - name: Lin TS
-  - name: Hsiao CT
-  - name: Chao NC
-  - name: Lin KP
-  - name: Lee YC
-keywords: []
 abstract: >-
   Point mutations in the peripheral myelin protein 22 (PMP22) gene have been
   identified to cause demyelinating Charcot-Marie-Tooth disease (CMT) and
@@ -31,8 +23,29 @@ abstract: >-
   respectively. This study delineates the clinical and molecular features of
   PMP22 point mutations in Taiwan, and emphasizes their roles in demyelinating
   CMT or HNPP-like neuropathy.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Liao YC
+  - name: Tsai PC
+  - name: Lin TS
+  - name: Hsiao CT
+  - name: Chao NC
+  - name: Lin KP
+  - name: Lee YC
+keywords: []
 date: 2017/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '23224996'
   - pmid: '7944298'
@@ -75,7 +88,5 @@ cites:
   - pmid: '18663734'
   - pmid: '8800924'
   - pmid: '24253303'
-pmid: '29127354'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29127354%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

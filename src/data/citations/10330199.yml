@@ -1,15 +1,7 @@
+pmid: '10330199'
 title: >-
   Normalized Southern Hybridization to Enhance Testing for Charcot-Marie-Tooth
   Disease, Type 1A.
-authors:
-  - name: Chen KL
-  - name: Wang YL
-  - name: Dodson LA
-  - name: Rennert H
-  - name: Mochan BS
-  - name: Wilson RB
-  - name: Kant JA
-keywords: []
 abstract: >-
   Background Charcot-Marie-Tooth disease, type 1A (CMT,1A) is a common autosomal
   dominant neuromuscular disorder, which affects both motor and sensory function
@@ -33,12 +25,23 @@ abstract: >-
   with three copies (2.72-3.69), two copies (1.60-2.40) and one copy (0.75-1.30)
   of this region in over 45 patient and control samples studied. Conclusions
   This assay appears to provide a reliable and consistent method of analysis.
-date: 1996/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10330199'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Chen KL
+  - name: Wang YL
+  - name: Dodson LA
+  - name: Rennert H
+  - name: Mochan BS
+  - name: Wilson RB
+  - name: Kant JA
+keywords: []
+date: 1996/06
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10330199%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15988805'
     title: >-

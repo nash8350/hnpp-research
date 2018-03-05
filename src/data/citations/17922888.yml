@@ -1,6 +1,29 @@
+pmid: '17922888'
 title: >-
   Hereditary neuropathy with liability to pressure palsies description of seven
   patients without known family history.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  inherited disorder resulting in a polyneuropathy with particular involvement
+  at sites of entrapment, and is often underdiagnosed or misdiagnosed. We report
+  findings on seven patients referred for evaluation of focal mononeuropathies
+  or polyneuropathies of undetermined etiology, in whom we established a
+  diagnosis of HNPP. We retrospectively reviewed clinical, electrophysiological
+  and laboratory data for patients diagnosed with HNPP over a 4-year period at
+  our institution. All patients had transient or recurrent neurological
+  symptoms, some with residual deficits. No patients had a family history of any
+  neuropathy. Electrodiagnostic studies revealed abnormal conduction findings at
+  symptomatic and asymptomatic sites. Testing for the Peripheral Myelin Protein
+  (PMP22) deletion was positive in all patients. A high index of clinical
+  suspicion and thorough electrodiagnostic evaluation can lead to correct
+  diagnosis of HNPP, despite the absence of a positive family history.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Beydoun SR
   - name: Sykes SN
@@ -36,27 +59,9 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: Predictive Value of Tests
   - keyword: Retrospective Studies
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  inherited disorder resulting in a polyneuropathy with particular involvement
-  at sites of entrapment, and is often underdiagnosed or misdiagnosed. We report
-  findings on seven patients referred for evaluation of focal mononeuropathies
-  or polyneuropathies of undetermined etiology, in whom we established a
-  diagnosis of HNPP. We retrospectively reviewed clinical, electrophysiological
-  and laboratory data for patients diagnosed with HNPP over a 4-year period at
-  our institution. All patients had transient or recurrent neurological
-  symptoms, some with residual deficits. No patients had a family history of any
-  neuropathy. Electrodiagnostic studies revealed abnormal conduction findings at
-  symptomatic and asymptomatic sites. Testing for the Peripheral Myelin Protein
-  (PMP22) deletion was positive in all patients. A high index of clinical
-  suspicion and thorough electrodiagnostic evaluation can lead to correct
-  diagnosis of HNPP, despite the absence of a positive family history.
 date: 2007/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17922888'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17922888%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
     title: >-

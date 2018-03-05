@@ -1,6 +1,9 @@
+pmid: '14638986'
 title: >-
   Hereditary neuropathy with liability to pressure palsies mimicking hypoglossal
   nerve injuries.
+abstract: ''
+categories: []
 authors:
   - name: Corwin HM
   - name: Girardet RE
@@ -20,13 +23,9 @@ keywords:
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: Tongue
-abstract: ''
 date: 2003/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '14638986'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14638986%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18218131'
     title: >-

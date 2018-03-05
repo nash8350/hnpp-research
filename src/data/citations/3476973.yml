@@ -1,22 +1,7 @@
+pmid: '3476973'
 title: >-
   [Tomaculous neuropathy. A histopathological study and electroclinical
   correlates in 10 cases].
-authors:
-  - name: Pellissier JF
-  - name: Pouget J
-  - name: de Victor B
-  - name: Serratrice G
-  - name: Toga M
-keywords:
-  - keyword: Electrophysiology
-  - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: pathology
-  - keyword: Humans
-  - keyword: Myelin Sheath
-  - keyword: ultrastructure
-  - keyword: Neuromuscular Diseases
-  - keyword: Sural Nerve
-  - keyword: physiology
 abstract: >-
   Among 980 sural nerve biopsies, the nerves of 10 patients showed a great
   number of focal sausage-shaped thickenings of the myelin sheaths and were
@@ -42,12 +27,32 @@ abstract: >-
   cases. A great number of tomaculous swellings of myelin sheaths is considered
   as a specific but non constant change of hereditary neuropathy with liability
   to pressure palsies.
-date: 1987/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '3476973'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Pellissier JF
+  - name: Pouget J
+  - name: de Victor B
+  - name: Serratrice G
+  - name: Toga M
+keywords:
+  - keyword: Electrophysiology
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: pathology
+  - keyword: Humans
+  - keyword: Myelin Sheath
+  - keyword: ultrastructure
+  - keyword: Neuromuscular Diseases
+  - keyword: Sural Nerve
+  - keyword: physiology
+date: 1987/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=3476973%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18751796'
     title: >-

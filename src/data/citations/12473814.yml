@@ -1,4 +1,13 @@
+pmid: '12473814'
 title: Peripheral neuropathy in patients with HIV infection consider dual pathology.
+abstract: >-
+  Two HIV infected patients presented with peripheral neuropathy, in one patient
+  this was originally ascribed to HIV associated mononeuritis multiplex and in
+  the other to stavudine. Investigations confirmed these diagnoses and in both
+  cases genetic analysis identified a second hereditary aetiology in the first
+  patient hereditary neuropathy with liability to pressure palsies and in the
+  second hereditary motor and sensory neuropathy.
+categories: []
 authors:
   - name: Miller RF
   - name: Bunting S
@@ -20,17 +29,7 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: virology
   - keyword: Stavudine
-abstract: >-
-  Two HIV infected patients presented with peripheral neuropathy, in one patient
-  this was originally ascribed to HIV associated mononeuritis multiplex and in
-  the other to stavudine. Investigations confirmed these diagnoses and in both
-  cases genetic analysis identified a second hereditary aetiology in the first
-  patient hereditary neuropathy with liability to pressure palsies and in the
-  second hereditary motor and sensory neuropathy.
 date: 2002/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12473814'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12473814%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

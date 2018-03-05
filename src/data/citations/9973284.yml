@@ -1,6 +1,37 @@
+pmid: '9973284'
 title: >-
   DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
   individual with a family history of autosomal dominant carpal tunnel syndrome.
+abstract: >-
+  Disorders known to be caused by molecular and cytogenetic abnormalities of the
+  proximal short arm of chromosome 17 include Charcot-Marie-Tooth disease type
+  1A (CMT1A), hereditary neuropathy with liability to pressure palsies (HNPP),
+  Smith-Magenis syndrome (SMS), and mental retardation and congenital anomalies
+  associated with partial duplication of 17p. We identified a patient with
+  multifocal mononeuropathies and mild distal neuropathy, growth hormone
+  deficiency, and mild mental retardation who was found to have a duplication of
+  the SMS region of 17p11.2 and a deletion of the peripheral myelin protein 22
+  (PMP22) gene within 17p12 on the homologous chromosome. Further molecular
+  analyses reveal that the dup(17)(p11.2p11.2) is a de novo event but that the
+  PMP22 deletion is familial. The family members with deletions of PMP22 have
+  abnormalities indicative of carpal tunnel syndrome, documented by
+  electrophysiological studies prior to molecular analysis. The chromosomal
+  duplication was shown by interphase FISH analysis to be a tandem duplication.
+  These data indicate that familial entrapment neuropathies, such as carpal
+  tunnel syndrome and focal ulnar neuropathy syndrome, can occur because of
+  deletions of the PMP22 gene. The co-occurrence of the 17p11.2 duplication and
+  the PMP22 deletion in this patient likely reflects the relatively high
+  frequency at which these abnormalities arise and the underlying molecular
+  characteristics of the genome in this region.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Potocki L
   - name: Chen KS
@@ -25,29 +56,7 @@ keywords:
   - keyword: Humans
   - keyword: Male
   - keyword: Pedigree
-abstract: >-
-  Disorders known to be caused by molecular and cytogenetic abnormalities of the
-  proximal short arm of chromosome 17 include Charcot-Marie-Tooth disease type
-  1A (CMT1A), hereditary neuropathy with liability to pressure palsies (HNPP),
-  Smith-Magenis syndrome (SMS), and mental retardation and congenital anomalies
-  associated with partial duplication of 17p. We identified a patient with
-  multifocal mononeuropathies and mild distal neuropathy, growth hormone
-  deficiency, and mild mental retardation who was found to have a duplication of
-  the SMS region of 17p11.2 and a deletion of the peripheral myelin protein 22
-  (PMP22) gene within 17p12 on the homologous chromosome. Further molecular
-  analyses reveal that the dup(17)(p11.2p11.2) is a de novo event but that the
-  PMP22 deletion is familial. The family members with deletions of PMP22 have
-  abnormalities indicative of carpal tunnel syndrome, documented by
-  electrophysiological studies prior to molecular analysis. The chromosomal
-  duplication was shown by interphase FISH analysis to be a tandem duplication.
-  These data indicate that familial entrapment neuropathies, such as carpal
-  tunnel syndrome and focal ulnar neuropathy syndrome, can occur because of
-  deletions of the PMP22 gene. The co-occurrence of the 17p11.2 duplication and
-  the PMP22 deletion in this patient likely reflects the relatively high
-  frequency at which these abnormalities arise and the underlying molecular
-  characteristics of the genome in this region.
 date: 1999/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '1141922'
   - pmid: '9820031'
@@ -87,9 +96,7 @@ cites:
   - pmid: '9326934'
   - pmid: '9545397'
   - pmid: '464452'
-pmid: '9973284'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9973284%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28692128'
     title: Carpal tunnel syndrome in inherited neuropathies A retrospective survey.

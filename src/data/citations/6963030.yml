@@ -1,4 +1,7 @@
+pmid: '6963030'
 title: '[Hereditary neuropathy with a tendency to pressure palsy].'
+abstract: ''
+categories: []
 authors:
   - name: C H Wulff
 keywords:
@@ -14,11 +17,7 @@ keywords:
   - keyword: Neural Conduction
   - keyword: 'Paralyses, Familial Periodic'
   - keyword: Pedigree
-abstract: ''
 date: 1982/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '6963030'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6963030%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

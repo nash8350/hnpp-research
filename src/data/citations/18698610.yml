@@ -1,26 +1,7 @@
+pmid: '18698610'
 title: >-
   Compound heterozygous deletions of PMP22 causing severe Charcot-Marie-Tooth
   disease of the Dejerine-Sottas disease phenotype.
-authors:
-  - name: Al-Thihli K
-  - name: Rudkin T
-  - name: Carson N
-  - name: Poulin C
-  - name: Melançon S
-  - name: Der Kaloustian VM
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Child
-  - keyword: DNA Mutational Analysis
-  - keyword: Gastroesophageal Reflux
-  - keyword: Gene Deletion
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Heterozygote
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Myelin Proteins
-  - keyword: Phenotype
 abstract: >-
   Dejerine-Sottas disease (DSD) is a particular phenotype of the
   Charcot-Marie-Tooth (CMT) disease spectrum that is genetically heterogeneous.
@@ -41,12 +22,36 @@ abstract: >-
   a clinical feature not previously reported with CMT or DSD. The correlation of
   the phenotype and the molecular defects observed in this patient may set a new
   subcategory in the classification of DSD.
-date: 2008/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '18698610'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Al-Thihli K
+  - name: Rudkin T
+  - name: Carson N
+  - name: Poulin C
+  - name: Melançon S
+  - name: Der Kaloustian VM
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: Child
+  - keyword: DNA Mutational Analysis
+  - keyword: Gastroesophageal Reflux
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Heterozygote
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Myelin Proteins
+  - keyword: Phenotype
+date: 2008/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18698610%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

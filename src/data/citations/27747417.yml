@@ -1,10 +1,7 @@
+pmid: '27747417'
 title: >-
   Cell migration within the embryonic limb primordium of Drosophila as revealed
   by a novel fluorescence method to visualize mRNA and protein.
-authors:
-  - name: Goto S
-  - name: Hayashi S
-keywords: []
 abstract: >-
   We report a new technique using fluorescent probes to detect a mRNA and a
   protein simultaneously in the Drosophila embryo. For in situ hybridization,
@@ -21,10 +18,18 @@ abstract: >-
   activated in the ventral region of the limb primordium and that Dll-positive
   cells migrate from a ventral position to a dorsal one within a single limb
   primordium.
-date: 1997/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '27747417'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Goto S
+  - name: Hayashi S
+keywords: []
+date: 1997/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27747417%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

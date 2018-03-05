@@ -1,4 +1,18 @@
+pmid: '17222125'
 title: Bilateral hand amyotrophy with PMP-22 gene deletion.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) phenotypes are
+  heterogeneous. We report the case of a 52-year-old woman without medical
+  history, who complained of bilateral hand weakness suggestive first of a motor
+  neuron disorder. The presence of a diffuse predominant distal demyelinating
+  neuropathy suggested a deletion of PMP-22 gene, which was confirmed by genetic
+  analysis. This case report underlines a novel phenotype related to the
+  deletion of PMP-22 gene.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Gochard A
   - name: Guennoc AM
@@ -19,18 +33,7 @@ keywords:
   - keyword: Humans
   - keyword: Middle Aged
   - keyword: Myelin Proteins
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) phenotypes are
-  heterogeneous. We report the case of a 52-year-old woman without medical
-  history, who complained of bilateral hand weakness suggestive first of a motor
-  neuron disorder. The presence of a diffuse predominant distal demyelinating
-  neuropathy suggested a deletion of PMP-22 gene, which was confirmed by genetic
-  analysis. This case report underlines a novel phenotype related to the
-  deletion of PMP-22 gene.
 date: 2007/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17222125'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17222125%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

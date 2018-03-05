@@ -1,6 +1,24 @@
+pmid: '8393091'
 title: >-
   Hereditary neuropathy with liability to pressure palsies a clinical,
   electroneurophysiological and morphological study.
+abstract: >-
+  Clinical, electroneurographic and myographic studies were performed on 99
+  patients of 13 families having hereditary neuropathy with liability to
+  pressure palsies (HNPP) and on 116 relatives. Diagnosis was confirmed in all
+  families by a nerve biopsy of the index case. Large focal myelin thickenings
+  (tomacula) were found in nerve biopsies of affected persons, whether or not
+  pressure palsies had occurred. By using three electroneurographical parameters
+  it was possible to discriminate between asymptomatic patients and unaffected
+  relatives. Complaints sometimes mentioned in literature as being associated
+  with HNPP such as low back pain, brachialgia and short lasting paraesthesia
+  are not related to HNPP. The hereditary transmission is autosomal dominant
+  with total penetration but variable expression.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Verhagen WI
   - name: Gabreëls-Festen AA
@@ -29,24 +47,9 @@ keywords:
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Sural Nerve
-abstract: >-
-  Clinical, electroneurographic and myographic studies were performed on 99
-  patients of 13 families having hereditary neuropathy with liability to
-  pressure palsies (HNPP) and on 116 relatives. Diagnosis was confirmed in all
-  families by a nerve biopsy of the index case. Large focal myelin thickenings
-  (tomacula) were found in nerve biopsies of affected persons, whether or not
-  pressure palsies had occurred. By using three electroneurographical parameters
-  it was possible to discriminate between asymptomatic patients and unaffected
-  relatives. Complaints sometimes mentioned in literature as being associated
-  with HNPP such as low back pain, brachialgia and short lasting paraesthesia
-  are not related to HNPP. The hereditary transmission is autosomal dominant
-  with total penetration but variable expression.
 date: 1993/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8393091'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8393091%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27761228'
     title: >-

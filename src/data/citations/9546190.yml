@@ -1,6 +1,27 @@
+pmid: '9546190'
 title: >-
   Development of a direct in situ PCR method for detection of specific bacteria
   in natural environments.
+abstract: >-
+  We applied HNPP (2-hydroxy-3-naphthoic acid-2'-phenylanilide phosphate) to
+  direct in situ PCR for the routine detection of specific bacterial cells at
+  the single-cell level. PCR was performed on glass slides with
+  digoxigenin-labeled dUTP. The digoxigenin-labeled PCR products were detected
+  with alkaline phosphatase-labeled antidigoxigenin antibody and HNPP which was
+  combined with Fast Red TR. A bright red fluorescent signal was produced from
+  conversion to HNP (dephosphorylated form) by alkaline phosphatase. We used the
+  ECOL DNA primer set for amplification of ribosomal DNA of Escherichia coli to
+  identify cells specifically at the single-cell level in a bacterial mixture.
+  High-contrast images were obtained under an epifluorescence microscope with in
+  situ PCR. By image analysis, E. coli cells in polluted river water also were
+  detected.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Tani K
   - name: Kurokawa K
@@ -23,21 +44,7 @@ keywords:
   - keyword: Naphthalenes
   - keyword: Polymerase Chain Reaction
   - keyword: methods
-abstract: >-
-  We applied HNPP (2-hydroxy-3-naphthoic acid-2'-phenylanilide phosphate) to
-  direct in situ PCR for the routine detection of specific bacterial cells at
-  the single-cell level. PCR was performed on glass slides with
-  digoxigenin-labeled dUTP. The digoxigenin-labeled PCR products were detected
-  with alkaline phosphatase-labeled antidigoxigenin antibody and HNPP which was
-  combined with Fast Red TR. A bright red fluorescent signal was produced from
-  conversion to HNP (dephosphorylated form) by alkaline phosphatase. We used the
-  ECOL DNA primer set for amplification of ribosomal DNA of Escherichia coli to
-  identify cells specifically at the single-cell level in a bacterial mixture.
-  High-contrast images were obtained under an epifluorescence microscope with in
-  situ PCR. By image analysis, E. coli cells in polluted river water also were
-  detected.
 date: 1998/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '2231712'
   - pmid: '2041798'
@@ -49,9 +56,7 @@ cites:
   - pmid: '8526521'
   - pmid: '8572706'
   - pmid: '7984417'
-pmid: '9546190'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9546190%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11679354'
     title: >-

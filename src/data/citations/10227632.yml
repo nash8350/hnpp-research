@@ -1,30 +1,7 @@
+pmid: '10227632'
 title: >-
   Spectrum of clinical and electrophysiologic features in HNPP patients with the
   17p11.2 deletion.
-authors:
-  - name: Mouton P
-  - name: Tardieu S
-  - name: Gouider R
-  - name: Birouk N
-  - name: Maisonobe T
-  - name: Dubourg O
-  - name: Brice A
-  - name: LeGuern E
-  - name: Bouche P
-keywords:
-  - keyword: Adolescent
-  - keyword: Adult
-  - keyword: Aged
-  - keyword: 'Aged, 80 and over'
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
-  - keyword: Gene Deletion
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Middle Aged
-  - keyword: Neural Conduction
-  - keyword: physiology
 abstract: >-
   To study the clinical and electrophysiologic features of a large series of
   carriers of the 17p11.2 deletion. The 17p11.2 deletion is associated in most
@@ -51,12 +28,40 @@ abstract: >-
   the 17p11.2 deletion and suggest that electrophysiologic examination is a
   reliable tool for screening suspected HNPP patients in its various clinical
   presentations.
-date: 1999/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10227632'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Mouton P
+  - name: Tardieu S
+  - name: Gouider R
+  - name: Birouk N
+  - name: Maisonobe T
+  - name: Dubourg O
+  - name: Brice A
+  - name: LeGuern E
+  - name: Bouche P
+keywords:
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Aged
+  - keyword: 'Aged, 80 and over'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: genetics
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: physiopathology
+  - keyword: Humans
+  - keyword: Middle Aged
+  - keyword: Neural Conduction
+  - keyword: physiology
+date: 1999/05
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10227632%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
     title: >-

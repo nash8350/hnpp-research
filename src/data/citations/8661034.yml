@@ -1,21 +1,7 @@
+pmid: '8661034'
 title: >-
   A 1.5-Mb cosmid contig of the CMT1A duplication/HNPP deletion critical region
   in 17p11.2-p12.
-authors:
-  - name: Murakami T
-  - name: Lupski JR
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Chromosome Mapping
-  - keyword: 'Chromosomes, Artificial, Yeast'
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Cosmids
-  - keyword: Gene Deletion
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: In Situ Hybridization
-  - keyword: Restriction Mapping
 abstract: >-
   Charcot-Marie-Tooth disease type 1A (CMT1A) is associated with a 1. 5-Mb
   tandem duplication in chromosome 17p11.2-p12, and hereditary neuropathy with
@@ -31,12 +17,29 @@ abstract: >-
   facilitated the subsequent fingerprint analysis. The 1.5-Mb region was covered
   by 137 cosmids with a minimum overlap set of 52 cosmids assigned to 17 bins
   and 9 contigs.
-date: 1996/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '8661034'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Murakami T
+  - name: Lupski JR
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Artificial, Yeast'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Cosmids
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: In Situ Hybridization
+  - keyword: Restriction Mapping
+date: 1996/05
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8661034%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11381029'
     title: >-

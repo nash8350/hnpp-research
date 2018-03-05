@@ -1,6 +1,23 @@
+pmid: '17707409'
 title: >-
   A novel point mutation in PMP22 gene in an Italian family with hereditary
   neuropathy with liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant inherited disorder characterized by recurrent sensory or
+  motor dysfunction. In 85% of HNPP cases the genetic defect is a 1.4 Mb
+  deletion on chromosome 17p11.2, encompassing the PMP22 gene. Point mutations
+  in the PMP22 gene responsible for HNPP phenotypes are rare. We investigated a
+  17-years-old girl who led to our detecting a novel mutation in PMP22 gene. The
+  mutation was also detected in her father and corresponded to a deletion of one
+  tymidine at position 11 in exon2 (c.11delT). This novel mutation creates a
+  shift on the reading frame starting at codon 4 and leads to the introduction
+  of a premature stop at codon 6.
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Muglia M
   - name: Patitucci A
@@ -36,23 +53,9 @@ keywords:
   - keyword: Paralysis
   - keyword: Point Mutation
   - keyword: Pressure
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal dominant inherited disorder characterized by recurrent sensory or
-  motor dysfunction. In 85% of HNPP cases the genetic defect is a 1.4 Mb
-  deletion on chromosome 17p11.2, encompassing the PMP22 gene. Point mutations
-  in the PMP22 gene responsible for HNPP phenotypes are rare. We investigated a
-  17-years-old girl who led to our detecting a novel mutation in PMP22 gene. The
-  mutation was also detected in her father and corresponded to a deletion of one
-  tymidine at position 11 in exon2 (c.11delT). This novel mutation creates a
-  shift on the reading frame starting at codon 4 and leads to the introduction
-  of a premature stop at codon 6.
 date: 2007/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17707409'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17707409%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

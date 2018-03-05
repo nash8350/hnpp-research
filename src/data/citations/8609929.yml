@@ -1,6 +1,24 @@
+pmid: '8609929'
 title: >-
   Hereditary neuropathy with liability to pressure palsies assocation with
   central nervous system demyelination.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is usually
+  caused by a 1.5-Mb deletion in chromosome 17p11.2, the inverse mutation to the
+  duplication seen in the majority of Charcot-Marie-Tooth type 1A (CMT 1A)
+  patients. Although most patients with HNPP present with pressure palsies
+  secondary to mild trauma, the clinical heterogeneity of the neuropathy has
+  become more apparent following the discovery of the mutation. There are
+  reports of central conduction abnormalities in CMT 1, however, there have been
+  no previous reports of central nervous system (CNS) demyelination in HNPP. We
+  report a case of HNPP with the typical DNA mutation whose clinical features
+  and MRI of the brain suggested concurrent CNS demyelination. Further studies
+  of possible CNS involvement in HNPP are warranted.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Amato AA
   - name: Barohn RJ
@@ -24,24 +42,9 @@ keywords:
   - keyword: Sural Nerve
   - keyword: Tibial Nerve
   - keyword: Ulnar Nerve
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is usually
-  caused by a 1.5-Mb deletion in chromosome 17p11.2, the inverse mutation to the
-  duplication seen in the majority of Charcot-Marie-Tooth type 1A (CMT 1A)
-  patients. Although most patients with HNPP present with pressure palsies
-  secondary to mild trauma, the clinical heterogeneity of the neuropathy has
-  become more apparent following the discovery of the mutation. There are
-  reports of central conduction abnormalities in CMT 1, however, there have been
-  no previous reports of central nervous system (CNS) demyelination in HNPP. We
-  report a case of HNPP with the typical DNA mutation whose clinical features
-  and MRI of the brain suggested concurrent CNS demyelination. Further studies
-  of possible CNS involvement in HNPP are warranted.
 date: 1996/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8609929'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8609929%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
     title: >-

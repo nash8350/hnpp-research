@@ -1,4 +1,9 @@
+pmid: '12796555'
 title: HNPP due to a novel missense mutation of the PMP22 gene.
+abstract: ''
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Nodera H
   - name: Nishimura M
@@ -19,13 +24,9 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: Nerve Compression Syndromes
   - keyword: Paralysis
-abstract: ''
 date: 2003/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12796555'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12796555%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

@@ -1,33 +1,7 @@
+pmid: '9851299'
 title: >-
   Clinical and electrophysiological findings and follow-up in tarsal tunnel
   syndrome.
-authors:
-  - name: Mondelli M
-  - name: Giannini F
-  - name: Reale F
-keywords:
-  - keyword: Action Potentials
-  - keyword: physiology
-  - keyword: Adolescent
-  - keyword: Adult
-  - keyword: Aged
-  - keyword: Electromyography
-  - keyword: Electrophysiology
-  - keyword: Female
-  - keyword: Follow-Up Studies
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
-  - keyword: Neural Conduction
-  - keyword: 'Neurons, Afferent'
-  - keyword: Reaction Time
-  - keyword: Steroids
-  - keyword: therapeutic use
-  - keyword: Tarsal Tunnel Syndrome
-  - keyword: drug therapy
-  - keyword: physiopathology
-  - keyword: surgery
-  - keyword: Treatment Outcome
 abstract: >-
   The authors report clinical and electrophysiological findings in 59 patients
   with tarsal tunnel syndrome (TTS) and follow-up in 23 of them. The entrapment
@@ -57,10 +31,41 @@ abstract: >-
   subclinical neuropathy. Some subjects with idiopathic or trauma-induced TTS
   recover spontaneously. Surgical release should be limited to cases with
   space-occupying lesions and when conservative treatments fail.
-date: 1998/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '9851299'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: Mondelli M
+  - name: Giannini F
+  - name: Reale F
+keywords:
+  - keyword: Action Potentials
+  - keyword: physiology
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Aged
+  - keyword: Electromyography
+  - keyword: Electrophysiology
+  - keyword: Female
+  - keyword: Follow-Up Studies
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Neural Conduction
+  - keyword: 'Neurons, Afferent'
+  - keyword: Reaction Time
+  - keyword: Steroids
+  - keyword: therapeutic use
+  - keyword: Tarsal Tunnel Syndrome
+  - keyword: drug therapy
+  - keyword: physiopathology
+  - keyword: surgery
+  - keyword: Treatment Outcome
+date: 1998/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9851299%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

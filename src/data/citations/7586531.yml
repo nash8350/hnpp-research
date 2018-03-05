@@ -1,4 +1,7 @@
+pmid: '7586531'
 title: 'Single test for two hereditary neuropathies, CMT1A and HNPP.'
+abstract: ''
+categories: []
 authors:
   - name: Kennerson ML
   - name: Gordon MJ
@@ -18,13 +21,9 @@ keywords:
   - keyword: Multigene Family
   - keyword: Nucleic Acid Hybridization
   - keyword: 'Repetitive Sequences, Nucleic Acid'
-abstract: ''
 date: 1995/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '7586531'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7586531%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '10727485'
     title: >-

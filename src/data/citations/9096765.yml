@@ -1,21 +1,7 @@
+pmid: '9096765'
 title: >-
   Diagnosis of CMT1A duplications and HNPP deletions by interphase FISH
   implications for testing in the cytogenetics laboratory.
-authors:
-  - name: Shaffer LG
-  - name: Kennedy GM
-  - name: Spikes AS
-  - name: Lupski JR
-keywords:
-  - keyword: Cell Line
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Gene Deletion
-  - keyword: Humans
-  - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Interphase
-  - keyword: Multigene Family
-  - keyword: Peripheral Nervous System Diseases
 abstract: >-
   Charcot-Marie-Tooth (CMT) disease type 1A is an inherited peripheral
   neuropathy characterized by slowly progressive distal muscle wasting and
@@ -42,12 +28,33 @@ abstract: >-
   CMT1A and HNPP in the clinical cytogenetics laboratory and to readily
   distinguish the DNA rearrangements associated with these disorders from
   individuals without duplication or deletion of the PMP22 locus.
-date: 1997/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '9096765'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Shaffer LG
+  - name: Kennedy GM
+  - name: Spikes AS
+  - name: Lupski JR
+keywords:
+  - keyword: Cell Line
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: Gene Deletion
+  - keyword: Humans
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Interphase
+  - keyword: Multigene Family
+  - keyword: Peripheral Nervous System Diseases
+date: 1997/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9096765%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
     title: >-

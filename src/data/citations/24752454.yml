@@ -1,6 +1,26 @@
+pmid: '24752454'
 title: >-
   Axonal dysfunction, dysmyelination, and conduction failure in hereditary
   neuropathy with liability to pressure palsies.
+abstract: >-
+  Patients with hereditary neuropathy with liability to pressure palsies (HNPP)
+  manifest with episodes of focal paresis when exposed to mechanical stress,
+  although the basis for vulnerability to conduction block remains relatively
+  unexplained. Axonal excitability techniques were utilized to provide insights
+  into pathophysiological mechanisms in 13 HNPP patients, stimulating median
+  motor and sensory axons at the wrist. In HNPP, distal latencies were
+  prolonged, and motor and sensory amplitudes were reduced. Threshold was
+  increased. Depolarizing and hyperpolarizing electrotonus was greater, and
+  resting current-threshold slope was reduced. There were greater threshold
+  changes in superexcitability, and refractoriness was decreased. Taken
+  together, excitability testing in patients with HNPP established axonal
+  hyperpolarization in both motor and sensory axons that may be attributable to
+  changes in nerve architecture. In turn, the hyperpolarized resting membrane
+  potential in HNPP may be a major predisposing factor for development of
+  conduction block with mechanical stresses.
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Farrar MA
   - name: Park SB
@@ -32,26 +52,7 @@ keywords:
   - keyword: Wrist Joint
   - keyword: innervation
   - keyword: Young Adult
-abstract: >-
-  Patients with hereditary neuropathy with liability to pressure palsies (HNPP)
-  manifest with episodes of focal paresis when exposed to mechanical stress,
-  although the basis for vulnerability to conduction block remains relatively
-  unexplained. Axonal excitability techniques were utilized to provide insights
-  into pathophysiological mechanisms in 13 HNPP patients, stimulating median
-  motor and sensory axons at the wrist. In HNPP, distal latencies were
-  prolonged, and motor and sensory amplitudes were reduced. Threshold was
-  increased. Depolarizing and hyperpolarizing electrotonus was greater, and
-  resting current-threshold slope was reduced. There were greater threshold
-  changes in superexcitability, and refractoriness was decreased. Taken
-  together, excitability testing in patients with HNPP established axonal
-  hyperpolarization in both motor and sensory axons that may be attributable to
-  changes in nerve architecture. In turn, the hyperpolarized resting membrane
-  potential in HNPP may be a major predisposing factor for development of
-  conduction block with mechanical stresses.
 date: 2014/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '24752454'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24752454%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

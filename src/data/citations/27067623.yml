@@ -1,6 +1,32 @@
+pmid: '27067623'
 title: >-
   Congenital hypomyelinating neuropathy due to the association of a truncating
   mutation in PMP22 with the classical HNPP deletion.
+abstract: >-
+  Congenital hypomyelinating neuropathy appears early in life, resulting in a
+  delay of motor and sensory development. Mutations involve genes such as myelin
+  protein zero (MPZ), peripheral myelin protein 22 (PMP22), and early growth
+  response 2 (EGR2). We present a patient with two compound mutations in PMP22 a
+  point mutation causing a premature STOP codon in exon 3 was inherited from the
+  mother on the first allele, and the "typical" PMP22 deletion in the
+  17p11.2-p12 region was inherited from the father on the other allele. A sural
+  biopsy was performed at age four. The patient has been followed from 28 months
+  to 21 years of age; he presented significant sensory disturbances, with a
+  slight motor deficit. PMP22 mRNA quantitation showed a severe decrease of
+  PMP22 protein. No myelin sheaths were observed in the biopsy; mesaxons failed
+  to form. The absence of PMP22 provides new insights into the role of this
+  protein.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Jouaud M
   - name: Gonnaud PM
@@ -28,24 +54,7 @@ keywords:
   - keyword: Sequence Deletion
   - keyword: Sural Nerve
   - keyword: Young Adult
-abstract: >-
-  Congenital hypomyelinating neuropathy appears early in life, resulting in a
-  delay of motor and sensory development. Mutations involve genes such as myelin
-  protein zero (MPZ), peripheral myelin protein 22 (PMP22), and early growth
-  response 2 (EGR2). We present a patient with two compound mutations in PMP22 a
-  point mutation causing a premature STOP codon in exon 3 was inherited from the
-  mother on the first allele, and the "typical" PMP22 deletion in the
-  17p11.2-p12 region was inherited from the father on the other allele. A sural
-  biopsy was performed at age four. The patient has been followed from 28 months
-  to 21 years of age; he presented significant sensory disturbances, with a
-  slight motor deficit. PMP22 mRNA quantitation showed a severe decrease of
-  PMP22 protein. No myelin sheaths were observed in the biopsy; mesaxons failed
-  to form. The absence of PMP22 provides new insights into the role of this
-  protein.
 date: 2016/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '27067623'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27067623%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,25 +1,7 @@
+pmid: '10727485'
 title: >-
   Clinical syndromes associated with tomacula or myelin swellings in sural nerve
   biopsies.
-authors:
-  - name: Sander S
-  - name: Ouvrier RA
-  - name: McLeod JG
-  - name: Nicholson GA
-  - name: Pollard JD
-keywords:
-  - keyword: Adult
-  - keyword: Biopsy
-  - keyword: Child
-  - keyword: 'Child, Preschool'
-  - keyword: Humans
-  - keyword: 'Microscopy, Electron'
-  - keyword: Middle Aged
-  - keyword: Myelin Sheath
-  - keyword: pathology
-  - keyword: ultrastructure
-  - keyword: Peripheral Nervous System Diseases
-  - keyword: Sural Nerve
 abstract: >-
   To describe the neuropathological features of clinical syndromes associated
   with tomacula or focal myelin swellings in sural nerve biospies and to discuss
@@ -40,8 +22,31 @@ abstract: >-
   epitope which has been implicated in cell adhesion processes. Impaired myelin
   maintenance may therefore contribute to the formation of tomacula and
   subsequent demyelination.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Sander S
+  - name: Ouvrier RA
+  - name: McLeod JG
+  - name: Nicholson GA
+  - name: Pollard JD
+keywords:
+  - keyword: Adult
+  - keyword: Biopsy
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: Humans
+  - keyword: 'Microscopy, Electron'
+  - keyword: Middle Aged
+  - keyword: Myelin Sheath
+  - keyword: pathology
+  - keyword: ultrastructure
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: Sural Nerve
 date: 2000/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '4303801'
   - pmid: '8510709'
@@ -86,9 +91,7 @@ cites:
   - pmid: '8486695'
   - pmid: '1303281'
   - pmid: '4345910'
-pmid: '10727485'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10727485%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27098694'
     title: Akt Regulates Axon Wrapping and Myelin Sheath Thickness in the PNS.

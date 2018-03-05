@@ -1,6 +1,23 @@
+pmid: '8725788'
 title: >-
   Two patients with duplication of 17p11.2 the reciprocal of the Smith-Magenis
   syndrome deletion?
+abstract: >-
+  J.M. and H.G. are two unrelated male patients with developmental delay.
+  Cytogenetic analysis detected a duplication of 17p11.2 in both patients. The
+  extent of the duplicated region was determined using single copy DNA probes
+  cen-D17S58-D17S29-D17S258-D17S71-D17S445-+ ++D17S122-tel. Four of the six
+  markers, D17S29, D17S258, D17S71, and D17S445, were duplicated by dosage
+  analysis. Fluorescent in situ hybridization (FISH) analysis of H.G., using
+  cosmids for locus D17S29, confirmed the duplication in 17p11.2. Because the
+  deletion that causes the Smith-Magnesis syndrome involves the same region of
+  17p11.2 as the duplication in these patients, the mechanism may be similar to
+  that proposed for the reciprocal deletion/duplication event observed in
+  Hereditary Neuropathy with Liability to Pressure Palsies (HNPP) and
+  Charcot-Marie-Tooth Type 1A disease (CMT1A).
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Brown A
   - name: Phelan MC
@@ -22,25 +39,9 @@ keywords:
   - keyword: Male
   - keyword: Multigene Family
   - keyword: Syndrome
-abstract: >-
-  J.M. and H.G. are two unrelated male patients with developmental delay.
-  Cytogenetic analysis detected a duplication of 17p11.2 in both patients. The
-  extent of the duplicated region was determined using single copy DNA probes
-  cen-D17S58-D17S29-D17S258-D17S71-D17S445-+ ++D17S122-tel. Four of the six
-  markers, D17S29, D17S258, D17S71, and D17S445, were duplicated by dosage
-  analysis. Fluorescent in situ hybridization (FISH) analysis of H.G., using
-  cosmids for locus D17S29, confirmed the duplication in 17p11.2. Because the
-  deletion that causes the Smith-Magnesis syndrome involves the same region of
-  17p11.2 as the duplication in these patients, the mechanism may be similar to
-  that proposed for the reciprocal deletion/duplication event observed in
-  Hereditary Neuropathy with Liability to Pressure Palsies (HNPP) and
-  Charcot-Marie-Tooth Type 1A disease (CMT1A).
 date: 1996/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8725788'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8725788%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9973284'
     title: >-

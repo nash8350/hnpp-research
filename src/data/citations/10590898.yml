@@ -1,20 +1,5 @@
+pmid: '10590898'
 title: Molecular basis of inherited neuropathies.
-authors:
-  - name: Schenone A
-  - name: Mancardi GL
-keywords:
-  - keyword: Animals
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: classification
-  - keyword: genetics
-  - keyword: 'Disease Models, Animal'
-  - keyword: 'Genes, Recessive'
-  - keyword: Genetic Linkage
-  - keyword: Humans
-  - keyword: Nervous System Diseases
-  - keyword: Paralysis
-  - keyword: Peripheral Nervous System Diseases
-  - keyword: X Chromosome
 abstract: >-
   Considerable advances in our knowledge of the most frequently encountered
   group of inherited neuropathies, Charcot-Marie-Tooth neurpathy (CMT) and
@@ -37,10 +22,28 @@ abstract: >-
   models of inherited neuropathies have been developed and will probably give
   the information that is necessary to clarify the pathogenetic mechanisms of
   demyelination.
-date: 1999/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10590898'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Schenone A
+  - name: Mancardi GL
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: classification
+  - keyword: genetics
+  - keyword: 'Disease Models, Animal'
+  - keyword: 'Genes, Recessive'
+  - keyword: Genetic Linkage
+  - keyword: Humans
+  - keyword: Nervous System Diseases
+  - keyword: Paralysis
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: X Chromosome
+date: 1999/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10590898%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

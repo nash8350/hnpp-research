@@ -1,6 +1,19 @@
+pmid: '7606937'
 title: >-
   Simultaneous visualization of Q-bands and FISH signals using a novel
   fluorochrome.
+abstract: >-
+  We developed a new HNPP-azo dye method for detection of fluorescence in situ
+  hybridization (FISH) signals on Q-banded chromosomes by use of a newly
+  synthesized fluorochrome, HNPP
+  (3-hydroxy-N-2'-biphenyl-2-naphthalenecarboxamide phosphate ester), which
+  reacts enzymatically with alkaline phosphatase and azo dye. The FISH staining
+  method permits simultaneous detection of orange HNPP signals on chromosomal
+  sites labeled by Q-banding, allowing the assignment of small (440-1,200 bp)
+  probes.
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Kondoh Y
   - name: Ono T
@@ -20,19 +33,7 @@ keywords:
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Mice
   - keyword: Naphthalenes
-abstract: >-
-  We developed a new HNPP-azo dye method for detection of fluorescence in situ
-  hybridization (FISH) signals on Q-banded chromosomes by use of a newly
-  synthesized fluorochrome, HNPP
-  (3-hydroxy-N-2'-biphenyl-2-naphthalenecarboxamide phosphate ester), which
-  reacts enzymatically with alkaline phosphatase and azo dye. The FISH staining
-  method permits simultaneous detection of orange HNPP signals on chromosomal
-  sites labeled by Q-banding, allowing the assignment of small (440-1,200 bp)
-  probes.
 date: 1995/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '7606937'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7606937%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

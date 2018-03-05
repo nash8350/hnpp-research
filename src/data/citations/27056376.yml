@@ -1,6 +1,11 @@
+pmid: '27056376'
 title: >-
   HNPP not only entrapment sites. Ultrasound digital nerve abnormalities in a
   guitar player.
+abstract: ''
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Cacciavillani M
   - name: Padua L
@@ -18,15 +23,11 @@ keywords:
   - keyword: Ultrasonography
   - keyword: methods
   - keyword: Young Adult
-abstract: ''
 date: 2016/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '22581553'
   - pmid: '23224996'
   - pmid: '23279340'
   - pmid: '25454274'
-pmid: '27056376'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27056376%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

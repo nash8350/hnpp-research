@@ -1,24 +1,7 @@
+pmid: '12634865'
 title: >-
   A new quantitative PCR multiplex assay for rapid analysis of chromosome
   17p11.2-12 duplications and deletions leading to HMSN/HNPP.
-authors:
-  - name: Thiel CT
-  - name: Kraus C
-  - name: Rauch A
-  - name: Ekici AB
-  - name: Rautenstrauss B
-  - name: Reis A
-keywords:
-  - keyword: Biological Assay
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Gene Dosage
-  - keyword: Gene Duplication
-  - keyword: Humans
-  - keyword: Paralysis
-  - keyword: Polymerase Chain Reaction
-  - keyword: Sequence Deletion
 abstract: >-
   A 1.4-Mb tandem duplication, including the gene for peripheral myelin protein
   22 (PMP22) in chromosome 17p11.2-12 is responsible for 70% of the cases of the
@@ -47,12 +30,36 @@ abstract: >-
   FISH. Thus, this method shows superior sensitivity to microsatellite analysis
   and has the additional advantage of being a fast and uniform assay for
   quantitative analysis of both CMT1A and HNPP.
-date: 2003/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '12634865'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Thiel CT
+  - name: Kraus C
+  - name: Rauch A
+  - name: Ekici AB
+  - name: Rautenstrauss B
+  - name: Reis A
+keywords:
+  - keyword: Biological Assay
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Dosage
+  - keyword: Gene Duplication
+  - keyword: Humans
+  - keyword: Paralysis
+  - keyword: Polymerase Chain Reaction
+  - keyword: Sequence Deletion
+date: 2003/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12634865%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
     title: Identification of Alu elements mediating a partial PMP22 deletion.

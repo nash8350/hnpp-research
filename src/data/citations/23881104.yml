@@ -1,6 +1,9 @@
+pmid: '23881104'
 title: >-
   Hereditary neuropathy with liability to pressure palsy fulminant radicular
   dysfunction during anterolateral lumbar interbody fusion.
+abstract: ''
+categories: []
 authors:
   - name: Berciano J
   - name: Martínez-Agüeros JA
@@ -24,9 +27,7 @@ keywords:
   - keyword: etiology
   - keyword: Spinal Fusion
   - keyword: adverse effects
-abstract: ''
 date: 2013/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '21590514'
   - pmid: '8780105'
@@ -35,7 +36,5 @@ cites:
   - pmid: '10734269'
   - pmid: '12917113'
   - pmid: '18360752'
-pmid: '23881104'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23881104%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

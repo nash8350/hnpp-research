@@ -1,6 +1,22 @@
+pmid: '10399735'
 title: >-
   [Hereditary neuropathy with liability to pressure palsies caused by 17p11.2
   chromosome deletion].
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disorder characterised by recurrent mononeuropathies.
+  Electrophysiological studies reveal slowed conduction velocity in peripheral
+  nerves. The main histopathological findings are focal thickenings of
+  myelin-tomaculae. In most cases HNPP is associated with a deletion within
+  PMP-22 (peripheral myelin protein; PMP) gene on chromosome 17p11.2. The gene
+  penetration is almost complete but the expression may be variable. DNA
+  analysis is of practical importance in diagnosing HNPP especially in sporadic
+  cases and also in individuals without clinical and electrophysiological signs
+  of neuropathy. We present the first Polish family with HNPP, in which the
+  genetic defect has been confirmed by DNA analysis.
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Dorobek M
   - name: Szmidt-Sałkowska E
@@ -25,22 +41,7 @@ keywords:
   - keyword: Paralysis
   - keyword: Pedigree
   - keyword: Recurrence
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal dominant disorder characterised by recurrent mononeuropathies.
-  Electrophysiological studies reveal slowed conduction velocity in peripheral
-  nerves. The main histopathological findings are focal thickenings of
-  myelin-tomaculae. In most cases HNPP is associated with a deletion within
-  PMP-22 (peripheral myelin protein; PMP) gene on chromosome 17p11.2. The gene
-  penetration is almost complete but the expression may be variable. DNA
-  analysis is of practical importance in diagnosing HNPP especially in sporadic
-  cases and also in individuals without clinical and electrophysiological signs
-  of neuropathy. We present the first Polish family with HNPP, in which the
-  genetic defect has been confirmed by DNA analysis.
 date: 1999/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '10399735'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10399735%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

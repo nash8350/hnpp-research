@@ -1,6 +1,25 @@
+pmid: '8509946'
 title: >-
   Evaluation of nonisotopic labeling and detection techniques for nucleic acid
   hybridization.
+abstract: >-
+  We have used a double-stranded DNA probe linked to the cystic fibrosis locus
+  to detect a single-copy gene from varying amounts of genomic DNA, with
+  Southern blot analysis. The DNA plasmid probe was labeled with either biotin
+  or digoxigenin. Biotin or digoxigenin was then linked to alkaline phosphatase
+  (ALP) with use of streptavidin or anti-digoxigenin antibodies, respectively.
+  ALP activity was then detected with a chromogenic (BCIP/NBT), chemiluminogenic
+  (AMPPD), or fluorogenic (HNPP) substrate. Our results suggest that biotin and
+  digoxigenin perform similarly and that the three substrates exhibit similar
+  detectability under appropriate substrate incubation times 20-120 min (AMPPD),
+  2-12 h (HNPP), and 18-48 h (BCIP/NBT). Under optimised conditions and the
+  probe used, these methods detect single-copy genes from as little as 0.3
+  micrograms of total genomic DNA.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Diamandis EP
   - name: Hassapoglidou S
@@ -17,23 +36,7 @@ keywords:
   - keyword: Humans
   - keyword: Nucleic Acid Hybridization
   - keyword: methods
-abstract: >-
-  We have used a double-stranded DNA probe linked to the cystic fibrosis locus
-  to detect a single-copy gene from varying amounts of genomic DNA, with
-  Southern blot analysis. The DNA plasmid probe was labeled with either biotin
-  or digoxigenin. Biotin or digoxigenin was then linked to alkaline phosphatase
-  (ALP) with use of streptavidin or anti-digoxigenin antibodies, respectively.
-  ALP activity was then detected with a chromogenic (BCIP/NBT), chemiluminogenic
-  (AMPPD), or fluorogenic (HNPP) substrate. Our results suggest that biotin and
-  digoxigenin perform similarly and that the three substrates exhibit similar
-  detectability under appropriate substrate incubation times 20-120 min (AMPPD),
-  2-12 h (HNPP), and 18-48 h (BCIP/NBT). Under optimised conditions and the
-  probe used, these methods detect single-copy genes from as little as 0.3
-  micrograms of total genomic DNA.
 date: 1993/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8509946'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8509946%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

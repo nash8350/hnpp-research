@@ -1,30 +1,9 @@
+pmid: '9852256'
 title: >-
   Autosomal dominant Charcot-Marie-Tooth disease type 1A and hereditary
   neuropathy with liability to pressure palsies detection of the recombination
   in Slovene patients and exclusion of the potentially recessive Thr118Met PMP22
   point mutation.
-authors:
-  - name: Leonardis L
-  - name: Zidar J
-  - name: Ekici A
-  - name: Peterlin B
-  - name: Rautenstrauss B
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Female
-  - keyword: 'Genes, Dominant'
-  - keyword: 'Genes, Recessive'
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Methionine
-  - keyword: Myelin Proteins
-  - keyword: Pedigree
-  - keyword: Point Mutation
-  - keyword: 'Recombination, Genetic'
-  - keyword: Slovenia
-  - keyword: Threonine
 abstract: >-
   Charcot-Marie-Tooth disease type 1 (CMT1) and hereditary neuropathy with
   liability to pressure palsies (HNPP) are the most frequent autosomal
@@ -49,10 +28,34 @@ abstract: >-
   common mutations in Slovene CMT1 and HNPP patients. No signs of polymorphism
   or of potentially recessive mutation were found at the specific Thr118Met
   PMP22 site.
-date: 1998/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '9852256'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Leonardis L
+  - name: Zidar J
+  - name: Ekici A
+  - name: Peterlin B
+  - name: Rautenstrauss B
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: Female
+  - keyword: 'Genes, Dominant'
+  - keyword: 'Genes, Recessive'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Methionine
+  - keyword: Myelin Proteins
+  - keyword: Pedigree
+  - keyword: Point Mutation
+  - keyword: 'Recombination, Genetic'
+  - keyword: Slovenia
+  - keyword: Threonine
+date: 1998/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9852256%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

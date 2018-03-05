@@ -1,7 +1,10 @@
+pmid: '8937360'
 title: >-
   Hereditary neuropathy with liability to pressure palsies with a partial
   deletion of the region often duplicated in Charcot-Marie-Tooth disease, type
   1A.
+abstract: ''
+categories: []
 authors:
   - name: Chapon F
   - name: Diraison P
@@ -24,18 +27,14 @@ keywords:
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: Humans
   - keyword: Male
-abstract: ''
 date: 1996/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '8112739'
   - pmid: '7511317'
   - pmid: '8557256'
   - pmid: '8012388'
   - pmid: '8004087'
-pmid: '8937360'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8937360%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
     title: >-

@@ -1,6 +1,20 @@
+pmid: '16199442'
 title: >-
   An abnormal mRNA produced by a novel PMP22 splice site mutation associated
   with HNPP.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant, demyelinating neuropathy. Point mutations in the PMP22
+  gene are a rare cause of HNPP. A novel PMP22 splice site mutation (c.179+1
+  G-->C) is reported in an HNPP family. By reverse transcriptase-polymerase
+  chain reaction experiments, this mutation was shown to cause the synthesis of
+  an abnormal mRNA in which a premature stop codon probably produces a truncated
+  non-functional protein.
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Bellone E
   - name: Balestra P
@@ -30,16 +44,7 @@ keywords:
   - keyword: 'RNA, Messenger'
   - keyword: Sural Nerve
   - keyword: Tibial Neuropathy
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal dominant, demyelinating neuropathy. Point mutations in the PMP22
-  gene are a rare cause of HNPP. A novel PMP22 splice site mutation (c.179+1
-  G-->C) is reported in an HNPP family. By reverse transcriptase-polymerase
-  chain reaction experiments, this mutation was shown to cause the synthesis of
-  an abnormal mRNA in which a premature stop codon probably produces a truncated
-  non-functional protein.
 date: 2005/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '9040736'
   - pmid: '9187667'
@@ -48,9 +53,7 @@ cites:
   - pmid: '7825607'
   - pmid: '11369192'
   - pmid: '11583144'
-pmid: '16199442'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16199442%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

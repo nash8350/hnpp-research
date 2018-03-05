@@ -1,6 +1,9 @@
+pmid: '22037956'
 title: >-
   Hereditary neuropathy with liability to pressure palsy combined with suspected
   schwannomas of the peroneal and radial nerves.
+abstract: ''
+categories: []
 authors:
   - name: Ohyagi M
   - name: Sanjo N
@@ -22,9 +25,7 @@ keywords:
   - keyword: Peroneal Nerve
   - keyword: physiopathology
   - keyword: Radial Nerve
-abstract: ''
 date: 2011/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '15544900'
   - pmid: '11673320'
@@ -33,9 +34,7 @@ cites:
   - pmid: '16969831'
   - pmid: '12210843'
   - pmid: '9040736'
-pmid: '22037956'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22037956%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25324890'
     title: >-

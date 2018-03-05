@@ -1,13 +1,8 @@
+pmid: '28912683'
 title: >-
   Nano-scale Biophysical and Structural Investigations on Intact and Neuropathic
   Nerve Fibers by Simultaneous Combination of Atomic Force and Confocal
   Microscopy.
-authors:
-  - name: Rosso G
-  - name: Liashkovich I
-  - name: Young P
-  - name: Shahin V
-keywords: []
 abstract: >-
   The links between neuropathies of the peripheral nervous system (PNS),
   including Charcot-Marie-Tooth1A and hereditary neuropathy with liability to
@@ -27,8 +22,20 @@ abstract: >-
   6 h allowing considerable time for all measurements which require 3-4 h. The
   approach is designed to be widely applicable for nerve fibers from mice of any
   PNS neuropathy. It can be extended to human nerve biopsies.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Rosso G
+  - name: Liashkovich I
+  - name: Young P
+  - name: Shahin V
+keywords: []
 date: 2017/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '16436605'
   - pmid: '25446378'
@@ -57,7 +64,5 @@ cites:
   - pmid: '18803319'
   - pmid: '23642242'
   - pmid: '16136171'
-pmid: '28912683'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28912683%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,12 +1,7 @@
+pmid: '24639934'
 title: >-
   Sonographic evaluation of the peripheral nerves in hereditary neuropathy with
   liability to pressure palsies a case report.
-authors:
-  - name: Kim SH
-  - name: Yang SN
-  - name: Yoon JS
-  - name: Park BJ
-keywords: []
 abstract: >-
   Hereditary neuropathy with liability to pressure palsies (HNPP) is an
   autosomal dominantly inherited disorder that affects peripheral nerves by
@@ -21,8 +16,18 @@ abstract: >-
   sonographic features may be helpful for diagnosis of HNPP when
   electrodiagnostic studies are suspicious of HNPP and/or gene study is not
   compatible.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Kim SH
+  - name: Yang SN
+  - name: Yoon JS
+  - name: Park BJ
+keywords: []
 date: 2014/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '23055312'
   - pmid: '19697380'
@@ -32,7 +37,5 @@ cites:
   - pmid: '18351581'
   - pmid: '17321837'
   - pmid: '22102454'
-pmid: '24639934'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24639934%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

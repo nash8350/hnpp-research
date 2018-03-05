@@ -1,6 +1,29 @@
+pmid: '26189194'
 title: >-
   Hereditary neuropathy with liability to pressure palsies in childhood Case
   series and literature update.
+abstract: >-
+  Hereditary Neuropathy with Liability to Pressure Palsy (HNPP) is a rare
+  condition in childhood with a diverse range of clinical presentations. We
+  analyzed the clinical presentation and electrophysiological data of 12
+  children with a confirmed PMP22 gene deletion and reviewed the published
+  reports of HNPP in children and compared our data with the reports from the
+  literature review. Peroneal palsy was the most common presentation (42%)
+  followed by brachial plexus palsy in 25% of our cases. Nerve conduction
+  studies were always suggestive of the diagnosis demonstrating 3 major patterns
+  multifocal demyelination at the area of entrapment, generalized sensory-motor
+  polyneuropathy and a combination of the two first patterns in a vast majority
+  (60%). Surprisingly, there was bilateral or unilateral electrophysiological
+  entrapment of the median nerve at the carpal tunnel in all our patients. The
+  clinical presentation of HNPP in childhood is heterogeneous and
+  electrophysiological findings are helpful in establishing the diagnosis. Any
+  unexplained mononeuropathy or multifocal neuropathy should lead to PMP22 gene
+  testing to look for the deletion. Early diagnosis is important in order to
+  facilitate appropriate genetic counseling and also for the appropriate care
+  for these patients.
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Chrestian N
   - name: McMillan H
@@ -22,31 +45,9 @@ keywords:
   - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Neural Conduction
-abstract: >-
-  Hereditary Neuropathy with Liability to Pressure Palsy (HNPP) is a rare
-  condition in childhood with a diverse range of clinical presentations. We
-  analyzed the clinical presentation and electrophysiological data of 12
-  children with a confirmed PMP22 gene deletion and reviewed the published
-  reports of HNPP in children and compared our data with the reports from the
-  literature review. Peroneal palsy was the most common presentation (42%)
-  followed by brachial plexus palsy in 25% of our cases. Nerve conduction
-  studies were always suggestive of the diagnosis demonstrating 3 major patterns
-  multifocal demyelination at the area of entrapment, generalized sensory-motor
-  polyneuropathy and a combination of the two first patterns in a vast majority
-  (60%). Surprisingly, there was bilateral or unilateral electrophysiological
-  entrapment of the median nerve at the carpal tunnel in all our patients. The
-  clinical presentation of HNPP in childhood is heterogeneous and
-  electrophysiological findings are helpful in establishing the diagnosis. Any
-  unexplained mononeuropathy or multifocal neuropathy should lead to PMP22 gene
-  testing to look for the deletion. Early diagnosis is important in order to
-  facilitate appropriate genetic counseling and also for the appropriate care
-  for these patients.
 date: 2015/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '26189194'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26189194%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

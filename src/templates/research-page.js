@@ -79,6 +79,10 @@ export const researchPageQuery = graphql`
           citedBy {
             pmid
           }
+          categories {
+            name
+            enabled
+          }
         }
       }
     }

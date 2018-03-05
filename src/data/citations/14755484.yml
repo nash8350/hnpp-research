@@ -1,6 +1,33 @@
+pmid: '14755484'
 title: >-
   Loss-of-function phenotype of hereditary neuropathy with liability to pressure
   palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) provides a
+  human model to investigate the role of PMP22 in myelinated peripheral nerve,
+  since the disease is caused by a deletion of one of the two PMP22 alleles. To
+  systematically characterize the phenotype of HNPP, we prospectively evaluated
+  the clinical features and electrophysiological findings in 17 genetically
+  confirmed patients, 7 men and 10 women, ranging in age from 9 to 66 years
+  (mean, 41 +/- 13). Fifteen symptomatic patients presented with episodes of
+  transient focal weakness or sensory loss that were usually related to
+  particular activities causing nerve compression, including stretching or minor
+  repetitive focal trauma. No patient sought medical attention for symptoms of a
+  symmetric polyneuropathy. Neurological examinations were either normal or
+  mildly abnormal. Neither focal slowing of nerve conduction studies, nor
+  reduction in compound muscle action potential (CMAP) or sensory nerve action
+  potential (SNAP) amplitudes consistently predicted the site of symptoms. We
+  conclude that the majority of patients with HNPP present with transient,
+  recurrent, focal symptoms of weakness or sensory loss in the distribution of
+  individual nerves or plexus, and that a diffuse symmetric sensorimotor
+  polyneuropathy is an unusual presentation of HNPP. These studies suggest that
+  the function of PMP22, at least in part, is to stabilize myelin so that it
+  will be protected from injuries resulting from repetitive, minor trauma.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Li J
   - name: Krajewski K
@@ -26,33 +53,9 @@ keywords:
   - keyword: Pressure
   - keyword: Prospective Studies
   - keyword: Sensation
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) provides a
-  human model to investigate the role of PMP22 in myelinated peripheral nerve,
-  since the disease is caused by a deletion of one of the two PMP22 alleles. To
-  systematically characterize the phenotype of HNPP, we prospectively evaluated
-  the clinical features and electrophysiological findings in 17 genetically
-  confirmed patients, 7 men and 10 women, ranging in age from 9 to 66 years
-  (mean, 41 +/- 13). Fifteen symptomatic patients presented with episodes of
-  transient focal weakness or sensory loss that were usually related to
-  particular activities causing nerve compression, including stretching or minor
-  repetitive focal trauma. No patient sought medical attention for symptoms of a
-  symmetric polyneuropathy. Neurological examinations were either normal or
-  mildly abnormal. Neither focal slowing of nerve conduction studies, nor
-  reduction in compound muscle action potential (CMAP) or sensory nerve action
-  potential (SNAP) amplitudes consistently predicted the site of symptoms. We
-  conclude that the majority of patients with HNPP present with transient,
-  recurrent, focal symptoms of weakness or sensory loss in the distribution of
-  individual nerves or plexus, and that a diffuse symmetric sensorimotor
-  polyneuropathy is an unusual presentation of HNPP. These studies suggest that
-  the function of PMP22, at least in part, is to stabilize myelin so that it
-  will be protected from injuries resulting from repetitive, minor trauma.
 date: 2004/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '14755484'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14755484%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29079893'
     title: >-

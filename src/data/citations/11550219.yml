@@ -1,6 +1,38 @@
+pmid: '11550219'
 title: >-
   Identification of a positive regulatory element in the myelin-specific
   promoter of the PMP22 gene.
+abstract: >-
+  Over- and under expression of the 22 kDa peripheral myelin protein (PMP22)
+  results in dysmyelinating peripheral neuropathies, such as Charcot-Marie-Tooth
+  disease type 1A (CMT1A) and hereditary neuropathy, with the liability to
+  pressure palsies (HNPP). Expression of the PMP22 gene is driven by two
+  alternative promoters, P1 and P2, with transcripts originating from P1
+  associated with peripheral nerve myelination by Schwann cells. Transient
+  transfections of constructs containing P1 (3.5 kb) or P2 (2.5 kb) resulted in
+  high levels of reporter gene expression in the RT4-D6P2T schwannoma cell line.
+  Serial deletions of P1 revealed that region P1-A (-105 to -43), situated
+  upstream of the minimal promoter, contained a positive regulatory element. The
+  62 bp P1-A region conferred in cis a sevenfold increase in expression of
+  luciferase driven by a heterologous promoter in an orientation-dependent
+  manner. Interspecies comparison of the P1-A region revealed a 98% degree of
+  identity between the human, mouse, and rat sequences. A prominent
+  sequence-dependent DNA-protein complex (C-I) was detected in electrophoretic
+  mobility shift assays with P1-A using RT4-D6P2T nuclear extract and was
+  localized to a minimal 21 bp region within P1-A. Site-directed mutagenesis of
+  this region revealed nucleotides at positions -46 to -43 as being necessary
+  for formation of C-I. Functional analysis of the mutated P1-A element
+  indicated that positions -46 and -45 were essential for transactivation
+  mediated by this element. Characterization of the transacting factor(s)
+  interacting with this key regulatory element will shed light on its role in
+  regulating peripheral nerve myelination.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Hai M
   - name: Bidichandani SI
@@ -29,36 +61,9 @@ keywords:
   - keyword: Transfection
   - keyword: 'Tumor Cells, Cultured'
   - keyword: Up-Regulation
-abstract: >-
-  Over- and under expression of the 22 kDa peripheral myelin protein (PMP22)
-  results in dysmyelinating peripheral neuropathies, such as Charcot-Marie-Tooth
-  disease type 1A (CMT1A) and hereditary neuropathy, with the liability to
-  pressure palsies (HNPP). Expression of the PMP22 gene is driven by two
-  alternative promoters, P1 and P2, with transcripts originating from P1
-  associated with peripheral nerve myelination by Schwann cells. Transient
-  transfections of constructs containing P1 (3.5 kb) or P2 (2.5 kb) resulted in
-  high levels of reporter gene expression in the RT4-D6P2T schwannoma cell line.
-  Serial deletions of P1 revealed that region P1-A (-105 to -43), situated
-  upstream of the minimal promoter, contained a positive regulatory element. The
-  62 bp P1-A region conferred in cis a sevenfold increase in expression of
-  luciferase driven by a heterologous promoter in an orientation-dependent
-  manner. Interspecies comparison of the P1-A region revealed a 98% degree of
-  identity between the human, mouse, and rat sequences. A prominent
-  sequence-dependent DNA-protein complex (C-I) was detected in electrophoretic
-  mobility shift assays with P1-A using RT4-D6P2T nuclear extract and was
-  localized to a minimal 21 bp region within P1-A. Site-directed mutagenesis of
-  this region revealed nucleotides at positions -46 to -43 as being necessary
-  for formation of C-I. Functional analysis of the mutated P1-A element
-  indicated that positions -46 and -45 were essential for transactivation
-  mediated by this element. Characterization of the transacting factor(s)
-  interacting with this key regulatory element will shed light on its role in
-  regulating peripheral nerve myelination.
 date: 2001/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11550219'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11550219%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

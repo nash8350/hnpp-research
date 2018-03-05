@@ -1,23 +1,7 @@
+pmid: '10586258'
 title: >-
   Human nerve pathology caused by different mutational mechanisms of the PMP22
   gene.
-authors:
-  - name: Gabreëls-Festen A
-  - name: Wetering RV
-keywords:
-  - keyword: Animals
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: pathology
-  - keyword: Chromosome Mapping
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Frameshift Mutation
-  - keyword: Gene Deletion
-  - keyword: Gene Duplication
-  - keyword: Humans
-  - keyword: Mutation
-  - keyword: 'Mutation, Missense'
-  - keyword: Myelin Proteins
 abstract: >-
   The study of the morphological phenotypes in patients with different mutations
   of the PMP22 gene gives additional insights into the role of the protein in
@@ -47,12 +31,31 @@ abstract: >-
   function like in the common deletion HNPP with a mild CMT1 phenotype, likely
   inducing a (mild) toxic gain of function by disturbing myelin formation and
   maintenance, comparable to the effect in missense mutations.
-date: 1999/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10586258'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Gabreëls-Festen A
+  - name: Wetering RV
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Frameshift Mutation
+  - keyword: Gene Deletion
+  - keyword: Gene Duplication
+  - keyword: Humans
+  - keyword: Mutation
+  - keyword: 'Mutation, Missense'
+  - keyword: Myelin Proteins
+date: 1999/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10586258%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25792482'
     title: >-

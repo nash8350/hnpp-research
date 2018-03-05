@@ -1,6 +1,21 @@
+pmid: '15205993'
 title: >-
   A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy with
   liability to pressure palsies and CMT1A phenotypes.
+abstract: >-
+  We describe a Cypriot family in which some family members presented with
+  episodes of pressure palsies, while other family members had a slowly
+  progressive chronic polyneuropathy typical of the Charcot-Marie-Tooth type 1
+  phenotype. All family members were evaluated clinically, with nerve conduction
+  studies, and with genetic testing. In all affected individuals there was
+  clinical and electrophysiological evidence of diffuse demyelinating
+  sensorimotor polyneuropathy and a novel point mutation in the PMP22 gene
+  (Ser22Phe) was identified.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Kleopa KA
   - name: Georgiou DM
@@ -32,17 +47,7 @@ keywords:
   - keyword: Point Mutation
   - keyword: 'Sequence Analysis, DNA'
   - keyword: Serine
-abstract: >-
-  We describe a Cypriot family in which some family members presented with
-  episodes of pressure palsies, while other family members had a slowly
-  progressive chronic polyneuropathy typical of the Charcot-Marie-Tooth type 1
-  phenotype. All family members were evaluated clinically, with nerve conduction
-  studies, and with genetic testing. In all affected individuals there was
-  clinical and electrophysiological evidence of diffuse demyelinating
-  sensorimotor polyneuropathy and a novel point mutation in the PMP22 gene
-  (Ser22Phe) was identified.
 date: 2004/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '9425015'
   - pmid: '9712007'
@@ -71,7 +76,5 @@ cites:
   - pmid: '12207933'
   - pmid: '9040736'
   - pmid: '9151736'
-pmid: '15205993'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15205993%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

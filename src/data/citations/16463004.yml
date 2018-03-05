@@ -1,26 +1,7 @@
+pmid: '16463004'
 title: >-
   A rapid and reliable detection system for the analysis of PMP22 gene dosage by
   MP/DHPLC assay.
-authors:
-  - name: Lin CY
-  - name: Su YN
-  - name: Lee CN
-  - name: Hung CC
-  - name: Cheng WF
-  - name: Lin WL
-  - name: Chen CA
-  - name: Hsieh ST
-keywords:
-  - keyword: Base Sequence
-  - keyword: 'Chromatography, High Pressure Liquid'
-  - keyword: methods
-  - keyword: DNA Primers
-  - keyword: 'Electrophoresis, Capillary'
-  - keyword: Gene Dosage
-  - keyword: Humans
-  - keyword: Myelin Proteins
-  - keyword: genetics
-  - keyword: Reproducibility of Results
 abstract: >-
   Charcot-Marie-Tooth disease type 1A (CMT1A) and hereditary neuropathy with
   liability to pressure palsies (HNPP) are caused by a 1.5-Mb duplication and a
@@ -42,10 +23,34 @@ abstract: >-
   further extends the application of DHPLC as an alternative method for the
   measurement of gene amplifications and heterozygous deletions in different
   genetic diseases.
-date: 2006/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '16463004'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Lin CY
+  - name: Su YN
+  - name: Lee CN
+  - name: Hung CC
+  - name: Cheng WF
+  - name: Lin WL
+  - name: Chen CA
+  - name: Hsieh ST
+keywords:
+  - keyword: Base Sequence
+  - keyword: 'Chromatography, High Pressure Liquid'
+  - keyword: methods
+  - keyword: DNA Primers
+  - keyword: 'Electrophoresis, Capillary'
+  - keyword: Gene Dosage
+  - keyword: Humans
+  - keyword: Myelin Proteins
+  - keyword: genetics
+  - keyword: Reproducibility of Results
+date: 2006/02
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16463004%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

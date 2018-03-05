@@ -1,6 +1,23 @@
+pmid: '26761923'
 title: >-
   Phenotype HNPP (Hereditary Neuropathy With Liability to Pressure Palsies)
   Induced by Medical Procedures.
+abstract: >-
+  The phenotype HNPP (hereditary neuropathy with liability to pressure palsies)
+  is caused by heterozygous deletion of the PMP22 gene. HNPP is clinically
+  characterized by asymmetric focal sensory loss and muscle weakness. Reports of
+  HNPP have been rare. In this article, we report the case of an asymptomatic
+  woman with the HNPP mutation. After undergoing total knee arthroplasty, she
+  developed a footdrop with prolonged recovery. We concluded (a) that the HNPP
+  mutation may carry a high risk for certain surgical procedures not expected to
+  cause neurologic deficits in normal patients and (b) that humans with the HNPP
+  mutation can be asymptomatic. Lack of symptoms can contribute to
+  underrecognition of the disease.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Kramer M
   - name: Ly A
@@ -19,19 +36,7 @@ keywords:
   - keyword: Iatrogenic Disease
   - keyword: Middle Aged
   - keyword: Phenotype
-abstract: >-
-  The phenotype HNPP (hereditary neuropathy with liability to pressure palsies)
-  is caused by heterozygous deletion of the PMP22 gene. HNPP is clinically
-  characterized by asymmetric focal sensory loss and muscle weakness. Reports of
-  HNPP have been rare. In this article, we report the case of an asymptomatic
-  woman with the HNPP mutation. After undergoing total knee arthroplasty, she
-  developed a footdrop with prolonged recovery. We concluded (a) that the HNPP
-  mutation may carry a high risk for certain surgical procedures not expected to
-  cause neurologic deficits in normal patients and (b) that humans with the HNPP
-  mutation can be asymptomatic. Lack of symptoms can contribute to
-  underrecognition of the disease.
 date: 2016/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '7061551'
   - pmid: '1677316'
@@ -44,7 +49,5 @@ cites:
   - pmid: '11740762'
   - pmid: '12084875'
   - pmid: '8422677'
-pmid: '26761923'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26761923%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

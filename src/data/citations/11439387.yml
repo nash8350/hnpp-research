@@ -1,6 +1,19 @@
+pmid: '11439387'
 title: >-
   Brachial plexus involvement as the only expression of hereditary neuropathy
   with liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal-dominant focal neuropathy characterized by recurrent entrapment
+  neuropathies. Single members of families with HNPP and brachial plexus
+  involvement have been reported previously. We describe a family with three
+  affected members and in which the only symptom of entrapment was recurrent
+  brachial plexopathy. The diagnosis of HNPP in this family was confirmed by
+  both neurophysiological methods and DNA analysis. The distinction between HNPP
+  and hereditary neuralgic amyotrophy is discussed.
+categories:
+  - name: Symptoms
+    enabled: true
 authors:
   - name: Ørstavik K
   - name: Skard Heier M
@@ -30,21 +43,9 @@ keywords:
   - keyword: Neural Conduction
   - keyword: Pedigree
   - keyword: Peroneal Nerve
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal-dominant focal neuropathy characterized by recurrent entrapment
-  neuropathies. Single members of families with HNPP and brachial plexus
-  involvement have been reported previously. We describe a family with three
-  affected members and in which the only symptom of entrapment was recurrent
-  brachial plexopathy. The diagnosis of HNPP in this family was confirmed by
-  both neurophysiological methods and DNA analysis. The distinction between HNPP
-  and hereditary neuralgic amyotrophy is discussed.
 date: 2001/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11439387'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11439387%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25326571'
     title: >-

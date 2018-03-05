@@ -1,33 +1,7 @@
+pmid: '14616306'
 title: >-
   Clinical and electrophysiologic features of HNPP patients with 17p11.2
   deletion.
-authors:
-  - name: Hong YH
-  - name: Kim M
-  - name: Kim HJ
-  - name: Sung JJ
-  - name: Kim SH
-  - name: Lee KW
-keywords:
-  - keyword: Adolescent
-  - keyword: Adult
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: Child
-  - keyword: 'Child, Preschool'
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
-  - keyword: 'Diagnosis, Differential'
-  - keyword: Electrodiagnosis
-  - keyword: Female
-  - keyword: Gene Deletion
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
-  - keyword: Neural Conduction
-  - keyword: Polymerase Chain Reaction
 abstract: >-
   Although the diagnosis of hereditary neuropathy with liability to pressure
   palsies (HNPP) is important for correct prognostic evaluation and genetic
@@ -60,12 +34,41 @@ abstract: >-
   suggests the possible pathogenetic role of subclinical pressure injury at
   these sites in the development of the distinct background polyneuropathy in
   HNPP.
-date: 2003/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '14616306'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Hong YH
+  - name: Kim M
+  - name: Kim HJ
+  - name: Sung JJ
+  - name: Kim SH
+  - name: Lee KW
+keywords:
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: genetics
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Electrodiagnosis
+  - keyword: Female
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: physiopathology
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Neural Conduction
+  - keyword: Polymerase Chain Reaction
+date: 2003/11
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14616306%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
     title: >-

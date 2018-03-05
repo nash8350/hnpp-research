@@ -1,18 +1,5 @@
+pmid: '10586225'
 title: Overview of hereditary neuropathy with liability to pressure palsies.
-authors:
-  - name: P F Chance
-keywords:
-  - keyword: Animals
-  - keyword: 'Animals, Genetically Modified'
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: classification
-  - keyword: genetics
-  - keyword: physiopathology
-  - keyword: Chromosome Mapping
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: 'Crossing Over, Genetic'
-  - keyword: Humans
-  - keyword: Myelin Proteins
 abstract: >-
   Hereditary neuropathy with liability to recurrent pressure-sensitive palsies
   (HNPP; also called tomaculous neuropathy) is an autosomal dominant disorder
@@ -43,12 +30,32 @@ abstract: >-
   amyotrophy (familial brachial plexus neuropathy) is an autosomal dominant
   disorder causing painful, recurrent brachial plexopathies and maps to
   chromosome 17q25.
-date: 1999/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10586225'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: P F Chance
+keywords:
+  - keyword: Animals
+  - keyword: 'Animals, Genetically Modified'
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: classification
+  - keyword: genetics
+  - keyword: physiopathology
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: 'Crossing Over, Genetic'
+  - keyword: Humans
+  - keyword: Myelin Proteins
+date: 1999/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10586225%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26410747'
     title: >-

@@ -1,17 +1,8 @@
+pmid: '12354050'
 title: >-
   Pyrazolylcyclotriphosphazene containing pendant polymers synthesis,
   characterization, and phosphate ester hydrolysis using a Cu(II)-metalated
   cross-linked polymeric catalyst.
-authors:
-  - name: Chandrasekhar V
-  - name: Athimoolam A
-  - name: Srivatsan SG
-  - name: Sundaram PS
-  - name: Verma S
-  - name: Steiner A
-  - name: Zacchini S
-  - name: Butcher R
-keywords: []
 abstract: >-
   A multi-pyrazolyl cyclotriphosphazene containing polymerizable group
   N(3)P(3)(3,5-Me(2)Pz)(5)(O-C(6)H(4)-p-C(6)H(4)-p-CH=CH(2)) (2) has been
@@ -38,10 +29,22 @@ abstract: >-
   on the rate of hydrolysis. Recycling experiments on the hydrolysis of pNPP
   with CPPL-Cu shows that it can be recycled several times over without
   affecting the rates.
-date: 2002/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '12354050'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Chandrasekhar V
+  - name: Athimoolam A
+  - name: Srivatsan SG
+  - name: Sundaram PS
+  - name: Verma S
+  - name: Steiner A
+  - name: Zacchini S
+  - name: Butcher R
+keywords: []
+date: 2002/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12354050%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

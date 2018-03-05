@@ -1,7 +1,44 @@
+pmid: '11381029'
 title: >-
   The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
   genome architectural features and provides insights into the recent evolution
   of new genes.
+abstract: >-
+  Duplication and deletion of the 1.4-Mb region in 17p12 that is delimited by
+  two 24-kb low copy number repeats (CMT1A-REPs) represent frequent genomic
+  rearrangements resulting in two common inherited peripheral neuropathies,
+  Charcot-Marie-Tooth disease type 1A (CMT1A) and hereditary neuropathy with
+  liability to pressure palsy (HNPP). CMT1A and HNPP exemplify a paradigm for
+  genomic disorders wherein unique genome architectural features result in
+  susceptibility to DNA rearrangements that cause disease. A gene within the
+  1.4-Mb region, PMP22, is responsible for these disorders through a gene-dosage
+  effect in the heterozygous duplication or deletion. However, the genomic
+  structure of the 1.4-Mb region, including other genes contained within the
+  rearranged genomic segment, remains essentially uncharacterized. To delineate
+  genomic structural features, investigate higher-order genomic architecture,
+  and identify genes in this region, we constructed PAC and BAC contigs and
+  determined the complete nucleotide sequence. This CMT1A/HNPP genomic segment
+  contains 1,421,129 bp of DNA. A low copy number repeat (LCR) was identified,
+  with one copy inside and two copies outside of the 1.4-Mb region. Comparison
+  between physical and genetic maps revealed a striking difference in
+  recombination rates between the sexes with a lower recombination frequency in
+  males (0.67 cM/Mb) versus females (5.5 cM/Mb). Hypothetically, this low
+  recombination frequency in males may enable a chromosomal misalignment at
+  proximal and distal CMT1A-REPs and promote unequal crossing over, which occurs
+  10 times more frequently in male meiosis. In addition to three previously
+  described genes, five new genes (TEKT3, HS3ST3B1, NPD008/CGI-148, CDRT1, and
+  CDRT15) and 13 predicted genes were identified. Most of these predicted genes
+  are expressed only in embryonic stages. Analyses of the genomic region
+  adjacent to proximal CMT1A-REP indicated an evolutionary mechanism for the
+  formation of proximal CMT1A-REP and the creation of novel genes by DNA
+  rearrangement during primate speciation.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Inoue K
   - name: Dewar K
@@ -35,37 +72,7 @@ keywords:
   - keyword: 'Sequence Analysis, DNA'
   - keyword: methods
   - keyword: Sulfotransferases
-abstract: >-
-  Duplication and deletion of the 1.4-Mb region in 17p12 that is delimited by
-  two 24-kb low copy number repeats (CMT1A-REPs) represent frequent genomic
-  rearrangements resulting in two common inherited peripheral neuropathies,
-  Charcot-Marie-Tooth disease type 1A (CMT1A) and hereditary neuropathy with
-  liability to pressure palsy (HNPP). CMT1A and HNPP exemplify a paradigm for
-  genomic disorders wherein unique genome architectural features result in
-  susceptibility to DNA rearrangements that cause disease. A gene within the
-  1.4-Mb region, PMP22, is responsible for these disorders through a gene-dosage
-  effect in the heterozygous duplication or deletion. However, the genomic
-  structure of the 1.4-Mb region, including other genes contained within the
-  rearranged genomic segment, remains essentially uncharacterized. To delineate
-  genomic structural features, investigate higher-order genomic architecture,
-  and identify genes in this region, we constructed PAC and BAC contigs and
-  determined the complete nucleotide sequence. This CMT1A/HNPP genomic segment
-  contains 1,421,129 bp of DNA. A low copy number repeat (LCR) was identified,
-  with one copy inside and two copies outside of the 1.4-Mb region. Comparison
-  between physical and genetic maps revealed a striking difference in
-  recombination rates between the sexes with a lower recombination frequency in
-  males (0.67 cM/Mb) versus females (5.5 cM/Mb). Hypothetically, this low
-  recombination frequency in males may enable a chromosomal misalignment at
-  proximal and distal CMT1A-REPs and promote unequal crossing over, which occurs
-  10 times more frequently in male meiosis. In addition to three previously
-  described genes, five new genes (TEKT3, HS3ST3B1, NPD008/CGI-148, CDRT1, and
-  CDRT15) and 13 predicted genes were identified. Most of these predicted genes
-  are expressed only in embryonic stages. Analyses of the genomic region
-  adjacent to proximal CMT1A-REP indicated an evolutionary mechanism for the
-  formation of proximal CMT1A-REP and the creation of novel genes by DNA
-  rearrangement during primate speciation.
 date: 2001/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '1303228'
   - pmid: '1303229'
@@ -135,9 +142,7 @@ cites:
   - pmid: '1822787'
   - pmid: '8422677'
   - pmid: '1301995'
-pmid: '11381029'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11381029%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '22180461'
     title: >-

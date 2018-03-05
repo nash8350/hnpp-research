@@ -1,6 +1,17 @@
+pmid: '12207933'
 title: >-
   Hereditary neuropathy with liability to pressure palsies with a small deletion
   interrupting the PMP22 gene.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies is associated with a
+  deficiency in the Peripheral Myelin Protein 22 (PMP22). Most hereditary
+  neuropathy with liability to pressure palsies cases are caused by a deletion
+  of a 1.5 Mb region on chromosome 17p11.2-12 encompassing the PMP22 gene. We
+  describe a hereditary neuropathy with liability to pressure palsies family
+  that lacks the common deletion, but carries a small deletion spanning the 3'
+  region of the PMP22 gene, causing only a partial deletion of one copy of the
+  gene.
+categories: []
 authors:
   - name: van de Wetering RA
   - name: Gabreëls-Festen AA
@@ -18,21 +29,9 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: Paralysis
   - keyword: Pressure
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies is associated with a
-  deficiency in the Peripheral Myelin Protein 22 (PMP22). Most hereditary
-  neuropathy with liability to pressure palsies cases are caused by a deletion
-  of a 1.5 Mb region on chromosome 17p11.2-12 encompassing the PMP22 gene. We
-  describe a hereditary neuropathy with liability to pressure palsies family
-  that lacks the common deletion, but carries a small deletion spanning the 3'
-  region of the PMP22 gene, causing only a partial deletion of one copy of the
-  gene.
 date: 2002/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12207933'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12207933%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
     title: Identification of Alu elements mediating a partial PMP22 deletion.

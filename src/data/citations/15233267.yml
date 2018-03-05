@@ -1,20 +1,7 @@
+pmid: '15233267'
 title: >-
   [A case of HNPP presenting with late onset of symptoms, chronic progressive
   course and sensory impairment in face and trunk].
-authors:
-  - name: Yakushiji Y
-  - name: Kurohara K
-  - name: Yoshimura T
-  - name: Yamamoto M
-  - name: Kuroda Y
-keywords:
-  - keyword: Aged
-  - keyword: Disease Progression
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
 abstract: >-
   A 69-year-old man was admitted with a chief complaint of progressive muscle
   weakness and tingling sensation in the distal portion of all extremities since
@@ -31,10 +18,30 @@ abstract: >-
   to pressure palsies (HNPP). The development of sensory impairment in face or
   thoracic nerves is quite rare in HNPP, indicating that there exists
   considerable phenotypic heterogeneity in the disease.
-date: 2004/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '15233267'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Yakushiji Y
+  - name: Kurohara K
+  - name: Yoshimura T
+  - name: Yamamoto M
+  - name: Kuroda Y
+keywords:
+  - keyword: Aged
+  - keyword: Disease Progression
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: genetics
+  - keyword: physiopathology
+  - keyword: Humans
+  - keyword: Male
+date: 2004/07
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15233267%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

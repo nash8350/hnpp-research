@@ -1,7 +1,29 @@
+pmid: '17651970'
 title: >-
   Ciliary neurotrophic factor null alleles are not a risk factor for
   Charcot-Marie-Tooth disease, hereditary neuropathy with pressure palsies and
   amyotrophic lateral sclerosis.
+abstract: >-
+  Growth factors, such as ciliary neurotrophic factor (CNTF), have been
+  implicated in neuronal survival and proliferation. About 2% of the human
+  population is homozygous for a polymorphism that induces truncated and
+  biologically inactive CNTF but does not obviously change the phenotype. In a
+  population of patients with hereditary neuropathy, a higher rate of the CNTF
+  null mutation would indicate greater susceptibility for clinically significant
+  disease, and a recent report attributes early onset and rapid deterioration in
+  a case of familial ALS (FALS) to this mutation. We have, therefore, genotyped
+  the CNTF polymorphism in a large group of patients with CMT 1a, HNPP, sporadic
+  ALS, in one pedigree with FALS, and controls. All groups exhibited a similar
+  distribution of the polymorphism. We conclude that absence of CNTF does not
+  increase susceptibility for these disorders and confirm that it does not
+  affect onset and course of familial and sporadic ALS.
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Van Vught PW
   - name: Van Wijk J
@@ -38,24 +60,7 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: Phenotype
   - keyword: 'Polymorphism, Genetic'
-abstract: >-
-  Growth factors, such as ciliary neurotrophic factor (CNTF), have been
-  implicated in neuronal survival and proliferation. About 2% of the human
-  population is homozygous for a polymorphism that induces truncated and
-  biologically inactive CNTF but does not obviously change the phenotype. In a
-  population of patients with hereditary neuropathy, a higher rate of the CNTF
-  null mutation would indicate greater susceptibility for clinically significant
-  disease, and a recent report attributes early onset and rapid deterioration in
-  a case of familial ALS (FALS) to this mutation. We have, therefore, genotyped
-  the CNTF polymorphism in a large group of patients with CMT 1a, HNPP, sporadic
-  ALS, in one pedigree with FALS, and controls. All groups exhibited a similar
-  distribution of the polymorphism. We conclude that absence of CNTF does not
-  increase susceptibility for these disorders and confirm that it does not
-  affect onset and course of familial and sporadic ALS.
 date: 2007/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17651970'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17651970%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

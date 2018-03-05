@@ -1,6 +1,32 @@
+pmid: '9027492'
 title: >-
   Isolation of novel genes from the CMT1A duplication/HNPP deletion critical
   region in 17p11.2-p12.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1A (CMT1A) is associated with a 1.5-Mb tandem
+  DNA duplication in chromosome 17p11.2-p12, while hereditary neuropathy with
+  liability to pressure palsies (HNPP) is associated with a 1.5-Mb deletion at
+  this locus. The 1.5-Mb CMT1A monomer unit duplicated in CMT1A and deleted in
+  HNPP is flanked by low-copy repeats termed CMT1A-REPs. Both diseases appear to
+  be caused by an altered copy number of the peripheral myelin protein 22 gene
+  (PMP22), which lies within the critical region. To identify additional genes
+  rapidly, we used a cosmid contig of this region and reciprocal probing of
+  arrayed chromosome 17-specific cosmid and cDNA libraries. Three cDNA clones
+  were identified within the CMT1A duplication/HNPP deletion region and one just
+  proximal to the critical region. The cDNA for human heme Afarnesyltransferase
+  (COX10) mapped 10 kb centromeric to the distal CMT1A-REP. The other two cDNA
+  clones from within the critical interval mapped to cosmid 126D1 at the mfd41
+  (D17S261) DNA marker, and their conceptual translation showed homology to 60S
+  ribosomal protein L9 (RPL9) and chromosomal protein RMSA-1 (RMSA-1). A gene
+  that is homologous to human peroxisome proliferator activated receptor alpha
+  (hPPARA) was identified near the proximal CMT1A-REP.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Murakami T
   - name: Sun ZS
@@ -25,30 +51,9 @@ keywords:
   - keyword: Nuclear Proteins
   - keyword: Ribosomal Proteins
   - keyword: Transferases
-abstract: >-
-  Charcot-Marie-Tooth disease type 1A (CMT1A) is associated with a 1.5-Mb tandem
-  DNA duplication in chromosome 17p11.2-p12, while hereditary neuropathy with
-  liability to pressure palsies (HNPP) is associated with a 1.5-Mb deletion at
-  this locus. The 1.5-Mb CMT1A monomer unit duplicated in CMT1A and deleted in
-  HNPP is flanked by low-copy repeats termed CMT1A-REPs. Both diseases appear to
-  be caused by an altered copy number of the peripheral myelin protein 22 gene
-  (PMP22), which lies within the critical region. To identify additional genes
-  rapidly, we used a cosmid contig of this region and reciprocal probing of
-  arrayed chromosome 17-specific cosmid and cDNA libraries. Three cDNA clones
-  were identified within the CMT1A duplication/HNPP deletion region and one just
-  proximal to the critical region. The cDNA for human heme Afarnesyltransferase
-  (COX10) mapped 10 kb centromeric to the distal CMT1A-REP. The other two cDNA
-  clones from within the critical interval mapped to cosmid 126D1 at the mfd41
-  (D17S261) DNA marker, and their conceptual translation showed homology to 60S
-  ribosomal protein L9 (RPL9) and chromosomal protein RMSA-1 (RMSA-1). A gene
-  that is homologous to human peroxisome proliferator activated receptor alpha
-  (hPPARA) was identified near the proximal CMT1A-REP.
 date: 1997/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9027492'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9027492%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11381029'
     title: >-

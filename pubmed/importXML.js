@@ -3,6 +3,7 @@ const yaml = require('js-yaml');
 const xml2js = require('xml2js');
 
 const content = fs.readFileSync("pubmed/pubmed.xml");
+const directory = "src/data/citations/";
 let data = {};
 const options = { 
     charkey: "value",
@@ -17,19 +18,59 @@ xml2js.parseString(content, options, function (err, result) {
 const get = (p, o) =>
   p.reduce((xs, x) => (xs && xs[x]) ? xs[x] : "", o);
 
+const blacklist = [
+    "27535300"
+];
+
 const citationList = [];
 
 data.PubmedArticleSet.PubmedArticle.forEach(article => {
 
     //console.log(yaml.safeDump(article.MedlineCitation));
-    
-    //create our own simpler schema
-    const citation = {};
+    let citation = {};
 
+    // set filename to the PMID
+    citation.pmid = "missing";
+    const ids = article.PubmedData.ArticleIdList.ArticleId;
+    if(Array.isArray(ids)) {
+        ids.forEach(id => {
+            if(id.IdType == "pubmed") {
+                citation.pmid = id.value;
+            }
+        });
+    } else {
+        citation.pmid = article.PubmedData.ArticleIdList.ArticleId.value;
+    }
+
+    //load previous data if available
+    try {
+        const content = fs.readFileSync(directory + citation.pmid + ".yml");
+        citation = yaml.safeLoad(content);
+    } catch(err) {
+    }
+    
+    //set title
     citation.title = get(['MedlineCitation','Article','ArticleTitle'], article);
     citation.title = citation.title.replace(/:/g,"").trim();
-    //citation.journal = get(['MedlineCitation','Article','Journal','Title'], article);
-    //citation.journal = citation.journal.replace(/:/g,"").trim();
+
+    //normalize the abstract
+    citation.abstract = "";
+    if(article.MedlineCitation.Article.Abstract) {
+        if(Array.isArray(article.MedlineCitation.Article.Abstract.AbstractText)) {
+            article.MedlineCitation.Article.Abstract.AbstractText.forEach(element => {
+                citation.abstract += element.value + " ";
+            });
+        } else if(article.MedlineCitation.Article.Abstract.AbstractText.hasOwnProperty('value')) {
+            citation.abstract = article.MedlineCitation.Article.Abstract.AbstractText.value;
+        } else {
+            citation.abstract = article.MedlineCitation.Article.Abstract.AbstractText;
+        }
+        citation.abstract = citation.abstract.replace(/:/g,"").trim();
+    }
+
+    // add blank categories if doesn't exist
+    if(!citation.categories)
+        citation.categories = [];
 
     //get the authors
     citation.authors = [];
@@ -69,21 +110,6 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         })
     }
 
-    //normalize the abstract
-    citation.abstract = "";
-    if(article.MedlineCitation.Article.Abstract) {
-        if(Array.isArray(article.MedlineCitation.Article.Abstract.AbstractText)) {
-            article.MedlineCitation.Article.Abstract.AbstractText.forEach(element => {
-                citation.abstract += element.value + " ";
-            });
-        } else if(article.MedlineCitation.Article.Abstract.AbstractText.hasOwnProperty('value')) {
-            citation.abstract = article.MedlineCitation.Article.Abstract.AbstractText.value;
-        } else {
-            citation.abstract = article.MedlineCitation.Article.Abstract.AbstractText;
-        }
-        citation.abstract = citation.abstract.replace(/:/g,"").trim();
-    }
-
     // add a date we can sort on
     citation.date = "";
     article.PubmedData.History.PubMedPubDate.forEach(date => {
@@ -94,9 +120,6 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
             citation.date += date.Month;
         } 
     })
-
-    // add a link
-    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
 
     // cites
     citation.cites = [];
@@ -110,23 +133,11 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         }
     }
 
-    // set filename to the PMID
-    citation.pmid = "missing";
-    const ids = article.PubmedData.ArticleIdList.ArticleId;
-    if(Array.isArray(ids)) {
-        ids.forEach(id => {
-            if(id.IdType == "pubmed") {
-                citation.pmid = id.value;
-            }
-        });
-    } else {
-        citation.pmid = article.PubmedData.ArticleIdList.ArticleId.value;
-    }
+    // add a link
+    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
 
-    // add blank categories
-    citation.categories = [];
-
-    citationList.push(citation);
+    if(!blacklist.includes(citation.pmid))
+        citationList.push(citation);
 })
 
 // cited by
@@ -146,7 +157,7 @@ citationList.forEach(c1 => {
 
 // write files
 citationList.forEach(citation => {
-    const file = "src/data/citations/" + citation.pmid + ".yml";
+    const file = directory + citation.pmid + ".yml";
     fs.writeFileSync(file, yaml.safeDump(citation));
     console.log("writing " + file);
 })

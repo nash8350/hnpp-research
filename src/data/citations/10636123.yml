@@ -1,30 +1,7 @@
+pmid: '10636123'
 title: >-
   Electrodiagnostic features of hereditary neuropathy with liability to pressure
   palsies.
-authors:
-  - name: Andersson PB
-  - name: Yuen E
-  - name: Parko K
-  - name: So YT
-keywords:
-  - keyword: Adolescent
-  - keyword: Adult
-  - keyword: Databases as Topic
-  - keyword: Diabetic Neuropathies
-  - keyword: diagnosis
-  - keyword: physiopathology
-  - keyword: 'Diagnosis, Differential'
-  - keyword: Electrodiagnosis
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Middle Aged
-  - keyword: Motor Neurons
-  - keyword: physiology
-  - keyword: Neural Conduction
-  - keyword: 'Neurons, Afferent'
-  - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
-  - keyword: Reaction Time
-  - keyword: Retrospective Studies
 abstract: >-
   Because diagnosis of hereditary neuropathy with liability to pressure palsies
   (HNPP) frequently is missed or delayed, we looked for electrodiagnostic
@@ -50,12 +27,38 @@ abstract: >-
   latencies with relatively infrequent and minor reduction of motor nerve
   conduction velocities. This indicates disproportionate distal conduction
   slowing in the disorder.
-date: 2000/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10636123'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Andersson PB
+  - name: Yuen E
+  - name: Parko K
+  - name: So YT
+keywords:
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Databases as Topic
+  - keyword: Diabetic Neuropathies
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Electrodiagnosis
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Middle Aged
+  - keyword: Motor Neurons
+  - keyword: physiology
+  - keyword: Neural Conduction
+  - keyword: 'Neurons, Afferent'
+  - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
+  - keyword: Reaction Time
+  - keyword: Retrospective Studies
+date: 2000/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10636123%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
     title: >-

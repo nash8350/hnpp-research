@@ -1,6 +1,20 @@
+pmid: '16969831'
 title: >-
   Hereditary neuropathy with liability to pressure palsy combined with
   schwannomas of the median and medial plantar nerves.
+abstract: >-
+  A 42-year-old woman was surgically treated for carpal tunnel syndrome,
+  revealing schwannoma of the median nerve. A year later, she developed a tarsal
+  tunnel syndrome. At time of this diagnosis, hereditary neuropathy with
+  liability to pressure palsies (HNPP) was diagnosed genetically and a
+  schwannoma of the medial plantar nerve was treated surgically. The occurrence
+  of HNPP and schwannomas in the same patient might be purely coincidental, but
+  it is tempting to speculate that they share a common genetic basis.
+categories:
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Heckmann JG
   - name: Dütsch M
@@ -24,20 +38,9 @@ keywords:
   - keyword: Tarsal Tunnel Syndrome
   - keyword: Tibial Nerve
   - keyword: Tibial Neuropathy
-abstract: >-
-  A 42-year-old woman was surgically treated for carpal tunnel syndrome,
-  revealing schwannoma of the median nerve. A year later, she developed a tarsal
-  tunnel syndrome. At time of this diagnosis, hereditary neuropathy with
-  liability to pressure palsies (HNPP) was diagnosed genetically and a
-  schwannoma of the medial plantar nerve was treated surgically. The occurrence
-  of HNPP and schwannomas in the same patient might be purely coincidental, but
-  it is tempting to speculate that they share a common genetic basis.
 date: 2006/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '16969831'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16969831%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25324890'
     title: >-

@@ -1,4 +1,38 @@
+pmid: '11081809'
 title: PMP22 Thr118Met is not a clinically relevant CMT1 marker.
+abstract: >-
+  It is controversial if peripheral myelin protein 22 gene (PMP22) Thr118Met
+  represents a functionally irrelevant polymorphism or, since hemizygosity for
+  this variant has been found in two patients with Charcot-Marie-Tooth disease
+  type 1 (CMT1 patients), it can act as a recessive CMT1 mutation. To shed
+  further light on this variant and its diagnostic value we searched for
+  carriers in 1018 individuals from the German general population, in 104
+  probands with hereditary neuropathy with liability to pressure palsies (HNPP)
+  who were carriers of the 1.5-Mb deletion frequently associated with this
+  disorder, in 187 patients with the 1.5-Mb duplication, and in 22 patients with
+  a CMT1 phenotype who did not have any detectable anomaly in the PMP22 gene.
+  Using allele-specific PCR we identified 14 [allele frequency (AF)=0.007] in
+  the German general population, one (AF=0.01) in the HNPP group and six
+  (AF=0.016) and two (AF=0.05) carriers of the PMP22 Thr118Met mutation in the
+  CMT1 groups with and without gene defect. Carriers from all groups showed
+  nerve conduction velocities which did not differ from typical values for these
+  groups. We conclude that the hemizygous occurrence of the 118Met allele does
+  not usually cause CMT1. Because of previous reports on its association with
+  disease, and because its allele product shows abnormalities in in vitro
+  expression systems, it seems possible that this mutation, together with yet
+  unidentified factors, predisposes to CMT1. Alternatively, previously reported
+  disease associations occurred by chance, and the 118Met allele causes
+  biochemical abnormalities irrelevant for CMT1 formation. In either case this
+  mutation is not a clinically relevant disease marker.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Young P
   - name: Stögbauer F
@@ -28,36 +62,9 @@ keywords:
   - keyword: Polymerase Chain Reaction
   - keyword: 'Polymorphism, Genetic'
   - keyword: Risk Factors
-abstract: >-
-  It is controversial if peripheral myelin protein 22 gene (PMP22) Thr118Met
-  represents a functionally irrelevant polymorphism or, since hemizygosity for
-  this variant has been found in two patients with Charcot-Marie-Tooth disease
-  type 1 (CMT1 patients), it can act as a recessive CMT1 mutation. To shed
-  further light on this variant and its diagnostic value we searched for
-  carriers in 1018 individuals from the German general population, in 104
-  probands with hereditary neuropathy with liability to pressure palsies (HNPP)
-  who were carriers of the 1.5-Mb deletion frequently associated with this
-  disorder, in 187 patients with the 1.5-Mb duplication, and in 22 patients with
-  a CMT1 phenotype who did not have any detectable anomaly in the PMP22 gene.
-  Using allele-specific PCR we identified 14 [allele frequency (AF)=0.007] in
-  the German general population, one (AF=0.01) in the HNPP group and six
-  (AF=0.016) and two (AF=0.05) carriers of the PMP22 Thr118Met mutation in the
-  CMT1 groups with and without gene defect. Carriers from all groups showed
-  nerve conduction velocities which did not differ from typical values for these
-  groups. We conclude that the hemizygous occurrence of the 118Met allele does
-  not usually cause CMT1. Because of previous reports on its association with
-  disease, and because its allele product shows abnormalities in in vitro
-  expression systems, it seems possible that this mutation, together with yet
-  unidentified factors, predisposes to CMT1. Alternatively, previously reported
-  disease associations occurred by chance, and the 118Met allele causes
-  biochemical abnormalities irrelevant for CMT1 formation. In either case this
-  mutation is not a clinically relevant disease marker.
 date: 2000/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11081809'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11081809%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15205993'
     title: >-

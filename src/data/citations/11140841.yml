@@ -1,6 +1,28 @@
+pmid: '11140841'
 title: >-
   Mutational analysis and genotype/phenotype correlation in Turkish
   Charcot-Marie-Tooth Type 1 and HNPP patients.
+abstract: >-
+  The major Charcot- Marie-Tooth Type 1 (CMT1) locus, CMT1A, and Hereditary
+  neuropathy with liability to pressure palsies (HNPP) cosegregate with a 1.5-Mb
+  duplication and a 1.5-Mb deletion, respectively, in band 17p11.2. Point
+  mutations in peripheral myelin gene 22 (PMP22), myelin protein zero (MPZ), and
+  connexin 32 (Cx32) have been reported in CMT1, and in PMP22 in HNPP patients
+  without deletion. We have screened 54 CMT1 patients, of variable clinical
+  severity, and 25 HNPP patients from Turkey, with no duplication or deletion,
+  for mutations in the PMP22 and Cx32 genes. A novel frameshift mutation
+  affecting the second extracellular domain of PMP22 was found in an HNPP
+  patient, while a point mutation in the second transmembrane domain of the
+  protein was detected in a CMT1 patient. Two point mutations affecting
+  different domains of Cx32 were identified in two CMTX patients. Another
+  patient was found to carry a polymorphism in a non-conserved codon of the Cx32
+  gene. The clinical phenotypes of the patients correlate well with the effect
+  of the mutation on the protein.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Bissar-Tadmouri N
   - name: Parman Y
@@ -26,28 +48,9 @@ keywords:
   - keyword: Phenotype
   - keyword: 'Polymorphism, Genetic'
   - keyword: Turkey
-abstract: >-
-  The major Charcot- Marie-Tooth Type 1 (CMT1) locus, CMT1A, and Hereditary
-  neuropathy with liability to pressure palsies (HNPP) cosegregate with a 1.5-Mb
-  duplication and a 1.5-Mb deletion, respectively, in band 17p11.2. Point
-  mutations in peripheral myelin gene 22 (PMP22), myelin protein zero (MPZ), and
-  connexin 32 (Cx32) have been reported in CMT1, and in PMP22 in HNPP patients
-  without deletion. We have screened 54 CMT1 patients, of variable clinical
-  severity, and 25 HNPP patients from Turkey, with no duplication or deletion,
-  for mutations in the PMP22 and Cx32 genes. A novel frameshift mutation
-  affecting the second extracellular domain of PMP22 was found in an HNPP
-  patient, while a point mutation in the second transmembrane domain of the
-  protein was detected in a CMT1 patient. Two point mutations affecting
-  different domains of Cx32 were identified in two CMTX patients. Another
-  patient was found to carry a polymorphism in a non-conserved codon of the Cx32
-  gene. The clinical phenotypes of the patients correlate well with the effect
-  of the mutation on the protein.
 date: 2001/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11140841'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11140841%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18751796'
     title: >-

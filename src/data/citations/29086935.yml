@@ -1,9 +1,7 @@
+pmid: '29086935'
 title: >-
   New Vistas on the Pathomechanism of Charcot-Marie-Tooth and Related Peripheral
   Neuropathies.
-authors:
-  - name: H W Müller
-keywords: []
 abstract: >-
   A gene-dosage mechanism in CMT1A and HNPP has been postulated previously.
   Here, recent findings are discussed concerning (i) the functional consequences
@@ -14,10 +12,13 @@ abstract: >-
   Schwann cell phenotype and impair myelination in vivo, and (iii) the
   pathomechanism of CMT1 in light of findings on a novel association between
   PMP22 and Pin PNS myelin.
-date: 1999/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '29086935'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: H W Müller
+keywords: []
+date: 1999/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29086935%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,4 +1,16 @@
+pmid: '2485913'
 title: Two cases of Dandy-Walker syndrome and chronic polyneuropathy.
+abstract: >-
+  The paper describes a so far unreported combination of Dandy-Walker syndrome
+  and chronic hereditary polyneuropathy in 2 boys. One of the boys has a de- and
+  remyelinating motor and sensory polyneuropathy, with either an autosomal
+  recessive mode of inheritence or a sporadic occurrence. The other has an
+  autosomal dominant form of mild polyneuropathy with tomaculum formations in
+  myelinated fibers, corresponding to hereditary neuropathy with liability to
+  pressure palsies.
+categories:
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Riikonen R
   - name: Lang H
@@ -18,18 +30,7 @@ keywords:
   - keyword: Male
   - keyword: Sural Nerve
   - keyword: pathology
-abstract: >-
-  The paper describes a so far unreported combination of Dandy-Walker syndrome
-  and chronic hereditary polyneuropathy in 2 boys. One of the boys has a de- and
-  remyelinating motor and sensory polyneuropathy, with either an autosomal
-  recessive mode of inheritence or a sporadic occurrence. The other has an
-  autosomal dominant form of mild polyneuropathy with tomaculum formations in
-  myelinated fibers, corresponding to hereditary neuropathy with liability to
-  pressure palsies.
 date: 1989/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '2485913'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2485913%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

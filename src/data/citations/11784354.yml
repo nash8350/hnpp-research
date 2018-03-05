@@ -1,6 +1,31 @@
+pmid: '11784354'
 title: >-
   Hereditary neuropathy with liability to pressure palsies associated with
   central nervous system myelin lesions.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disorder most commonly caused by a 1.5-Mb deletion in
+  chromosome 17p11.2 which contains the peripheral myelin protein-22 (PMP22)
+  gene. Mutations resulting in functional loss of one PMP22 gene copy are less
+  frequent. We present a 51-year-old patient with a l.5-Mb deletion in
+  chromosome 17p11.2 who exhibited signs of peripheral as well as central
+  nervous system lesions. He gave a history of recurrent episodes of limb
+  numbness and weakness with spontaneous but incomplete recovery since age 20.
+  His father and two brothers had similar symptoms. Neurological examination
+  revealed signs of multiple mononeuropathy associated with frontal lobe,
+  corticospinal tract and cerebellar dysfunction, as well as signs of initial
+  cognitive impairment. Electrophysiological investigations showed a
+  demyelinating peripheral nerve disease with multiple conduction blocks and
+  conduction disturbances in both optic nerves. Magnetic resonance imaging of
+  the brain revealed multiple subcortical and periventricular foci of myelin
+  lesions. The association of central and peripheral nervous system lesions in
+  this patient indicates a possible role of PMP22 not only in peripheral but
+  also in central nervous system myelin structure.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Dacković J
   - name: Rakocević-Stojanović V
@@ -21,31 +46,9 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: genetics
   - keyword: Myelin Sheath
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal dominant disorder most commonly caused by a 1.5-Mb deletion in
-  chromosome 17p11.2 which contains the peripheral myelin protein-22 (PMP22)
-  gene. Mutations resulting in functional loss of one PMP22 gene copy are less
-  frequent. We present a 51-year-old patient with a l.5-Mb deletion in
-  chromosome 17p11.2 who exhibited signs of peripheral as well as central
-  nervous system lesions. He gave a history of recurrent episodes of limb
-  numbness and weakness with spontaneous but incomplete recovery since age 20.
-  His father and two brothers had similar symptoms. Neurological examination
-  revealed signs of multiple mononeuropathy associated with frontal lobe,
-  corticospinal tract and cerebellar dysfunction, as well as signs of initial
-  cognitive impairment. Electrophysiological investigations showed a
-  demyelinating peripheral nerve disease with multiple conduction blocks and
-  conduction disturbances in both optic nerves. Magnetic resonance imaging of
-  the brain revealed multiple subcortical and periventricular foci of myelin
-  lesions. The association of central and peripheral nervous system lesions in
-  this patient indicates a possible role of PMP22 not only in peripheral but
-  also in central nervous system myelin structure.
 date: 2002/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11784354'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11784354%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
     title: >-

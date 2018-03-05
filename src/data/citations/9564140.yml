@@ -1,4 +1,18 @@
+pmid: '9564140'
 title: '[Recurrent palsies--consider hereditary pressure neuropathy!].'
+abstract: >-
+  Three cases of hereditary neuropathy with liability to pressure palsies
+  (HNPP), characterised by the typical deletion in chromosome 17p11 2-12, are
+  described in the article. The clinical manifestations were pain-free brachial
+  plexus palsies in two patients (belonging to the same family), and multiple
+  episodes of numbness and weakness in various nerves in the third patient. The
+  clinical, electrophysiological, histological and genetic findings are
+  reviewed.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: L J Liedholm
 keywords:
@@ -17,18 +31,7 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
   - keyword: Recurrence
-abstract: >-
-  Three cases of hereditary neuropathy with liability to pressure palsies
-  (HNPP), characterised by the typical deletion in chromosome 17p11 2-12, are
-  described in the article. The clinical manifestations were pain-free brachial
-  plexus palsies in two patients (belonging to the same family), and multiple
-  episodes of numbness and weakness in various nerves in the third patient. The
-  clinical, electrophysiological, histological and genetic findings are
-  reviewed.
 date: 1998/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9564140'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9564140%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

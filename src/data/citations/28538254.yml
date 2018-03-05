@@ -1,12 +1,8 @@
+pmid: '28538254'
 title: >-
   Acute Demyelinating Polyneuropathy as Presentation of Hereditary Neuropathy
   With Liability to Pressure Palsies in a Patient Who Exercised Regularly in the
   Army.
-authors:
-  - name: Perugula M
-  - name: Uppal G
-  - name: Chuquilin M
-keywords: []
 abstract: >-
   Acute generalized neuropathy as the presenting manifestation of hereditary
   neuropathy with liability to pressure palsies (HNPP) is rare. We report a
@@ -22,10 +18,19 @@ abstract: >-
   can present as an acute generalized neuropathy even in people who train
   regularly. Careful history, physical examination, and evidence of entrapment
   neuropathies in nerve conduction study can aid in the diagnosis.
-date: 2017/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '28538254'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Perugula M
+  - name: Uppal G
+  - name: Chuquilin M
+keywords: []
+date: 2017/05
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28538254%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

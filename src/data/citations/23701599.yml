@@ -1,19 +1,7 @@
+pmid: '23701599'
 title: >-
   High resolution sonography in the evaluation of the peripheral nervous system
   in polyneuropathy--a review of the literature.
-authors:
-  - name: Goedee HS
-  - name: Brekelmans GJ
-  - name: van Asseldonk JT
-  - name: Beekman R
-  - name: Mess WH
-  - name: Visser LH
-keywords:
-  - keyword: Humans
-  - keyword: Peripheral Nervous System
-  - keyword: diagnostic imaging
-  - keyword: Polyneuropathies
-  - keyword: Ultrasonography
 abstract: >-
   Clinical, laboratory and electrodiagnostic studies are the mainstay in the
   diagnosis of polyneuropathy. An accurate etiological diagnosis is of paramount
@@ -36,10 +24,27 @@ abstract: >-
   standardized protocols for nerve sonography and clinical and electrodiagnostic
   testing are needed to determine the role of nerve sonography in inherited and
   acquired polyneuropathies.
-date: 2013/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '23701599'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: Goedee HS
+  - name: Brekelmans GJ
+  - name: van Asseldonk JT
+  - name: Beekman R
+  - name: Mess WH
+  - name: Visser LH
+keywords:
+  - keyword: Humans
+  - keyword: Peripheral Nervous System
+  - keyword: diagnostic imaging
+  - keyword: Polyneuropathies
+  - keyword: Ultrasonography
+date: 2013/05
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23701599%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

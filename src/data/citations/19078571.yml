@@ -1,11 +1,7 @@
+pmid: '19078571'
 title: >-
   Maternal Bilateral Radial Neuropathy During Childbirth in Hereditary
   Neuropathy With a Predisposition to Pressure Palsies (HNPP).
-authors:
-  - name: Molloy FM
-  - name: Raynor EM
-  - name: Rutkove SB
-keywords: []
 abstract: >-
   A 30-year-old woman developed severe bilateral radial neuropathies during
   vaginal delivery of twins, likely secondary to positioning and muscular
@@ -14,10 +10,21 @@ abstract: >-
   effort in the arms in conjunction with medial intervention to shorten the
   second stage of labor may help prevent debilitating radial nerve injury in
   women with this disorder.
-date: 2000/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '19078571'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Molloy FM
+  - name: Raynor EM
+  - name: Rutkove SB
+keywords: []
+date: 2000/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19078571%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

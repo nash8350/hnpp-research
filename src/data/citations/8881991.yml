@@ -1,28 +1,7 @@
+pmid: '8881991'
 title: >-
   Correlation between the histopathologic, genotypic, and phenotypic features of
   hereditary peripheral neuropathies in childhood.
-authors:
-  - name: R Ouvrier
-keywords:
-  - keyword: Adolescent
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Child
-  - keyword: 'Child, Preschool'
-  - keyword: Chromosome Deletion
-  - keyword: Chromosomes
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Demyelinating Diseases
-  - keyword: Female
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Neural Conduction
-  - keyword: Phenotype
-  - keyword: Point Mutation
-  - keyword: Proteins
-  - keyword: Sural Nerve
-  - keyword: ultrastructure
 abstract: >-
   In recent years, there have been remarkable advances in the understanding of
   the molecular genetic basis of the hereditary polyneuropathies. Linkage of the
@@ -48,10 +27,34 @@ abstract: >-
   to the genotypic basis. It will be argued that there is still an important
   place for the clinician and nerve pathologist in a medical world immersed in
   the wonders of molecular genetics.
-date: 1996/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '8881991'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: R Ouvrier
+keywords:
+  - keyword: Adolescent
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: Chromosome Deletion
+  - keyword: Chromosomes
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Demyelinating Diseases
+  - keyword: Female
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Neural Conduction
+  - keyword: Phenotype
+  - keyword: Point Mutation
+  - keyword: Proteins
+  - keyword: Sural Nerve
+  - keyword: ultrastructure
+date: 1996/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8881991%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

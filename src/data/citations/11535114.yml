@@ -1,21 +1,5 @@
+pmid: '11535114'
 title: CNS myelination and PLP gene dosage.
-authors:
-  - name: Woodward K
-  - name: Malcolm S
-keywords:
-  - keyword: Animals
-  - keyword: Gene Deletion
-  - keyword: Gene Dosage
-  - keyword: Gene Duplication
-  - keyword: Humans
-  - keyword: Mutation
-  - keyword: Myelin Proteolipid Protein
-  - keyword: genetics
-  - keyword: Myelin Sheath
-  - keyword: physiology
-  - keyword: Pelizaeus-Merzbacher Disease
-  - keyword: therapy
-  - keyword: 'Spastic Paraplegia, Hereditary'
 abstract: >-
   The phenomenon of gene dosage effects demonstrates that the mechanisms of some
   genetic diseases are best recognised at the genomic level. Classical gene
@@ -40,10 +24,33 @@ abstract: >-
   deletions of the genome being underestimated. Genome sequencing may identify
   intrinsic structural properties of the DNA with greater susceptibility to
   these rearrangements and thereby reflect structural changes in the genome.
-date: 2001/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '11535114'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Woodward K
+  - name: Malcolm S
+keywords:
+  - keyword: Animals
+  - keyword: Gene Deletion
+  - keyword: Gene Dosage
+  - keyword: Gene Duplication
+  - keyword: Humans
+  - keyword: Mutation
+  - keyword: Myelin Proteolipid Protein
+  - keyword: genetics
+  - keyword: Myelin Sheath
+  - keyword: physiology
+  - keyword: Pelizaeus-Merzbacher Disease
+  - keyword: therapy
+  - keyword: 'Spastic Paraplegia, Hereditary'
+date: 2001/09
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11535114%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

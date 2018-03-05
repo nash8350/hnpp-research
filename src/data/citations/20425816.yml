@@ -1,18 +1,5 @@
+pmid: '20425816'
 title: Genomic and clinical characteristics of microduplications in chromosome 17.
-authors:
-  - name: Shchelochkov OA
-  - name: Cheung SW
-  - name: Lupski JR
-keywords:
-  - keyword: 'Abnormalities, Multiple'
-  - keyword: genetics
-  - keyword: pathology
-  - keyword: Chromosome Aberrations
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Gene Duplication
-  - keyword: 'Genome, Human'
-  - keyword: Humans
-  - keyword: Phenotype
 abstract: >-
   Genomic disorders have been increasingly recognized as a significant source of
   clinically relevant phenotypes largely fostered by advances in technologies
@@ -34,10 +21,26 @@ abstract: >-
   (FoSTeS). We provide specific examples of chromosome 17 microduplications with
   the emphasis on their phenotype, specific clinical features aiding in their
   diagnosis, and counseling.
-date: 2010/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '20425816'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Shchelochkov OA
+  - name: Cheung SW
+  - name: Lupski JR
+keywords:
+  - keyword: 'Abnormalities, Multiple'
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: Chromosome Aberrations
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Duplication
+  - keyword: 'Genome, Human'
+  - keyword: Humans
+  - keyword: Phenotype
+date: 2010/04
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20425816%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

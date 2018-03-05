@@ -1,6 +1,9 @@
+pmid: '20512157'
 title: >-
   Clinical utility gene card for HMSN/HNPP HMSN types 1, 2, 3, 6 (CMT1,2,4, DSN,
   CHN, GAN, CCFDN, HNA); HNPP.
+abstract: ''
+categories: []
 authors:
   - name: Aretz S
   - name: Rautenstrauss B
@@ -10,11 +13,7 @@ keywords:
   - keyword: genetics
   - keyword: Humans
   - keyword: Mutation
-abstract: ''
 date: 2010/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '20512157'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20512157%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

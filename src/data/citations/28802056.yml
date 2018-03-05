@@ -1,6 +1,25 @@
+pmid: '28802056'
 title: >-
   Different nerve ultrasound patterns in charcot-marie-tooth types and
   hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  Nerve ultrasound in Charcot-Marie-Tooth (CMT) disease has focused mostly on
+  the upper limbs. We performed an evaluation of a large cohort of CMT patients
+  in which we sonographically characterized nerve abnormalities in different
+  disease types, ages, and nerves. Seventy patients affected by different CMT
+  types and hereditary neuropathy with liability to pressure palsies (HNPP) were
+  evaluated, assessing median, ulnar, fibular, tibial, and sural nerves
+  bilaterally. Data were correlated with age. Nerve dimensions were correlated
+  with CMT type, age, and nerve site. Nerves were larger in demyelinating than
+  in axonal neuropathies. Nerve involvement was symmetric. CMT1 patients had
+  larger nerves than did patients with other CMT types. Patients with HNPP
+  showed enlargement at entrapment sites. Our study confirms the general
+  symmetry of ultrasound nerve patterns in CMT. When compared with ultrasound
+  studies of nerves of the upper limbs, evaluation of the lower limbs did not
+  provide additional information. Muscle Nerve 57 E18-E23, 2018.
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Padua L
   - name: Coraci D
@@ -36,25 +55,7 @@ keywords:
   - keyword: Phenotype
   - keyword: Ultrasonography
   - keyword: Young Adult
-abstract: >-
-  Nerve ultrasound in Charcot-Marie-Tooth (CMT) disease has focused mostly on
-  the upper limbs. We performed an evaluation of a large cohort of CMT patients
-  in which we sonographically characterized nerve abnormalities in different
-  disease types, ages, and nerves. Seventy patients affected by different CMT
-  types and hereditary neuropathy with liability to pressure palsies (HNPP) were
-  evaluated, assessing median, ulnar, fibular, tibial, and sural nerves
-  bilaterally. Data were correlated with age. Nerve dimensions were correlated
-  with CMT type, age, and nerve site. Nerves were larger in demyelinating than
-  in axonal neuropathies. Nerve involvement was symmetric. CMT1 patients had
-  larger nerves than did patients with other CMT types. Patients with HNPP
-  showed enlargement at entrapment sites. Our study confirms the general
-  symmetry of ultrasound nerve patterns in CMT. When compared with ultrasound
-  studies of nerves of the upper limbs, evaluation of the lower limbs did not
-  provide additional information. Muscle Nerve 57 E18-E23, 2018.
 date: 2017/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '28802056'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28802056%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

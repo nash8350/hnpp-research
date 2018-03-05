@@ -1,21 +1,5 @@
+pmid: '10680781'
 title: Hereditary recurrent focal neuropathies clinical and molecular features.
-authors:
-  - name: Stögbauer F
-  - name: Young P
-  - name: Kuhlenbäumer G
-  - name: De Jonghe P
-  - name: Timmerman V
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Chromosome Mapping
-  - keyword: Female
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Myelin Proteins
-  - keyword: Pedigree
-  - keyword: Phenotype
 abstract: >-
   The authors review the molecular genetics and pathophysiology of hereditary
   recurrent focal neuropathies hereditary neuropathy with liability to pressure
@@ -37,12 +21,31 @@ abstract: >-
   understanding of the disease mechanisms and will lead to the development of
   effective therapeutic tools for patients with inherited and sporadic recurrent
   peripheral neuropathies.
-date: 2000/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10680781'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: Stögbauer F
+  - name: Young P
+  - name: Kuhlenbäumer G
+  - name: De Jonghe P
+  - name: Timmerman V
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: Chromosome Mapping
+  - keyword: Female
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Myelin Proteins
+  - keyword: Pedigree
+  - keyword: Phenotype
+date: 2000/02
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10680781%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
     title: >-

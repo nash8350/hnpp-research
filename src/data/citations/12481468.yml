@@ -1,6 +1,22 @@
+pmid: '12481468'
 title: >-
   [Hereditary neuropathy with pressure hypersensitivity or tomaculous
   neuropathy].
+abstract: >-
+  Hereditary neuropathy liability to pressure palsies is characterized by
+  recurring accesses of painless paralysis at the level of various nerves likely
+  to be compressed. This affection remains underdiagnosed because of its usually
+  benign course, sometimes without any symptom. The diagnosis is supported by
+  clinical and electrophysiological data associated with, in the majority of
+  patients, a deletion of one of the alleles coding for protein PMP 22 on the
+  level of the locus 17p11.2.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Tinant F
   - name: Zeevaert B
@@ -22,20 +38,9 @@ keywords:
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: etiology
-abstract: >-
-  Hereditary neuropathy liability to pressure palsies is characterized by
-  recurring accesses of painless paralysis at the level of various nerves likely
-  to be compressed. This affection remains underdiagnosed because of its usually
-  benign course, sometimes without any symptom. The diagnosis is supported by
-  clinical and electrophysiological data associated with, in the majority of
-  patients, a deletion of one of the alleles coding for protein PMP 22 on the
-  level of the locus 17p11.2.
 date: 2002/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12481468'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12481468%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15083272'
     title: >-

@@ -1,19 +1,5 @@
+pmid: '28286897'
 title: Charcot-Marie-Tooth disease genetic subtypes in the Sardinian population.
-authors:
-  - name: Lorefice L
-  - name: Murru MR
-  - name: Coghe G
-  - name: Fenu G
-  - name: Corongiu D
-  - name: Frau J
-  - name: Tranquilli S
-  - name: Tacconi P
-  - name: Vannelli A
-  - name: Marrosu G
-  - name: Mamusa E
-  - name: Cocco E
-  - name: Marrosu MG
-keywords: []
 abstract: >-
   Charcot-Marie-Tooth disease (CMT) is characterised by great variability of
   genetic subtypes. This study aimed to assess the genetic subtypes of CMT
@@ -29,8 +15,27 @@ abstract: >-
   21.9%), the majority of patients reported the PMP22 deletion (25/26; 96.2%).
   Further studies are needed to comprehend the overall picture of the disease in
   Mediterranean area.
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Lorefice L
+  - name: Murru MR
+  - name: Coghe G
+  - name: Fenu G
+  - name: Corongiu D
+  - name: Frau J
+  - name: Tranquilli S
+  - name: Tacconi P
+  - name: Vannelli A
+  - name: Marrosu G
+  - name: Mamusa E
+  - name: Cocco E
+  - name: Marrosu MG
+keywords: []
 date: 2017/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '22781092'
   - pmid: '24705285'
@@ -54,7 +59,5 @@ cites:
   - pmid: '24078732'
   - pmid: '7774040'
   - pmid: '24894446'
-pmid: '28286897'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28286897%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

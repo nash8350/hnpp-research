@@ -1,6 +1,21 @@
+pmid: '19663313'
 title: >-
   Analysis of 17p11.2 chromosome region rearrangements in CMT1 patients from
   Ukraine.
+abstract: >-
+  Two intercomplementary methods of 17p11.2 duplication/deletion identification
+  have been elaborated STR allelic variants analysis and direct PMP22 gene
+  dosage measuring by means of quantitative Real- Time PCR. It has been carried
+  out detection and analysis of 17p11.2 chromosome region rearrangements in CMT1
+  patients from Ukraine. It has been registered the high level of de novo cases
+  with 17p11.2-duplication. It has been shown the 17p11.2 chromosome region
+  duplication/deletion association with CMT1A and HNPP clinical phenotypes which
+  may be used in differential diagnosis of this type of CMT polyneuropathy.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Hryshchenko NV
   - name: Livshits LA
@@ -26,19 +41,7 @@ keywords:
   - keyword: Pedigree
   - keyword: Reverse Transcriptase Polymerase Chain Reaction
   - keyword: Ukraine
-abstract: >-
-  Two intercomplementary methods of 17p11.2 duplication/deletion identification
-  have been elaborated STR allelic variants analysis and direct PMP22 gene
-  dosage measuring by means of quantitative Real- Time PCR. It has been carried
-  out detection and analysis of 17p11.2 chromosome region rearrangements in CMT1
-  patients from Ukraine. It has been registered the high level of de novo cases
-  with 17p11.2-duplication. It has been shown the 17p11.2 chromosome region
-  duplication/deletion association with CMT1A and HNPP clinical phenotypes which
-  may be used in differential diagnosis of this type of CMT polyneuropathy.
 date: 2009/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '19663313'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19663313%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

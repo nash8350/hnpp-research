@@ -1,4 +1,29 @@
+pmid: '23893492'
 title: Entrapment syndrome of multiple nerves in graft-versus-host disease.
+abstract: >-
+  Peripheral nerve entrapment syndromes are associated with hereditary
+  neuropathy with liability to pressure palsies and a variety of rheumatic and
+  endocrinological diseases. We report a patient with entrapment syndromes of
+  multiple nerves associated with chronic graft-versus-host-disease (GVHD) after
+  allogeneic hematopoietic stem cell transplantation. Nerve ultrasound,
+  histology, and ultrastructural changes were assessed. The 51-year-old man had
+  developed severe deep dermal sclerosis due to chronic GVHD with a progressive
+  polyneuropathy and entrapment syndromes of multiple nerves. Pre-stenotic
+  enlargement was shown by nerve ultrasound. Histology demonstrated fibrosis of
+  the epineurium with scarce infiltration of macrophages. Electron microscopy
+  demonstrated alterations of the myelin sheaths and marked depletion of
+  normal-sized myelinated nerve fibers. In addition to polyneuropathy, chronic
+  GVHD can be associated with peripheral nerve entrapment syndromes and should
+  be added to the differential diagnosis of compressive neuropathies.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Kleiter I
   - name: Poeschl P
@@ -31,25 +56,7 @@ keywords:
   - keyword: Radial Nerve
   - keyword: Ulnar Nerve
   - keyword: Ultrasonography
-abstract: >-
-  Peripheral nerve entrapment syndromes are associated with hereditary
-  neuropathy with liability to pressure palsies and a variety of rheumatic and
-  endocrinological diseases. We report a patient with entrapment syndromes of
-  multiple nerves associated with chronic graft-versus-host-disease (GVHD) after
-  allogeneic hematopoietic stem cell transplantation. Nerve ultrasound,
-  histology, and ultrastructural changes were assessed. The 51-year-old man had
-  developed severe deep dermal sclerosis due to chronic GVHD with a progressive
-  polyneuropathy and entrapment syndromes of multiple nerves. Pre-stenotic
-  enlargement was shown by nerve ultrasound. Histology demonstrated fibrosis of
-  the epineurium with scarce infiltration of macrophages. Electron microscopy
-  demonstrated alterations of the myelin sheaths and marked depletion of
-  normal-sized myelinated nerve fibers. In addition to polyneuropathy, chronic
-  GVHD can be associated with peripheral nerve entrapment syndromes and should
-  be added to the differential diagnosis of compressive neuropathies.
 date: 2013/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '23893492'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23893492%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

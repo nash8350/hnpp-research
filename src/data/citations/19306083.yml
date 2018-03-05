@@ -1,4 +1,26 @@
+pmid: '19306083'
 title: Entrapment in anti myelin-associated glycoprotein neuropathy.
+abstract: >-
+  Anti-myelin associated glycoprotein (MAG) neuropathy is a chronic disorder in
+  which IgM antibodies react with Schwann cell glycoproteins, including MAG and
+  peripheral myelin protein 22 (PMP22). Nerve conduction studies show features
+  of axon loss and predominantly distal slowing consistent with demyelination.
+  Because a genetic loss of PMP22 function yields hereditary neuropathy with
+  liability to pressure palsies (HNPP), loss of PMP22 function due to anti- MAG
+  antibodies may result in increased sensitivity to entrapment. We investigated
+  this by performing standardized electrophysiological studies in 16 patients
+  with anti-MAG neuropathy and 16 disease controls with genetically confirmed
+  HNPP. Disproportionate slowing relative to adjacent segments occurred in
+  similar proportions of patients with anti-MAG neuropathy and HNPP, and was of
+  the same magnitude in each group. Affected were the elbow, carpal tunnel and
+  the wrist-hand segments of the median and ulnar nerves. However, in anti-MAG
+  neuropathy as compared to HNPP, absolute values of distal motor latencies and
+  conduction velocities outside entrapment sites were slower and amplitudes were
+  lower. In conclusion, increased sensitivity for entrapment may occur in
+  anti-MAG neuropathy and contribute to part of the nerve damage.
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Faber CG
   - name: Notermans NC
@@ -24,26 +46,7 @@ keywords:
   - keyword: immunology
   - keyword: Polyradiculoneuropathy
   - keyword: Schwann Cells
-abstract: >-
-  Anti-myelin associated glycoprotein (MAG) neuropathy is a chronic disorder in
-  which IgM antibodies react with Schwann cell glycoproteins, including MAG and
-  peripheral myelin protein 22 (PMP22). Nerve conduction studies show features
-  of axon loss and predominantly distal slowing consistent with demyelination.
-  Because a genetic loss of PMP22 function yields hereditary neuropathy with
-  liability to pressure palsies (HNPP), loss of PMP22 function due to anti- MAG
-  antibodies may result in increased sensitivity to entrapment. We investigated
-  this by performing standardized electrophysiological studies in 16 patients
-  with anti-MAG neuropathy and 16 disease controls with genetically confirmed
-  HNPP. Disproportionate slowing relative to adjacent segments occurred in
-  similar proportions of patients with anti-MAG neuropathy and HNPP, and was of
-  the same magnitude in each group. Affected were the elbow, carpal tunnel and
-  the wrist-hand segments of the median and ulnar nerves. However, in anti-MAG
-  neuropathy as compared to HNPP, absolute values of distal motor latencies and
-  conduction velocities outside entrapment sites were slower and amplitudes were
-  lower. In conclusion, increased sensitivity for entrapment may occur in
-  anti-MAG neuropathy and contribute to part of the nerve damage.
 date: 2009/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '10417783'
   - pmid: '7820574'
@@ -76,7 +79,5 @@ cites:
   - pmid: '8107712'
   - pmid: '1549208'
   - pmid: '10636123'
-pmid: '19306083'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19306083%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

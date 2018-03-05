@@ -1,26 +1,7 @@
+pmid: '16970892'
 title: >-
   Recurrent absence status epilepticus (spike-and-wave stupor) associated with
   lamotrigine therapy.
-authors:
-  - name: Hasan M
-  - name: Lerman-Sagie T
-  - name: Lev D
-  - name: Watemberg N
-keywords:
-  - keyword: Anticonvulsants
-  - keyword: administration & dosage
-  - keyword: adverse effects
-  - keyword: Child
-  - keyword: 'Dose-Response Relationship, Drug'
-  - keyword: Drug Administration Schedule
-  - keyword: 'Epilepsy, Absence'
-  - keyword: drug therapy
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Status Epilepticus
-  - keyword: chemically induced
-  - keyword: Stupor
-  - keyword: Triazines
 abstract: >-
   We report on the aggravation of absence seizures by lamotrigine leading to
   absence status epilepticus in a child. The patient is a 10-year-old girl with
@@ -42,10 +23,36 @@ abstract: >-
   following lamotrigine discontinuation. Hence, it is quite possible that
   lamotrigine caused seizure aggravation and absence status epilepticus in this
   child.
-date: 2006/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '16970892'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Hasan M
+  - name: Lerman-Sagie T
+  - name: Lev D
+  - name: Watemberg N
+keywords:
+  - keyword: Anticonvulsants
+  - keyword: administration & dosage
+  - keyword: adverse effects
+  - keyword: Child
+  - keyword: 'Dose-Response Relationship, Drug'
+  - keyword: Drug Administration Schedule
+  - keyword: 'Epilepsy, Absence'
+  - keyword: drug therapy
+  - keyword: Female
+  - keyword: Humans
+  - keyword: Status Epilepticus
+  - keyword: chemically induced
+  - keyword: Stupor
+  - keyword: Triazines
+date: 2006/09
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16970892%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,4 +1,19 @@
+pmid: '6281213'
 title: Familial neuropathy with liability to pressure palsies. Report of a case.
+abstract: >-
+  A case of hereditary neuropathy with liability to pressure palsies is
+  described. The main histological findings in sural nerve were focal
+  thickenings of myelin-"sausages", "tomaculae"-and wide variability of
+  internodal length. Numerous fibers with signs of remyelination were present,
+  while there was little evidence of active demyelination. There were moderate
+  axonal changes. Electrophysiological study revealed slowed conduction velocity
+  in peripheral nerves. The possibility of a congenital myelin defect in this
+  disease is discussed.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Jedrzejowska H
   - name: Hausmanowa-Petrusewicz I
@@ -15,21 +30,9 @@ keywords:
   - keyword: pathology
   - keyword: Pressure
   - keyword: Sural Nerve
-abstract: >-
-  A case of hereditary neuropathy with liability to pressure palsies is
-  described. The main histological findings in sural nerve were focal
-  thickenings of myelin-"sausages", "tomaculae"-and wide variability of
-  internodal length. Numerous fibers with signs of remyelination were present,
-  while there was little evidence of active demyelination. There were moderate
-  axonal changes. Electrophysiological study revealed slowed conduction velocity
-  in peripheral nerves. The possibility of a congenital myelin defect in this
-  disease is discussed.
 date: 1981/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '6281213'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6281213%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8125763'
     title: >-

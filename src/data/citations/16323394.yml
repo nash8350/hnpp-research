@@ -1,20 +1,5 @@
+pmid: '16323394'
 title: Recurrent polyradiculoneuropathy and PMP22 defects.
-authors:
-  - name: Wang YJ
-  - name: Kao KP
-  - name: Lin KP
-keywords:
-  - keyword: Adult
-  - keyword: Female
-  - keyword: Gene Deletion
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
-  - keyword: Myelin Proteins
-  - keyword: genetics
-  - keyword: Point Mutation
-  - keyword: Polyradiculoneuropathy
-  - keyword: Recurrence
 abstract: >-
   Although immunologic factors play an important role in the pathogenesis of the
   inflammatory neuropathies, the mechanisms of recurrent episodes of
@@ -32,10 +17,26 @@ abstract: >-
   results showed no duplication, deletion or point mutation in the PMP22 gene.
   PMP22 gene deletion did not play a role in our patients with recurrent GBS and
   CRP.
-date: 2005/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '16323394'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Wang YJ
+  - name: Kao KP
+  - name: Lin KP
+keywords:
+  - keyword: Adult
+  - keyword: Female
+  - keyword: Gene Deletion
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Myelin Proteins
+  - keyword: genetics
+  - keyword: Point Mutation
+  - keyword: Polyradiculoneuropathy
+  - keyword: Recurrence
+date: 2005/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16323394%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,25 +1,7 @@
+pmid: '8004087'
 title: >-
   Two autosomal dominant neuropathies result from reciprocal DNA
   duplication/deletion of a region on chromosome 17.
-authors:
-  - name: Chance PF
-  - name: Abbas N
-  - name: Lensch MW
-  - name: Pentao L
-  - name: Roa BB
-  - name: Patel PI
-  - name: Lupski JR
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: ultrastructure
-  - keyword: 'Crossing Over, Genetic'
-  - keyword: 'Genes, Dominant'
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Multigene Family
-  - keyword: Sequence Deletion
 abstract: >-
   Charcot-Marie-Tooth disease type 1A (CMT1A) is a common autosomal dominant
   demyelinating neuropathy that is associated with a 1.5 megabase (Mb) tandem
@@ -41,12 +23,29 @@ abstract: >-
   chromosomes, and document the first examples in humans of Mendelian syndromes
   resulting from the reciprocal products of unequal exchange involving large
   intra-chromosomal segments.
+categories: []
+authors:
+  - name: Chance PF
+  - name: Abbas N
+  - name: Lensch MW
+  - name: Pentao L
+  - name: Roa BB
+  - name: Patel PI
+  - name: Lupski JR
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: ultrastructure
+  - keyword: 'Crossing Over, Genetic'
+  - keyword: 'Genes, Dominant'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Multigene Family
+  - keyword: Sequence Deletion
 date: 1994/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8004087'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8004087%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15988805'
     title: >-

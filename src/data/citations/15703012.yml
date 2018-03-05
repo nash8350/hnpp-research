@@ -1,4 +1,7 @@
+pmid: '15703012'
 title: HNPP presenting as sciatic neuropathy.
+abstract: ''
+categories: []
 authors:
   - name: Lynch JM
   - name: Hennessy M
@@ -12,13 +15,9 @@ keywords:
   - keyword: Humans
   - keyword: Peripheral Nervous System Diseases
   - keyword: Sciatic Neuropathy
-abstract: ''
 date: 2005/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '15703012'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15703012%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25326571'
     title: >-

@@ -1,6 +1,24 @@
+pmid: '10705641'
 title: >-
   Uncompacted myelin in hereditary neuropathy with liability to pressure palsies
   with the 17 p11.2 deletion.
+abstract: >-
+  A 16-year-old girl with a typical features of hereditary neuropathy with
+  liability to pressure palsies (HNPP) and deletion on chromosome 17p11.2 was
+  described. In the mother who was asymptomatic the same genetic defect was
+  found. In a sural nerve biopsy obtained from the girl myelin thickenings
+  characteristic for this disease and de- and remyelination in nerve fibers were
+  found. Special attention was paid to the occurrence of uncompacted myelin,
+  which was present in diffuse and focal forms. It is concluded that high amount
+  of uncompacted myelin is characteristic for HNPP and it is probably related to
+  the under-expression of peripheral myelin protein 22.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Jedrzejowska H
   - name: Fidziańska A
@@ -21,20 +39,7 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: Sural Nerve
   - keyword: injuries
-abstract: >-
-  A 16-year-old girl with a typical features of hereditary neuropathy with
-  liability to pressure palsies (HNPP) and deletion on chromosome 17p11.2 was
-  described. In the mother who was asymptomatic the same genetic defect was
-  found. In a sural nerve biopsy obtained from the girl myelin thickenings
-  characteristic for this disease and de- and remyelination in nerve fibers were
-  found. Special attention was paid to the occurrence of uncompacted myelin,
-  which was present in diffuse and focal forms. It is concluded that high amount
-  of uncompacted myelin is characteristic for HNPP and it is probably related to
-  the under-expression of peripheral myelin protein 22.
 date: 2000/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '10705641'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10705641%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,17 +1,5 @@
+pmid: '7849745'
 title: Molecular genetics of Charcot-Marie-Tooth disease and related neuropathies.
-authors:
-  - name: Chance PF
-  - name: Fischbeck KH
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: classification
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Genetic Linkage
-  - keyword: Humans
-  - keyword: Nervous System Diseases
-  - keyword: Phenotype
-  - keyword: X Chromosome
 abstract: >-
   Collectively, the inherited disorders of peripheral nerves represent a common
   group of neurologic diseases. Charcot-Marie-Tooth neuropathy type 1 (CMT1) is
@@ -35,12 +23,29 @@ abstract: >-
   from reduced expression of the PMP22 gene. CMT1A and HNPP are apparent
   reciprocal duplication/deletion syndromes originating from unequal crossover
   during germ cell meiosis.
-date: 1994/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '7849745'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Chance PF
+  - name: Fischbeck KH
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: classification
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Genetic Linkage
+  - keyword: Humans
+  - keyword: Nervous System Diseases
+  - keyword: Phenotype
+  - keyword: X Chromosome
+date: 1994/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7849745%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25506001'
     title: >-

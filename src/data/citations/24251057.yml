@@ -1,13 +1,7 @@
+pmid: '24251057'
 title: >-
   Hereditary neuropathy with liability to pressure palsy a recurrent and
   bilateral foot drop case report.
-authors:
-  - name: Flor-de-Lima F
-  - name: Macedo L
-  - name: Taipa R
-  - name: Melo-Pires M
-  - name: Rodrigues ML
-keywords: []
 abstract: >-
   Hereditary neuropathy with liability to pressure palsy is characterized by
   acute, painless, recurrent mononeuropathies secondary to minor trauma or
@@ -29,8 +23,23 @@ abstract: >-
   the diagnosis despite negative family history. The authors highlight this rare
   disease in pediatric population and the importance of high index of clinical
   suspicion for its diagnosis.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Flor-de-Lima F
+  - name: Macedo L
+  - name: Taipa R
+  - name: Melo-Pires M
+  - name: Rodrigues ML
+keywords: []
 date: 2013/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '8936351'
   - pmid: '11494267'
@@ -39,7 +48,5 @@ cites:
   - pmid: '18502948'
   - pmid: '22098098'
   - pmid: '18760885'
-pmid: '24251057'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24251057%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

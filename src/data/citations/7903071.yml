@@ -1,6 +1,28 @@
+pmid: '7903071'
 title: >-
   Detection of deletion within 17p11.2 in 7 French families with hereditary
   neuropathy with liability to pressure palsies (HNPP).
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant peripheral neuropathy which is characterized by recurrent
+  episodes of truncular palsies. We have analyzed the D17S122 locus in 7 French
+  families, including 18 affected members, with microsatellite RM11GT and the
+  RFLP probe VAW409R3a. Only one allele could be detected in all affected
+  individuals with the highly polymorphic RM11GT marker. Allele segregation at
+  D17S122 showed no contribution from the affected parent to the affected child,
+  demonstrating that an interstitial deletion within the 17p11.2 region is
+  associated with HNPP in the 7 families studied. This same region is
+  duplicated, however, in another inherited neuropathy, Charcot-Marie-Tooth 1A
+  disease. This would be the first example of two dominantly inherited diseases
+  caused by a 'in mirror image' deletion/duplication mechanism where a gene
+  dosage effect would be sufficient to produce two different phenotypes
+  characterized by abnormal myelination of the peripheral nerves. The RM11GT
+  microsatellite is an informative tool for the molecular diagnosis of HNPP.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Le Guern E
   - name: Sturtz F
@@ -30,28 +52,9 @@ keywords:
   - keyword: physiopathology
   - keyword: Phenotype
   - keyword: 'Polymorphism, Restriction Fragment Length'
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal dominant peripheral neuropathy which is characterized by recurrent
-  episodes of truncular palsies. We have analyzed the D17S122 locus in 7 French
-  families, including 18 affected members, with microsatellite RM11GT and the
-  RFLP probe VAW409R3a. Only one allele could be detected in all affected
-  individuals with the highly polymorphic RM11GT marker. Allele segregation at
-  D17S122 showed no contribution from the affected parent to the affected child,
-  demonstrating that an interstitial deletion within the 17p11.2 region is
-  associated with HNPP in the 7 families studied. This same region is
-  duplicated, however, in another inherited neuropathy, Charcot-Marie-Tooth 1A
-  disease. This would be the first example of two dominantly inherited diseases
-  caused by a 'in mirror image' deletion/duplication mechanism where a gene
-  dosage effect would be sufficient to produce two different phenotypes
-  characterized by abnormal myelination of the peripheral nerves. The RM11GT
-  microsatellite is an informative tool for the molecular diagnosis of HNPP.
 date: 1994/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '7903071'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7903071%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9391880'
     title: >-

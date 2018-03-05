@@ -1,8 +1,11 @@
+pmid: '10093067'
 title: >-
   3rd workshop of the European CMT consortium 54th ENMC International Workshop
   on genotype/phenotype correlations in Charcot-Marie-Tooth type 1 and
   hereditary neuropathy with liability to pressure palsies 28-30 November 1997,
   Naarden, The Netherlands.
+abstract: ''
+categories: []
 authors: []
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
@@ -17,13 +20,9 @@ keywords:
   - keyword: Mutation
   - keyword: Myelin P0 Protein
   - keyword: Phenotype
-abstract: ''
 date: 1999/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '10093067'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10093067%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
     title: >-

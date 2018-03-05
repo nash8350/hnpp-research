@@ -1,6 +1,23 @@
+pmid: '17030391'
 title: >-
   [Hereditary neuropathy with liability to pressure palsies (HNPP) in hand
   surgery reminds and warn against a usually unrecognised disease].
+abstract: >-
+  Tomacula is a rare hereditary disease due to a deletion on chromosome 17.
+  Clinical presentation varies but patients usually complain of recurrent
+  paraesthesiaes and palsies related to compression or trauma of a peripheral
+  nerve. Diagnosis is based on electrophysiological studies, nerve biopsies and
+  genetic tests. Implications for the patient and family members are a genetic
+  counselling and some simple preventive measures. Although there is no curative
+  treatment for this neuropathy, surgery can be useful for decompression of
+  nerves and neurolysis. However, the surgical act increases the risk of nerve
+  damage. Knowing about the diagnosis can help the patient and the surgical team
+  avoid causing lesions.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Lazar CC
   - name: Auquit-Auckbur I
@@ -20,21 +37,7 @@ keywords:
   - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: etiology
-abstract: >-
-  Tomacula is a rare hereditary disease due to a deletion on chromosome 17.
-  Clinical presentation varies but patients usually complain of recurrent
-  paraesthesiaes and palsies related to compression or trauma of a peripheral
-  nerve. Diagnosis is based on electrophysiological studies, nerve biopsies and
-  genetic tests. Implications for the patient and family members are a genetic
-  counselling and some simple preventive measures. Although there is no curative
-  treatment for this neuropathy, surgery can be useful for decompression of
-  nerves and neurolysis. However, the surgical act increases the risk of nerve
-  damage. Knowing about the diagnosis can help the patient and the surgical team
-  avoid causing lesions.
 date: 2006/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17030391'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17030391%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

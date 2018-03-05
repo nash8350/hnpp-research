@@ -1,16 +1,7 @@
+pmid: '28810241'
 title: >-
   Molecular Epidemiology of Charcot-Marie-Tooth Disease in Northern
   Ostrobothnia, Finland A Population-Based Study.
-authors:
-  - name: Marttila M
-  - name: Kytövuori L
-  - name: Helisalmi S
-  - name: Kallio M
-  - name: Laitinen M
-  - name: Hiltunen M
-  - name: Kärppä M
-  - name: Majamaa K
-keywords: []
 abstract: >-
   Charcot-Marie-Tooth (CMT) disease is the most common hereditary neuromuscular
   disorder with a population prevalence of 9.7-82.3/100,000. In this study, we
@@ -31,10 +22,24 @@ abstract: >-
   Ostrobothnia, Finland, seems to be slightly higher than those in previous
   studies in European populations. Founder mutation in the GDAP1 gene accounts
   for a large part of the genetically defined CMT2 in Finland.
-date: 2017/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '28810241'
 categories:
-  - name: blank
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Marttila M
+  - name: Kytövuori L
+  - name: Helisalmi S
+  - name: Kallio M
+  - name: Laitinen M
+  - name: Hiltunen M
+  - name: Kärppä M
+  - name: Majamaa K
+keywords: []
+date: 2017/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28810241%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

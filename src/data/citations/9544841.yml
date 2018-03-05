@@ -1,6 +1,24 @@
+pmid: '9544841'
 title: >-
   Novel mutations of the peripheral myelin protein 22 gene in two pedigrees with
   Dejerine-Sottas disease.
+abstract: >-
+  Peripheral myelin protein 22 (PMP22), a membrane glycoprotein, plays a
+  significant role in the formation and/or maintenance of compact myelin in the
+  peripheral nervous system. We studied two pedigrees with Dejerine-Sottas
+  disease and identified two novel mutations in the PMP22 gene one a 2-bp
+  deletional mutation at nucleotide positions 426 and 427 of exon 4 (this is
+  predicted to alter the reading frame at leucine 80 and thus to lead to
+  frame-shifted translation), and the other a guanine to thymine substitution at
+  nucleotide position 636 leading to a cysteine substitution for glycine 150.
+  Both mutations were located in the putative transmembrane domains reported in
+  many cases of Charcot-Marie-Tooth neuropathy, Dejerine-Sottas disease, and
+  hereditary neuropathy with liability to pressure palsies. The results suggest
+  an important role for the putative transmembrane domains of PMP22 in its
+  function.
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Ikegami T
   - name: Ikeda H
@@ -33,24 +51,7 @@ keywords:
   - keyword: 'RNA, Messenger'
   - keyword: Restriction Mapping
   - keyword: Sequence Deletion
-abstract: >-
-  Peripheral myelin protein 22 (PMP22), a membrane glycoprotein, plays a
-  significant role in the formation and/or maintenance of compact myelin in the
-  peripheral nervous system. We studied two pedigrees with Dejerine-Sottas
-  disease and identified two novel mutations in the PMP22 gene one a 2-bp
-  deletional mutation at nucleotide positions 426 and 427 of exon 4 (this is
-  predicted to alter the reading frame at leucine 80 and thus to lead to
-  frame-shifted translation), and the other a guanine to thymine substitution at
-  nucleotide position 636 leading to a cysteine substitution for glycine 150.
-  Both mutations were located in the putative transmembrane domains reported in
-  many cases of Charcot-Marie-Tooth neuropathy, Dejerine-Sottas disease, and
-  hereditary neuropathy with liability to pressure palsies. The results suggest
-  an important role for the putative transmembrane domains of PMP22 in its
-  function.
 date: 1998/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9544841'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9544841%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

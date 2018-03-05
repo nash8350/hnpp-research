@@ -1,20 +1,8 @@
+pmid: '25636095'
 title: >-
   [Analysis of the clinical, electrophysiological and genetic features of a
   family affected with hereditary neuropathy with liability to pressure
   palsies].
-authors:
-  - name: Qi F
-  - name: Che F
-keywords:
-  - keyword: Adult
-  - keyword: Arthrogryposis
-  - keyword: genetics
-  - keyword: physiopathology
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Myelin Proteins
-  - keyword: Neural Conduction
 abstract: >-
   To delineate the clinical, electrophysiological and genetics features of a
   family where 4 members were affected with hereditary neuropathy with liability
@@ -30,10 +18,23 @@ abstract: >-
   and sensory disturbances of the innervated areas. Electrophysiological study
   reveals general nervous demyelination. Genetic analysis can clarify the
   diagnosis of HNPP.
-date: 2015/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '25636095'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Qi F
+  - name: Che F
+keywords:
+  - keyword: Adult
+  - keyword: Arthrogryposis
+  - keyword: genetics
+  - keyword: physiopathology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Myelin Proteins
+  - keyword: Neural Conduction
+date: 2015/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25636095%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,4 +1,16 @@
+pmid: '15300670'
 title: Does parkin play a role in the peripheral nervous system? A family report.
+abstract: >-
+  Two genes were identified for autosomal recessive forms of early onset
+  Parkinson's disease parkin and DJ-1. We describe 2 siblings with EOPD due to
+  parkin mutations and peripheral neuropathy, which presented as neuropathy with
+  liability to pressure palsies (HNPP) in the index case. RT-PCR experiments
+  revealed that the parkin gene is expressed in sural nerves from both controls
+  and patient with parkin-related disease. Our findings support the view that
+  parkin may play a role in the peripheral nervous system.
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Abbruzzese G
   - name: Pigullo S
@@ -40,18 +52,7 @@ keywords:
   - keyword: Sural Nerve
   - keyword: Ubiquitin-Protein Ligases
   - keyword: physiology
-abstract: >-
-  Two genes were identified for autosomal recessive forms of early onset
-  Parkinson's disease parkin and DJ-1. We describe 2 siblings with EOPD due to
-  parkin mutations and peripheral neuropathy, which presented as neuropathy with
-  liability to pressure palsies (HNPP) in the index case. RT-PCR experiments
-  revealed that the parkin gene is expressed in sural nerves from both controls
-  and patient with parkin-related disease. Our findings support the view that
-  parkin may play a role in the peripheral nervous system.
 date: 2004/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '15300670'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15300670%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

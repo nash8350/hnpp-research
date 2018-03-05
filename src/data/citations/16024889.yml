@@ -1,4 +1,30 @@
+pmid: '16024889'
 title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.
+abstract: >-
+  To clarify age related changes in the clinicopathological features of
+  hereditary neuropathy with liability to pressure palsy (HNPP) in Japanese
+  patients with deletion of 17p11.2, particularly concerning axonal
+  abnormalities. Forty eight proband patients from 48 HNPP families were
+  assessed as to clinical, electrophysiological, and histopathological features,
+  including age associated changes beyond those in controls. Motor conduction
+  studies showed age associated deterioration of compound muscle action
+  potentials in nerves vulnerable to repetitive compression (median, ulnar, and
+  peroneal nerves), but not in others such as the tibial nerve. Sensory
+  conduction studies revealed more profound reduction of action potentials than
+  motor studies with little age related change. Large myelinated fibre loss was
+  seen in the sural nerve irrespective of age at examination. Irreversible
+  axonal damage may occur at entrapment sites in motor nerves in HNPP patients,
+  progressing with aging. Sensory nerves may show more profound axonal
+  abnormality, but without age association. The electrophysiological features of
+  HNPP are presumed to be a mixture of abnormalities occurring from early in
+  life and acquired features caused by repetitive insults at entrapment sites.
+  Unlike Charcot-Marie-Tooth disease type 1A, age associated axonal damage may
+  not occur unless the nerves are subjected to compression.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Koike H
   - name: Hirayama M
@@ -51,28 +77,7 @@ keywords:
   - keyword: Neural Conduction
   - keyword: Neuromuscular Junction
   - keyword: Peripheral Nerves
-abstract: >-
-  To clarify age related changes in the clinicopathological features of
-  hereditary neuropathy with liability to pressure palsy (HNPP) in Japanese
-  patients with deletion of 17p11.2, particularly concerning axonal
-  abnormalities. Forty eight proband patients from 48 HNPP families were
-  assessed as to clinical, electrophysiological, and histopathological features,
-  including age associated changes beyond those in controls. Motor conduction
-  studies showed age associated deterioration of compound muscle action
-  potentials in nerves vulnerable to repetitive compression (median, ulnar, and
-  peroneal nerves), but not in others such as the tibial nerve. Sensory
-  conduction studies revealed more profound reduction of action potentials than
-  motor studies with little age related change. Large myelinated fibre loss was
-  seen in the sural nerve irrespective of age at examination. Irreversible
-  axonal damage may occur at entrapment sites in motor nerves in HNPP patients,
-  progressing with aging. Sensory nerves may show more profound axonal
-  abnormality, but without age association. The electrophysiological features of
-  HNPP are presumed to be a mixture of abnormalities occurring from early in
-  life and acquired features caused by repetitive insults at entrapment sites.
-  Unlike Charcot-Marie-Tooth disease type 1A, age associated axonal damage may
-  not occur unless the nerves are subjected to compression.
 date: 2005/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '12477701'
   - pmid: '7944298'
@@ -108,9 +113,7 @@ cites:
   - pmid: '10636123'
   - pmid: '497808'
   - pmid: '8634706'
-pmid: '16024889'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16024889%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28948078'
     title: >-

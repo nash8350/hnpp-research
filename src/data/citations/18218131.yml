@@ -1,11 +1,7 @@
+pmid: '18218131'
 title: >-
   Unusual presentation of hereditary neuropathy with liability to pressure
   palsies.
-authors:
-  - name: Farooq MU
-  - name: Martin JH
-  - name: Andary MT
-keywords: []
 abstract: >-
   Hereditary neuropathy with liability to pressure palsies (HNPP) is an
   autosomal-dominant painless peripheral neuropathy characterized by episodes of
@@ -30,8 +26,19 @@ abstract: >-
   such as 5 separate mononeuropathies, bilateral ulnar and median neuropathies
   at the wrists and ulnar neuropathy at the elbow with mild peripheral
   demyelinating polyneuropathy associated with the PMP-22 gene deletion.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Farooq MU
+  - name: Martin JH
+  - name: Andary MT
+keywords: []
 date: 2008/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '11376203'
   - pmid: '15489403'
@@ -47,9 +54,7 @@ cites:
   - pmid: '8422677'
   - pmid: '10227632'
   - pmid: '20271590'
-pmid: '18218131'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18218131%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
     title: >-

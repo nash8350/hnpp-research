@@ -1,6 +1,30 @@
+pmid: '16344349'
 title: >-
   Central nervous system involvement in hereditary neuropathy with liability to
   pressure palsies description of a large family with this association.
+abstract: >-
+  To describe a large family with hereditary neuropathy with liability to
+  pressure palsies associated with central nervous system demyelination. We
+  examined the 18 members of a pedigree. Genetic analysis was performed on 15
+  subjects, standard nerve conduction studies on 10 subjects, and brain magnetic
+  resonance imaging studies on 8 subjects. Hereditary neuropathy with liability
+  to pressure palsies was confirmed in 9 patients of the pedigree. Brain
+  magnetic resonance imaging findings showed multiple areas of demyelination in
+  6 of 6 affected members and were normal in 2 of 2 healthy relatives. Magnetic
+  resonance imaging abnormalities were predominantly located in the subcortical
+  frontal white matter. All patients had acute and recurrent nerve palsies,
+  while clinical features of central nervous system involvement were not a
+  characteristic of this pedigree. We demonstrate that this association,
+  previously reported in sporadic cases, is not coincidental. Therefore,
+  patients with hereditary neuropathy with liability to pressure palsies can
+  present central nervous system white matter lesions, and the role of the PMP22
+  (peripheral myelin protein 22) gene deletion in the central nervous system
+  should be further studied.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Sanahuja J
   - name: Franco E
@@ -37,30 +61,9 @@ keywords:
   - keyword: Neural Conduction
   - keyword: Pedigree
   - keyword: Peripheral Nerves
-abstract: >-
-  To describe a large family with hereditary neuropathy with liability to
-  pressure palsies associated with central nervous system demyelination. We
-  examined the 18 members of a pedigree. Genetic analysis was performed on 15
-  subjects, standard nerve conduction studies on 10 subjects, and brain magnetic
-  resonance imaging studies on 8 subjects. Hereditary neuropathy with liability
-  to pressure palsies was confirmed in 9 patients of the pedigree. Brain
-  magnetic resonance imaging findings showed multiple areas of demyelination in
-  6 of 6 affected members and were normal in 2 of 2 healthy relatives. Magnetic
-  resonance imaging abnormalities were predominantly located in the subcortical
-  frontal white matter. All patients had acute and recurrent nerve palsies,
-  while clinical features of central nervous system involvement were not a
-  characteristic of this pedigree. We demonstrate that this association,
-  previously reported in sporadic cases, is not coincidental. Therefore,
-  patients with hereditary neuropathy with liability to pressure palsies can
-  present central nervous system white matter lesions, and the role of the PMP22
-  (peripheral myelin protein 22) gene deletion in the central nervous system
-  should be further studied.
 date: 2005/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '16344349'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16344349%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
     title: >-

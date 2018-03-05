@@ -1,21 +1,5 @@
+pmid: '10219749'
 title: Inherited neuropathies from gene to disease.
-authors:
-  - name: Keller MP
-  - name: Chance PF
-keywords:
-  - keyword: Animals
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: pathology
-  - keyword: physiopathology
-  - keyword: Chromosome Mapping
-  - keyword: 'Chromosomes, Human, Pair 1'
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Connexins
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Myelin Proteins
-  - keyword: Point Mutation
 abstract: >-
   Inherited disorders of peripheral nerves represent a common group of
   neurologic diseases. Charcot-Marie-Tooth neuropathy type 1 (CMT1) is a
@@ -44,10 +28,31 @@ abstract: >-
   chromosome 8q, 10q and 11q. Hereditary neuralgic amyotrophy (familial brachial
   plexus neuropathy) is an autosomal dominant disorder causing painful,
   recurrent brachial plexopathies and maps to chromosome 17q25.
-date: 1999/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10219749'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Keller MP
+  - name: Chance PF
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 1'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Connexins
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Myelin Proteins
+  - keyword: Point Mutation
+date: 1999/04
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10219749%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

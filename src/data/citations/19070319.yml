@@ -1,4 +1,17 @@
+pmid: '19070319'
 title: Hereditary neuropathy with liability to pressure palsy in childhood.
+abstract: >-
+  HNPP is an autosomal-dominant inherited disease clinically characterized by
+  painless, episodic, recurrent peripheral palsy often preceded by minor trauma
+  or toxic damage. It generally develops during adolescence and rarely is
+  reported in childhood. We observed two children with this disease. In one of
+  the cases, also the child's mother is suffering from HNPR Clinical and genetic
+  characteristics of our three patients are summarized in this article.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: György I
   - name: Bíró A
@@ -16,17 +29,7 @@ keywords:
   - keyword: Male
   - keyword: Mutation
   - keyword: Myelin Proteins
-abstract: >-
-  HNPP is an autosomal-dominant inherited disease clinically characterized by
-  painless, episodic, recurrent peripheral palsy often preceded by minor trauma
-  or toxic damage. It generally develops during adolescence and rarely is
-  reported in childhood. We observed two children with this disease. In one of
-  the cases, also the child's mother is suffering from HNPR Clinical and genetic
-  characteristics of our three patients are summarized in this article.
 date: 2008/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '19070319'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19070319%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

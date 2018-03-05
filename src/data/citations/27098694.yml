@@ -1,30 +1,5 @@
+pmid: '27098694'
 title: Akt Regulates Axon Wrapping and Myelin Sheath Thickness in the PNS.
-authors:
-  - name: Domènech-Estévez E
-  - name: Baloui H
-  - name: Meng X
-  - name: Zhang Y
-  - name: Deinhardt K
-  - name: Dupree JL
-  - name: Einheber S
-  - name: Chrast R
-  - name: Salzer JL
-keywords:
-  - keyword: Animals
-  - keyword: Axons
-  - keyword: physiology
-  - keyword: ultrastructure
-  - keyword: 'Cells, Cultured'
-  - keyword: Female
-  - keyword: Mice
-  - keyword: 'Mice, Inbred C57BL'
-  - keyword: 'Mice, Knockout'
-  - keyword: 'Mice, Transgenic'
-  - keyword: Myelin Sheath
-  - keyword: Oncogene Protein v-akt
-  - keyword: Peripheral Nerves
-  - keyword: Peripheral Nervous System
-  - keyword: Sciatic Nerve
 abstract: >-
   The signaling pathways that regulate myelination in the PNS remain poorly
   understood. Phosphatidylinositol-4,5-bisphosphate 3-kinase 1A, activated in
@@ -62,8 +37,42 @@ abstract: >-
   or demyelinating forms of Charcot-Marie-Tooth disease. Together, these data
   demonstrate the role of Akt in regulatory mechanisms underlying axonal
   wrapping and myelination in the PNS.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Domènech-Estévez E
+  - name: Baloui H
+  - name: Meng X
+  - name: Zhang Y
+  - name: Deinhardt K
+  - name: Dupree JL
+  - name: Einheber S
+  - name: Chrast R
+  - name: Salzer JL
+keywords:
+  - keyword: Animals
+  - keyword: Axons
+  - keyword: physiology
+  - keyword: ultrastructure
+  - keyword: 'Cells, Cultured'
+  - keyword: Female
+  - keyword: Mice
+  - keyword: 'Mice, Inbred C57BL'
+  - keyword: 'Mice, Knockout'
+  - keyword: 'Mice, Transgenic'
+  - keyword: Myelin Sheath
+  - keyword: Oncogene Protein v-akt
+  - keyword: Peripheral Nerves
+  - keyword: Peripheral Nervous System
+  - keyword: Sciatic Nerve
 date: 2016/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '21423190'
   - pmid: '22302821'
@@ -131,9 +140,7 @@ cites:
   - pmid: '22192173'
   - pmid: '11257128'
   - pmid: '24327733'
-pmid: '27098694'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27098694%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27799291'
     title: >-

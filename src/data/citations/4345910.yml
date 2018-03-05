@@ -1,6 +1,11 @@
+pmid: '4345910'
 title: >-
   Hereditary neuropathy with liability to pressure palsies. Electrophysiological
   and histopathological aspects.
+abstract: ''
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Behse F
   - name: Buchthal F
@@ -31,13 +36,9 @@ keywords:
   - keyword: genetics
   - keyword: Pressure
   - keyword: Sural Nerve
-abstract: ''
 date: 1972/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '4345910'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=4345910%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
     title: >-

@@ -1,4 +1,39 @@
+pmid: '19447823'
 title: PMP22 expression in dermal nerve myelin from patients with CMT1A.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1A (CMT1A) is caused by a 1.4 Mb duplication
+  on chromosome 17p11.2, which contains the peripheral myelin protein-22 (PMP22)
+  gene. Increased levels of PMP22 in compact myelin of peripheral nerves have
+  been demonstrated and presumed to cause the phenotype of CMT1A. The objective
+  of the present study was to determine whether an extra copy of the PMP22 gene
+  in CMT1A disrupts the normally coordinated expression of PMP22 protein in
+  peripheral nerve myelin and to evaluate PMP22 over-expression in patients with
+  CMT1A and determine whether levels of PMP22 are molecular markers of disease
+  severity. PMP22 expression was measured by taking skin biopsies from patients
+  with CMT1A (n = 20) and both healthy controls (n = 7) and patients with
+  Hereditary Neuropathy with liability to Pressure Palsies (HNPP) (n = 6), in
+  which patients have only a single copy of PMP22. Immunological electron
+  microscopy was performed on the skin biopsies to quantify PMP22 expression in
+  compact myelin. Similar biopsies were analysed by real time PCR to measure
+  PMP22 mRNA levels. Results were also correlated with impairment in CMT1A, as
+  measured by the validated CMT Neuropathy Score. Most, but not all patients
+  with CMT1A, had elevated PMP22 levels in myelin compared with the controls.
+  The levels of PMP22 in CMT1A were highly variable, but not in HNPP or the
+  controls. However, there was no correlation between neurological disabilities
+  and the level of over-expression of PMP22 protein or mRNA in patients with
+  CMT1A. The extra copy of PMP22 in CMT1A results in disruption of the tightly
+  regulated expression of PMP22. Thus, variability of PMP22 levels, rather than
+  absolute level of PMP22, may play an important role in the pathogenesis of
+  CMT1A.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Katona I
   - name: Wu X
@@ -25,33 +60,7 @@ keywords:
   - keyword: Severity of Illness Index
   - keyword: Skin
   - keyword: ultrastructure
-abstract: >-
-  Charcot-Marie-Tooth disease type 1A (CMT1A) is caused by a 1.4 Mb duplication
-  on chromosome 17p11.2, which contains the peripheral myelin protein-22 (PMP22)
-  gene. Increased levels of PMP22 in compact myelin of peripheral nerves have
-  been demonstrated and presumed to cause the phenotype of CMT1A. The objective
-  of the present study was to determine whether an extra copy of the PMP22 gene
-  in CMT1A disrupts the normally coordinated expression of PMP22 protein in
-  peripheral nerve myelin and to evaluate PMP22 over-expression in patients with
-  CMT1A and determine whether levels of PMP22 are molecular markers of disease
-  severity. PMP22 expression was measured by taking skin biopsies from patients
-  with CMT1A (n = 20) and both healthy controls (n = 7) and patients with
-  Hereditary Neuropathy with liability to Pressure Palsies (HNPP) (n = 6), in
-  which patients have only a single copy of PMP22. Immunological electron
-  microscopy was performed on the skin biopsies to quantify PMP22 expression in
-  compact myelin. Similar biopsies were analysed by real time PCR to measure
-  PMP22 mRNA levels. Results were also correlated with impairment in CMT1A, as
-  measured by the validated CMT Neuropathy Score. Most, but not all patients
-  with CMT1A, had elevated PMP22 levels in myelin compared with the controls.
-  The levels of PMP22 in CMT1A were highly variable, but not in HNPP or the
-  controls. However, there was no correlation between neurological disabilities
-  and the level of over-expression of PMP22 protein or mRNA in patients with
-  CMT1A. The extra copy of PMP22 in CMT1A results in disruption of the tightly
-  regulated expression of PMP22. Thus, variability of PMP22 levels, rather than
-  absolute level of PMP22, may play an important role in the pathogenesis of
-  CMT1A.
 date: 2009/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '10869062'
   - pmid: '19192070'
@@ -101,9 +110,7 @@ cites:
   - pmid: '18351520'
   - pmid: '18337304'
   - pmid: '11381029'
-pmid: '19447823'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19447823%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

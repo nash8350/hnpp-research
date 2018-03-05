@@ -1,26 +1,7 @@
+pmid: '24646194'
 title: >-
   PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and Hereditary
   Neuropathy with liability to Pressure Palsies.
-authors:
-  - name: van Paassen BW
-  - name: van der Kooi AJ
-  - name: van Spaendonck-Zwarts KY
-  - name: Verhamme C
-  - name: Baas F
-  - name: de Visser M
-keywords:
-  - keyword: Arthrogryposis
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: therapy
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: Genetic Counseling
-  - keyword: Genetic Predisposition to Disease
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Myelin Proteins
-  - keyword: Point Mutation
-  - keyword: Prognosis
 abstract: >-
   PMP22 related neuropathies comprise (1) PMP22 duplications leading to
   Charcot-Marie-Tooth disease type 1A (CMT1A), (2) PMP22 deletions, leading to
@@ -45,8 +26,38 @@ abstract: >-
   physician, physiotherapist, occupational therapist and orthopaedic surgeon.
   Adult CMT1A patients show slow clinical progression of disease, which seems to
   reflect a process of normal ageing. Life expectancy is normal.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: van Paassen BW
+  - name: van der Kooi AJ
+  - name: van Spaendonck-Zwarts KY
+  - name: Verhamme C
+  - name: Baas F
+  - name: de Visser M
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: therapy
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Genetic Counseling
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Myelin Proteins
+  - keyword: Point Mutation
+  - keyword: Prognosis
 date: 2014/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '8111385'
   - pmid: '11376203'
@@ -228,9 +239,7 @@ cites:
   - pmid: '15723356'
   - pmid: '23381770'
   - pmid: '23243264'
-pmid: '24646194'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24646194%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

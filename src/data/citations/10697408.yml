@@ -1,26 +1,5 @@
+pmid: '10697408'
 title: The peripheral myelin protein 22 and epithelial membrane protein family.
-authors:
-  - name: Jetten AM
-  - name: Suter U
-keywords:
-  - keyword: Amino Acid Sequence
-  - keyword: Animals
-  - keyword: Cell Differentiation
-  - keyword: Cell Division
-  - keyword: Gene Expression Regulation
-  - keyword: Humans
-  - keyword: Membrane Glycoproteins
-  - keyword: Membrane Proteins
-  - keyword: chemistry
-  - keyword: genetics
-  - keyword: physiology
-  - keyword: Mice
-  - keyword: 'Models, Molecular'
-  - keyword: Molecular Sequence Data
-  - keyword: Myelin Proteins
-  - keyword: Neoplasm Proteins
-  - keyword: Nervous System Diseases
-  - keyword: 'Receptors, Cell Surface'
 abstract: >-
   The peripheral myelin protein 22 (PMP22) and the epithelial membrane proteins
   (EMP-1, -2, and -3) comprise a subfamily of small hydrophobic membrane
@@ -47,12 +26,42 @@ abstract: >-
   well as their regulation will provide additional insight into their normal
   physiological function and their roles in disease and possibly will result in
   the development of therapeutic tools.
-date: 2000/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10697408'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Jetten AM
+  - name: Suter U
+keywords:
+  - keyword: Amino Acid Sequence
+  - keyword: Animals
+  - keyword: Cell Differentiation
+  - keyword: Cell Division
+  - keyword: Gene Expression Regulation
+  - keyword: Humans
+  - keyword: Membrane Glycoproteins
+  - keyword: Membrane Proteins
+  - keyword: chemistry
+  - keyword: genetics
+  - keyword: physiology
+  - keyword: Mice
+  - keyword: 'Models, Molecular'
+  - keyword: Molecular Sequence Data
+  - keyword: Myelin Proteins
+  - keyword: Neoplasm Proteins
+  - keyword: Nervous System Diseases
+  - keyword: 'Receptors, Cell Surface'
+date: 2000/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10697408%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25506001'
     title: >-

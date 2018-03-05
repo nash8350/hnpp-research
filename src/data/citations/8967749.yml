@@ -1,27 +1,5 @@
+pmid: '8967749'
 title: Deletions of chromosome 17p11.2 in multifocal neuropathies.
-authors:
-  - name: Tyson J
-  - name: Malcolm S
-  - name: Thomas PK
-  - name: Harding AE
-keywords:
-  - keyword: Adolescent
-  - keyword: Adult
-  - keyword: Child
-  - keyword: Chromosome Deletion
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
-  - keyword: Nerve Compression Syndromes
-  - keyword: etiology
-  - keyword: Nervous System
-  - keyword: pathology
-  - keyword: physiopathology
-  - keyword: Nervous System Diseases
-  - keyword: complications
-  - keyword: genetics
 abstract: >-
   We investigated 51 patients with multifocal neuropathies for the deletion of
   chromosome 17p11.2 described in families with hereditary neuropathy with
@@ -46,12 +24,35 @@ abstract: >-
   be considered regardless of family history or clinical evidence of a
   generalized neuropathy, and in patients with multifocal neuropathies that do
   not conform to the classic clinical practice of HNPP.
-date: 1996/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '8967749'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Tyson J
+  - name: Malcolm S
+  - name: Thomas PK
+  - name: Harding AE
+keywords:
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Child
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Female
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Nerve Compression Syndromes
+  - keyword: etiology
+  - keyword: Nervous System
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Nervous System Diseases
+  - keyword: complications
+  - keyword: genetics
+date: 1996/02
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8967749%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24339129'
     title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.

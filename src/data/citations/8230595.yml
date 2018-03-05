@@ -1,6 +1,9 @@
+pmid: '8230595'
 title: >-
   Inherited primary peripheral neuropathies. Molecular genetics and clinical
   implications of CMT1A and HNPP.
+abstract: ''
+categories: []
 authors:
   - name: Lupski JR
   - name: Chance PF
@@ -21,13 +24,9 @@ keywords:
   - keyword: Multigene Family
   - keyword: Peripheral Nervous System Diseases
   - keyword: Phenotype
-abstract: ''
 date: 1993/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8230595'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8230595%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '7643137'
     title: >-

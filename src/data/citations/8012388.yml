@@ -1,6 +1,23 @@
+pmid: '8012388'
 title: >-
   A frame shift mutation in the PMP22 gene in hereditary neuropathy with
   liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) has been a
+  associated with a deletion of 1.5 megabases of chromosome 17p. One of four
+  biopsy proven HNPP families that we have studied did not possess this
+  deletion. As the deleted DNA region includes the coding region for a
+  peripheral myelin gene (PMP22), we used single strand conformation analysis to
+  examine this gene for mutations in the non-deleted HNPP family. An abnormal
+  fragment in exon 1 was identified, and sequencing revealed a two base pair
+  deletion in all affected family members. The deletion results in a frame
+  shift, providing strong evidence that this gene has an important role in the
+  pathogenesis of the disease.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Nicholson GA
   - name: Valentijn LJ
@@ -30,23 +47,9 @@ keywords:
   - keyword: Pedigree
   - keyword: Pressure
   - keyword: Sequence Deletion
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) has been a
-  associated with a deletion of 1.5 megabases of chromosome 17p. One of four
-  biopsy proven HNPP families that we have studied did not possess this
-  deletion. As the deleted DNA region includes the coding region for a
-  peripheral myelin gene (PMP22), we used single strand conformation analysis to
-  examine this gene for mutations in the non-deleted HNPP family. An abnormal
-  fragment in exon 1 was identified, and sequencing revealed a two base pair
-  deletion in all affected family members. The deletion results in a frame
-  shift, providing strong evidence that this gene has an important role in the
-  pathogenesis of the disease.
 date: 1994/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8012388'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8012388%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
     title: >-

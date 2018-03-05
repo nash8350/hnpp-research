@@ -1,33 +1,8 @@
+pmid: '8781657'
 title: >-
   Cation binding at the node of Ranvier in biopsied peripheral nerves of
   patients with Charcot-Marie-Tooth disease type 1A and hereditary neuropathy
   with liability to pressure palsies.
-authors:
-  - name: Yoshikawa H
-  - name: Nishimura T
-  - name: Kaido M
-  - name: Toyooka K
-  - name: Fujimura H
-  - name: Sakoda S
-  - name: Yanagihara T
-keywords:
-  - keyword: Adolescent
-  - keyword: Adult
-  - keyword: Aged
-  - keyword: Cations
-  - keyword: metabolism
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: pathology
-  - keyword: Child
-  - keyword: Female
-  - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
-  - keyword: Myelin Proteins
-  - keyword: Peripheral Nervous System
-  - keyword: Pressure
-  - keyword: Ranvier's Nodes
 abstract: >-
   The node of Ranvier in myelinated fibers is known to have an affinity to bind
   cations. Demyelination and remyelination due to abnormal expression of a
@@ -54,10 +29,38 @@ abstract: >-
   that preserved cation binding at the node may allow nerves to keep the
   electrical excitability in CMT1A and HNPP where myelin remodeling takes place
   at high frequency.
-date: 1996/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '8781657'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Yoshikawa H
+  - name: Nishimura T
+  - name: Kaido M
+  - name: Toyooka K
+  - name: Fujimura H
+  - name: Sakoda S
+  - name: Yanagihara T
+keywords:
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Aged
+  - keyword: Cations
+  - keyword: metabolism
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: pathology
+  - keyword: Child
+  - keyword: Female
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Myelin Proteins
+  - keyword: Peripheral Nervous System
+  - keyword: Pressure
+  - keyword: Ranvier's Nodes
+date: 1996/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8781657%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

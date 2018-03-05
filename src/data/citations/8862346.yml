@@ -1,35 +1,5 @@
+pmid: '8862346'
 title: Charcot-Marie-Tooth disease and related inherited neuropathies.
-authors:
-  - name: Murakami T
-  - name: Garcia CA
-  - name: Reiter LT
-  - name: Lupski JR
-keywords:
-  - keyword: Age of Onset
-  - keyword: Axons
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: classification
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Demyelinating Diseases
-  - keyword: 'Diagnosis, Differential'
-  - keyword: Female
-  - keyword: Gene Deletion
-  - keyword: Gene Dosage
-  - keyword: Gene Rearrangement
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Multigene Family
-  - keyword: 'Muscle, Skeletal'
-  - keyword: innervation
-  - keyword: Myelin P0 Protein
-  - keyword: Neural Conduction
-  - keyword: Peripheral Nervous System Diseases
-  - keyword: Point Mutation
-  - keyword: Sex Factors
-  - keyword: X Chromosome
 abstract: >-
   Charcot-Marie-Tooth disease (CMT) was initially described more than 100 years
   ago by Charcot, Marie, and Tooth. It was only recently, however, that
@@ -74,12 +44,49 @@ abstract: >-
   develop rational strategies for therapy. As several loci for CMT2 have been
   identified, the genes responsible for CMT2 will most likely be disclosed using
   positional cloning and candidate gene approaches in the near future.
-date: 1996/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '8862346'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Murakami T
+  - name: Garcia CA
+  - name: Reiter LT
+  - name: Lupski JR
+keywords:
+  - keyword: Age of Onset
+  - keyword: Axons
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: classification
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Demyelinating Diseases
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Female
+  - keyword: Gene Deletion
+  - keyword: Gene Dosage
+  - keyword: Gene Rearrangement
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Multigene Family
+  - keyword: 'Muscle, Skeletal'
+  - keyword: innervation
+  - keyword: Myelin P0 Protein
+  - keyword: Neural Conduction
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: Point Mutation
+  - keyword: Sex Factors
+  - keyword: X Chromosome
+date: 1996/09
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8862346%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9973284'
     title: >-

@@ -1,4 +1,21 @@
+pmid: '16939864'
 title: Pediatric median neuropathy due to pruritus in Alagille syndrome.
+abstract: >-
+  Median entrapment neuropathy or carpal tunnel syndrome is uncommon in
+  children. The majority of cases are related to genetic conditions which result
+  in skeletal dysplasia or altered connective tissue characteristics, direct
+  injury to the median nerve caused by intensive sports or trauma, or hereditary
+  neuropathy with liability to pressure palsies. This report describes a
+  10-year-old patient with Alagille syndrome who presented with poor fine motor
+  skills because of an entrapment neuropathy of the median nerve at the wrist.
+  This condition was probably caused by intermittent external compression at the
+  wrists due to years of rubbing both wrists and hands to relieve pruritus. To
+  our knowledge, median neuropathy has never been associated with Alagille
+  syndrome, although severe pruritus is considered a major symptom and many
+  patients exhibit widespread scratching and rubbing.
+categories:
+  - name: Symptoms
+    enabled: true
 authors:
   - name: Voermans NC
   - name: van Alfen N
@@ -18,23 +35,7 @@ keywords:
   - keyword: Pruritus
   - keyword: psychology
   - keyword: Self-Injurious Behavior
-abstract: >-
-  Median entrapment neuropathy or carpal tunnel syndrome is uncommon in
-  children. The majority of cases are related to genetic conditions which result
-  in skeletal dysplasia or altered connective tissue characteristics, direct
-  injury to the median nerve caused by intensive sports or trauma, or hereditary
-  neuropathy with liability to pressure palsies. This report describes a
-  10-year-old patient with Alagille syndrome who presented with poor fine motor
-  skills because of an entrapment neuropathy of the median nerve at the wrist.
-  This condition was probably caused by intermittent external compression at the
-  wrists due to years of rubbing both wrists and hands to relieve pruritus. To
-  our knowledge, median neuropathy has never been associated with Alagille
-  syndrome, although severe pruritus is considered a major symptom and many
-  patients exhibit widespread scratching and rubbing.
 date: 2006/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '16939864'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16939864%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

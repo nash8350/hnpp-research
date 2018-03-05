@@ -1,7 +1,27 @@
+pmid: '15564036'
 title: >-
   Application of multiplex ligation-dependent probe analysis to define a small
   deletion encompassing PMP22 exons 4 and 5 in hereditary neuropathy with
   liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies arises as a result of
+  defects at the chromosome 17p11.2-12 locus and in 84% of cases a 1.5 Mb
+  deletion containing the PMP22 gene is detected by analysis that utilises
+  polymorphic (CA)n repeat markers which flank this gene. We report the clinical
+  and electrophysiological findings observed in a kindred with three members
+  affected by HNPP due to a deletion containing exons 4 and 5 of the PMP22 gene.
+  This small deletion cannot be detected using standard analysis with
+  polymorphic (CA)n repeat markers and a definitive diagnosis was made by
+  multiplex ligation-dependent probe analysis of PMP22 exons 1A-5. MLPA can be
+  readily utilised as a routine diagnostic laboratory test to detect the common
+  HNPP 1.5 Mb deletion, as well as the reciprocal 1.5 Mb insertion observed in
+  CMT1A, but has the advantage over other diagnostic techniques of being able to
+  define single exon deletions.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Sutton IJ
   - name: Mocroft AP
@@ -43,26 +63,9 @@ keywords:
   - keyword: Polymerase Chain Reaction
   - keyword: 'Polymorphism, Genetic'
   - keyword: Predictive Value of Tests
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies arises as a result of
-  defects at the chromosome 17p11.2-12 locus and in 84% of cases a 1.5 Mb
-  deletion containing the PMP22 gene is detected by analysis that utilises
-  polymorphic (CA)n repeat markers which flank this gene. We report the clinical
-  and electrophysiological findings observed in a kindred with three members
-  affected by HNPP due to a deletion containing exons 4 and 5 of the PMP22 gene.
-  This small deletion cannot be detected using standard analysis with
-  polymorphic (CA)n repeat markers and a definitive diagnosis was made by
-  multiplex ligation-dependent probe analysis of PMP22 exons 1A-5. MLPA can be
-  readily utilised as a routine diagnostic laboratory test to detect the common
-  HNPP 1.5 Mb deletion, as well as the reciprocal 1.5 Mb insertion observed in
-  CMT1A, but has the advantage over other diagnostic techniques of being able to
-  define single exon deletions.
 date: 2004/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '15564036'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15564036%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
     title: Identification of Alu elements mediating a partial PMP22 deletion.

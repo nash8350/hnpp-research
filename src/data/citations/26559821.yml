@@ -1,28 +1,7 @@
+pmid: '26559821'
 title: >-
   The modified ultrasound pattern sum score mUPSS as additional diagnostic tool
   for genetically distinct hereditary neuropathies.
-authors:
-  - name: Grimm A
-  - name: Rasenack M
-  - name: Athanasopoulou IM
-  - name: Dammeier NM
-  - name: Lipski C
-  - name: Wolking S
-  - name: Vittore D
-  - name: Décard BF
-  - name: Axer H
-keywords:
-  - keyword: Area Under Curve
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnostic imaging
-  - keyword: Female
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: ROC Curve
-  - keyword: Severity of Illness Index
-  - keyword: Ultrasonography
-  - keyword: methods
 abstract: >-
   The objective of this study is to evaluate the nerve ultrasound
   characteristics in genetically distinct inherited neuropathies, the value of
@@ -51,8 +30,34 @@ abstract: >-
   quantitative tool, which may provide useful information for diagnosis,
   differentiation and follow-up evaluation in addition to NCS and molecular
   testing.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Grimm A
+  - name: Rasenack M
+  - name: Athanasopoulou IM
+  - name: Dammeier NM
+  - name: Lipski C
+  - name: Wolking S
+  - name: Vittore D
+  - name: Décard BF
+  - name: Axer H
+keywords:
+  - keyword: Area Under Curve
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnostic imaging
+  - keyword: Female
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: ROC Curve
+  - keyword: Severity of Illness Index
+  - keyword: Ultrasonography
+  - keyword: methods
 date: 2015/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '24764211'
   - pmid: '19533637'
@@ -73,7 +78,5 @@ cites:
   - pmid: '24101129'
   - pmid: '23381770'
   - pmid: '25246646'
-pmid: '26559821'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26559821%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

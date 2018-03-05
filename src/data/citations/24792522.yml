@@ -1,6 +1,27 @@
+pmid: '24792522'
 title: >-
   Peripheral myelin protein 22 gene duplication with atypical presentations a
   new example of the wide spectrum of Charcot-Marie-Tooth 1A disease.
+abstract: >-
+  Charcot-Marie-Tooth type 1A (CMT1A) and hereditary neuropathy with liability
+  to pressure palsies (HNPP) are both autosomal-dominant disorders linked to
+  peripheral myelin anomalies. CMT1A is associated with a Peripheral Myelin
+  Protein 22 (PMP22) duplication, whereas HNPP is due to a PMP22 deletion on
+  chromosome 17. In spite of this crucial difference, we report three
+  observations of patients with the 1.4 megabase CMT1A duplication and atypical
+  presentation (electrophysiological, clinical or pathological) a 10 year-old
+  girl with tomaculous lesions on nerve biopsy; a 26 year-old woman with
+  recurrent paresthesiae and block conduction on the electrophysiological study;
+  a 46 year-old woman with transient recurrent nerve palsies mimicking HNPP.
+  These observations highlight the wide spectrum of CMT1A and the overlap
+  between CMT1A and HNPP (both linked to the PMP22 gene), and finally illustrate
+  the complexity of the genotype-phenotype correlations in Charcot-Marie-Tooth
+  diseases.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Mathis S
   - name: Corcia P
@@ -26,25 +47,7 @@ keywords:
   - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Pedigree
-abstract: >-
-  Charcot-Marie-Tooth type 1A (CMT1A) and hereditary neuropathy with liability
-  to pressure palsies (HNPP) are both autosomal-dominant disorders linked to
-  peripheral myelin anomalies. CMT1A is associated with a Peripheral Myelin
-  Protein 22 (PMP22) duplication, whereas HNPP is due to a PMP22 deletion on
-  chromosome 17. In spite of this crucial difference, we report three
-  observations of patients with the 1.4 megabase CMT1A duplication and atypical
-  presentation (electrophysiological, clinical or pathological) a 10 year-old
-  girl with tomaculous lesions on nerve biopsy; a 26 year-old woman with
-  recurrent paresthesiae and block conduction on the electrophysiological study;
-  a 46 year-old woman with transient recurrent nerve palsies mimicking HNPP.
-  These observations highlight the wide spectrum of CMT1A and the overlap
-  between CMT1A and HNPP (both linked to the PMP22 gene), and finally illustrate
-  the complexity of the genotype-phenotype correlations in Charcot-Marie-Tooth
-  diseases.
 date: 2014/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '24792522'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24792522%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

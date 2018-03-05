@@ -1,26 +1,8 @@
+pmid: '10439967'
 title: >-
   Two buffer PAGE system-based SSCP/HD analysis a general protocol for rapid and
   sensitive mutation screening in cystic fibrosis and any other human genetic
   disease.
-authors:
-  - name: Liechti-Gallati S
-  - name: Schneider V
-  - name: Neeser D
-  - name: Kraemer R
-keywords:
-  - keyword: Base Sequence
-  - keyword: Buffers
-  - keyword: Cystic Fibrosis
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: DNA Primers
-  - keyword: 'Electrophoresis, Polyacrylamide Gel'
-  - keyword: methods
-  - keyword: 'Genetic Diseases, Inborn'
-  - keyword: Humans
-  - keyword: Mutation
-  - keyword: 'Polymorphism, Single-Stranded Conformational'
-  - keyword: Sensitivity and Specificity
 abstract: >-
   The large size of many disease genes and the multiplicity of mutations
   complicate the design of an adequate assay for the identification of
@@ -47,10 +29,37 @@ abstract: >-
   pressure palsies, and defects in mitochondrial DNA. No other protocol
   published so far presents standard SSCP/HD conditions for mutation screening
   in different disease genes.
-date: 1999/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10439967'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Liechti-Gallati S
+  - name: Schneider V
+  - name: Neeser D
+  - name: Kraemer R
+keywords:
+  - keyword: Base Sequence
+  - keyword: Buffers
+  - keyword: Cystic Fibrosis
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: DNA Primers
+  - keyword: 'Electrophoresis, Polyacrylamide Gel'
+  - keyword: methods
+  - keyword: 'Genetic Diseases, Inborn'
+  - keyword: Humans
+  - keyword: Mutation
+  - keyword: 'Polymorphism, Single-Stranded Conformational'
+  - keyword: Sensitivity and Specificity
+date: 1999/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10439967%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

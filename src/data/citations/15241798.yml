@@ -1,7 +1,36 @@
+pmid: '15241798'
 title: >-
   Improved testing for CMT1A and HNPP using multiplex ligation-dependent probe
   amplification (MLPA) with rapid DNA preparations comparison with the
   interphase FISH method.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1A (CMT1A) and hereditary neuropathy with
+  liability to pressure palsies (HNPP) are the two most common peripheral
+  neuropathies, with incidences of about 1 in 2,500. Several techniques can be
+  used to detect the typical 1.5-Mb duplication or deletion associated with
+  these respective conditions, but none combines simplicity with high
+  sensitivity. MLPA is a new technique for measuring sequence dosage. We have
+  assessed its performance for the detection of the specific 1.5-Mb
+  duplication/deletion by prospectively testing 50 patients referred with
+  differential diagnoses of CMT or HNPP. Probes were designed to evaluate the
+  TEKT3, PMP22, and COX10 genes within the CMT1A/HNPP region. We have compared
+  the results with our existing fluorescence in situ hybridization (FISH) assay,
+  which was performed in parallel. There was concordance of results for 49
+  patients. Of note, one patient showed an intermediate multiplex
+  ligation-dependent probe amplification (MLPA) result with an abnormal FISH
+  result, which is consistent with mosaicism. The assay works equally well with
+  either purified DNA or rapid DNA preparations made by direct cell lysis. The
+  use of the latter significantly reduces the cost of the assay. MLPA is a
+  sensitive, specific, robust, and cost-effective technique suitable for fast,
+  high-throughput testing and offers distinct advantages over other testing
+  methods.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Slater H
   - name: Bruno D
@@ -31,33 +60,9 @@ keywords:
   - keyword: Nucleic Acid Amplification Techniques
   - keyword: Prospective Studies
   - keyword: Proteins
-abstract: >-
-  Charcot-Marie-Tooth disease type 1A (CMT1A) and hereditary neuropathy with
-  liability to pressure palsies (HNPP) are the two most common peripheral
-  neuropathies, with incidences of about 1 in 2,500. Several techniques can be
-  used to detect the typical 1.5-Mb duplication or deletion associated with
-  these respective conditions, but none combines simplicity with high
-  sensitivity. MLPA is a new technique for measuring sequence dosage. We have
-  assessed its performance for the detection of the specific 1.5-Mb
-  duplication/deletion by prospectively testing 50 patients referred with
-  differential diagnoses of CMT or HNPP. Probes were designed to evaluate the
-  TEKT3, PMP22, and COX10 genes within the CMT1A/HNPP region. We have compared
-  the results with our existing fluorescence in situ hybridization (FISH) assay,
-  which was performed in parallel. There was concordance of results for 49
-  patients. Of note, one patient showed an intermediate multiplex
-  ligation-dependent probe amplification (MLPA) result with an abnormal FISH
-  result, which is consistent with mosaicism. The assay works equally well with
-  either purified DNA or rapid DNA preparations made by direct cell lysis. The
-  use of the latter significantly reduces the cost of the assay. MLPA is a
-  sensitive, specific, robust, and cost-effective technique suitable for fast,
-  high-throughput testing and offers distinct advantages over other testing
-  methods.
 date: 2004/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '15241798'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15241798%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
     title: Identification of Alu elements mediating a partial PMP22 deletion.

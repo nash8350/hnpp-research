@@ -1,4 +1,21 @@
+pmid: '15673891'
 title: Inherited neuropathy can cause postpartum foot drop.
+abstract: >-
+  Postpartum neurological complications occur in up to 1% of deliveries. Often
+  prior anesthetic procedures are blamed, with medicolegal implications. We
+  describe a young woman who presented with postpartum foot drop diagnosed as an
+  iatrogenic L5 root lesion after uncomplicated epidural anesthesia. After
+  neurological assessment some 5 mo later she tested positive for the common
+  hereditary neuropathy with liability to pressure palsies mutation that was a
+  likely contributing factor in the development of her postpartum neuropathy.
+  Anesthesiologists should consider hereditary neuropathies in the differential
+  diagnosis of postpartum or postsurgical neurological deficits if there is a
+  suggestive clinical history.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Peters G
   - name: Hinds NP
@@ -21,21 +38,7 @@ keywords:
   - keyword: physiopathology
   - keyword: Postpartum Period
   - keyword: Pregnancy
-abstract: >-
-  Postpartum neurological complications occur in up to 1% of deliveries. Often
-  prior anesthetic procedures are blamed, with medicolegal implications. We
-  describe a young woman who presented with postpartum foot drop diagnosed as an
-  iatrogenic L5 root lesion after uncomplicated epidural anesthesia. After
-  neurological assessment some 5 mo later she tested positive for the common
-  hereditary neuropathy with liability to pressure palsies mutation that was a
-  likely contributing factor in the development of her postpartum neuropathy.
-  Anesthesiologists should consider hereditary neuropathies in the differential
-  diagnosis of postpartum or postsurgical neurological deficits if there is a
-  suggestive clinical history.
 date: 2005/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '15673891'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15673891%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

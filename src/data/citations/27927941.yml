@@ -1,22 +1,7 @@
+pmid: '27927941'
 title: >-
   A population-based epidemiologic study of adult neuromuscular disease in the
   Republic of Ireland.
-authors:
-  - name: Lefter S
-  - name: Hardiman O
-  - name: Ryan AM
-keywords:
-  - keyword: Adult
-  - keyword: Community Health Planning
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Ireland
-  - keyword: epidemiology
-  - keyword: Male
-  - keyword: Neuromuscular Diseases
-  - keyword: classification
-  - keyword: Prevalence
-  - keyword: Retrospective Studies
 abstract: >-
   To estimate the prevalence rates (PRs) of acquired and inherited neuromuscular
   diseases (NMD) in the adult Irish population, reflecting the burden of these
@@ -44,10 +29,26 @@ abstract: >-
   with other chronic neurologic disorders, although some figures may be an
   underestimate of the true prevalence. The data provide a framework for
   international comparison and service planning.
-date: 2016/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '27927941'
 categories:
-  - name: blank
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Lefter S
+  - name: Hardiman O
+  - name: Ryan AM
+keywords:
+  - keyword: Adult
+  - keyword: Community Health Planning
+  - keyword: Female
+  - keyword: Humans
+  - keyword: Ireland
+  - keyword: epidemiology
+  - keyword: Male
+  - keyword: Neuromuscular Diseases
+  - keyword: classification
+  - keyword: Prevalence
+  - keyword: Retrospective Studies
+date: 2016/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27927941%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

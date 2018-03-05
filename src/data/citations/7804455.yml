@@ -1,23 +1,5 @@
+pmid: '7804455'
 title: Inherited neuropathies.
-authors:
-  - name: Chance PF
-  - name: Reilly M
-keywords:
-  - keyword: Amyloid Neuropathies
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: therapy
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: Chromosome Deletion
-  - keyword: 'Chromosomes, Human, Pair 1'
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Humans
-  - keyword: Myelin Proteins
-  - keyword: Neurologic Examination
-  - keyword: Point Mutation
-  - keyword: Prealbumin
-  - keyword: Prognosis
-  - keyword: X Chromosome
 abstract: >-
   Charcot-Marie-Tooth neuropathy (CMT) type 1 is a genetically heterogeneous
   group of chronic demyelinating polyneuropathies with loci mapping to
@@ -42,10 +24,35 @@ abstract: >-
   deposited in FAP, and there are now 28 point mutations in the TTR gene
   described in TTR-related FAP. Liver transplantation looks promising as a
   treatment for TTR-related FAP.
-date: 1994/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '7804455'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Chance PF
+  - name: Reilly M
+keywords:
+  - keyword: Amyloid Neuropathies
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: therapy
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 1'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Humans
+  - keyword: Myelin Proteins
+  - keyword: Neurologic Examination
+  - keyword: Point Mutation
+  - keyword: Prealbumin
+  - keyword: Prognosis
+  - keyword: X Chromosome
+date: 1994/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7804455%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

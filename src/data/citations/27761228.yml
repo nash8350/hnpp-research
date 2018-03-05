@@ -1,14 +1,7 @@
+pmid: '27761228'
 title: >-
   Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
   Experience in Southern Brazil.
-authors:
-  - name: Lorenzoni PJ
-  - name: Kay CS
-  - name: Cavalet C
-  - name: Arndt RC
-  - name: Werneck LC
-  - name: Scola RH
-keywords: []
 abstract: >-
   The spectrum of clinical and electrophysiological features in hereditary
   neuropathy with liability to pressure palsies (HNPP) is broad. We analyze a
@@ -24,8 +17,18 @@ abstract: >-
   and concomitant generalized symmetrical neuropathy in eight patients.
   Molecular analysis of thegene detected deletion of the 1.5-Mb fragment in all
   patients.
+categories:
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Lorenzoni PJ
+  - name: Kay CS
+  - name: Cavalet C
+  - name: Arndt RC
+  - name: Werneck LC
+  - name: Scola RH
+keywords: []
 date: 2016/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '23224996'
   - pmid: '8866501'
@@ -37,7 +40,5 @@ cites:
   - pmid: '10227632'
   - pmid: '8393091'
   - pmid: '24726093'
-pmid: '27761228'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27761228%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

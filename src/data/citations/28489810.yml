@@ -1,25 +1,7 @@
+pmid: '28489810'
 title: >-
   A case report of hereditary neuropathy with liability to pressure palsies
   accompanied by type 2 diabetes mellitus and psoriasis.
-authors:
-  - name: Li J
-  - name: Niu B
-  - name: Wang X
-  - name: Hu H
-  - name: Cao B
-keywords:
-  - keyword: Arthrogryposis
-  - keyword: complications
-  - keyword: diagnosis
-  - keyword: pathology
-  - keyword: therapy
-  - keyword: 'Diabetes Mellitus, Type 2'
-  - keyword: 'Diagnosis, Differential'
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Psoriasis
-  - keyword: Young Adult
 abstract: >-
   Hereditary neuropathy with liability to pressure palsy (HNPP) is an episodic,
   multifocal neuropathy, with a typical clinical presentation of recurrent
@@ -47,8 +29,35 @@ abstract: >-
   impact on the severity of HNPP. Physicians should consider that worsening of
   symptoms might result from newly diagnosed diabetes mellitus while treating
   patients with HNPP.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Li J
+  - name: Niu B
+  - name: Wang X
+  - name: Hu H
+  - name: Cao B
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: therapy
+  - keyword: 'Diabetes Mellitus, Type 2'
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Psoriasis
+  - keyword: Young Adult
 date: 2017/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '21984771'
   - pmid: '24646194'
@@ -81,7 +90,5 @@ cites:
   - pmid: '12427913'
   - pmid: '26692872'
   - pmid: '16393877'
-pmid: '28489810'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28489810%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

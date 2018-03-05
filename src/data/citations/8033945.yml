@@ -1,6 +1,23 @@
+pmid: '8033945'
 title: >-
   Hereditary neuropathy with liability to pressure palsies masquerading as
   slowly progressive polyneuropathy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNLPP) is a
+  peripheral nerve disorder in which recurrent pressure palsies are associated
+  with pathological swelling ('tomacula') of myelinated nerve internodes. We
+  report a patient with a slowly progressive polyneuropathy associated with
+  substantial slowing of conduction velocities initially suggestive of an
+  acquired or hereditary demyelinating polyneuropathy. However, repeat
+  electrodiagnostic studies demonstrated that conduction slowing and partial
+  conduction block were localized primarily to common sites of nerve compression
+  and entrapment. Sural nerve biopsy revealed multiple tomacula consistent with
+  the diagnosis of HNLPP.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Felice KJ
   - name: Poole RM
@@ -23,23 +40,9 @@ keywords:
   - keyword: Reaction Time
   - keyword: Sural Nerve
   - keyword: Synaptic Transmission
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNLPP) is a
-  peripheral nerve disorder in which recurrent pressure palsies are associated
-  with pathological swelling ('tomacula') of myelinated nerve internodes. We
-  report a patient with a slowly progressive polyneuropathy associated with
-  substantial slowing of conduction velocities initially suggestive of an
-  acquired or hereditary demyelinating polyneuropathy. However, repeat
-  electrodiagnostic studies demonstrated that conduction slowing and partial
-  conduction block were localized primarily to common sites of nerve compression
-  and entrapment. Sural nerve biopsy revealed multiple tomacula consistent with
-  the diagnosis of HNLPP.
 date: 1994/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8033945'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8033945%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8936351'
     title: >-

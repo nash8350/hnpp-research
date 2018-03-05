@@ -1,6 +1,28 @@
+pmid: '10442687'
 title: >-
   Novel PCR-based diagnostic tools for Charcot-Marie-Tooth type 1A and
   hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  The majority of cases of Charcot-Marie-Tooth type 1A (CMT1A) and hereditary
+  neuropathy with liability to pressure palsies (HNPP) are the result of DNA
+  duplications and deletions respectively of a 1.5 Mb region on 17p11.2. The
+  region contains the peripheral myelin protein 22 gene (PMP-22) and is flanked
+  by homologous proximal and distal CMT1A-REP elements. The majority of
+  duplications and deletions arise during meiotic recombination following
+  misalignment and unequal crossing-over between the proximal and distal
+  CMT1A-REP elements. The cross-over breakpoints are most frequently located
+  within a 1.7 Kb hotspot of recombination and produce novel duplication or
+  deletion junctional CMT1A-REPs with unique restriction patterns. Here we
+  describe the use of PCR based tests, which amplify a 3.6 Kb region including
+  the 1.7 Kb hotspot from specific CMT1A-REPs, for the rapid diagnosis of CMT1A
+  and HNPP patients. In an analysis of 96 CMT1A and 30 HNPP patients,
+  duplication and deletion events were detected in all samples with cross-over
+  breakpoints known to be within the region amplified by PCR.
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Stronach EA
   - name: Clark C
@@ -25,28 +47,9 @@ keywords:
   - keyword: Polymerase Chain Reaction
   - keyword: methods
   - keyword: Sequence Deletion
-abstract: >-
-  The majority of cases of Charcot-Marie-Tooth type 1A (CMT1A) and hereditary
-  neuropathy with liability to pressure palsies (HNPP) are the result of DNA
-  duplications and deletions respectively of a 1.5 Mb region on 17p11.2. The
-  region contains the peripheral myelin protein 22 gene (PMP-22) and is flanked
-  by homologous proximal and distal CMT1A-REP elements. The majority of
-  duplications and deletions arise during meiotic recombination following
-  misalignment and unequal crossing-over between the proximal and distal
-  CMT1A-REP elements. The cross-over breakpoints are most frequently located
-  within a 1.7 Kb hotspot of recombination and produce novel duplication or
-  deletion junctional CMT1A-REPs with unique restriction patterns. Here we
-  describe the use of PCR based tests, which amplify a 3.6 Kb region including
-  the 1.7 Kb hotspot from specific CMT1A-REPs, for the rapid diagnosis of CMT1A
-  and HNPP patients. In an analysis of 96 CMT1A and 30 HNPP patients,
-  duplication and deletion events were detected in all samples with cross-over
-  breakpoints known to be within the region amplified by PCR.
 date: 1999/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '10442687'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10442687%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24819634'
     title: >-

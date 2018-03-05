@@ -1,6 +1,21 @@
+pmid: '10347897'
 title: >-
   Abundance and distribution of bacteria carrying sltII gene in natural river
   water.
+abstract: >-
+  Direct in situ PCR with HNPP/Fast Red TR was used to enumerate bacteria
+  carrying the sltII gene in river water. By direct in situ PCR with a
+  sltII-specific EVS primer, 10(2)-10(5) cells ml-1 of bacteria carrying the
+  sltII gene were detected from all sampling sites, except the site nearest to
+  the source of the river, while 10(2)-10(4) cells ml-1 of Escherichia coli
+  O157H7 were detected using a direct fluorescent antibody staining method.
+  These results indicate that such bacteria are commonly distributed in natural
+  river water. Direct in situ PCR with HNPP/Fast Red TR is a useful tool for
+  detecting cells carrying specific genes, such as verotoxin-producing bacteria
+  in natural environments.
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Kurokawa K
   - name: Tani K
@@ -20,21 +35,7 @@ keywords:
   - keyword: Sewage
   - keyword: Shiga Toxin 2
   - keyword: Water Pollution
-abstract: >-
-  Direct in situ PCR with HNPP/Fast Red TR was used to enumerate bacteria
-  carrying the sltII gene in river water. By direct in situ PCR with a
-  sltII-specific EVS primer, 10(2)-10(5) cells ml-1 of bacteria carrying the
-  sltII gene were detected from all sampling sites, except the site nearest to
-  the source of the river, while 10(2)-10(4) cells ml-1 of Escherichia coli
-  O157H7 were detected using a direct fluorescent antibody staining method.
-  These results indicate that such bacteria are commonly distributed in natural
-  river water. Direct in situ PCR with HNPP/Fast Red TR is a useful tool for
-  detecting cells carrying specific genes, such as verotoxin-producing bacteria
-  in natural environments.
 date: 1999/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '10347897'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10347897%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

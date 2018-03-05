@@ -1,6 +1,9 @@
+pmid: '22581553'
 title: >-
   Sonographic features in hereditary neuropathy with liability to pressure
   palsies.
+abstract: ''
+categories: []
 authors:
   - name: Lucchetta M
   - name: Dalla Torre C
@@ -15,13 +18,9 @@ keywords:
   - keyword: Male
   - keyword: Paralysis
   - keyword: Ultrasonography
-abstract: ''
 date: 2012/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '22581553'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22581553%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27056376'
     title: >-

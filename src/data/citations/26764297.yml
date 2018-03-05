@@ -1,21 +1,7 @@
+pmid: '26764297'
 title: >-
   [Phenotypes of Charcot-Marie-Tooth Syndrome and Differential Diagnosis Focused
   in Inflammatory Neuropathies].
-authors:
-  - name: Masahiro Iijima
-keywords:
-  - keyword: Animals
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Demyelinating Diseases
-  - keyword: 'Diagnosis, Differential'
-  - keyword: Humans
-  - keyword: Inflammation
-  - keyword: Nervous System Diseases
-  - keyword: Peripheral Nerves
-  - keyword: pathology
-  - keyword: Phenotype
 abstract: >-
   Charcot-Marie-Tooth disease (CMT), the most frequent form of inherited
   neuropathy, is a genetically heterogeneous syndrome of the peripheral nervous
@@ -35,10 +21,29 @@ abstract: >-
   corticosteroids, IVIg, and plasma exchange. Such CIDP-like CMT1 (especially
   CMT1B or CMT2A) shows moderate to high levels of cerebrospinal fluid protein
   and infiltrated inflammatory macrophages.
-date: 2016/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '26764297'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: Masahiro Iijima
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: Demyelinating Diseases
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Humans
+  - keyword: Inflammation
+  - keyword: Nervous System Diseases
+  - keyword: Peripheral Nerves
+  - keyword: pathology
+  - keyword: Phenotype
+date: 2016/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26764297%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

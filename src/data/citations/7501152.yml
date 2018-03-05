@@ -1,7 +1,26 @@
+pmid: '7501152'
 title: >-
   Clinical, electrophysiologic, and molecular correlations in 13 families with
   hereditary neuropathy with liability to pressure palsies and a chromosome
   17p11.2 deletion.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disease characterized by recurrent episodes of acute nerve
+  palsies. We performed a clinical, electrophysiologic, and molecular study of
+  13 French families with HNPP associated with a chromosome 17p11.2 deletion in
+  36 individuals. There were electrophysiologic abnormalities in all symptomatic
+  (n = 28) and asymptomatic (n = 8) deletion carriers, even in childhood.
+  Bilateral delayed distal motor latency of the median nerve at the wrist,
+  reduced sensory velocity in the palm-wrist segment, and delayed distal motor
+  latency or reduced motor velocity in the peroneal nerve was diagnostic in
+  at-risk relatives. This large series confirms the reliability of molecular
+  analysis combined with a simplified electrophysiologic examination for the
+  diagnosis of HNPP associated with 17p11.2 deletion.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Gouider R
   - name: LeGuern E
@@ -34,25 +53,9 @@ keywords:
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Pedigree
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal dominant disease characterized by recurrent episodes of acute nerve
-  palsies. We performed a clinical, electrophysiologic, and molecular study of
-  13 French families with HNPP associated with a chromosome 17p11.2 deletion in
-  36 individuals. There were electrophysiologic abnormalities in all symptomatic
-  (n = 28) and asymptomatic (n = 8) deletion carriers, even in childhood.
-  Bilateral delayed distal motor latency of the median nerve at the wrist,
-  reduced sensory velocity in the palm-wrist segment, and delayed distal motor
-  latency or reduced motor velocity in the peroneal nerve was diagnostic in
-  at-risk relatives. This large series confirms the reliability of molecular
-  analysis combined with a simplified electrophysiologic examination for the
-  diagnosis of HNPP associated with 17p11.2 deletion.
 date: 1995/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '7501152'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7501152%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25324890'
     title: >-

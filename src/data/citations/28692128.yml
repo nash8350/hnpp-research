@@ -1,13 +1,5 @@
+pmid: '28692128'
 title: Carpal tunnel syndrome in inherited neuropathies A retrospective survey.
-authors:
-  - name: Panosyan FB
-  - name: Kirk CA
-  - name: Marking D
-  - name: Reilly MM
-  - name: Scherer SS
-  - name: Shy ME
-  - name: Herrmann DN
-keywords: []
 abstract: >-
   This study evaluates carpal tunnel syndrome (CTS) symptom severity, functional
   status, and outcome of CTS therapies in patients with inherited neuropathies.
@@ -23,8 +15,23 @@ abstract: >-
   appears useful for evaluation of CTS symptoms and patient-reported outcomes
   following CTS interventions in individuals with inherited neuropathies. Muscle
   Nerve 57 388-394, 2018.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Panosyan FB
+  - name: Kirk CA
+  - name: Marking D
+  - name: Reilly MM
+  - name: Scherer SS
+  - name: Shy ME
+  - name: Herrmann DN
+keywords: []
 date: 2017/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '11862031'
   - pmid: '7397478'
@@ -52,7 +59,5 @@ cites:
   - pmid: '8773720'
   - pmid: '12671856'
   - pmid: '8620634'
-pmid: '28692128'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28692128%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,4 +1,26 @@
+pmid: '16437560'
 title: T118M PMP22 mutation causes partial loss of function and HNPP-like neuropathy.
+abstract: >-
+  To determine the clinical consequences of the PMP22 point mutation, T118M,
+  which has been previously considered to either cause an autosomal recessive
+  form of Charcot-Marie-Tooth (CMT) disease or be a benign polymorphism. We
+  analyzed patients from five separate kindreds and characterized their
+  peripheral nerve function by clinical and electrophysiological methods. All
+  heterozygous patients had clinical and/or electrophysiological features of a
+  neuropathy similar to hereditary neuropathy with liability to pressure palsies
+  (HNPPs). The homozygous patient had a severe axonal neuropathy without
+  features of demyelination. These findings suggest that T118M PMP22 retains
+  some normal PMP22 activity, allowing the formation of compact myelin and
+  normal nerve conduction velocities in the homozygous state. Taken together,
+  these findings suggest that T118M is a pathogenic mutation causing a
+  dominantly inherited form of CMT by a partial loss of PMP22 function.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Shy ME
   - name: Scavina MT
@@ -31,26 +53,9 @@ keywords:
   - keyword: Peripheral Nerves
   - keyword: Phenotype
   - keyword: Threonine
-abstract: >-
-  To determine the clinical consequences of the PMP22 point mutation, T118M,
-  which has been previously considered to either cause an autosomal recessive
-  form of Charcot-Marie-Tooth (CMT) disease or be a benign polymorphism. We
-  analyzed patients from five separate kindreds and characterized their
-  peripheral nerve function by clinical and electrophysiological methods. All
-  heterozygous patients had clinical and/or electrophysiological features of a
-  neuropathy similar to hereditary neuropathy with liability to pressure palsies
-  (HNPPs). The homozygous patient had a severe axonal neuropathy without
-  features of demyelination. These findings suggest that T118M PMP22 retains
-  some normal PMP22 activity, allowing the formation of compact myelin and
-  normal nerve conduction velocities in the homozygous state. Taken together,
-  these findings suggest that T118M is a pathogenic mutation causing a
-  dominantly inherited form of CMT by a partial loss of PMP22 function.
 date: 2006/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '16437560'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16437560%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

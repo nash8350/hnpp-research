@@ -1,6 +1,9 @@
+pmid: '27137093'
 title: >-
   Hereditary neuropathy with liability to pressure palsies in childhood Case
   series and literature update.
+abstract: ''
+categories: []
 authors:
   - name: Spagnoli C
   - name: Iodice A
@@ -15,13 +18,9 @@ keywords:
   - keyword: Paralysis
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
-abstract: ''
 date: 2016/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '27137093'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27137093%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

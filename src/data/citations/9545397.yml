@@ -1,24 +1,7 @@
+pmid: '9545397'
 title: >-
   Human meiotic recombination products revealed by sequencing a hotspot for
   homologous strand exchange in multiple HNPP deletion patients.
-authors:
-  - name: Reiter LT
-  - name: Hastings PJ
-  - name: Nelis E
-  - name: De Jonghe P
-  - name: Van Broeckhoven C
-  - name: Lupski JR
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Gene Deletion
-  - keyword: Humans
-  - keyword: Meiosis
-  - keyword: Peripheral Nervous System Diseases
-  - keyword: Polymerase Chain Reaction
-  - keyword: 'Recombination, Genetic'
-  - keyword: 'Repetitive Sequences, Nucleic Acid'
 abstract: >-
   The HNPP (hereditary neuropathy with liability to pressure palsies) deletion
   and CMT1A (Charcot-Marie-Tooth disease type 1A) duplication are the reciprocal
@@ -42,8 +25,30 @@ abstract: >-
   which have been characterized in Escherichia coli, yeast, and cultured
   mammalian cells, may be required for efficient homologous meiotic
   recombination in humans.
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Reiter LT
+  - name: Hastings PJ
+  - name: Nelis E
+  - name: De Jonghe P
+  - name: Van Broeckhoven C
+  - name: Lupski JR
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Deletion
+  - keyword: Humans
+  - keyword: Meiosis
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: Polymerase Chain Reaction
+  - keyword: 'Recombination, Genetic'
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
 date: 1998/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '9032649'
   - pmid: '8643520'
@@ -86,9 +91,7 @@ cites:
   - pmid: '8589720'
   - pmid: '8634706'
   - pmid: '9048912'
-pmid: '9545397'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9545397%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '20493460'
     title: >-

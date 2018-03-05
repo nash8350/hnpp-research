@@ -1,16 +1,7 @@
+pmid: '23185166'
 title: >-
   Two cases of elderly-onset hereditary neuropathy with liability to pressure
   palsy manifesting bilateral peroneal nerve palsies.
-authors:
-  - name: Kawaguchi N
-  - name: Suzuki N
-  - name: Tateyama M
-  - name: Takai Y
-  - name: Misu T
-  - name: Nakashima I
-  - name: Itoyama Y
-  - name: Aoki M
-keywords: []
 abstract: >-
   Hereditary neuropathy with liability to pressure palsy (HNPP) is characterized
   by recurrent focal neuropathies, which usually become symptomatic in the
@@ -25,8 +16,20 @@ abstract: >-
   style termed 'seiza', a way of sitting on the floor with the lower legs
   crossed under the thighs, was a precipitating factor for the bilateral
   peroneal nerve palsies.
+categories:
+  - name: Symptoms
+    enabled: true
+authors:
+  - name: Kawaguchi N
+  - name: Suzuki N
+  - name: Tateyama M
+  - name: Takai Y
+  - name: Misu T
+  - name: Nakashima I
+  - name: Itoyama Y
+  - name: Aoki M
+keywords: []
 date: 2012/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '10227632'
   - pmid: '10727485'
@@ -42,7 +45,5 @@ cites:
   - pmid: '18145967'
   - pmid: '21670407'
   - pmid: '9371959'
-pmid: '23185166'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23185166%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

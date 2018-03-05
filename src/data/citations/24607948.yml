@@ -1,18 +1,5 @@
+pmid: '24607948'
 title: '[Ultrasound diagnosis of Charcot-Marie-Tooth disease].'
-authors:
-  - name: Yu-ichi Noto
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnostic imaging
-  - keyword: Demyelinating Diseases
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Mutation
-  - keyword: Neurons
-  - keyword: Peripheral Nerves
-  - keyword: Ultrasonography
-  - keyword: instrumentation
-  - keyword: methods
 abstract: >-
   Charcot-Marie-Tooth (CMT) disease is a clinically and genetically
   heterogeneous group of diseases with over 45 different causative gene
@@ -30,10 +17,24 @@ abstract: >-
   pressure palsy. US findings of CMT are thus subtype-specific. Therefore, the
   assessment of nerve US may become a useful supporting tool for the diagnosis
   of CMT subtypes.
-date: 2014/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '24607948'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Yu-ichi Noto
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnostic imaging
+  - keyword: Demyelinating Diseases
+  - keyword: genetics
+  - keyword: Humans
+  - keyword: Mutation
+  - keyword: Neurons
+  - keyword: Peripheral Nerves
+  - keyword: Ultrasonography
+  - keyword: instrumentation
+  - keyword: methods
+date: 2014/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24607948%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

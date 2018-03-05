@@ -1,29 +1,8 @@
+pmid: '12605439'
 title: >-
   Rapid detection of 17p11.2 rearrangements by FISH without cell culture (direct
   FISH, DFISH) a prospective study of 130 patients with inherited peripheral
   neuropathies.
-authors:
-  - name: Ravisé N
-  - name: Dubourg O
-  - name: Tardieu S
-  - name: Aurias F
-  - name: Mercadiel M
-  - name: Coullin P
-  - name: Ruberg M
-  - name: Catala M
-  - name: Lesourd S
-  - name: Brice A
-  - name: LeGuern E
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Chromosome Aberrations
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Humans
-  - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Paralysis
-  - keyword: Peripheral Nervous System Diseases
 abstract: >-
   Charcot-Marie-Tooth (CMT) disease and hereditary neuropathy with pressure
   palsies (HNPP) are two frequent hereditary motor and sensory neuropathies. CMT
@@ -47,10 +26,38 @@ abstract: >-
   technique provides a useful alternative to the molecular approaches that have
   been used to diagnose segmental aneusomies, especially in the case of
   duplications that often go undetected.
-date: 2003/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '12605439'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Ravisé N
+  - name: Dubourg O
+  - name: Tardieu S
+  - name: Aurias F
+  - name: Mercadiel M
+  - name: Coullin P
+  - name: Ruberg M
+  - name: Catala M
+  - name: Lesourd S
+  - name: Brice A
+  - name: LeGuern E
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: Chromosome Aberrations
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Humans
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Paralysis
+  - keyword: Peripheral Nervous System Diseases
+date: 2003/02
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12605439%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

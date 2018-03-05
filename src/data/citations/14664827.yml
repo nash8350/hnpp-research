@@ -1,6 +1,30 @@
+pmid: '14664827'
 title: >-
   Distinct elements of the peripheral myelin protein 22 (PMP22) promoter
   regulate expression in Schwann cells and sensory neurons.
+abstract: >-
+  Genetic disease mechanisms in the demyelinating peripheral neuropathies
+  Charcot-Marie-Tooth disease type 1A (CMTA) and hereditary neuropathy with
+  liability to pressure palsies (HNPP) as well as transgenic animals with
+  altered PMP22 gene dosage revealed that alterations in PMP22 gene expression
+  have profound effects on the development and maintenance of peripheral nerves.
+  Consequently, the regulation of PMP22 is a crucial aspect in understanding the
+  function of this protein in health and disease. In this study, we dissected
+  and analyzed different cis-acting elements in the 5'-flanking region of the
+  Pmp22 gene in vivo. We found two separate elements that contribute to
+  different aspects of Pmp22 expression. The first is located 5' distally to
+  promoter 1 and is involved in gene regulation during late phases of
+  myelination in development ["late myelination Schwann cell-specific element"
+  (LMSE)] and in remyelination after injury. The second element was identified
+  upstream of promoter 2 and guides Pmp22 expression in sensory neurons. These
+  results suggest that multiple distinct signaling pathways regulating Pmp22
+  expression in myelination as well as in neurons converge on distinct segments
+  of the PMP22 promoter region. The underlying molecular mechanisms are likely
+  to be crucially involved in the maintenance of the integrity of myelinated
+  peripheral nerves.
+categories:
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Maier M
   - name: Castagner F
@@ -28,32 +52,9 @@ keywords:
   - keyword: 'Promoter Regions, Genetic'
   - keyword: Schwann Cells
   - keyword: Signal Transduction
-abstract: >-
-  Genetic disease mechanisms in the demyelinating peripheral neuropathies
-  Charcot-Marie-Tooth disease type 1A (CMTA) and hereditary neuropathy with
-  liability to pressure palsies (HNPP) as well as transgenic animals with
-  altered PMP22 gene dosage revealed that alterations in PMP22 gene expression
-  have profound effects on the development and maintenance of peripheral nerves.
-  Consequently, the regulation of PMP22 is a crucial aspect in understanding the
-  function of this protein in health and disease. In this study, we dissected
-  and analyzed different cis-acting elements in the 5'-flanking region of the
-  Pmp22 gene in vivo. We found two separate elements that contribute to
-  different aspects of Pmp22 expression. The first is located 5' distally to
-  promoter 1 and is involved in gene regulation during late phases of
-  myelination in development ["late myelination Schwann cell-specific element"
-  (LMSE)] and in remyelination after injury. The second element was identified
-  upstream of promoter 2 and guides Pmp22 expression in sensory neurons. These
-  results suggest that multiple distinct signaling pathways regulating Pmp22
-  expression in myelination as well as in neurons converge on distinct segments
-  of the PMP22 promoter region. The underlying molecular mechanisms are likely
-  to be crucially involved in the maintenance of the integrity of myelinated
-  peripheral nerves.
 date: 2003/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '14664827'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14664827%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

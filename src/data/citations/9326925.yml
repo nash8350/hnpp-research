@@ -1,4 +1,7 @@
+pmid: '9326925'
 title: Sex-dependent rearrangements resulting in CMT1A and HNPP.
+abstract: ''
+categories: []
 authors:
   - name: Lopes J
   - name: Vandenberghe A
@@ -25,13 +28,9 @@ keywords:
   - keyword: Multigene Family
   - keyword: Pedigree
   - keyword: Sex Characteristics
-abstract: ''
 date: 1997/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9326925'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9326925%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
     title: >-

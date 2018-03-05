@@ -1,6 +1,22 @@
+pmid: '9391880'
 title: >-
   Atypical hereditary neuropathy with liability to pressure palsies (HNPP) the
   value of direct DNA diagnosis.
+abstract: >-
+  We report two patients with suspected hereditary liability to pressure
+  palsies. Neurophysiological studies showed a mixed axonal-demyelinating
+  sensory-motor polyneuropathy with focal slowing of conduction velocities at
+  the common sites of entrapment. Morphological studies on sural nerve biopsy
+  from the proband showed active axonal regeneration without typical tomacula.
+  Molecular analysis confirmed the presence of a deletion of chromosome 17p11.2
+  in both patients. Our observation confirms the heterogeneity of hereditary
+  liability to pressure palsies and the relevance of DNA testing for the
+  diagnosis of this hereditary neuropathy.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Sessa M
   - name: Nemni R
@@ -25,18 +41,7 @@ keywords:
   - keyword: Middle Aged
   - keyword: Pedigree
   - keyword: Polymerase Chain Reaction
-abstract: >-
-  We report two patients with suspected hereditary liability to pressure
-  palsies. Neurophysiological studies showed a mixed axonal-demyelinating
-  sensory-motor polyneuropathy with focal slowing of conduction velocities at
-  the common sites of entrapment. Morphological studies on sural nerve biopsy
-  from the proband showed active axonal regeneration without typical tomacula.
-  Molecular analysis confirmed the presence of a deletion of chromosome 17p11.2
-  in both patients. Our observation confirms the heterogeneity of hereditary
-  liability to pressure palsies and the relevance of DNA testing for the
-  diagnosis of this hereditary neuropathy.
 date: 1997/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '1117305'
   - pmid: '7944298'
@@ -68,9 +73,7 @@ cites:
   - pmid: '8004087'
   - pmid: '8012388'
   - pmid: '864493'
-pmid: '9391880'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9391880%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
     title: >-

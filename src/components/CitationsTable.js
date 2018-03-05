@@ -1,5 +1,6 @@
 import React from 'react';
 import CitationFilter from '../components/CitationFilter';
+import CitationDetail from '../components/CitationDetail';
 import Content, { HTMLContent } from '../components/Content';
 import {
   PagingState,
@@ -34,6 +35,7 @@ export default class CitationTable extends React.Component {
     this.state = {
       date: "",
       search: "",
+      category: "",
       citations: this.props.citations,
       filteredCitations: this.props.citations
     };
@@ -44,6 +46,18 @@ export default class CitationTable extends React.Component {
 
   filterRow = (row) => {
     if(this.state.date && row.date <= this.state.date)
+      return false;
+
+    let categoryMatch = false;
+    if(this.state.category == "") {
+      categoryMatch = true;
+    } else {
+      row.categories.forEach(category => {
+        if(this.state.category == category.name && category.enabled)
+          categoryMatch = true;
+      })
+    }
+    if(!categoryMatch)
       return false;
 
     if(this.state.search && 
@@ -68,7 +82,12 @@ export default class CitationTable extends React.Component {
     return (
       <div className="columns">
         <div className="column is-2">
-          <CitationFilter date={this.state.date} search={this.state.search} onFilterChange={this.onFilterChange}/>
+          <CitationFilter 
+            date={this.state.date} 
+            search={this.state.search} 
+            category={this.state.category}
+            onFilterChange={this.onFilterChange}
+            />
         </div>
         <div className="column is-10">
           <Grid
@@ -102,26 +121,7 @@ export default class CitationTable extends React.Component {
             <TableHeaderRow 
               showSortingControls
             />
-            <TableRowDetail
-              contentComponent={({ row }) => (
-                <div className="container is-pulled-left" style={{width: this.tableWidth}}>
-                  <a className="is-pulled-right vert-padded" href={row.abstractLink}>View on Pubmed</a>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Abstract</h4>
-                  <p>{row.abstract}</p>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Authors</h4>
-                  <p>{row.authorlist}</p>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Journal</h4>
-                  <p>{row.journal}</p>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Keywords</h4>
-                  <ul>
-                    {row.keywords.map(keyword => (
-                      <li className="bullet">{keyword.keyword}</li>
-                    ))}
-                  </ul>
-                  <br/>
-                </div>
-              )}
-            />
+            <TableRowDetail contentComponent={CitationDetail} />
             <PagingPanel />
           </Grid>
         </div>

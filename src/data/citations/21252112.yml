@@ -1,35 +1,7 @@
+pmid: '21252112'
 title: >-
   Inherited demyelinating neuropathies with micromutations of peripheral myelin
   protein 22 gene.
-authors:
-  - name: Taioli F
-  - name: Cabrini I
-  - name: Cavallaro T
-  - name: Acler M
-  - name: Fabrizi GM
-keywords:
-  - keyword: Adolescent
-  - keyword: Adult
-  - keyword: Aged
-  - keyword: 'Aged, 80 and over'
-  - keyword: Arthrogryposis
-  - keyword: genetics
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: Child
-  - keyword: Female
-  - keyword: Hereditary Central Nervous System Demyelinating Diseases
-  - keyword: metabolism
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
-  - keyword: Mutation
-  - keyword: Myelin Proteins
-  - keyword: Phenotype
-  - keyword: Sural Nerve
-  - keyword: pathology
-  - keyword: ultrastructure
-  - keyword: 'Transcription, Genetic'
 abstract: >-
   The peripheral myelin protein 22 gene (PMP22) encodes an intrinsic membrane
   protein of compact myelin. Duplication or deletion of PMP22 causes the most
@@ -76,12 +48,47 @@ abstract: >-
   predicted shorter protein could exert variable molecular effects. In
   conclusion, micromutations of PMP22 cause a clinical and pathological
   continuum of demyelinating neuropathies that may include atypical phenotypes.
-date: 2011/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '21252112'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Taioli F
+  - name: Cabrini I
+  - name: Cavallaro T
+  - name: Acler M
+  - name: Fabrizi GM
+keywords:
+  - keyword: Adolescent
+  - keyword: Adult
+  - keyword: Aged
+  - keyword: 'Aged, 80 and over'
+  - keyword: Arthrogryposis
+  - keyword: genetics
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Child
+  - keyword: Female
+  - keyword: Hereditary Central Nervous System Demyelinating Diseases
+  - keyword: metabolism
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Phenotype
+  - keyword: Sural Nerve
+  - keyword: pathology
+  - keyword: ultrastructure
+  - keyword: 'Transcription, Genetic'
+date: 2011/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21252112%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

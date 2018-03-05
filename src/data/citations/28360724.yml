@@ -1,11 +1,7 @@
+pmid: '28360724'
 title: >-
   The Activation of RAGE and NF-KB in Nerve Biopsies of Patients with Axonal and
   Vasculitic Neuropathy.
-authors:
-  - name: Bekircan-Kurt CE
-  - name: Tan E
-  - name: Erdem Özdamar S
-keywords: []
 abstract: >-
   The receptor for advanced glycation end products (RAGE) is a pattern
   recognition receptor expressed in tissues and cells, which plays a role in
@@ -28,8 +24,17 @@ abstract: >-
   pathway predominant in CD8 (+) T cells underscores its role in VN. In AN
   patients, the immunoreactivity to NFκB and RAGE in macrophages may support
   their role in axonal degeneration without inflammatory milieu.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Bekircan-Kurt CE
+  - name: Tan E
+  - name: Erdem Özdamar S
+keywords: []
 date: 2015/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '23045170'
   - pmid: '21040139'
@@ -47,7 +52,5 @@ cites:
   - pmid: '18385332'
   - pmid: '12222959'
   - pmid: '18267068'
-pmid: '28360724'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28360724%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

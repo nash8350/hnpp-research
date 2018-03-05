@@ -1,15 +1,7 @@
+pmid: '15244166'
 title: >-
   [How to clinically and electrophysiologically diagnose hereditary
   polyneuropathies without a family history?].
-authors:
-  - name: P Bouche
-keywords:
-  - keyword: Electrophysiology
-  - keyword: Humans
-  - keyword: Polyneuropathies
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: physiopathology
 abstract: >-
   Sporadic cases of hereditary neuropathies are not uncommon. The most frequent
   clinical pictures are purely or predominantly motor neuropathies. A hereditary
@@ -28,10 +20,21 @@ abstract: >-
   picture of multifocal neuropathy with nerve conduction slowing at usual
   compression sites. Finally, purely sensory hereditary neuropathies are rare
   and seldom cause diagnostic problems.
-date: 2004/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '15244166'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: P Bouche
+keywords:
+  - keyword: Electrophysiology
+  - keyword: Humans
+  - keyword: Polyneuropathies
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: physiopathology
+date: 2004/07
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15244166%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

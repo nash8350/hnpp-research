@@ -1,6 +1,17 @@
+pmid: '7931393'
 title: >-
   DNA analysis in Finnish patients with hereditary neuropathy with liability to
   pressure palsies (HNPP).
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is a
+  dominantly inherited disorder that presents as recurrent mononeuropathies
+  precipitated by apparently trivial traumas. The presence of a deletion in
+  17p11.2 was analysed in 13 Finnish families with HNPP. The deletion was found
+  in all patients who were neurologically and neurophysiologically confirmed to
+  have HNPP. In the problematic cases the detection of the gene defect is the
+  method of choice in the diagnosis of HNPP. Analysis of DNA can also be used to
+  detect clinically unaffected family members.
+categories: []
 authors:
   - name: Silander K
   - name: Halonen P
@@ -20,17 +31,7 @@ keywords:
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
   - keyword: genetics
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is a
-  dominantly inherited disorder that presents as recurrent mononeuropathies
-  precipitated by apparently trivial traumas. The presence of a deletion in
-  17p11.2 was analysed in 13 Finnish families with HNPP. The deletion was found
-  in all patients who were neurologically and neurophysiologically confirmed to
-  have HNPP. In the problematic cases the detection of the gene defect is the
-  method of choice in the diagnosis of HNPP. Analysis of DNA can also be used to
-  detect clinically unaffected family members.
 date: 1994/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '4285163'
   - pmid: '4345910'
@@ -42,9 +43,7 @@ cites:
   - pmid: '8393091'
   - pmid: '8396068'
   - pmid: '1552545'
-pmid: '7931393'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7931393%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '21429232'
     title: >-

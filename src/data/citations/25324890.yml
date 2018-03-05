@@ -1,15 +1,16 @@
+pmid: '25324890'
 title: >-
   Does hereditary neuropathy with liability to pressure palsy predispose to
   schwannomatosis?
+abstract: ''
+categories: []
 authors:
   - name: Grapperon AM
   - name: Franques J
   - name: Roche PH
   - name: Battaglia F
 keywords: []
-abstract: ''
 date: 2014/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '22037956'
   - pmid: '4345910'
@@ -21,7 +22,5 @@ cites:
   - pmid: '8486695'
   - pmid: '19654968'
   - pmid: '16969831'
-pmid: '25324890'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25324890%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

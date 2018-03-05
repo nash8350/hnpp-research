@@ -1,6 +1,11 @@
+pmid: '14212604'
 title: >-
   HEREDITARY NEUROPATHY, WITH LIABILITY TO PRESSURE PALSIES; A CLINICAL AND
   ELECTROPHYSIOLOGICAL STUDY OF FOUR FAMILIES.
+abstract: ''
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: EARL CJ
   - name: FULLERTON PM
@@ -15,13 +20,9 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
   - keyword: Traction
-abstract: ''
 date: 1964/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '14212604'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14212604%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28489810'
     title: >-

@@ -1,4 +1,9 @@
+pmid: '17190961'
 title: ALS in a patient with hereditary neuropathy with liability to pressure palsy.
+abstract: ''
+categories:
+  - name: Case Studies
+    enabled: true
 authors:
   - name: O'Sullivan SS
   - name: McCarthy A
@@ -16,13 +21,9 @@ keywords:
   - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Paralysis
-abstract: ''
 date: 2006/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17190961'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17190961%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '19238316'
     title: >-

@@ -1,7 +1,12 @@
+pmid: '26773980'
 title: >-
   Low back pain with radicular symptoms as a presentation of hereditary
   neuropathy with liability to pressure palsies the diagnostic challenge of an
   atypical presentation.
+abstract: ''
+categories:
+  - name: Symptoms
+    enabled: true
 authors:
   - name: Choi YH
   - name: Dunn B
@@ -17,13 +22,9 @@ keywords:
   - keyword: Male
   - keyword: Paralysis
   - keyword: Radiculopathy
-abstract: ''
 date: 2016/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '26773980'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26773980%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29079893'
     title: >-

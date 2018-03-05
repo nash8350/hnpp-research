@@ -1,16 +1,7 @@
+pmid: '29079893'
 title: >-
   Characterisation of pain in people with hereditary neuropathy with liability
   to pressure palsy.
-authors:
-  - name: Beales D
-  - name: Fary R
-  - name: Little C
-  - name: Nambiar S
-  - name: Sveinall H
-  - name: Yee YL
-  - name: Tampin B
-  - name: Mitchell T
-keywords: []
 abstract: >-
   Hereditary neuropathy with liability to pressure palsy (HNPP) has historically
   been considered a pain-free condition, though some people with HNPP also
@@ -30,8 +21,20 @@ abstract: >-
   as common, potential underlying processes. Pain may plausibly be directly
   related to the underlying pathophysiology of HNPP. Further consideration of
   including pain as a primary symptom of HNPP is warranted.
+categories:
+  - name: Symptoms
+    enabled: true
+authors:
+  - name: Beales D
+  - name: Fary R
+  - name: Little C
+  - name: Nambiar S
+  - name: Sveinall H
+  - name: Yee YL
+  - name: Tampin B
+  - name: Mitchell T
+keywords: []
 date: 2017/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '26773980'
   - pmid: '25042093'
@@ -61,7 +64,5 @@ cites:
   - pmid: '10517039'
   - pmid: '17222096'
   - pmid: '24239057'
-pmid: '29079893'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29079893%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

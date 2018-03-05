@@ -1,16 +1,5 @@
+pmid: '2737556'
 title: '[Hereditary neuropathy with liability to pressure palsy].'
-authors:
-  - name: Eisenberg E
-  - name: Baron S
-  - name: Ludicer R
-keywords:
-  - keyword: Biopsy
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: pathology
-  - keyword: Humans
-  - keyword: Pedigree
-  - keyword: Sural Nerve
 abstract: >-
   Hereditary neuropathy with liability to pressure palsy (HNPP) is a rare
   nosological entity with 4 characteristics autosomal dominant inheritance;
@@ -23,10 +12,22 @@ abstract: >-
   out in 7 members of a family with HNPP, and sural nerve biopsy in 1. The
   findings are related to those of about 50 families published in the
   literature.
-date: 1989/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '2737556'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Eisenberg E
+  - name: Baron S
+  - name: Ludicer R
+keywords:
+  - keyword: Biopsy
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: Humans
+  - keyword: Pedigree
+  - keyword: Sural Nerve
+date: 1989/04
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2737556%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,6 +1,28 @@
+pmid: '23965407'
 title: >-
   Hereditary neuropathy with liability to pressure palsy two cases of difficult
   diagnosis.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  inherited autosomal dominant disorder that causes a polyneuropathy with
+  predisposition for involvement at sites of compression and is often
+  underdiagnosed or misdiagnosed due to its heterogeneity in clinical and
+  electrophysiological presentation. We report 2 cases of HNPP, which were
+  initially diagnosed and treated as either an acquired demyelinating disorder
+  or alternative inherited demyelinating disorder. Thorough evaluation of repeat
+  electrodiagnostic studies and genetic testing confirmed the diagnosis of HNPP
+  in both cases. One case showed the classic peripheral myelin protein 22
+  (PMP22) deletion and the other case showed a previously reported single base
+  pair deletion at Leu145 causing a frameshift mutation at the PMP22 gene. These
+  cases underscore the difficulty of diagnosing HNPP, because of the variations
+  in clinical and electrophysiological findings and reinforce the importance of
+  a combination high index of clinical suspicion, electrodiagnostic testing, and
+  genetic testing to make the diagnosis.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Beydoun SR
   - name: Cho J
@@ -19,26 +41,7 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: Sequence Deletion
   - keyword: Young Adult
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  inherited autosomal dominant disorder that causes a polyneuropathy with
-  predisposition for involvement at sites of compression and is often
-  underdiagnosed or misdiagnosed due to its heterogeneity in clinical and
-  electrophysiological presentation. We report 2 cases of HNPP, which were
-  initially diagnosed and treated as either an acquired demyelinating disorder
-  or alternative inherited demyelinating disorder. Thorough evaluation of repeat
-  electrodiagnostic studies and genetic testing confirmed the diagnosis of HNPP
-  in both cases. One case showed the classic peripheral myelin protein 22
-  (PMP22) deletion and the other case showed a previously reported single base
-  pair deletion at Leu145 causing a frameshift mutation at the PMP22 gene. These
-  cases underscore the difficulty of diagnosing HNPP, because of the variations
-  in clinical and electrophysiological findings and reinforce the importance of
-  a combination high index of clinical suspicion, electrodiagnostic testing, and
-  genetic testing to make the diagnosis.
 date: 2013/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '23965407'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23965407%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

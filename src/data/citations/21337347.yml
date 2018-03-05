@@ -1,4 +1,18 @@
+pmid: '21337347'
 title: Report of a novel mutation in the PMP22 gene causing an axonal neuropathy.
+abstract: >-
+  Point mutations in the peripheral myelin protein 22 (PMP22) gene rarely cause
+  the hereditary neuropathies Charcot-Marie-Tooth disease type 1A (CMT1A) and
+  hereditary neuropathy with liability to pressure palsies (HNPP), both of which
+  show a demyelinating phenotype. In this study we characterized a family with
+  an axonal neuropathy. Three family members carried a heterozygous point
+  mutation of the PMP22 gene, resulting in amino acid substitution R159C.
+  Screening of 185 healthy controls did not reveal the R159C allele in any case.
+  The novel R159C mutation represents a very rare case of a dominant PMP22
+  mutation causing an axonal neuropathy.
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Gess B
   - name: Jeibmann A
@@ -21,22 +35,9 @@ keywords:
   - keyword: Pedigree
   - keyword: Polyneuropathies
   - keyword: physiopathology
-abstract: >-
-  Point mutations in the peripheral myelin protein 22 (PMP22) gene rarely cause
-  the hereditary neuropathies Charcot-Marie-Tooth disease type 1A (CMT1A) and
-  hereditary neuropathy with liability to pressure palsies (HNPP), both of which
-  show a demyelinating phenotype. In this study we characterized a family with
-  an axonal neuropathy. Three family members carried a heterozygous point
-  mutation of the PMP22 gene, resulting in amino acid substitution R159C.
-  Screening of 185 healthy controls did not reveal the R159C allele in any case.
-  The novel R159C mutation represents a very rare case of a dominant PMP22
-  mutation causing an axonal neuropathy.
 date: 2011/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '21337347'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21337347%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24819634'
     title: >-

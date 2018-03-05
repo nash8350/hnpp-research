@@ -1,4 +1,25 @@
+pmid: '3220711'
 title: Recurrent familial neuropathy due to liability to pressure palsies.
+abstract: >-
+  Two families with hereditary neuropathy with liability to pressure palsies
+  (HNPP) were evaluated clinically, electrophysiologically and pathologically (2
+  index cases). Familial patterns suggest autosomal dominant inheritance. The
+  clinical presentation is characteristic, with recurrent painless transitory
+  mononeuropathy, without evident triggering factors, or caused by trivial
+  trauma or pressure. In affected members neurophysiological studies showed
+  diffuse slowing in nerve conduction, more evident at common sites of
+  entrapment. Somatosensory evoked potentials (SEPs) showed bilateral peripheral
+  abnormalities with proximal nerve involvement more pronounced in older
+  patients. 40 to 75% of teased fibers displayed sausage-shaped swellings.
+  Ultrastructurally some sausages showed redundant myelin loops and excessive
+  number of myelin lamellae that seem to cause axonal constriction.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Marazzi R
   - name: Pareyson D
@@ -29,21 +50,7 @@ keywords:
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: Pressure
-abstract: >-
-  Two families with hereditary neuropathy with liability to pressure palsies
-  (HNPP) were evaluated clinically, electrophysiologically and pathologically (2
-  index cases). Familial patterns suggest autosomal dominant inheritance. The
-  clinical presentation is characteristic, with recurrent painless transitory
-  mononeuropathy, without evident triggering factors, or caused by trivial
-  trauma or pressure. In affected members neurophysiological studies showed
-  diffuse slowing in nerve conduction, more evident at common sites of
-  entrapment. Somatosensory evoked potentials (SEPs) showed bilateral peripheral
-  abnormalities with proximal nerve involvement more pronounced in older
-  patients. 40 to 75% of teased fibers displayed sausage-shaped swellings.
-  Ultrastructurally some sausages showed redundant myelin loops and excessive
-  number of myelin lamellae that seem to cause axonal constriction.
 date: 1988/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '2997660'
   - pmid: '6267867'
@@ -58,9 +65,7 @@ cites:
   - pmid: '213163'
   - pmid: '6185651'
   - pmid: '20271590'
-pmid: '3220711'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=3220711%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '20071523'
     title: Conduction block in PMP22 deficiency.

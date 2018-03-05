@@ -1,8 +1,13 @@
+pmid: '12491936'
 title: >-
   Fluorescence in situ hybridization (FISH) for identifying the genomic
   rearrangements associated with three myelinopathies. Charcot-Marie-Tooth
   disease, hereditary neuropathy with liability to pressure palsies, and
   Pelizaeus-Merzbacher disease.
+abstract: ''
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Mohammed MS
   - name: Shaffer LG
@@ -23,11 +28,7 @@ keywords:
   - keyword: Indicators and Reagents
   - keyword: Pelizaeus-Merzbacher Disease
   - keyword: Peripheral Nervous System Diseases
-abstract: ''
 date: 2002/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12491936'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12491936%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

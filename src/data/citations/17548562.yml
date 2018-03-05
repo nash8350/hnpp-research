@@ -1,4 +1,7 @@
+pmid: '17548562'
 title: CNS involvement in hereditary neuropathy with pressure palsies (HNPP).
+abstract: ''
+categories: []
 authors:
   - name: Iwasaki Y
   - name: Iguchi H
@@ -25,13 +28,9 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: Reaction Time
   - keyword: Trigeminal Nerve Diseases
-abstract: ''
 date: 2007/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17548562'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17548562%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
     title: >-

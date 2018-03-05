@@ -1,26 +1,7 @@
+pmid: '11351283'
 title: >-
   Transcriptional startpoints and methylation patterns in the PMP22 promoters of
   peripheral nerve, leukocytes and tumor cell lines.
-authors:
-  - name: Huehne K
-  - name: Rautenstrauss B
-keywords:
-  - keyword: Base Sequence
-  - keyword: CpG Islands
-  - keyword: DNA Methylation
-  - keyword: Exons
-  - keyword: Humans
-  - keyword: Leukocytes
-  - keyword: metabolism
-  - keyword: Molecular Sequence Data
-  - keyword: Myelin Proteins
-  - keyword: genetics
-  - keyword: Peripheral Nerves
-  - keyword: 'Promoter Regions, Genetic'
-  - keyword: 'RNA, Messenger'
-  - keyword: Reverse Transcriptase Polymerase Chain Reaction
-  - keyword: 'Transcription, Genetic'
-  - keyword: 'Tumor Cells, Cultured'
 abstract: >-
   PMP22 is a dosage sensitive gene responsible for Charcot-Marie-Tooth type 1A
   (CMT1A) neuropathy and hereditary neuropathy with liability to pressure
@@ -44,10 +25,28 @@ abstract: >-
   but the few remaining hypomethylated copies were sufficient for strong
   expression of PMP22. These results indicate that the transcriptional control
   in tumor cell lines is probably different from leukocytes and sciatic nerve.
+categories: []
+authors:
+  - name: Huehne K
+  - name: Rautenstrauss B
+keywords:
+  - keyword: Base Sequence
+  - keyword: CpG Islands
+  - keyword: DNA Methylation
+  - keyword: Exons
+  - keyword: Humans
+  - keyword: Leukocytes
+  - keyword: metabolism
+  - keyword: Molecular Sequence Data
+  - keyword: Myelin Proteins
+  - keyword: genetics
+  - keyword: Peripheral Nerves
+  - keyword: 'Promoter Regions, Genetic'
+  - keyword: 'RNA, Messenger'
+  - keyword: Reverse Transcriptase Polymerase Chain Reaction
+  - keyword: 'Transcription, Genetic'
+  - keyword: 'Tumor Cells, Cultured'
 date: 2001/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11351283'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11351283%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

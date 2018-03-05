@@ -1,33 +1,7 @@
+pmid: '23595830'
 title: >-
   Intrinsic acid-base properties of a hexa-2'-deoxynucleoside pentaphosphate,
   d(ApGpGpCpCpT) neighboring effects and isomeric equilibria.
-authors:
-  - name: Domínguez-Martín A
-  - name: Johannsen S
-  - name: Sigel A
-  - name: Operschall BP
-  - name: Song B
-  - name: Sigel H
-  - name: Okruszek A
-  - name: González-Pérez JM
-  - name: Niclós-Gutiérrez J
-  - name: Sigel RK
-keywords:
-  - keyword: Acids
-  - keyword: chemistry
-  - keyword: Adenosine
-  - keyword: Alkalies
-  - keyword: 'Aptamers, Nucleotide'
-  - keyword: Guanosine
-  - keyword: Hexosaminidase A
-  - keyword: Hydrogen-Ion Concentration
-  - keyword: Isomerism
-  - keyword: Magnetic Resonance Spectroscopy
-  - keyword: Metals
-  - keyword: Nucleosides
-  - keyword: RNA
-  - keyword: Thymidine
-  - keyword: Transition Temperature
 abstract: >-
   The intrinsic acid-base properties of the hexa-2'-deoxynucleoside
   pentaphosphate, d(ApGpGpCpCpT) [=(A1∙G2∙G3∙C4∙C5∙T6)=(HNPP)⁵⁻] have been
@@ -55,10 +29,37 @@ abstract: >-
   the effect of metal ions on the pKa values of nucleobase sites is briefly
   discussed because in this way deprotonation reactions can easily be shifted to
   the physiological pH range.
-date: 2013/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '23595830'
 categories:
-  - name: blank
+  - name: Prevalence
+    enabled: true
+authors:
+  - name: Domínguez-Martín A
+  - name: Johannsen S
+  - name: Sigel A
+  - name: Operschall BP
+  - name: Song B
+  - name: Sigel H
+  - name: Okruszek A
+  - name: González-Pérez JM
+  - name: Niclós-Gutiérrez J
+  - name: Sigel RK
+keywords:
+  - keyword: Acids
+  - keyword: chemistry
+  - keyword: Adenosine
+  - keyword: Alkalies
+  - keyword: 'Aptamers, Nucleotide'
+  - keyword: Guanosine
+  - keyword: Hexosaminidase A
+  - keyword: Hydrogen-Ion Concentration
+  - keyword: Isomerism
+  - keyword: Magnetic Resonance Spectroscopy
+  - keyword: Metals
+  - keyword: Nucleosides
+  - keyword: RNA
+  - keyword: Thymidine
+  - keyword: Transition Temperature
+date: 2013/04
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23595830%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

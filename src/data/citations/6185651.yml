@@ -1,6 +1,24 @@
+pmid: '6185651'
 title: >-
   Hereditary neuropathy with liability to pressure palsies. Report of two
   families and review of the literature.
+abstract: >-
+  Clinical, neurophysiological and pathological investigations were carried out
+  in 11 affected members of 2 families with hereditary neuropathy with liability
+  to pressure palsies (HNPP). The observations were related to findings in 261
+  cases of 47 families published in the literature. It was concluded that HNPP
+  is a nosological entity characterized by the following diagnostic criteria (1)
+  an autosomal dominant inheritance; (2) the clinical presentation of a
+  recurrent mononeuropathy simplex or multiplex, frequently related to an
+  inadequate trauma to peripheral nerves; (3) a significant slowing of motor and
+  sensory conduction velocity in clinically affected, but also in clinically
+  unaffected nerves; (4) characteristic morphological findings in sural nerve
+  biopsy featuring "tomaculous" swellings of myelin sheaths, transnodal
+  myelination and segmental demyelination. The pathogenesis of HNPP is not
+  clear. Hypothetical explanations of the pathogenesis of HNPP are discussed.
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Meier C
   - name: Moll C
@@ -21,22 +39,7 @@ keywords:
   - keyword: Peripheral Nervous System Diseases
   - keyword: genetics
   - keyword: Sex Factors
-abstract: >-
-  Clinical, neurophysiological and pathological investigations were carried out
-  in 11 affected members of 2 families with hereditary neuropathy with liability
-  to pressure palsies (HNPP). The observations were related to findings in 261
-  cases of 47 families published in the literature. It was concluded that HNPP
-  is a nosological entity characterized by the following diagnostic criteria (1)
-  an autosomal dominant inheritance; (2) the clinical presentation of a
-  recurrent mononeuropathy simplex or multiplex, frequently related to an
-  inadequate trauma to peripheral nerves; (3) a significant slowing of motor and
-  sensory conduction velocity in clinically affected, but also in clinically
-  unaffected nerves; (4) characteristic morphological findings in sural nerve
-  biopsy featuring "tomaculous" swellings of myelin sheaths, transnodal
-  myelination and segmental demyelination. The pathogenesis of HNPP is not
-  clear. Hypothetical explanations of the pathogenesis of HNPP are discussed.
 date: 1982/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '531410'
   - pmid: '288993'
@@ -67,9 +70,7 @@ cites:
   - pmid: '4322246'
   - pmid: '20271590'
   - pmid: '4434174'
-pmid: '6185651'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6185651%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9418989'
     title: Animal models for inherited peripheral neuropathies.

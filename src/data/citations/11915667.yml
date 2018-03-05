@@ -1,22 +1,7 @@
+pmid: '11915667'
 title: >-
   [Molecular genetic diagnosis of Charcot-Marie-Tooth disease and hereditary
   neuropathy with liability to pressure palsies].
-authors:
-  - name: Aarskog NK
-  - name: Vedeler CA
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Gene Duplication
-  - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: Humans
-  - keyword: Nerve Compression Syndromes
-  - keyword: Paralysis
-  - keyword: Polymerase Chain Reaction
-  - keyword: methods
-  - keyword: Sequence Deletion
 abstract: >-
   Charcot-Marie-Tooth (CMT) disease is the most commonly inherited disorder of
   the peripheral nervous system; in Norway, the estimated prevalence is
@@ -33,10 +18,32 @@ abstract: >-
   Real-time quantitative PCR should find broad application in clinical and
   research settings, not only in CMT1A duplication and HNPP deletion, but also
   in other diseases involving gene copy number or gene expression.
-date: 2002/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '11915667'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Aarskog NK
+  - name: Vedeler CA
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Duplication
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: Humans
+  - keyword: Nerve Compression Syndromes
+  - keyword: Paralysis
+  - keyword: Polymerase Chain Reaction
+  - keyword: methods
+  - keyword: Sequence Deletion
+date: 2002/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11915667%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

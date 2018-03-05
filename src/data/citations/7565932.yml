@@ -1,6 +1,13 @@
+pmid: '7565932'
 title: >-
   Acute anterior interosseous neuropathy in a patient with hereditary neuropathy
   with liability to pressure palsies a clinical and electromyographic study.
+abstract: ''
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: K J Felice
 keywords:
@@ -20,11 +27,7 @@ keywords:
   - keyword: complications
   - keyword: genetics
   - keyword: Paralysis
-abstract: ''
 date: 1995/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '7565932'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7565932%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

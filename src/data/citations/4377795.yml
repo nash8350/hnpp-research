@@ -1,6 +1,11 @@
+pmid: '4377795'
 title: >-
   Clinical and electroneuromyographical findings in hereditary neuropathy with
   liability to pressure palsies.
+abstract: ''
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: W Görke
 keywords:
@@ -20,13 +25,9 @@ keywords:
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
-abstract: ''
 date: 1974/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '4377795'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=4377795%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '3220711'
     title: Recurrent familial neuropathy due to liability to pressure palsies.

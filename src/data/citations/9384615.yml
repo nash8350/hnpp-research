@@ -1,29 +1,8 @@
+pmid: '9384615'
 title: >-
   Fine mapping of de novo CMT1A and HNPP rearrangements within CMT1A-REPs
   evidences two distinct sex-dependent mechanisms and candidate sequences
   involved in recombination.
-authors:
-  - name: Lopes J
-  - name: Ravisé N
-  - name: Vandenberghe A
-  - name: Palau F
-  - name: Ionasescu V
-  - name: Mayer M
-  - name: Lévy N
-  - name: Wood N
-  - name: Tachi N
-  - name: Bouche P
-  - name: Latour P
-  - name: Ruberg M
-  - name: Brice A
-  - name: LeGuern E
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Gene Rearrangement
-  - keyword: Humans
-  - keyword: 'Recombination, Genetic'
 abstract: >-
   The molecular mechanism resulting in the duplication or deletion of a 1.5 Mb
   region of 17p11.2-p12, associated, respectively, with Charcot-Marie-Tooth type
@@ -47,12 +26,34 @@ abstract: >-
   hypothesis that two distinct sex-dependent mechanisms are involved. Several
   putative recombination promoting sequences in the hot spot, which are rare or
   absent in the surrounding 7.8 kb, were identified.
-date: 1998/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '9384615'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+authors:
+  - name: Lopes J
+  - name: Ravisé N
+  - name: Vandenberghe A
+  - name: Palau F
+  - name: Ionasescu V
+  - name: Mayer M
+  - name: Lévy N
+  - name: Wood N
+  - name: Tachi N
+  - name: Bouche P
+  - name: Latour P
+  - name: Ruberg M
+  - name: Brice A
+  - name: LeGuern E
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Rearrangement
+  - keyword: Humans
+  - keyword: 'Recombination, Genetic'
+date: 1998/02
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9384615%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
     title: >-

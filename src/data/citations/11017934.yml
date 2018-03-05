@@ -1,26 +1,7 @@
+pmid: '11017934'
 title: >-
   Rapid real-time fluorescent PCR gene dosage test for the diagnosis of DNA
   duplications and deletions.
-authors:
-  - name: Ruiz-Ponte C
-  - name: Loidi L
-  - name: Vega A
-  - name: Carracedo A
-  - name: Barros F
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: DNA
-  - keyword: Fluorescence
-  - keyword: Gene Deletion
-  - keyword: Gene Dosage
-  - keyword: 'Genes, Duplicate'
-  - keyword: Genotype
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Myelin Proteins
-  - keyword: Paralysis
-  - keyword: Polymerase Chain Reaction
 abstract: >-
   Current methods to determine gene dosage are time-consuming and
   labor-intensive. We describe a new and rapid method to assess gene copy number
@@ -45,10 +26,32 @@ abstract: >-
   copies of the target DNA. The method described is sensitive and accurate for
   detection of CMT1A duplications and HNPP deletions and is faster and easier
   than current methods.
-date: 2000/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '11017934'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Ruiz-Ponte C
+  - name: Loidi L
+  - name: Vega A
+  - name: Carracedo A
+  - name: Barros F
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: DNA
+  - keyword: Fluorescence
+  - keyword: Gene Deletion
+  - keyword: Gene Dosage
+  - keyword: 'Genes, Duplicate'
+  - keyword: Genotype
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Myelin Proteins
+  - keyword: Paralysis
+  - keyword: Polymerase Chain Reaction
+date: 2000/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11017934%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -64,6 +64,10 @@ export const topAuthorsQuery = graphql`
             keyword
           }
           abstractLink
+          categories {
+            name
+            enabled
+          }
         }
       }
     }

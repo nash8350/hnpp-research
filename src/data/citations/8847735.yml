@@ -1,25 +1,7 @@
+pmid: '8847735'
 title: >-
   Widespread expression of the peripheral myelin protein-22 gene (PMP22) in
   neural and non-neural tissues during murine development.
-authors:
-  - name: Baechner D
-  - name: Liehr T
-  - name: Hameister H
-  - name: Altenberger H
-  - name: Grehl H
-  - name: Suter U
-  - name: Rautenstrauss B
-keywords:
-  - keyword: Age Factors
-  - keyword: Animals
-  - keyword: In Situ Hybridization
-  - keyword: Mice
-  - keyword: Myelin Proteins
-  - keyword: genetics
-  - keyword: Neurons
-  - keyword: physiology
-  - keyword: RNA
-  - keyword: metabolism
 abstract: >-
   The gene encoding the peripheral myelin protein PMP22 is affected by various
   mutations in the hereditary peripheral neuropathies Charcot-Marie-Tooth
@@ -47,10 +29,33 @@ abstract: >-
   strongly suggest that PMP22 serves not only a PNS-specific function but is
   also of broader biological significance in cell proliferation and/or
   differentiation.
-date: 1995/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '8847735'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Baechner D
+  - name: Liehr T
+  - name: Hameister H
+  - name: Altenberger H
+  - name: Grehl H
+  - name: Suter U
+  - name: Rautenstrauss B
+keywords:
+  - keyword: Age Factors
+  - keyword: Animals
+  - keyword: In Situ Hybridization
+  - keyword: Mice
+  - keyword: Myelin Proteins
+  - keyword: genetics
+  - keyword: Neurons
+  - keyword: physiology
+  - keyword: RNA
+  - keyword: metabolism
+date: 1995/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8847735%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,6 +1,26 @@
+pmid: '9040736'
 title: >-
   Underexpression of messenger RNA for peripheral myelin protein 22 in
   hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is associated
+  with a deletion in chromosome 17p11.2, including the gene for the peripheral
+  myelin protein 22 (PMP-22). Because of the proposal that a decreased dosage of
+  the PMP-22 gene was the cause of HNPP, we evaluated sural nerves from eight
+  patients with the 17p11.2 deletion and from five normal controls. The relative
+  amount of PMP-22 mRNA was significantly lower in HNPP patients compared with
+  normal controls (p < 0.02) using a semiquantitative reverse
+  transcriptase-polymerase chain reaction. There was no significant decrease of
+  Pzero mRNA. Sural nerves from HNPP patients showed normal immunostaining with
+  monoclonal antibodies against PMP-22, Pzero, and myelin basic protein, and
+  only rare myelinated fibers, classified as "tomacula," showed a patchy
+  staining of the compact myelin with monoclonal antibody against PMP-22. The
+  significant underexpression of PMP-22 mRNA in HNPP patients compared with
+  normal controls demonstrates that a decreased dosage of the PMP-22 gene is the
+  most likely pathogenetic mechanism in HNPP.
+categories:
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Schenone A
   - name: Nobbio L
@@ -25,28 +45,9 @@ keywords:
   - keyword: Pressure
   - keyword: 'RNA, Messenger'
   - keyword: Recurrence
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is associated
-  with a deletion in chromosome 17p11.2, including the gene for the peripheral
-  myelin protein 22 (PMP-22). Because of the proposal that a decreased dosage of
-  the PMP-22 gene was the cause of HNPP, we evaluated sural nerves from eight
-  patients with the 17p11.2 deletion and from five normal controls. The relative
-  amount of PMP-22 mRNA was significantly lower in HNPP patients compared with
-  normal controls (p < 0.02) using a semiquantitative reverse
-  transcriptase-polymerase chain reaction. There was no significant decrease of
-  Pzero mRNA. Sural nerves from HNPP patients showed normal immunostaining with
-  monoclonal antibodies against PMP-22, Pzero, and myelin basic protein, and
-  only rare myelinated fibers, classified as "tomacula," showed a patchy
-  staining of the compact myelin with monoclonal antibody against PMP-22. The
-  significant underexpression of PMP-22 mRNA in HNPP patients compared with
-  normal controls demonstrates that a decreased dosage of the PMP-22 gene is the
-  most likely pathogenetic mechanism in HNPP.
 date: 1997/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9040736'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9040736%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
     title: >-

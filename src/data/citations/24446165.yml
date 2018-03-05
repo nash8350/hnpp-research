@@ -1,22 +1,5 @@
+pmid: '24446165'
 title: Paranodal dysmyelination in peripheral nerves of Trembler mice.
-authors:
-  - name: Rosenbluth J
-  - name: Bobrowski-Khoury N
-keywords:
-  - keyword: Animals
-  - keyword: Axons
-  - keyword: pathology
-  - keyword: Demyelinating Diseases
-  - keyword: genetics
-  - keyword: 'Disease Models, Animal'
-  - keyword: Mice
-  - keyword: 'Mice, Neurologic Mutants'
-  - keyword: Mutation
-  - keyword: Myelin Proteins
-  - keyword: Myelin Sheath
-  - keyword: Neural Conduction
-  - keyword: Peripheral Nerves
-  - keyword: Ranvier's Nodes
 abstract: >-
   Subtle defects in paranodes of myelinated nerve fibers can cause significant
   physiological malfunction. We have investigated myelinated fibers in the
@@ -37,10 +20,34 @@ abstract: >-
   of the myelin sheath. We conclude that Trembler PNS myelinated fibers display
   subtle defects in paranodal and nodal regions that could contribute
   significantly to conduction defects and increased risk of myelin detachment.
-date: 2014/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '24446165'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Rosenbluth J
+  - name: Bobrowski-Khoury N
+keywords:
+  - keyword: Animals
+  - keyword: Axons
+  - keyword: pathology
+  - keyword: Demyelinating Diseases
+  - keyword: genetics
+  - keyword: 'Disease Models, Animal'
+  - keyword: Mice
+  - keyword: 'Mice, Neurologic Mutants'
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Myelin Sheath
+  - keyword: Neural Conduction
+  - keyword: Peripheral Nerves
+  - keyword: Ranvier's Nodes
+date: 2014/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24446165%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,6 +1,24 @@
+pmid: '8589720'
 title: >-
   A recombination hotspot responsible for two inherited peripheral neuropathies
   is located near a mariner transposon-like element.
+abstract: >-
+  The Charcot-Marie Tooth disease type 1A (CMT1A) duplication and hereditary
+  neuropathy with liability to pressure palsies (HNPP) deletion are reciprocal
+  products of an unequal crossing-over event between misaligned flanking
+  CMT1A-REP repeats. The molecular aetiology of this apparently homologous
+  recombination event was examined by sequencing the crossover region. Through
+  the detection of novel junction fragments from the recombinant CMT1A-REPs in
+  both CMT1A and HNPP patients, a 1.7-kb recombination hotspot within the
+  approximately 30-kb CMT1A-REPs was identified. This hotspot is 98% identical
+  between CMT1A-REPs indicating that sequence identity is not likely the sole
+  factor involved in promoting crossover events. Sequence analysis revealed a
+  mariner transposon-like element (MITE) near the hotspot which we hypothesize
+  could mediate strand exchange events via cleavage by a transposase at or near
+  the 3' end of the element.
+categories:
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Reiter LT
   - name: Murakami T
@@ -25,26 +43,9 @@ keywords:
   - keyword: 'Repetitive Sequences, Nucleic Acid'
   - keyword: Restriction Mapping
   - keyword: 'Sequence Homology, Amino Acid'
-abstract: >-
-  The Charcot-Marie Tooth disease type 1A (CMT1A) duplication and hereditary
-  neuropathy with liability to pressure palsies (HNPP) deletion are reciprocal
-  products of an unequal crossing-over event between misaligned flanking
-  CMT1A-REP repeats. The molecular aetiology of this apparently homologous
-  recombination event was examined by sequencing the crossover region. Through
-  the detection of novel junction fragments from the recombinant CMT1A-REPs in
-  both CMT1A and HNPP patients, a 1.7-kb recombination hotspot within the
-  approximately 30-kb CMT1A-REPs was identified. This hotspot is 98% identical
-  between CMT1A-REPs indicating that sequence identity is not likely the sole
-  factor involved in promoting crossover events. Sequence analysis revealed a
-  mariner transposon-like element (MITE) near the hotspot which we hypothesize
-  could mediate strand exchange events via cleavage by a transposase at or near
-  the 3' end of the element.
 date: 1996/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8589720'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8589720%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
     title: The PMP22 gene and its related diseases.

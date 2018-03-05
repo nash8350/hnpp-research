@@ -1,6 +1,26 @@
+pmid: '11054147'
 title: >-
   Lesion of the anterior branch of axillary nerve in a patient with hereditary
   neuropathy with liability to pressure palsies.
+abstract: >-
+  We report the case of a 30-year-old woman affected by hereditary neuropathy
+  with liability to pressure palsies (HNPP), who developed a painless left
+  axillary neuropathy after sleeping on her left side, on a firm orthopaedic
+  mattress, in her eighth month of pregnancy. Electromyography (EMG) showing
+  neurogenic signs in the left anterior and middle deltoid, and normal findings
+  in the left teres minor, posterior deltoid and other proximal upper limb
+  muscles, demonstrated that the lesion was at the level of the axillary
+  anterior branch. A direct compression of this branch against the surgical neck
+  of the humerus seems the most likely pathogenic mechanism. This is the first
+  documented description of an axillary neuropathy in HNPP. Knowledge of its
+  possible occurrence may be important for prevention purposes.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: S Simonetti
 keywords:
@@ -19,22 +39,7 @@ keywords:
   - keyword: Nerve Crush
   - keyword: Peripheral Nervous System Diseases
   - keyword: complications
-abstract: >-
-  We report the case of a 30-year-old woman affected by hereditary neuropathy
-  with liability to pressure palsies (HNPP), who developed a painless left
-  axillary neuropathy after sleeping on her left side, on a firm orthopaedic
-  mattress, in her eighth month of pregnancy. Electromyography (EMG) showing
-  neurogenic signs in the left anterior and middle deltoid, and normal findings
-  in the left teres minor, posterior deltoid and other proximal upper limb
-  muscles, demonstrated that the lesion was at the level of the axillary
-  anterior branch. A direct compression of this branch against the surgical neck
-  of the humerus seems the most likely pathogenic mechanism. This is the first
-  documented description of an axillary neuropathy in HNPP. Knowledge of its
-  possible occurrence may be important for prevention purposes.
 date: 2000/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11054147'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11054147%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

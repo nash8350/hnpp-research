@@ -1,6 +1,28 @@
+pmid: '12885335'
 title: >-
   A rapid and definitive test for Charcot-Marie-Tooth 1A and hereditary
   neuropathy with liability to pressure palsies using multiplexed real-time PCR.
+abstract: >-
+  Alterations in gene copy number have been shown to cause disease in humans.
+  Two of the most common inherited peripheral neuropathies, Charcot-Marie-Tooth
+  1A (CMT1A) and hereditary neuropathy with liability to pressure palsies
+  (HNPP), are two such diseases resulting from alteration in gene copy number of
+  the dosage sensitive peripheral myelin protein 22 (PMP22) gene. Many
+  complicated and laborious diagnostic tests exist for the diagnosis of these
+  diseases. The aim of our study was to develop the first quantitative multiplex
+  real-time PCR assay for the diagnosis of CMT1A and HNPP. A total of 160
+  individuals who were known to have CMT1A, HNPP, or were normal from previous
+  testing were assayed by our multiplex real-time PCR method. The results
+  confirmed the previously determined gene copy number of all patient and
+  control individuals tested. The range of ratio values between the disease and
+  control groups were easily defined. The assay is accurate, simple, and cost
+  effective and can detect a 50% change in gene copy number. This represents an
+  ideal assay for any small diagnostic laboratory.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Lorentzos P
   - name: Kaiser T
@@ -18,28 +40,9 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: Polymerase Chain Reaction
   - keyword: methods
-abstract: >-
-  Alterations in gene copy number have been shown to cause disease in humans.
-  Two of the most common inherited peripheral neuropathies, Charcot-Marie-Tooth
-  1A (CMT1A) and hereditary neuropathy with liability to pressure palsies
-  (HNPP), are two such diseases resulting from alteration in gene copy number of
-  the dosage sensitive peripheral myelin protein 22 (PMP22) gene. Many
-  complicated and laborious diagnostic tests exist for the diagnosis of these
-  diseases. The aim of our study was to develop the first quantitative multiplex
-  real-time PCR assay for the diagnosis of CMT1A and HNPP. A total of 160
-  individuals who were known to have CMT1A, HNPP, or were normal from previous
-  testing were assayed by our multiplex real-time PCR method. The results
-  confirmed the previously determined gene copy number of all patient and
-  control individuals tested. The range of ratio values between the disease and
-  control groups were easily defined. The assay is accurate, simple, and cost
-  effective and can detect a 50% change in gene copy number. This represents an
-  ideal assay for any small diagnostic laboratory.
 date: 2003/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12885335'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12885335%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15988805'
     title: >-

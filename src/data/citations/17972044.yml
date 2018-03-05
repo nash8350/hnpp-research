@@ -1,4 +1,20 @@
+pmid: '17972044'
 title: Saturday night brachial plexus palsy.
+abstract: >-
+  An unusual case of brachial plexopathy following an alcohol binge is
+  presented. The patient developed numbness and weakness of his right hand and
+  neurophysiological tests demonstrated that the lesion level was at the
+  brachial plexus. MRI of the brachial plexus, cerebrospinal fluid examination
+  and DNA analysis for hereditary neuropathy with liability to pressure palsies
+  were normal. Repeated neurological examination and neurophysiological studies
+  60 days later were normal. A diagnosis of brachial plexus neuropathy
+  consequent to non-traumatic stretching of the middle and the lower trunks was
+  made.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Marchini C
   - name: Zambito Marsala S
@@ -15,18 +31,7 @@ keywords:
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Paresis
-abstract: >-
-  An unusual case of brachial plexopathy following an alcohol binge is
-  presented. The patient developed numbness and weakness of his right hand and
-  neurophysiological tests demonstrated that the lesion level was at the
-  brachial plexus. MRI of the brachial plexus, cerebrospinal fluid examination
-  and DNA analysis for hereditary neuropathy with liability to pressure palsies
-  were normal. Repeated neurological examination and neurophysiological studies
-  60 days later were normal. A diagnosis of brachial plexus neuropathy
-  consequent to non-traumatic stretching of the middle and the lower trunks was
-  made.
 date: 2007/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '16412841'
   - pmid: '11870699'
@@ -34,7 +39,5 @@ cites:
   - pmid: '11437168'
   - pmid: '14871452'
   - pmid: '15452843'
-pmid: '17972044'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17972044%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

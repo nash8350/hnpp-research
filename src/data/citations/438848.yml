@@ -1,17 +1,5 @@
+pmid: '438848'
 title: Intranervous regeneration. The study of motor axon reflexes.
-authors:
-  - name: G Roth
-keywords:
-  - keyword: Electromyography
-  - keyword: Evoked Potentials
-  - keyword: Humans
-  - keyword: Motor Neurons
-  - keyword: physiology
-  - keyword: Nerve Regeneration
-  - keyword: Neuromuscular Diseases
-  - keyword: physiopathology
-  - keyword: Reaction Time
-  - keyword: 'Reflex, Abnormal'
 abstract: >-
   More than 1000 motor axon reflexes (ARs) have been studied. The AR often has a
   long latency and the first excited branch almost always has the fastest
@@ -26,10 +14,23 @@ abstract: >-
   neurolysis in some of these cases has to be considered. Obstetrical brachial
   plexus palsies furnish many ARs linking two muscles, thus explaining the
   associated contractions in these cases.
-date: 1979/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '438848'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: G Roth
+keywords:
+  - keyword: Electromyography
+  - keyword: Evoked Potentials
+  - keyword: Humans
+  - keyword: Motor Neurons
+  - keyword: physiology
+  - keyword: Nerve Regeneration
+  - keyword: Neuromuscular Diseases
+  - keyword: physiopathology
+  - keyword: Reaction Time
+  - keyword: 'Reflex, Abnormal'
+date: 1979/04
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=438848%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

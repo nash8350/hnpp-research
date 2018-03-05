@@ -1,7 +1,45 @@
+pmid: '27386852'
 title: >-
   Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from replication-based
   mechanisms and result in Smith-Magenis syndrome with evident peripheral
   neuropathy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) and
+  Smith-Magenis syndrome (SMS) are genomic disorders associated with deletion
+  copy number variants involving chromosome 17p12 and 17p11.2, respectively.
+  Nonallelic homologous recombination (NAHR)-mediated recurrent deletions are
+  responsible for the majority of HNPP and SMS cases; the rearrangement products
+  encompass the key dosage-sensitive genes PMP22 and RAI1, respectively, and
+  result in haploinsufficiency for these genes. Less frequently, nonrecurrent
+  genomic rearrangements occur at this locus. Contiguous gene duplications
+  encompassing both PMP22 and RAI1, i.e., PMP22-RAI1 duplications, have been
+  investigated, and replication-based mechanisms rather than NAHR have been
+  proposed for these rearrangements. In the current study, we report molecular
+  and clinical characterizations of six subjects with the reciprocal phenomenon
+  of deletions spanning both genes, i.e., PMP22-RAI1 deletions. Molecular
+  studies utilizing high-resolution array comparative genomic hybridization and
+  breakpoint junction sequencing identified mutational signatures that were
+  suggestive of replication-based mechanisms. Systematic clinical studies
+  revealed features consistent with SMS, including features of intellectual
+  disability, speech and gross motor delays, behavioral problems and ocular
+  abnormalities. Five out of six subjects presented clinical signs and/or
+  objective electrophysiologic studies of peripheral neuropathy. Clinical
+  profiling may improve the clinical management of this unique group of
+  subjects, as the peripheral neuropathy can be more severe or of earlier onset
+  as compared to SMS patients having the common recurrent deletion. Moreover,
+  the current study, in combination with the previous report of PMP22-RAI1
+  duplications, contributes to the understanding of rare complex phenotypes
+  involving multiple dosage-sensitive genes from a genetic mechanistic
+  standpoint.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Yuan B
   - name: Neira J
@@ -34,36 +72,7 @@ keywords:
   - keyword: Myelin Proteins
   - keyword: Smith-Magenis Syndrome
   - keyword: Transcription Factors
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) and
-  Smith-Magenis syndrome (SMS) are genomic disorders associated with deletion
-  copy number variants involving chromosome 17p12 and 17p11.2, respectively.
-  Nonallelic homologous recombination (NAHR)-mediated recurrent deletions are
-  responsible for the majority of HNPP and SMS cases; the rearrangement products
-  encompass the key dosage-sensitive genes PMP22 and RAI1, respectively, and
-  result in haploinsufficiency for these genes. Less frequently, nonrecurrent
-  genomic rearrangements occur at this locus. Contiguous gene duplications
-  encompassing both PMP22 and RAI1, i.e., PMP22-RAI1 duplications, have been
-  investigated, and replication-based mechanisms rather than NAHR have been
-  proposed for these rearrangements. In the current study, we report molecular
-  and clinical characterizations of six subjects with the reciprocal phenomenon
-  of deletions spanning both genes, i.e., PMP22-RAI1 deletions. Molecular
-  studies utilizing high-resolution array comparative genomic hybridization and
-  breakpoint junction sequencing identified mutational signatures that were
-  suggestive of replication-based mechanisms. Systematic clinical studies
-  revealed features consistent with SMS, including features of intellectual
-  disability, speech and gross motor delays, behavioral problems and ocular
-  abnormalities. Five out of six subjects presented clinical signs and/or
-  objective electrophysiologic studies of peripheral neuropathy. Clinical
-  profiling may improve the clinical management of this unique group of
-  subjects, as the peripheral neuropathy can be more severe or of earlier onset
-  as compared to SMS patients having the common recurrent deletion. Moreover,
-  the current study, in combination with the previous report of PMP22-RAI1
-  duplications, contributes to the understanding of rare complex phenotypes
-  involving multiple dosage-sensitive genes from a genetic mechanistic
-  standpoint.
 date: 2016/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '25087610'
   - pmid: '9758599'
@@ -124,7 +133,5 @@ cites:
   - pmid: '26924765'
   - pmid: '17041942'
   - pmid: '20271590'
-pmid: '27386852'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27386852%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

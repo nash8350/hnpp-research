@@ -1,14 +1,5 @@
+pmid: '21290997'
 title: Hereditary neuropathy.
-authors:
-  - name: Wayne F Heidenreich
-keywords:
-  - keyword: Arthrogryposis
-  - keyword: diagnosis
-  - keyword: 'Diagnosis, Differential'
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
 abstract: >-
   A 58-year-old male presented with a history of slowly progressive bilateral
   hand weakness manifested by decreased grip strength and pinch strength
@@ -21,10 +12,20 @@ abstract: >-
   peripheral neuropathy are discussed. The case details over time, hereditary
   features, and the natural history of this disorder lead to a favorable
   clinical and insurance medicine prognosis.
-date: 2011/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '21290997'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+authors:
+  - name: Wayne F Heidenreich
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+date: 2011/02
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21290997%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

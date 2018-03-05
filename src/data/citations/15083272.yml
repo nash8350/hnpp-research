@@ -1,6 +1,30 @@
+pmid: '15083272'
 title: >-
   [Delayed paresis of the femoral nerve after total hip arthroplasty associated
   with hereditary neuropathy with liability to pressure palsies (HNPP)].
+abstract: >-
+  Delayed lesions of the femoral or sciatic nerve are a rare complication after
+  total hip arthroplasty. Several cases in association with cement edges, scar
+  tissue, broken cerclages, deep hematoma, or reinforcement rings have been
+  published. We report about a 62-year-old female who developed a pure motor
+  paresis of the quadriceps muscle 2 weeks after total hip arthroplasty. After
+  electrophysiological evaluation had revealed an isolated femoral nerve lesion,
+  revision of the femoral nerve was performed. During operative revision no
+  pathologic findings could be seen. One week later the patient developed
+  paralysis of the left wrist and finger extensors after using crutches.
+  Electrophysiological evaluation revealed several nerve conduction blocks in
+  physiological entrapments and the diagnosis of hereditary neuropathy with
+  liability to pressure palsies (HNPP) was established. Hereditary neuropathy
+  with liability to pressure palsies (HNPP) is a rare disease with increased
+  vulnerability of the peripheral nerve system with mostly reversible
+  sensorimotor deficits. It should be taken into consideration in cases of
+  atypical findings of compression syndromes of peripheral nerves or delayed
+  neuropathy, e. g., after total hip arthroplasty.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Schuh A
   - name: Dürr V
@@ -24,26 +48,7 @@ keywords:
   - keyword: Paralysis
   - keyword: Postoperative Complications
   - keyword: Reoperation
-abstract: >-
-  Delayed lesions of the femoral or sciatic nerve are a rare complication after
-  total hip arthroplasty. Several cases in association with cement edges, scar
-  tissue, broken cerclages, deep hematoma, or reinforcement rings have been
-  published. We report about a 62-year-old female who developed a pure motor
-  paresis of the quadriceps muscle 2 weeks after total hip arthroplasty. After
-  electrophysiological evaluation had revealed an isolated femoral nerve lesion,
-  revision of the femoral nerve was performed. During operative revision no
-  pathologic findings could be seen. One week later the patient developed
-  paralysis of the left wrist and finger extensors after using crutches.
-  Electrophysiological evaluation revealed several nerve conduction blocks in
-  physiological entrapments and the diagnosis of hereditary neuropathy with
-  liability to pressure palsies (HNPP) was established. Hereditary neuropathy
-  with liability to pressure palsies (HNPP) is a rare disease with increased
-  vulnerability of the peripheral nerve system with mostly reversible
-  sensorimotor deficits. It should be taken into consideration in cases of
-  atypical findings of compression syndromes of peripheral nerves or delayed
-  neuropathy, e. g., after total hip arthroplasty.
 date: 2004/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '7944298'
   - pmid: '1336039'
@@ -68,7 +73,5 @@ cites:
   - pmid: '4322077'
   - pmid: '3888469'
   - pmid: '8800924'
-pmid: '15083272'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15083272%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

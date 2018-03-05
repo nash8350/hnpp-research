@@ -1,15 +1,8 @@
+pmid: '29108667'
 title: >-
   Clinical, electrophysiological, genetic, and imaging features of six Chinese
   Han patients with hereditary neuropathy with liability to pressure palsies
   (HNPP).
-authors:
-  - name: Chen B
-  - name: Niu S
-  - name: Wang X
-  - name: Li W
-  - name: Chen N
-  - name: Zhang Z
-keywords: []
 abstract: >-
   Hereditary neuropathy with liability to pressure palsies (HNPP) is an
   autosomal dominant peripheral neuropathy caused by mutations in the peripheral
@@ -30,10 +23,22 @@ abstract: >-
   necrosis factor (LITAF) gene was found in one patient. There was no
   relationship between the Ile92Val variant of LITAF and age of onset in this
   group, albeit the sample size was very small.
-date: 2017/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '29108667'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Chen B
+  - name: Niu S
+  - name: Wang X
+  - name: Li W
+  - name: Chen N
+  - name: Zhang Z
+keywords: []
+date: 2017/11
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29108667%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

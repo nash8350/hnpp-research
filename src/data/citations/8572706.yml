@@ -1,6 +1,19 @@
+pmid: '8572706'
 title: >-
   Detection of specific bacterial cells with 2-hydroxy-3-naphthoic
   acid-2'-phenylanilide phosphate and fast red TR in situ hybridization.
+abstract: >-
+  An in situ hybridization technique with HNPP (2-hydroxy-3-naphthoic
+  acid-2'-phenylanilide phosphate) and Fast Red TR was used to detect specific
+  bacterial cells at the single-cell level. By this technique, the fluorescent
+  signals of target bacterial cells were up to eight times more intense than
+  those of standard fluorescence in situ hybridization with mono-fluorescein
+  isothiocyanate-labeled oligonucleotide probes. This novel HNPP-Fast Red TR
+  whole-cell hybridization technique is available for the identification of
+  small or low-rRNA-content bacterial cells in the natural environment.
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Yamaguchi N
   - name: Inaoka S
@@ -21,17 +34,7 @@ keywords:
   - keyword: 'RNA, Ribosomal, 16S'
   - keyword: genetics
   - keyword: Species Specificity
-abstract: >-
-  An in situ hybridization technique with HNPP (2-hydroxy-3-naphthoic
-  acid-2'-phenylanilide phosphate) and Fast Red TR was used to detect specific
-  bacterial cells at the single-cell level. By this technique, the fluorescent
-  signals of target bacterial cells were up to eight times more intense than
-  those of standard fluorescence in situ hybridization with mono-fluorescein
-  isothiocyanate-labeled oligonucleotide probes. This novel HNPP-Fast Red TR
-  whole-cell hybridization technique is available for the identification of
-  small or low-rRNA-content bacterial cells in the natural environment.
 date: 1996/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '3162770'
   - pmid: '8517747'
@@ -47,9 +50,7 @@ cites:
   - pmid: '1967116'
   - pmid: '7679962'
   - pmid: '1591615'
-pmid: '8572706'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8572706%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11679354'
     title: >-

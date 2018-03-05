@@ -1,16 +1,5 @@
+pmid: '14973425'
 title: '[Diagnosis of hereditary neuropathies in adult-subjects].'
-authors:
-  - name: D Pareyson
-keywords:
-  - keyword: Adult
-  - keyword: Electrophysiology
-  - keyword: Family Health
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: classification
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Phenotype
 abstract: >-
   The clinical approach to hereditary neuropathies of adulthood has become very
   complex. The following issues are reviewed elements that point to a neuropathy
@@ -26,10 +15,22 @@ abstract: >-
   porphyric neuropathies, Refsum disease, hereditary neuropathy with liability
   to pressure palsies (HNPP), hereditary neuralgic amyotrophy and other rare
   disorders involving the peripheral nervous system are reviewed.
-date: 2004/02
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '14973425'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+authors:
+  - name: D Pareyson
+keywords:
+  - keyword: Adult
+  - keyword: Electrophysiology
+  - keyword: Family Health
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: classification
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: Humans
+  - keyword: Phenotype
+date: 2004/02
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14973425%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

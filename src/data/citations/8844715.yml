@@ -1,7 +1,26 @@
+pmid: '8844715'
 title: >-
   Use of cosH1 probe in hereditary neuropathy with liability to pressure palsies
   a reliable genetic test for demonstration of identical size of 17p11.2
   deletion in unrelated patients.
+abstract: >-
+  We describe pulsed-field gel electrophoresis (PFGE) analysis of 10 unrelated
+  Italian families and seven isolated cases with hereditary neuropathy with
+  liability to pressure palsies (HNPP). Our sample includes patients with
+  different clinical features, varying from classical liability to pressure
+  palsies to ingravescent polyneuropathy. The frequency and the uniformity in
+  size of the 17p11.2 deletion was evaluated by using cosH1 probe from the
+  Charcot-Marie-Tooth neuropathy type 1A (CMT1A)-REP region. The presence of the
+  deletion was demonstrated in all our patients; furthermore, the deletion was
+  of identical size, although our patients had different clinical features.
+  Molecular analysis of the 17p11.2 region by PFGE method proved to be a
+  reliable and non-invasive method of diagnosis in HNPP cases both familial and
+  isolated.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Bellone E
   - name: Schenone A
@@ -23,23 +42,7 @@ keywords:
   - keyword: Paralysis
   - keyword: Point Mutation
   - keyword: Restriction Mapping
-abstract: >-
-  We describe pulsed-field gel electrophoresis (PFGE) analysis of 10 unrelated
-  Italian families and seven isolated cases with hereditary neuropathy with
-  liability to pressure palsies (HNPP). Our sample includes patients with
-  different clinical features, varying from classical liability to pressure
-  palsies to ingravescent polyneuropathy. The frequency and the uniformity in
-  size of the 17p11.2 deletion was evaluated by using cosH1 probe from the
-  Charcot-Marie-Tooth neuropathy type 1A (CMT1A)-REP region. The presence of the
-  deletion was demonstrated in all our patients; furthermore, the deletion was
-  of identical size, although our patients had different clinical features.
-  Molecular analysis of the 17p11.2 region by PFGE method proved to be a
-  reliable and non-invasive method of diagnosis in HNPP cases both familial and
-  isolated.
 date: 1996/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8844715'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8844715%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

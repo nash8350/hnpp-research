@@ -1,21 +1,7 @@
+pmid: '25792482'
 title: >-
   Molecular regulators of nerve conduction - Lessons from inherited neuropathies
   and rodent genetic models.
-authors:
-  - name: Jun Li
-keywords:
-  - keyword: Action Potentials
-  - keyword: genetics
-  - keyword: Animals
-  - keyword: 'Disease Models, Animal'
-  - keyword: Myelin Proteins
-  - keyword: metabolism
-  - keyword: 'Nerve Fibers, Myelinated'
-  - keyword: pathology
-  - keyword: Neural Conduction
-  - keyword: Peripheral Nervous System Diseases
-  - keyword: physiopathology
-  - keyword: Rodentia
 abstract: >-
   Myelinated nerve fibers are highly compartmentalized. Helically wrapped
   lipoprotein membranes of myelin are integrated with subsets of proteins
@@ -33,8 +19,25 @@ abstract: >-
   affect myelin thickness, but not axon diameter or internodal length. Finally,
   we will discuss how these basic neurobiological observations can be applied to
   inherited peripheral nerve diseases.
+categories:
+  - name: Diagnosis
+    enabled: true
+authors:
+  - name: Jun Li
+keywords:
+  - keyword: Action Potentials
+  - keyword: genetics
+  - keyword: Animals
+  - keyword: 'Disease Models, Animal'
+  - keyword: Myelin Proteins
+  - keyword: metabolism
+  - keyword: 'Nerve Fibers, Myelinated'
+  - keyword: pathology
+  - keyword: Neural Conduction
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: physiopathology
+  - keyword: Rodentia
 date: 2015/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '314974'
   - pmid: '23224996'
@@ -130,9 +133,7 @@ cites:
   - pmid: '11939347'
   - pmid: '7581450'
   - pmid: '6244497'
-pmid: '25792482'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25792482%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27583434'
     title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.

@@ -1,24 +1,5 @@
+pmid: '16570190'
 title: Identification of Alu elements mediating a partial PMP22 deletion.
-authors:
-  - name: Matejas V
-  - name: Huehne K
-  - name: Thiel C
-  - name: Sommer C
-  - name: Jakubiczka S
-  - name: Rautenstrauss B
-keywords:
-  - keyword: Alu Elements
-  - keyword: Base Sequence
-  - keyword: DNA Mutational Analysis
-  - keyword: Exons
-  - keyword: Gene Deletion
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
-  - keyword: Molecular Sequence Data
-  - keyword: Myelin Proteins
 abstract: >-
   Hereditary neuropathy with liability to pressure palsies (HNPP) is most
   frequently caused by deletion of a 1.4-Mb region in chromosome 17p11.2-12
@@ -42,8 +23,32 @@ abstract: >-
   PCR fragments revealed a 29-bp motif including a chi-like sequence (GCTGG)
   present both in the AluYb9 and the AluSq element. These data confirm that
   low-copy repeats (LCRs) mediate non-allelic homologous recombinations (NAHR).
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Matejas V
+  - name: Huehne K
+  - name: Thiel C
+  - name: Sommer C
+  - name: Jakubiczka S
+  - name: Rautenstrauss B
+keywords:
+  - keyword: Alu Elements
+  - keyword: Base Sequence
+  - keyword: DNA Mutational Analysis
+  - keyword: Exons
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: genetics
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Middle Aged
+  - keyword: Molecular Sequence Data
+  - keyword: Myelin Proteins
 date: 2006/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '8789446'
   - pmid: '8111370'
@@ -66,7 +71,5 @@ cites:
   - pmid: '9384615'
   - pmid: '8800924'
   - pmid: '12497641'
-pmid: '16570190'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16570190%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,4 +1,12 @@
+pmid: '17607607'
 title: Early-onset hereditary neuropathy with liability to pressure palsy.
+abstract: >-
+  The clinical onset of hereditary neuropathy with liability to pressure palsy
+  (HNPP) in childhood is rarely reported. On the basis of a 5-year-old affected
+  patient, we reviewed the cases reported in the literature to evaluate the
+  clinical and genetic characteristics of patients with an early onset (<10
+  years) of HNPP.
+categories: []
 authors:
   - name: Antonini G
   - name: Luchetti A
@@ -21,18 +29,9 @@ keywords:
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Paralysis
-abstract: >-
-  The clinical onset of hereditary neuropathy with liability to pressure palsy
-  (HNPP) in childhood is rarely reported. On the basis of a 5-year-old affected
-  patient, we reviewed the cases reported in the literature to evaluate the
-  clinical and genetic characteristics of patients with an early onset (<10
-  years) of HNPP.
 date: 2007/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '17607607'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17607607%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24251057'
     title: >-

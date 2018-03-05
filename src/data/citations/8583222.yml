@@ -1,6 +1,24 @@
+pmid: '8583222'
 title: >-
   Deletion in chromosome 17p11.2 including the peripheral myelin protein-22
   (PMP-22) gene in hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  We report the clinical, electrophysiological, and pathological findings of two
+  unrelated Japanese families with hereditary neuropathy with liability to
+  pressure palsies (HNPP) and confirm the findings of a deletion of peripheral
+  myelin protein-22 (PMP-22) gene. Electrophysiological studies revealed slowing
+  of nerve conduction velocities of the affected nerves. Sural nerve biopsy
+  revealed regions of myelin duplication. The copy numbers of PMP-22 gene was
+  lower than that of normal control, suggesting deletion of 17p11.2 including
+  PMP-22 gene. Our results indicate that HNPP in these two Japanese families is
+  attributable to deletion of 17p11.2 including PMP-22 gene.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Umehara F
   - name: Kiwaki T
@@ -28,20 +46,7 @@ keywords:
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
   - keyword: Sural Nerve
-abstract: >-
-  We report the clinical, electrophysiological, and pathological findings of two
-  unrelated Japanese families with hereditary neuropathy with liability to
-  pressure palsies (HNPP) and confirm the findings of a deletion of peripheral
-  myelin protein-22 (PMP-22) gene. Electrophysiological studies revealed slowing
-  of nerve conduction velocities of the affected nerves. Sural nerve biopsy
-  revealed regions of myelin duplication. The copy numbers of PMP-22 gene was
-  lower than that of normal control, suggesting deletion of 17p11.2 including
-  PMP-22 gene. Our results indicate that HNPP in these two Japanese families is
-  attributable to deletion of 17p11.2 including PMP-22 gene.
 date: 1995/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8583222'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8583222%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

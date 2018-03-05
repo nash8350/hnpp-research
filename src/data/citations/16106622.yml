@@ -1,16 +1,5 @@
+pmid: '16106622'
 title: Genetic evaluation of inherited motor/sensory neuropathy.
-authors:
-  - name: Phillip F Chance
-keywords:
-  - keyword: Animals
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: classification
-  - keyword: genetics
-  - keyword: Chromosome Mapping
-  - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
 abstract: >-
   Inherited disorders of peripheral nerves represent a common group of
   neurologic diseases. Charcot-Marie-Tooth neuropathy type 1 (CMT1) is a
@@ -46,10 +35,26 @@ abstract: >-
   CMT1A and HNPP are reciprocal duplication/deletion syndromes that originate
   from unequal crossover during germ cell meiosis. Other rare forms of
   demyelinating peripheral neuropathies map to chromosome 8q, 10q and 11q.
-date: 2005/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '16106622'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Phillip F Chance
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: classification
+  - keyword: genetics
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+date: 2005/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16106622%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

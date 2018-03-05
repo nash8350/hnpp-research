@@ -1,6 +1,33 @@
+pmid: '22023293'
 title: >-
   Hereditary neuropathy with liability to pressure palsy a brief review with a
   case report.
+abstract: >-
+  Hereditary Neuropathy with Liability to Pressure Palsy (HNPP) is an autosomal
+  dominant disorder and is usually characterized by episodes of recurrent and
+  painless focal motor and sensory peripheral mononeuropathy. This condition is
+  usually localized around areas of entrapment (predominantly the wrists, knees,
+  elbows, and shoulders). The genetic locus of the disease is chromosome 17p12.
+  A deletion of the PMP22 gene results in the lack of peripheral myelin protein,
+  a key component to the myelin sheet of peripheral nerves. However, this
+  disease may be completely asymptomatic until an event, such as a minor trauma,
+  triggers these episodes, as seen in our presented case report. The diagnosis
+  of HNPP can be somewhat challenging, as other diseases, such as
+  Charcot-Marie-Tooth disease type 1A (CMT) and Hereditary Neuralgic Amyotrophy
+  (HNA) must be included in the differential diagnosis due to their overlapping
+  clinical features. There are currently no treatments to cure the disease, but
+  therapies seek to alleviate the symptoms and recurring episodes.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Rana AQ
   - name: Masroor MS
@@ -21,27 +48,9 @@ keywords:
   - keyword: Peripheral Nerves
   - keyword: metabolism
   - keyword: pathology
-abstract: >-
-  Hereditary Neuropathy with Liability to Pressure Palsy (HNPP) is an autosomal
-  dominant disorder and is usually characterized by episodes of recurrent and
-  painless focal motor and sensory peripheral mononeuropathy. This condition is
-  usually localized around areas of entrapment (predominantly the wrists, knees,
-  elbows, and shoulders). The genetic locus of the disease is chromosome 17p12.
-  A deletion of the PMP22 gene results in the lack of peripheral myelin protein,
-  a key component to the myelin sheet of peripheral nerves. However, this
-  disease may be completely asymptomatic until an event, such as a minor trauma,
-  triggers these episodes, as seen in our presented case report. The diagnosis
-  of HNPP can be somewhat challenging, as other diseases, such as
-  Charcot-Marie-Tooth disease type 1A (CMT) and Hereditary Neuralgic Amyotrophy
-  (HNA) must be included in the differential diagnosis due to their overlapping
-  clinical features. There are currently no treatments to cure the disease, but
-  therapies seek to alleviate the symptoms and recurring episodes.
 date: 2011/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '22023293'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22023293%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
     title: >-

@@ -1,29 +1,7 @@
+pmid: '15755691'
 title: >-
   Distinct disease mechanisms in peripheral neuropathies due to altered
   peripheral myelin protein 22 gene dosage or a Pmp22 point mutation.
-authors:
-  - name: Giambonini-Brugnoli G
-  - name: Buchstaller J
-  - name: Sommer L
-  - name: Suter U
-  - name: Mantei N
-keywords:
-  - keyword: Animals
-  - keyword: 'Animals, Newborn'
-  - keyword: Gene Dosage
-  - keyword: Gene Expression Regulation
-  - keyword: genetics
-  - keyword: 'Genes, cdc'
-  - keyword: physiology
-  - keyword: Mice
-  - keyword: 'Mice, Knockout'
-  - keyword: 'Mice, Transgenic'
-  - keyword: Myelin Proteins
-  - keyword: biosynthesis
-  - keyword: Peripheral Nervous System Diseases
-  - keyword: metabolism
-  - keyword: pathology
-  - keyword: Point Mutation
 abstract: >-
   Point mutations affecting PMP22 can cause hereditary demyelinating and
   dysmyelinating peripheral neuropathies. In addition, duplication and deletion
@@ -50,12 +28,39 @@ abstract: >-
   characteristic that is common to all three mutants at P60. Finally, we have
   identified a number of candidate genes that may play important roles in the
   disease process or in myelination per se.
-date: 2005/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '15755691'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+authors:
+  - name: Giambonini-Brugnoli G
+  - name: Buchstaller J
+  - name: Sommer L
+  - name: Suter U
+  - name: Mantei N
+keywords:
+  - keyword: Animals
+  - keyword: 'Animals, Newborn'
+  - keyword: Gene Dosage
+  - keyword: Gene Expression Regulation
+  - keyword: genetics
+  - keyword: 'Genes, cdc'
+  - keyword: physiology
+  - keyword: Mice
+  - keyword: 'Mice, Knockout'
+  - keyword: 'Mice, Transgenic'
+  - keyword: Myelin Proteins
+  - keyword: biosynthesis
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: metabolism
+  - keyword: pathology
+  - keyword: Point Mutation
+date: 2005/03
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15755691%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25792482'
     title: >-

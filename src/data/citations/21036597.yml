@@ -1,7 +1,12 @@
+pmid: '21036597'
 title: >-
   Hereditary neuropathy with a liability to pressure palsies presenting as a
   case of sensory neuropathy following spinal anaesthesia for caesarean
   delivery.
+abstract: ''
+categories:
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Chilvers RJ
   - name: Salman MM
@@ -25,11 +30,7 @@ keywords:
   - keyword: Pressure
   - keyword: Reflex
   - keyword: physiology
-abstract: ''
 date: 2010/11
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '21036597'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21036597%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

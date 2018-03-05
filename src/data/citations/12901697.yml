@@ -1,20 +1,5 @@
+pmid: '12901697'
 title: Dominantly inherited peripheral neuropathies.
-authors:
-  - name: Jean-Michel Vallat
-keywords:
-  - keyword: Axons
-  - keyword: pathology
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: physiopathology
-  - keyword: Chromosome Mapping
-  - keyword: DNA Mutational Analysis
-  - keyword: Humans
-  - keyword: Mutation
-  - keyword: Myelin Proteins
-  - keyword: deficiency
-  - keyword: Myelin Sheath
-  - keyword: Nerve Tissue Proteins
 abstract: >-
   Since 1886, the year that Charcot and Marie and Tooth described a genetic
   "peroneal muscular atrophy syndrome," electrophysiological and histological
@@ -37,10 +22,30 @@ abstract: >-
   1B, and X-linked CMT (CMT X), it remains important for better characterizing
   the lesions of CMT 2 and forms of genetic peroneal atrophy in which DNA study
   is unrevealing.
-date: 2003/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '12901697'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+authors:
+  - name: Jean-Michel Vallat
+keywords:
+  - keyword: Axons
+  - keyword: pathology
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: physiopathology
+  - keyword: Chromosome Mapping
+  - keyword: DNA Mutational Analysis
+  - keyword: Humans
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: deficiency
+  - keyword: Myelin Sheath
+  - keyword: Nerve Tissue Proteins
+date: 2003/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12901697%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

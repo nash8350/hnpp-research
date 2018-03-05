@@ -1,4 +1,7 @@
+pmid: '12499508'
 title: Hereditary neuropathy with liability to pressure palsies in a toddler.
+abstract: ''
+categories: []
 authors:
   - name: Hardon WJ
   - name: Van Alfen N
@@ -18,13 +21,9 @@ keywords:
   - keyword: Neurologic Examination
   - keyword: Paralysis
   - keyword: etiology
-abstract: ''
 date: 2002/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '12499508'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12499508%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

@@ -1,21 +1,7 @@
+pmid: '15501632'
 title: >-
   [Regional anaesthesia for labor adn delivery in a parturient with neuropathy
   with liability to pressure palsy (tomaculous neuropathy)].
-authors:
-  - name: Berdai S
-  - name: Benhamou D
-keywords:
-  - keyword: Adult
-  - keyword: 'Delivery, Obstetric'
-  - keyword: Female
-  - keyword: Humans
-  - keyword: 'Labor, Obstetric'
-  - keyword: Nervous System Diseases
-  - keyword: genetics
-  - keyword: physiopathology
-  - keyword: Paralysis
-  - keyword: Pregnancy
-  - keyword: Pregnancy Complications
 abstract: >-
   Tomaculous neuropathy (or hereditary neuropathy with liability to pressure
   palsy [HNLPP]) is a rare and hereditary disease which incidence has probably
@@ -34,10 +20,29 @@ abstract: >-
   planned. Spinal anaesthesia using hyperbaric bupivacaine and sufentanil was
   used. Both deliveries were uneventful and there were no neurologic complaints
   in the postpartum periods.
-date: 2004/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '15501632'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Berdai S
+  - name: Benhamou D
+keywords:
+  - keyword: Adult
+  - keyword: 'Delivery, Obstetric'
+  - keyword: Female
+  - keyword: Humans
+  - keyword: 'Labor, Obstetric'
+  - keyword: Nervous System Diseases
+  - keyword: genetics
+  - keyword: physiopathology
+  - keyword: Paralysis
+  - keyword: Pregnancy
+  - keyword: Pregnancy Complications
+date: 2004/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15501632%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

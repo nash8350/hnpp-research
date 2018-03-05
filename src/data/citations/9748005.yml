@@ -1,6 +1,15 @@
+pmid: '9748005'
 title: >-
   Hereditary neuropathy with liability to pressure palsies a patient's point
   mutation in a mouse model.
+abstract: ''
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Chance PF
   - name: Dyck PJ
@@ -22,11 +31,7 @@ keywords:
   - keyword: Sural Nerve
   - keyword: transplantation
   - keyword: 'Transplantation, Heterologous'
-abstract: ''
 date: 1998/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9748005'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9748005%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,4 +1,24 @@
+pmid: '9530552'
 title: '[Hereditary neural amyotrophy (HNA) clinical and molecular genetic basis].'
+abstract: >-
+  Hereditary neuralgic amyotrophy (HNA) and hereditary neuropathy with liability
+  to pressure palsies (HNPP) are hereditary focal neuropathies. In this study we
+  describe three families suffering from HNA. These families were examined
+  clinically and electrophysiologically. Linkage analysis with markers from
+  distal chromosome 17 was performed in a three-generation family. HNA could be
+  separated from HNPP in all three families based on clinical and
+  electrophysiological findings. HNA was characterised by recurrent episodes of
+  painful brachial plexus lesions. In contrast to HNPP, no evidence for
+  generalised neuropathy was found in the HNA families. Linkage analysis
+  confirmed the HNA locus on distal chromosome 17. Additionally, we were able to
+  refine the HNA locus to a 16 cM region on chromosome 17q24-q25.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Stögbauer F
   - name: Young P
@@ -21,22 +41,7 @@ keywords:
   - keyword: Humans
   - keyword: Molecular Biology
   - keyword: Pedigree
-abstract: >-
-  Hereditary neuralgic amyotrophy (HNA) and hereditary neuropathy with liability
-  to pressure palsies (HNPP) are hereditary focal neuropathies. In this study we
-  describe three families suffering from HNA. These families were examined
-  clinically and electrophysiologically. Linkage analysis with markers from
-  distal chromosome 17 was performed in a three-generation family. HNA could be
-  separated from HNPP in all three families based on clinical and
-  electrophysiological findings. HNA was characterised by recurrent episodes of
-  painful brachial plexus lesions. In contrast to HNPP, no evidence for
-  generalised neuropathy was found in the HNA families. Linkage analysis
-  confirmed the HNA locus on distal chromosome 17. Additionally, we were able to
-  refine the HNA locus to a 16 cM region on chromosome 17q24-q25.
 date: 1998/04
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9530552'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9530552%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

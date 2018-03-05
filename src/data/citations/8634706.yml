@@ -1,24 +1,7 @@
+pmid: '8634706'
 title: >-
   Analysis of the CMT1A-REP repeat mapping crossover breakpoints in CMT1A and
   HNPP.
-authors:
-  - name: Kiyosawa H
-  - name: Lensch MW
-  - name: Chance PF
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Chromosome Mapping
-  - keyword: 'Crossing Over, Genetic'
-  - keyword: DNA
-  - keyword: analysis
-  - keyword: Demyelinating Diseases
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Molecular Sequence Data
-  - keyword: 'Repetitive Sequences, Nucleic Acid'
-  - keyword: Restriction Mapping
-  - keyword: 'Sequence Homology, Nucleic Acid'
 abstract: >-
   The CMT1A-REP repeat sequence flanks a 1.5 megabase pair (Mb) segment of
   chromosome 17p11.2-12 which is duplicated in Charcot-Marie-Tooth neuropathy
@@ -40,12 +23,28 @@ abstract: >-
   containing the majority of crossovers revealed over 98% sequence identity
   between proximal and distal CMT1A-REP repeat sequences. Probes useful for
   molecular-based diagnosis of CMT1A and HNPP are described.
+categories: []
+authors:
+  - name: Kiyosawa H
+  - name: Lensch MW
+  - name: Chance PF
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: Chromosome Mapping
+  - keyword: 'Crossing Over, Genetic'
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: Demyelinating Diseases
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Molecular Sequence Data
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+  - keyword: Restriction Mapping
+  - keyword: 'Sequence Homology, Nucleic Acid'
 date: 1995/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '8634706'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8634706%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '19513300'
     title: A Family Harboring CMT1A Duplication and HNPP Deletion.

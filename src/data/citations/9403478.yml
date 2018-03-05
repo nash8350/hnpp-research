@@ -1,6 +1,30 @@
+pmid: '9403478'
 title: >-
   Correlation between PMP-22 messenger RNA expression and phenotype in
   hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is associated
+  with a deletion in chromosome 17p11.2, which includes the gene for the
+  peripheral myelin protein 22 (PMP-22). A "gene dosage" effect is probably the
+  mechanism underlying HNPP, but the amount of PMP-22 mRNA in sural nerves of
+  HNPP patients is highly variable and the role of PMP-22 underexpression in
+  impairing myelination has yet to be clarified. We have studied 6 genetically
+  proven HNPP patients, to evaluate the relationship between PMP-22 mRNA levels,
+  and clinical, neurophysiological, and neuropathological findings.
+  Underexpression of PMP-22 mRNA correlates with disease severity and with mean
+  axon diameter and g ratio, but not with myelin thickness, number of
+  "tomacula," or nerve conduction parameters. Our findings further confirm that
+  underexpression of PMP-22 is the main pathogenetic mechanism underlying the
+  severity of clinical symptoms and signs in HNPP. Smaller axons in sural nerves
+  of HNPP patients with lower PMP-22 levels suggests that underexpression of
+  PMP-22 may also affect axon development.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Schenone A
   - name: Nobbio L
@@ -30,28 +54,9 @@ keywords:
   - keyword: Severity of Illness Index
   - keyword: Sural Nerve
   - keyword: metabolism
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is associated
-  with a deletion in chromosome 17p11.2, which includes the gene for the
-  peripheral myelin protein 22 (PMP-22). A "gene dosage" effect is probably the
-  mechanism underlying HNPP, but the amount of PMP-22 mRNA in sural nerves of
-  HNPP patients is highly variable and the role of PMP-22 underexpression in
-  impairing myelination has yet to be clarified. We have studied 6 genetically
-  proven HNPP patients, to evaluate the relationship between PMP-22 mRNA levels,
-  and clinical, neurophysiological, and neuropathological findings.
-  Underexpression of PMP-22 mRNA correlates with disease severity and with mean
-  axon diameter and g ratio, but not with myelin thickness, number of
-  "tomacula," or nerve conduction parameters. Our findings further confirm that
-  underexpression of PMP-22 is the main pathogenetic mechanism underlying the
-  severity of clinical symptoms and signs in HNPP. Smaller axons in sural nerves
-  of HNPP patients with lower PMP-22 levels suggests that underexpression of
-  PMP-22 may also affect axon development.
 date: 1997/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9403478'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9403478%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29079893'
     title: >-

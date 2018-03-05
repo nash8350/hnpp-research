@@ -1,16 +1,5 @@
+pmid: '14666293'
 title: Dejerine-Sottas disease a case report.
-authors:
-  - name: Marinho JL
-  - name: Alonso Nieto JL
-  - name: Calore EE
-keywords:
-  - keyword: Biopsy
-  - keyword: Child
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: ultrastructure
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Sural Nerve
 abstract: >-
   Hereditary peripheral neuropathies (hereditary motor-sensory neuropathies or
   hereditary demyelinating neuropathies) are abnormalities of Schwann cells and
@@ -24,10 +13,24 @@ abstract: >-
   sensory nerve conduction velocities. Sural nerve biopsy showed axons
   surrounded by a thin myelin sheath and concentrically arranged cytoplasmic
   processes of Schwann cells forming onion-bulbs. No axon damage was observed.
-date: 2003/12
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '14666293'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Marinho JL
+  - name: Alonso Nieto JL
+  - name: Calore EE
+keywords:
+  - keyword: Biopsy
+  - keyword: Child
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: ultrastructure
+  - keyword: Humans
+  - keyword: Male
+  - keyword: Sural Nerve
+date: 2003/12
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14666293%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

@@ -1,26 +1,7 @@
+pmid: '20976668'
 title: >-
   Clinical implications of peripheral myelin protein 22 for nerve compression
   and neural regeneration a review.
-authors:
-  - name: Hui-Chou HG
-  - name: Hashemi SS
-  - name: Hoke A
-  - name: Dellon AL
-keywords:
-  - keyword: Arthrogryposis
-  - keyword: genetics
-  - keyword: surgery
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: Disease Progression
-  - keyword: Electromyography
-  - keyword: Gene Expression
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Microsurgery
-  - keyword: Myelin Proteins
-  - keyword: metabolism
-  - keyword: Phenotype
-  - keyword: Point Mutation
 abstract: >-
   Peripheral myelin protein 22 (PMP22) is a major component of the peripheral
   myelin sheath. The PMP22 gene is located on chromosome 17p11.2, and defects in
@@ -42,10 +23,36 @@ abstract: >-
   genetic defect, nerves involved, and resulting functional impairments. A
   review of current literature elucidates clinical, microsurgical implications,
   and management of patients with PMP22-related neuropathy.
-date: 2010/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '20976668'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: Hui-Chou HG
+  - name: Hashemi SS
+  - name: Hoke A
+  - name: Dellon AL
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: genetics
+  - keyword: surgery
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Disease Progression
+  - keyword: Electromyography
+  - keyword: Gene Expression
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Microsurgery
+  - keyword: Myelin Proteins
+  - keyword: metabolism
+  - keyword: Phenotype
+  - keyword: Point Mutation
+date: 2010/10
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20976668%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

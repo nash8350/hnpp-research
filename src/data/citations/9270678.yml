@@ -1,4 +1,14 @@
+pmid: '9270678'
 title: Recurrent polyradiculoneuropathy with the 17p11.2 deletion.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) classically
+  occurs as recurrent focal neuropathy. We report the first known instance of
+  HNPP manifesting, over a 15-year period, as a recurrent sensorimotor
+  polyneuropathy and confirmed by the presence of the PMP-22 gene deletion. We
+  suggest that the molecular study of the 17p11.2 region could be an effective
+  non invasive investigative tool in cases of chronic recurrent polyneuropathy
+  associated with episodes of nerve palsy.
+categories: []
 authors:
   - name: Le Forestier N
   - name: LeGuern E
@@ -21,20 +31,9 @@ keywords:
   - keyword: physiopathology
   - keyword: Pressure
   - keyword: Recurrence
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) classically
-  occurs as recurrent focal neuropathy. We report the first known instance of
-  HNPP manifesting, over a 15-year period, as a recurrent sensorimotor
-  polyneuropathy and confirmed by the presence of the PMP-22 gene deletion. We
-  suggest that the molecular study of the 17p11.2 region could be an effective
-  non invasive investigative tool in cases of chronic recurrent polyneuropathy
-  associated with episodes of nerve palsy.
 date: 1997/09
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9270678'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9270678%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18218131'
     title: >-

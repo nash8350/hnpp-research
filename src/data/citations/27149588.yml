@@ -1,26 +1,7 @@
+pmid: '27149588'
 title: >-
   Compression of Root Level in a Patient with Hereditary Neuropathy with
   Liability to Pressure Palsy Diagnosed by Magnetic Resonance Imaging.
-authors:
-  - name: Park D
-  - name: Ryu JS
-  - name: Kim KJ
-keywords:
-  - keyword: Aged
-  - keyword: Arthrogryposis
-  - keyword: complications
-  - keyword: Female
-  - keyword: 'Gait Disorders, Neurologic'
-  - keyword: etiology
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Lumbosacral Region
-  - keyword: diagnostic imaging
-  - keyword: innervation
-  - keyword: Magnetic Resonance Imaging
-  - keyword: Neurilemmoma
-  - keyword: Spinal Cord Compression
-  - keyword: Spinal Neoplasms
 abstract: >-
   Hereditary neuropathy with liability to pressure palsies (HNPP) is
   characterized by acute, painless, and recurrent mononeuropathies that are
@@ -41,10 +22,36 @@ abstract: >-
   basis. Therefore, for patients with HNPP, it is important to consider not only
   an electrophysiologic study but also a magnetic resonance imaging to locate
   the exact pathologic site.
-date: 2016/05
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '27149588'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+  - name: Case Studies
+    enabled: true
+authors:
+  - name: Park D
+  - name: Ryu JS
+  - name: Kim KJ
+keywords:
+  - keyword: Aged
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: Female
+  - keyword: 'Gait Disorders, Neurologic'
+  - keyword: etiology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Lumbosacral Region
+  - keyword: diagnostic imaging
+  - keyword: innervation
+  - keyword: Magnetic Resonance Imaging
+  - keyword: Neurilemmoma
+  - keyword: Spinal Cord Compression
+  - keyword: Spinal Neoplasms
+date: 2016/05
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27149588%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

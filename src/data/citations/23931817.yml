@@ -1,17 +1,5 @@
+pmid: '23931817'
 title: Dominant Charcot-Marie-Tooth syndrome and cognate disorders.
-authors:
-  - name: Pareyson D
-  - name: Marchesi C
-  - name: Salsano E
-keywords:
-  - keyword: Animals
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: diagnosis
-  - keyword: genetics
-  - keyword: therapy
-  - keyword: 'Genes, X-Linked'
-  - keyword: Humans
-  - keyword: Multigene Family
 abstract: >-
   Charcot-Marie-Tooth neuropathy (CMT) is a group of genetically heterogeneous
   disorders sharing a similar phenotype, characterized by wasting and weakness
@@ -29,10 +17,25 @@ abstract: >-
   ascorbic acid in CMT type 1A have been completed and, although negative, are
   providing relevant information on disease course and on how to prepare for
   future trials.
-date: 2013/08
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '23931817'
 categories:
-  - name: blank
+  - name: Symptoms
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: Pareyson D
+  - name: Marchesi C
+  - name: Salsano E
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: genetics
+  - keyword: therapy
+  - keyword: 'Genes, X-Linked'
+  - keyword: Humans
+  - keyword: Multigene Family
+date: 2013/08
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23931817%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

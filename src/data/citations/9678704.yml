@@ -1,6 +1,21 @@
+pmid: '9678704'
 title: >-
   Mutation analysis of the nerve specific promoter of the peripheral myelin
   protein 22 gene in CMT1 disease and HNPP.
+abstract: >-
+  We analysed the nerve specific promoter of the peripheral myelin protein 22
+  gene (PMP22) in a set of 15 unrelated patients with Charcot-Marie-Tooth type 1
+  disease (CMT1) and 16 unrelated patients with hereditary neuropathy with
+  liability to pressure palsies (HNPP). In these patients no
+  duplication/deletion nor a mutation in the coding region of the CMT1/ HNPP
+  genes was detected. In one autosomal dominant CMT1 patient, we identified a
+  base change in the non-coding exon 1A of PMP22 which, however, did not
+  cosegregate with the disease in the family. This study indicates that
+  mutations in the nerve specific PMP22 promoter and 5' untranslated exon will
+  not be a common genetic cause of CMT1A and HNPP.
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Nelis E
   - name: De Jonghe P
@@ -26,19 +41,7 @@ keywords:
   - keyword: Polymerase Chain Reaction
   - keyword: 'Polymorphism, Single-Stranded Conformational'
   - keyword: 'Promoter Regions, Genetic'
-abstract: >-
-  We analysed the nerve specific promoter of the peripheral myelin protein 22
-  gene (PMP22) in a set of 15 unrelated patients with Charcot-Marie-Tooth type 1
-  disease (CMT1) and 16 unrelated patients with hereditary neuropathy with
-  liability to pressure palsies (HNPP). In these patients no
-  duplication/deletion nor a mutation in the coding region of the CMT1/ HNPP
-  genes was detected. In one autosomal dominant CMT1 patient, we identified a
-  base change in the non-coding exon 1A of PMP22 which, however, did not
-  cosegregate with the disease in the family. This study indicates that
-  mutations in the nerve specific PMP22 promoter and 5' untranslated exon will
-  not be a common genetic cause of CMT1A and HNPP.
 date: 1998/07
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '8990008'
   - pmid: '9043865'
@@ -53,7 +56,5 @@ cites:
   - pmid: '7527371'
   - pmid: '8800924'
   - pmid: '1407588'
-pmid: '9678704'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9678704%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

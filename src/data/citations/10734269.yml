@@ -1,6 +1,9 @@
+pmid: '10734269'
 title: >-
   Guidelines for diagnosis of hereditary neuropathy with liability to pressure
   palsies.
+abstract: ''
+categories: []
 authors:
   - name: Dubourg O
   - name: Mouton P
@@ -14,13 +17,9 @@ keywords:
   - keyword: Nerve Compression Syndromes
   - keyword: Paralysis
   - keyword: Practice Guidelines as Topic
-abstract: ''
 date: 2000/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '10734269'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10734269%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
     title: >-

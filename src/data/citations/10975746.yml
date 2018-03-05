@@ -1,17 +1,5 @@
+pmid: '10975746'
 title: Charcot-Marie-Tooth disease and related peripheral neuropathies.
-authors:
-  - name: De Jonghe P
-  - name: Timmerman V
-  - name: Nelis E
-  - name: Martin JJ
-  - name: Van Broeckhoven C
-keywords:
-  - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: pathology
-  - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Peripheral Nervous System Diseases
 abstract: >-
   Soon after the description of Charcot-Marie-Tooth disease (CMT) in 1886, it
   became apparent that this syndrome is clinically and genetically
@@ -36,12 +24,29 @@ abstract: >-
   PMP22, MPZ and Cx32 mutations will help elucidate the underlying disease
   mechanisms and will provide a basis for gene therapy and/or other therapeutic
   approaches such as treatment with neurotrophic growth factors.
-date: 1997/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
-cites: []
-pmid: '10975746'
 categories:
-  - name: blank
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
+authors:
+  - name: De Jonghe P
+  - name: Timmerman V
+  - name: Nelis E
+  - name: Martin JJ
+  - name: Van Broeckhoven C
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: genetics
+  - keyword: pathology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Humans
+  - keyword: Peripheral Nervous System Diseases
+date: 1997/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10975746%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
     title: >-

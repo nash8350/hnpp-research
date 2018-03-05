@@ -1,4 +1,19 @@
+pmid: '1322507'
 title: Hereditary neuropathy with liability to pressure palsies in childhood.
+abstract: >-
+  Four children, index cases of families in which autosomal dominant neuropathy
+  with liability to pressure palsies (HNPP) was diagnosed, are presented. Only
+  one child was admitted for evaluation of an acute peroneal palsy, three
+  presented with other symptoms. Polyneuropathy was diagnosed in all four
+  children, in one of their parents and in some sibs. On inquiry, one child and
+  several members of the four families had experienced transient palsies before.
+  Morphological studies of the sural nerves showed frequently large tomacula and
+  a neuropathic process of segmental de- and remyelination, and axonal
+  degeneration. Attention is drawn to the atypical presentation without pressure
+  palsies of HNPP.
+categories:
+  - name: Symptoms
+    enabled: true
 authors:
   - name: Gabreëls-Festen AA
   - name: Gabreëls FJ
@@ -27,23 +42,9 @@ keywords:
   - keyword: Sural Nerve
   - keyword: Synaptic Transmission
   - keyword: physiology
-abstract: >-
-  Four children, index cases of families in which autosomal dominant neuropathy
-  with liability to pressure palsies (HNPP) was diagnosed, are presented. Only
-  one child was admitted for evaluation of an acute peroneal palsy, three
-  presented with other symptoms. Polyneuropathy was diagnosed in all four
-  children, in one of their parents and in some sibs. On inquiry, one child and
-  several members of the four families had experienced transient palsies before.
-  Morphological studies of the sural nerves showed frequently large tomacula and
-  a neuropathic process of segmental de- and remyelination, and axonal
-  degeneration. Attention is drawn to the atypical presentation without pressure
-  palsies of HNPP.
 date: 1992/06
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '1322507'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1322507%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
     title: >-

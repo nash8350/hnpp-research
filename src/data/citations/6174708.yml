@@ -1,6 +1,21 @@
+pmid: '6174708'
 title: >-
   Visual and somatosensory evoked potentials and F-wave latency measurements in
   hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  Pattern shift visual evoked potentials (VEPs), cervical and cortical
+  somatosensory evoked responses (SEPs) and motor conduction velocities studied
+  by F-wave latency measurements were investigated in two family members with
+  hereditary neuropathy with liability to pressure palsies (HN-PP). In both
+  cases in VEPs and SEP conduction times N13-N20 were normal. A bilateral
+  pathological increase of latencies of early SEP components, N9-N13 transit
+  times and F-wave latencies revealed a lesion in the proximal parts of the
+  median nerves close to the spinal cord in the older patient. These
+  abnormalities emphasize the close relationship of HN-PP with hereditary
+  polyradiculopathy (Mayer 1975).
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Strenge H
   - name: Soyka D
@@ -24,19 +39,7 @@ keywords:
   - keyword: Peroneal Nerve
   - keyword: Reaction Time
   - keyword: Ulnar Nerve
-abstract: >-
-  Pattern shift visual evoked potentials (VEPs), cervical and cortical
-  somatosensory evoked responses (SEPs) and motor conduction velocities studied
-  by F-wave latency measurements were investigated in two family members with
-  hereditary neuropathy with liability to pressure palsies (HN-PP). In both
-  cases in VEPs and SEP conduction times N13-N20 were normal. A bilateral
-  pathological increase of latencies of early SEP components, N9-N13 transit
-  times and F-wave latencies revealed a lesion in the proximal parts of the
-  median nerves close to the spinal cord in the older patient. These
-  abnormalities emphasize the close relationship of HN-PP with hereditary
-  polyradiculopathy (Mayer 1975).
 date: 1982/01
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites:
   - pmid: '488142'
   - pmid: '18111214'
@@ -51,9 +54,7 @@ cites:
   - pmid: '13184660'
   - pmid: '6157801'
   - pmid: '7439214'
-pmid: '6174708'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6174708%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '6185651'
     title: >-

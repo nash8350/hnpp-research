@@ -1,4 +1,25 @@
+pmid: '11255855'
 title: '[Hereditary neuropathy with pressure palsies].'
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant polyneuropathy usually caused by a deletion in the gene
+  coding for the peripheral nerve myelin protein 22 (PMP22). The patients
+  usually get relapsing and remitting focal nerve symptoms due to mechanical
+  factors like pressure or minor trauma that normal nerves tolerate. Two
+  patients from different families have been examined clinically,
+  neurophysiologically and genetically by Southern blot and PCR techniques. The
+  clinical and neurophysiological findings were typical of this disorder, and
+  the DNA tests showed deletions in the PMP22 gene. We discuss clinical,
+  neurophysiological and molecular diagnostics, pathomechanisms, treatment and
+  secondary prevention. Early diagnosis may be important for optimal management
+  of the patients.
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Gjerde IO
   - name: Aarskog N
@@ -20,23 +41,7 @@ keywords:
   - keyword: Pressure
   - keyword: Ulnar Nerve
   - keyword: physiopathology
-abstract: >-
-  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
-  autosomal dominant polyneuropathy usually caused by a deletion in the gene
-  coding for the peripheral nerve myelin protein 22 (PMP22). The patients
-  usually get relapsing and remitting focal nerve symptoms due to mechanical
-  factors like pressure or minor trauma that normal nerves tolerate. Two
-  patients from different families have been examined clinically,
-  neurophysiologically and genetically by Southern blot and PCR techniques. The
-  clinical and neurophysiological findings were typical of this disorder, and
-  the DNA tests showed deletions in the PMP22 gene. We discuss clinical,
-  neurophysiological and molecular diagnostics, pathomechanisms, treatment and
-  secondary prevention. Early diagnosis may be important for optimal management
-  of the patients.
 date: 2001/03
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '11255855'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11255855%5Buid%5D&cmd=DetailsSearch'
 citedBy: []

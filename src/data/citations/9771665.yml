@@ -1,7 +1,30 @@
+pmid: '9771665'
 title: >-
   Major histocompatibility complex class II expression and macrophage responses
   in genetically proven Charcot-Marie-Tooth type 1 and hereditary neuropathy
   with liability to pressure palsies.
+abstract: >-
+  This study examined major histocompatibility complex (MHC) class II expression
+  and macrophage infiltration in sural nerve biopsies from patients with
+  genetically proven Charcot-Marie-Tooth (CMT) 1A and 1B and hereditary
+  neuropathy with liability to pressure palsies (HNPP) by immunocytochemistry.
+  In both young and older patients with duplication of the PMP22 gene, MHC class
+  II expression was consistently up-regulated and not closely related to the
+  extent of macrophage infiltration. On the other hand, MHC class II expression
+  was more variable in CMT1A and CMT1B caused by point mutations and in HNPP.
+  The extent of nerve pathology as assessed by teased fiber preparations or
+  electron microscopy was not predictive for the degree of MHC class II
+  expression in CMT1/HNPP. We conclude that MHC class II up-regulation is a
+  common feature in hereditary neuropathies. As shown for the animal model of
+  globoid cell dystrophy, it is conceivable that increased expression of MHC
+  class II molecules in CMT1 and HNPP accelerates nerve pathology.
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Stoll G
   - name: Gabreëls-Festen AA
@@ -30,25 +53,7 @@ keywords:
   - keyword: Point Mutation
   - keyword: Sural Nerve
   - keyword: T-Lymphocytes
-abstract: >-
-  This study examined major histocompatibility complex (MHC) class II expression
-  and macrophage infiltration in sural nerve biopsies from patients with
-  genetically proven Charcot-Marie-Tooth (CMT) 1A and 1B and hereditary
-  neuropathy with liability to pressure palsies (HNPP) by immunocytochemistry.
-  In both young and older patients with duplication of the PMP22 gene, MHC class
-  II expression was consistently up-regulated and not closely related to the
-  extent of macrophage infiltration. On the other hand, MHC class II expression
-  was more variable in CMT1A and CMT1B caused by point mutations and in HNPP.
-  The extent of nerve pathology as assessed by teased fiber preparations or
-  electron microscopy was not predictive for the degree of MHC class II
-  expression in CMT1/HNPP. We conclude that MHC class II up-regulation is a
-  common feature in hereditary neuropathies. As shown for the animal model of
-  globoid cell dystrophy, it is conceivable that increased expression of MHC
-  class II molecules in CMT1 and HNPP accelerates nerve pathology.
 date: 1998/10
-abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=undefined%5Buid%5D&cmd=DetailsSearch'
 cites: []
-pmid: '9771665'
-categories:
-  - name: blank
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9771665%5Buid%5D&cmd=DetailsSearch'
 citedBy: []
