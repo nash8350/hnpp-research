@@ -20,11 +20,11 @@ abstract: >-
   in the design of potential novel treatment strategies.
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Therapies
-    enabled: true
+    enabled: false
   - name: Biochemistry
     enabled: true
 authors:

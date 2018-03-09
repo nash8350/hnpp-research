@@ -21,7 +21,7 @@ categories:
   - name: Therapies
     enabled: true
   - name: Prevalence
-    enabled: true
+    enabled: false
 authors:
   - name: Panosyan FB
   - name: Kirk CA

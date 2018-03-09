@@ -30,7 +30,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Prevalence
-    enabled: true
+    enabled: false
 authors:
   - name: Guimarães-Costa R
   - name: Iancu Ferfoglia R

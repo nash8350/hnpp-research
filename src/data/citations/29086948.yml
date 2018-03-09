@@ -32,12 +32,14 @@ abstract: >-
   chromosome 17q25.
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
-    enabled: true
+    enabled: false
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Biochemistry
+    enabled: false
+  - name: Overview
     enabled: true
 authors:
   - name: Philip F Chance

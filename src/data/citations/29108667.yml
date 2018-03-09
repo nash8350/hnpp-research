@@ -30,6 +30,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Overview
+    enabled: true
 authors:
   - name: Chen B
   - name: Niu S

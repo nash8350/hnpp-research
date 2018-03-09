@@ -12,6 +12,8 @@ categories:
     enabled: true
   - name: Case Studies
     enabled: true
+  - name: Overview
+    enabled: true
 authors:
   - name: György I
   - name: Bíró A

@@ -27,7 +27,7 @@ categories:
   - name: Symptoms
     enabled: true
   - name: Diagnosis
-    enabled: true
+    enabled: false
   - name: Genetics
     enabled: true
   - name: Prevalence
@@ -35,7 +35,7 @@ categories:
   - name: Case Studies
     enabled: true
   - name: Biochemistry
-    enabled: true
+    enabled: false
 authors:
   - name: Liao YC
   - name: Tsai PC

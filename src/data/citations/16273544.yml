@@ -30,6 +30,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Overview
+    enabled: true
 authors:
   - name: Johnson JS
   - name: Roux KJ

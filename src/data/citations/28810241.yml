@@ -28,7 +28,7 @@ categories:
   - name: Prevalence
     enabled: true
   - name: Biochemistry
-    enabled: true
+    enabled: false
 authors:
   - name: Marttila M
   - name: Kytövuori L

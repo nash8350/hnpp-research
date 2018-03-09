@@ -20,7 +20,7 @@ abstract: >-
   neuropathies in nerve conduction study can aid in the diagnosis.
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
     enabled: true
   - name: Case Studies

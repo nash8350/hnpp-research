@@ -3,7 +3,9 @@ title: >-
   Davidenkow syndrome A phenotypic variant of hereditary neuropathy with
   liability to pressure palsies.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Wong E
   - name: DeOrchis VS

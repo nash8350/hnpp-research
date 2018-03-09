@@ -28,7 +28,7 @@ abstract: >-
   bioengineering of scaffolds to aid nerve regeneration after injury.
 categories:
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Biochemistry
     enabled: true
 authors:

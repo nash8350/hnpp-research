@@ -19,6 +19,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Case study
+    enabled: true
 authors:
   - name: Harada Y
   - name: Puwanant A

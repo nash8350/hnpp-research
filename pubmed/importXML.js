@@ -19,7 +19,8 @@ const get = (p, o) =>
   p.reduce((xs, x) => (xs && xs[x]) ? xs[x] : "", o);
 
 const blacklist = [
-    "27535300"
+    "27535300",
+    "28360724"
 ];
 
 const citationList = [];

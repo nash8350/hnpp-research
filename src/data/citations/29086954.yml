@@ -17,6 +17,8 @@ categories:
   - name: Symptoms
     enabled: true
   - name: Prevalence
+    enabled: false
+  - name: Diagnosis
     enabled: true
 authors:
   - name: Kumar N

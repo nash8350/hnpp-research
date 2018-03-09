@@ -28,7 +28,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 authors:
   - name: Bar C
   - name: Villéga F

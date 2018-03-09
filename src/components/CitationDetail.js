@@ -2,7 +2,8 @@ import React from 'react';
 import Content, { HTMLContent } from '../components/Content';
 
 export default ({ row }) => (
-    <div className="container is-pulled-left" style={{width: 800}}>
+    <div className="container is-pulled-left" style={{width: "800px"}}>
+        <a className="is-pulled-right vert-padded" style={{marginLeft: "20px"}} href={"/admin/#/collections/citations/entries/" + row.pmid}>Edit</a>
         <a className="is-pulled-right vert-padded" href={row.abstractLink}>View on Pubmed</a>
         <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Abstract</h4>
         <p>{row.abstract}</p>

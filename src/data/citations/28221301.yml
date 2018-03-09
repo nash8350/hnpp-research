@@ -21,7 +21,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Prevalence
-    enabled: true
+    enabled: false
 authors:
   - name: Takahashi S
   - name: Chum M

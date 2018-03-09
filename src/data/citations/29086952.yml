@@ -19,9 +19,11 @@ abstract: >-
   appear to occur with equal frequencies in different world populations.
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Prevalence
-    enabled: true
+    enabled: false
+  - name: Genetics
+    enabled: false
 authors:
   - name: Boerkoel CF
   - name: Inoue K

@@ -31,11 +31,11 @@ abstract: >-
   patients with HNPP.
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
-    enabled: true
+    enabled: false
   - name: Therapies
-    enabled: true
+    enabled: false
   - name: Case Studies
     enabled: true
 authors:

@@ -39,6 +39,8 @@ categories:
     enabled: true
   - name: Biochemistry
     enabled: true
+  - name: Overview
+    enabled: true
 authors:
   - name: P F Chance
 keywords:

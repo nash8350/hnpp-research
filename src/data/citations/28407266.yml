@@ -19,11 +19,11 @@ abstract: >-
   and median nerves. Muscle Nerve 57 217-221, 2018.
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
     enabled: true
   - name: Prevalence
-    enabled: true
+    enabled: false
 authors:
   - name: Robert-Varvat F
   - name: Jousserand G
