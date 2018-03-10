@@ -1,5 +1,6 @@
 import React from 'react';
 import CitationFilter from '../components/CitationFilter';
+import CitationDetail from '../components/CitationDetail';
 import Content, { HTMLContent } from '../components/Content';
 import {
   PagingState,
@@ -83,10 +84,10 @@ export default class CitationTable extends React.Component {
         //build a string list
         citation.authorlist = "";
         citation.authors.forEach(author => {
-        citation.authorlist += author.name + ", ";
+          citation.authorlist += author.name + ", ";
         })
         if(citation.authorlist.length > 1)
-        citation.authorlist = citation.authorlist.substring(0, citation.authorlist.length - 2);
+          citation.authorlist = citation.authorlist.substring(0, citation.authorlist.length - 2);
 
         if(this.filterRow(citation)) {
           citation[this.props.listName].forEach(row => {
@@ -164,24 +165,7 @@ export default class CitationTable extends React.Component {
             <IntegratedPaging />
             <Table />
             <TableColumnResizing defaultColumnWidths={this.props.colWidths}/>
-            <TableRowDetail
-              contentComponent={({ row }) => (
-                <div className="container is-pulled-left" style={{width: this.props.tableWidth, marginLeft: 100}}>
-                  <a className="is-pulled-right vert-padded" href={row.abstractLink}>View on Pubmed</a>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Abstract</h4>
-                  <p>{row.abstract}</p>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Authors</h4>
-                  <p>{row.authorlist}</p>
-                  <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Keywords</h4>
-                  <ul>
-                    {row.keywords.map(keyword => (
-                      <li className="bullet">{keyword.keyword}</li>
-                    ))}
-                  </ul>
-                  <br/>
-                </div>
-              )}
-            />
+            <TableRowDetail contentComponent={CitationDetail} />
             <TableHeaderRow 
               showSortingControls
             />

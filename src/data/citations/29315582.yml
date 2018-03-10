@@ -9,3 +9,38 @@ categories:
     name: Genetics
   - enabled: true
     name: Biochemistry
+abstract: >-
+  Peripheral myelin protein 22 (PMP22) is a component of compact myelin in the
+  peripheral nervous system. The amount of PMP22 in myelin is tightly regulated,
+  and PMP22 over or under-expression cause Charcot-Marie-Tooth 1A (CMT1A) and
+  Hereditary Neuropathy with Pressure Palsies (HNPP). Despite the importance of
+  PMP22, its function remains largely unknown. It was reported that PMP22
+  interacts with the β4 subunit of the laminin receptor α6β4 integrin,
+  suggesting that α6β4 integrin and laminins may contribute to the pathogenesis
+  of CMT1A or HNPP. Here we asked if the lack of α6β4 integrin in Schwann cells
+  influences myelin stability in the HNPP mouse model. Our data indicate that
+  PMP22 and β4 integrin may not interact directly in myelinating Schwann cells,
+  however, ablating β4 integrin delays the formation of tomacula, a
+  characteristic feature of HNPP. In contrast, ablation of integrin β4 worsens
+  nerve conduction velocities and non-compact myelin organization in HNPP
+  animals. This study demonstrates that indirect interactions between an
+  extracellular matrix receptor and a myelin protein influence the stability and
+  function of myelinated fibers.
+authors:
+  - name: Poitelon Y
+  - name: Matafora V
+  - name: Silvestri N
+  - name: Zambroni D
+  - name: McGarry C
+  - name: Serghany N
+  - name: Rush T
+  - name: Vizzuso D
+  - name: Court FA
+  - name: Bachi A
+  - name: Wrabetz L
+  - name: Feltri ML
+keywords: []
+date: 2018/01
+cites: []
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29315582%5Buid%5D&cmd=DetailsSearch'
+citedBy: []

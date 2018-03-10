@@ -16,7 +16,7 @@ abstract: >-
   history is negative.
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
     enabled: true
   - name: Case Studies
