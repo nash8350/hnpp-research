@@ -36,8 +36,6 @@ categories:
     enabled: false
   - name: Diagnosis
     enabled: false
-  - name: Overview
-    enabled: true
 authors:
   - name: Gabreëls-Festen A
   - name: VAN DE Wetering R

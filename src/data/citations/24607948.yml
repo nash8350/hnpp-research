@@ -20,8 +20,6 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
-  - name: Overview
-    enabled: true
 authors:
   - name: Yu-ichi Noto
 keywords:

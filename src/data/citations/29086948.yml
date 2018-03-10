@@ -39,8 +39,6 @@ categories:
     enabled: false
   - name: Biochemistry
     enabled: false
-  - name: Overview
-    enabled: true
 authors:
   - name: Philip F Chance
 keywords: []

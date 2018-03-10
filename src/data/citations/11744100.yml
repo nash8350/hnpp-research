@@ -29,8 +29,6 @@ categories:
     enabled: true
   - name: Biochemistry
     enabled: true
-  - name: Overview
-    enabled: true
 authors:
   - name: Magnaghi V
   - name: Cavarretta I

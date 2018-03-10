@@ -21,8 +21,6 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
-  - name: Overview
-    enabled: true
 authors:
   - name: Qi F
   - name: Che F

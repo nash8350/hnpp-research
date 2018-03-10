@@ -44,9 +44,6 @@ fs.readdirSync(directory).forEach(filename => {
         citation.categories = [];
 
     // add categories
-    numUpdated += addCategory(citation, "Overview", 
-        "(overview|introduction|summary|summarize)");
-    
     numUpdated += addCategory(citation, "Symptoms", 
         "(\\sensor|symptom|\\bpain|\\bweak|\\bnumb|impairment|quality of life|\\bsever|\\bfibro|restless)");
 

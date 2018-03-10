@@ -32,8 +32,6 @@ categories:
     enabled: true
   - name: Prevalence
     enabled: true
-  - name: Overview
-    enabled: true
 authors:
   - name: Houlden H
   - name: Reilly MM
