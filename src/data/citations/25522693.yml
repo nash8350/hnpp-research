@@ -1,0 +1,62 @@
+pmid: '25522693'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  PMP22-Related neuropathies and other clinical manifestations in Chinese han
+  patients with charcot-marie-tooth disease type 1.
+abstract: >-
+  Most cases of Charcot-Marie-Tooth (CMT) disease are caused by mutations in the
+  peripheral myelin protein 22 gene (PMP22), including heterozygous duplications
+  (CMT1A), deletions (HNPP), and point mutations (CMT1E). Single-nucleotide
+  polymorphism (SNP) arrays were used to study PMP22 mutations based on the
+  results of multiplex ligation-dependent probe amplification (MLPA) and
+  polymerase chain reaction-restriction fragment length polymorphism methods in
+  77 Chinese Han families with CMT1. PMP22 sequencing was performed in
+  MLPA-negative probands. Clinical characteristics were collected for all
+  CMT1A/HNPP probands and their family members. Twenty-one of 77 CMT1 probands
+  (27.3%) carried duplication/deletion (dup/del) copynumber variants. No point
+  mutations were detected. SNP array and MLPA seem to have similar sensitivity.
+  Fifty-seven patients from 19 CMT1A families had the classical CMT phenotype,
+  except for 1 with concomitant CIDP. Two HNPP probands presented with acute
+  ulnar nerve palsy or recurrent sural nerve palsy, respectively. The SNP array
+  has wide coverage, high sensitivity, and high resolution and can be used as a
+  screening tool to detect PMP22 dup/del as shown in this Chinese Han
+  population.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25522693%5Buid%5D&cmd=DetailsSearch'
+date: 2014/12
+authors:
+  - name: Zhan Y
+  - name: Zi X
+  - name: Hu Z
+  - name: Peng Y
+  - name: Wu L
+  - name: Li X
+  - name: Jiang M
+  - name: Liu L
+  - name: Xie Y
+  - name: Xia K
+  - name: Tang B
+  - name: Zhang R
+keywords:
+  - keyword: Adolescent
+  - keyword: Asian Continental Ancestry Group
+  - keyword: ethnology
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: complications
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Multiplex Polymerase Chain Reaction
+  - keyword: Myelin Proteins
+  - keyword: Polymerase Chain Reaction
+  - keyword: 'Polymorphism, Single Nucleotide'
+  - keyword: Young Adult
+cites: []
+citedBy: []

@@ -1,0 +1,58 @@
+pmid: '11535114'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: CNS myelination and PLP gene dosage.
+abstract: >-
+  The phenomenon of gene dosage effects demonstrates that the mechanisms of some
+  genetic diseases are best recognised at the genomic level. Classical gene
+  mutation screening approaches utilising PCR are unsuccessful in unravelling
+  the basis of disease because the gene sequence is unaltered and only the copy
+  number is different. Techniques for detecting DNA dosage are required.
+  Examples of haploinsufficiency and gene deletions are well documented, but
+  increased gene dosage is also an important genetic mechanism in disorders
+  involving myelin proteins in the central (CNS) and peripheral nervous system
+  (PNS). Here we review the dosage effects and mutations of the proteolipid
+  protein (PLP) gene that causes Pelizaeus-Merzbacher disease (PMD) and spastic
+  paraplegia Type 2 (SPG2) disorders of CNS myelination. Similarities are drawn
+  with the peripheral neuropathies Charcot-Marie-Tooth disease Type 1 (CMT1A)
+  and hereditary neuropathy with liability to pressure palsies (HNPP) that are
+  also caused by dosage effects and mutations in a single myelin protein gene
+  (peripheral myelin protein 22, PMP-22). We compare the different mutational
+  mechanisms in man and analogous mouse models that suggest a function for PLP
+  beyond its structural role in myelin. We focus on the increased dosage of the
+  PLP gene that is the major cause of PMD and results from a submicroscopic
+  duplication of Xq22. Other clinical phenotypes may arise from gene dosage
+  imbalance with the potential effect of submicroscopic duplications and
+  deletions of the genome being underestimated. Genome sequencing may identify
+  intrinsic structural properties of the DNA with greater susceptibility to
+  these rearrangements and thereby reflect structural changes in the genome.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11535114%5Buid%5D&cmd=DetailsSearch'
+date: 2001/09
+authors:
+  - name: Woodward K
+  - name: Malcolm S
+keywords:
+  - keyword: Animals
+  - keyword: Gene Deletion
+  - keyword: Gene Dosage
+  - keyword: Gene Duplication
+  - keyword: Mutation
+  - keyword: Myelin Proteolipid Protein
+  - keyword: Myelin Sheath
+  - keyword: physiology
+  - keyword: Pelizaeus-Merzbacher Disease
+  - keyword: therapy
+  - keyword: 'Spastic Paraplegia, Hereditary'
+cites: []
+citedBy: []

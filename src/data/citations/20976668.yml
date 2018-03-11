@@ -1,0 +1,60 @@
+pmid: '20976668'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  Clinical implications of peripheral myelin protein 22 for nerve compression
+  and neural regeneration a review.
+abstract: >-
+  Peripheral myelin protein 22 (PMP22) is a major component of the peripheral
+  myelin sheath. The PMP22 gene is located on chromosome 17p11.2, and defects in
+  PMP22 gene have been implicated in several common inherited peripheral
+  neuropathies. Hereditary neuropathy with liability to pressure palsies (HNPP),
+  Charcot-Marie Tooth disease type 1A (CMT1A), Dejerine-Sottas syndrome, and
+  congenital hypomyelinating neuropathy are all associated with defects in PMP22
+  gene. The disease phenotypes mirror the range of expression of PMP22 due to
+  the corresponding genetic defect. HNPP, characterized by a milder recurrent
+  episodic focal demyelinating neuropathy, is attributed to a deletion leading
+  to PMP22 underexpression. On the other end of the spectrum, CMT1A leads to a
+  more uniform demyelination and axonal loss, resulting in severe progressive
+  distal weakness and paresthesias; it is due to a duplication at 17p11.2
+  leading to PMP22 overexpression. Additional point mutations result in varying
+  phenotypes due to dysfunction of the resultant PMP22 protein. All inherited
+  neuropathies are diagnosed with a combination of physical findings on
+  examination, electromyography, sural nerve biopsies, and genetic testing.
+  Treatment and management of these disorders differ depending on the underlying
+  genetic defect, nerves involved, and resulting functional impairments. A
+  review of current literature elucidates clinical, microsurgical implications,
+  and management of patients with PMP22-related neuropathy.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20976668%5Buid%5D&cmd=DetailsSearch'
+date: 2010/10
+authors:
+  - name: Hui-Chou HG
+  - name: Hashemi SS
+  - name: Hoke A
+  - name: Dellon AL
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: surgery
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Disease Progression
+  - keyword: Electromyography
+  - keyword: Gene Expression
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Microsurgery
+  - keyword: Myelin Proteins
+  - keyword: metabolism
+  - keyword: Phenotype
+  - keyword: Point Mutation
+cites: []
+citedBy: []

@@ -1,0 +1,42 @@
+pmid: '18358598'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  A case of rare recessive oculopharyngeal muscular dystrophy (OPMD) coexisting
+  with hereditary neuropathy with liability to pressure palsies (HNPP).
+abstract: >-
+  Oculopharyngeal muscular dystrophy (OPMD) is typically inherited in an
+  autosomal dominant fashion and is characterized by late onset proximal muscle
+  weakness, ptosis and difficulty swallowing. It is caused by expansion
+  mutations in the PABPN1 gene on chromosome 14q11. There is also a rare
+  recessive form of the disease caused by homozygosity of a very small expansion
+  mutation in the same gene. Hereditary neuropathy with liability to pressure
+  palsies (HNPP) is an autosomal dominant disorder characterized by recurrent
+  peripheral monofocal neuropathies. In this report a patient with both
+  recessive OPMD and HNPP is described. The presence of two genetically unlinked
+  neurological diagnoses in the same individual is a rare event and may have
+  delayed the diagnoses.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18358598%5Buid%5D&cmd=DetailsSearch'
+date: 2008/03
+authors:
+  - name: Marsh EA
+  - name: Robinson DO
+keywords:
+  - keyword: Age Factors
+  - keyword: Aged
+  - keyword: Biopsy
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: 'Muscle, Skeletal'
+  - keyword: pathology
+  - keyword: 'Muscular Dystrophy, Oculopharyngeal'
+  - keyword: Rare Diseases
+  - keyword: Trinucleotide Repeats
+cites: []
+citedBy: []

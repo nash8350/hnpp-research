@@ -1,0 +1,84 @@
+pmid: '25342198'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset of
+  CMT1A/HNPP diseases.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1A (CMT1A) and hereditary neuropathy with
+  liability to pressure palsies (HNPP) represent the most common heritable
+  neuromuscular disorders. Molecular diagnostics of CMT1A/HNPP diseases confirm
+  clinical diagnosis, but their value is limited to the clinical course and
+  prognosis. However, no biomarkers of CMT1A/HNPP have been identified. We
+  decided to explore if the LITAF/SIMPLE gene shared a functional link to the
+  PMP22 gene, whose duplication or deletion results in CMT1A and HNPP,
+  respectively. By studying a large cohort of CMT1A/HNPP-affected patients, we
+  found that the LITAF I92V sequence variant predisposes patients to an earlier
+  age of onset of both the CMT1A and HNPP diseases. Using cell transfection
+  experiments, we showed that the LITAF I92V sequence variant partially
+  mislocalizes to the mitochondria in contrast to wild-type LITAF which
+  localizes to the late endosome/lysosomes and is associated with a tendency for
+  PMP22 to accumulate in the cells. Overall, this study shows that the I92V
+  LITAF sequence variant would be a good candidate for a biomarker in the case
+  of the CMT1A/HNPP disorders.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25342198%5Buid%5D&cmd=DetailsSearch'
+date: 2014/10
+authors:
+  - name: Sinkiewicz-Darol E
+  - name: Lacerda AF
+  - name: Kostera-Pruszczyk A
+  - name: Potulska-Chromik A
+  - name: Sokołowska B
+  - name: Kabzińska D
+  - name: Brunetti CR
+  - name: Hausmanowa-Petrusewicz I
+  - name: Kochański A
+keywords:
+  - keyword: Age of Onset
+  - keyword: Animals
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: epidemiology
+  - keyword: Biomarkers
+  - keyword: 'Cells, Cultured'
+  - keyword: Cercopithecus aethiops
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Mitochondria
+  - keyword: metabolism
+  - keyword: Myelin Proteins
+  - keyword: Nuclear Proteins
+  - keyword: Sequence Deletion
+  - keyword: Transcription Factors
+cites:
+  - pmid: '10586249'
+  - pmid: '8215977'
+  - pmid: '12525712'
+  - pmid: '14608378'
+  - pmid: '1677316'
+  - pmid: '1822787'
+  - pmid: '7501164'
+  - pmid: '9403478'
+  - pmid: '10022584'
+  - pmid: '15786462'
+  - pmid: '15776429'
+  - pmid: '16787513'
+  - pmid: '19638685'
+  - pmid: '19691535'
+  - pmid: '19941344'
+  - pmid: '20538976'
+  - pmid: '20842290'
+  - pmid: '21504497'
+  - pmid: '23166352'
+  - pmid: '23576546'
+  - pmid: '25058650'
+  - pmid: '24668782'
+  - pmid: '11140948'
+citedBy: []

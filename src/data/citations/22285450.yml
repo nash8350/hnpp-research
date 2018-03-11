@@ -1,0 +1,32 @@
+pmid: '22285450'
+categories:
+  - name: Prevalence
+    enabled: true
+title: >-
+  Overlapping molecular pathological themes link Charcot-Marie-Tooth
+  neuropathies and hereditary spastic paraplegias.
+abstract: >-
+  In this review we focus on Charcot-Marie-Tooth (CMT) neuropathies and
+  hereditary spastic paraplegias (HSPs). Although these diseases differ in
+  whether they primarily affect the peripheral or central nervous system, both
+  are genetically determined, progressive, long axonopathies that affect motor
+  and sensory pathways. This commonality suggests that there might be
+  similarities in the molecular pathology underlying these conditions, and here
+  we compare the molecular genetics and cellular pathology of the two groups.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22285450%5Buid%5D&cmd=DetailsSearch'
+date: 2012/01
+authors:
+  - name: Timmerman V
+  - name: Clowes VE
+  - name: Reid E
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: epidemiology
+  - keyword: pathology
+  - keyword: Mutation
+  - keyword: 'Nerve Fibers, Myelinated'
+  - keyword: 'Spastic Paraplegia, Hereditary'
+cites: []
+citedBy:
+  - pmid: '24819634'

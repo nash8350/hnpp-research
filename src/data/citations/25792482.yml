@@ -1,0 +1,141 @@
+pmid: '25792482'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Molecular regulators of nerve conduction - Lessons from inherited neuropathies
+  and rodent genetic models.
+abstract: >-
+  Myelinated nerve fibers are highly compartmentalized. Helically wrapped
+  lipoprotein membranes of myelin are integrated with subsets of proteins
+  specifically in each compartment to shape the physiological behavior of these
+  nerve fibers. With the advance of molecular biology and genetics, many
+  functions of these proteins have been revealed over the past decade. In this
+  review, we will first discuss how action potential propagation has been
+  understood by classical electrophysiological studies. In particular, the
+  discussion will be concentrated on how the geometric dimensions of myelinated
+  nerve fibers (such as internodal length and myelin thickness) may affect nerve
+  conduction velocity. This discussion will then extend into how specific myelin
+  proteins may shape these geometric parameters, thereby regulating action
+  potential propagation. For instance, periaxin may specifically affect the
+  internodal length, but not other parameters. In contrast, neuregulin-1 may
+  affect myelin thickness, but not axon diameter or internodal length. Finally,
+  we will discuss how these basic neurobiological observations can be applied to
+  inherited peripheral nerve diseases.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25792482%5Buid%5D&cmd=DetailsSearch'
+date: 2015/03
+authors:
+  - name: Jun Li
+keywords:
+  - keyword: Action Potentials
+  - keyword: Animals
+  - keyword: 'Disease Models, Animal'
+  - keyword: Myelin Proteins
+  - keyword: metabolism
+  - keyword: 'Nerve Fibers, Myelinated'
+  - keyword: pathology
+  - keyword: Neural Conduction
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: physiopathology
+  - keyword: Rodentia
+cites:
+  - pmid: '314974'
+  - pmid: '23224996'
+  - pmid: '19224642'
+  - pmid: '5791690'
+  - pmid: '995194'
+  - pmid: '12915479'
+  - pmid: '18048693'
+  - pmid: '11395001'
+  - pmid: '9464989'
+  - pmid: '10586281'
+  - pmid: '23279425'
+  - pmid: '17172621'
+  - pmid: '10818147'
+  - pmid: '14682359'
+  - pmid: '15774502'
+  - pmid: '10775544'
+  - pmid: '10869062'
+  - pmid: '2185861'
+  - pmid: '14889433'
+  - pmid: '9126058'
+  - pmid: '11003782'
+  - pmid: '10739576'
+  - pmid: '11835311'
+  - pmid: '12119418'
+  - pmid: '14627652'
+  - pmid: '15703401'
+  - pmid: '10601346'
+  - pmid: '15356632'
+  - pmid: '7698985'
+  - pmid: '15044753'
+  - pmid: '2011255'
+  - pmid: '20039262'
+  - pmid: '24339129'
+  - pmid: '16962312'
+  - pmid: '25150498'
+  - pmid: '8615087'
+  - pmid: '16337912'
+  - pmid: '24665400'
+  - pmid: '16326107'
+  - pmid: '1303228'
+  - pmid: '17620487'
+  - pmid: '11395000'
+  - pmid: '8706126'
+  - pmid: '19923170'
+  - pmid: '10447239'
+  - pmid: '8414036'
+  - pmid: '12648463'
+  - pmid: '20506478'
+  - pmid: '6320365'
+  - pmid: '15797717'
+  - pmid: '12403818'
+  - pmid: '20739560'
+  - pmid: '23022068'
+  - pmid: '12084875'
+  - pmid: '8313241'
+  - pmid: '17208176'
+  - pmid: '24122820'
+  - pmid: '6980272'
+  - pmid: '20448149'
+  - pmid: '20071523'
+  - pmid: '623863'
+  - pmid: '657237'
+  - pmid: '21106834'
+  - pmid: '24762439'
+  - pmid: '10586261'
+  - pmid: '6142457'
+  - pmid: '16129398'
+  - pmid: '19439587'
+  - pmid: '12635114'
+  - pmid: '10639608'
+  - pmid: '17854762'
+  - pmid: '15755691'
+  - pmid: '9700485'
+  - pmid: '10447131'
+  - pmid: '8422677'
+  - pmid: '17174099'
+  - pmid: '9183252'
+  - pmid: '17804618'
+  - pmid: '23117945'
+  - pmid: '8012388'
+  - pmid: '6283420'
+  - pmid: '10586258'
+  - pmid: '7613613'
+  - pmid: '11271367'
+  - pmid: '9120057'
+  - pmid: '11917099'
+  - pmid: '10677299'
+  - pmid: '4106859'
+  - pmid: '12525712'
+  - pmid: '19185024'
+  - pmid: '12090404'
+  - pmid: '11939347'
+  - pmid: '7581450'
+  - pmid: '6244497'
+citedBy:
+  - pmid: '27583434'

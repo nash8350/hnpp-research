@@ -1,0 +1,30 @@
+pmid: '10975740'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Visualization of the CMT1A duplication and HNPP deletion by FISH on stretched
+  chromosome fibers.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10975740%5Buid%5D&cmd=DetailsSearch'
+date: 1997/01
+authors:
+  - name: Rautenstrauss B
+  - name: Fuchs C
+  - name: Liehr T
+  - name: Grehl H
+  - name: Murakami T
+  - name: Lupski JR
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Chromosomes
+  - keyword: ultrastructure
+  - keyword: Cosmids
+  - keyword: Gene Duplication
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: 'In Situ Hybridization, Fluorescence'
+cites: []
+citedBy:
+  - pmid: '16570190'

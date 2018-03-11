@@ -1,0 +1,67 @@
+pmid: '11055050'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  [Hereditary neuropathy with liability to pressure palsies (tomaculous
+  neuropathy). Clinical, electrophysical and molecular study of two affected
+  families].
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal-dominant disorder of peripheral myelin characterized by episodes of
+  recurrent mononeuropathies usually involving nerves at common sites of
+  entrapment and compression. Additional features include evidence of a diffuse
+  demyelinating sensorimotor polyneuropathy on nerve conduction studies, focal
+  myelin thickening (tomacula) on sural nerve biopsy, and a 1.5 Mb deletion on
+  17p11.2 encompassing the peripheral myelin protein 22 (PMP22) gene in most
+  families. Two girls, aged 10 and 12 years, presented with peroneal nerve palsy
+  and peroneal nerve palsy plus tibial nerve palsy, respectively. In none case,
+  a clear causal factor was recognizable. Neurophysiological studies both cases
+  showed diffuse sensory and motor nerve conduction velocity slowing and
+  prolongation of distal motor latencies. In addition, features of focal
+  entrapment neuropathy were obtained at proximal peroneal nerve level. Sural
+  nerve biopsy large axons demyelination, redundant myelin and intraaxonal
+  looping (case 1) and tomaculas (case 2). Molecular genetics 17p12-p11 deletion
+  was demonstrated in both affected girls, the mother and two maternal uncles of
+  case 1 and in the father, paternal grandfather and two paternal uncles of case
+  2. NHPP should be suspected in cases of peripheral neuropathy without clearly
+  recognizable cause. Electrophysiological and molecular studies permit both
+  delineation of the condition and identification of otherwise clinically normal
+  family members.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11055050%5Buid%5D&cmd=DetailsSearch'
+date: 2000/10
+authors:
+  - name: Eirís-Punal J
+  - name: Vidal-Lijó M
+  - name: Barros-Angueira F
+  - name: Lopez-Fernández MJ
+  - name: Pintos-Martínez E
+  - name: Beiras-Iglesias A
+  - name: Castro-Gago M
+keywords:
+  - keyword: Child
+  - keyword: Electromyography
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: physiopathology
+  - keyword: Median Nerve
+  - keyword: pathology
+  - keyword: Myelin Sheath
+  - keyword: metabolism
+  - keyword: Nerve Fibers
+  - keyword: Paralysis
+  - keyword: Pedigree
+  - keyword: Peripheral Nerves
+  - keyword: Peroneal Nerve
+  - keyword: Severity of Illness Index
+  - keyword: Sural Nerve
+  - keyword: Tibial Nerve
+cites: []
+citedBy: []

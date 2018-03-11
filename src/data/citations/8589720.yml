@@ -1,0 +1,52 @@
+pmid: '8589720'
+categories:
+  - name: Biochemistry
+    enabled: true
+title: >-
+  A recombination hotspot responsible for two inherited peripheral neuropathies
+  is located near a mariner transposon-like element.
+abstract: >-
+  The Charcot-Marie Tooth disease type 1A (CMT1A) duplication and hereditary
+  neuropathy with liability to pressure palsies (HNPP) deletion are reciprocal
+  products of an unequal crossing-over event between misaligned flanking
+  CMT1A-REP repeats. The molecular aetiology of this apparently homologous
+  recombination event was examined by sequencing the crossover region. Through
+  the detection of novel junction fragments from the recombinant CMT1A-REPs in
+  both CMT1A and HNPP patients, a 1.7-kb recombination hotspot within the
+  approximately 30-kb CMT1A-REPs was identified. This hotspot is 98% identical
+  between CMT1A-REPs indicating that sequence identity is not likely the sole
+  factor involved in promoting crossover events. Sequence analysis revealed a
+  mariner transposon-like element (MITE) near the hotspot which we hypothesize
+  could mediate strand exchange events via cleavage by a transposase at or near
+  the 3' end of the element.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8589720%5Buid%5D&cmd=DetailsSearch'
+date: 1996/03
+authors:
+  - name: Reiter LT
+  - name: Murakami T
+  - name: Koeuth T
+  - name: Pentao L
+  - name: Muzny DM
+  - name: Gibbs RA
+  - name: Lupski JR
+keywords:
+  - keyword: Amino Acid Sequence
+  - keyword: Base Sequence
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: DNA
+  - keyword: DNA Transposable Elements
+  - keyword: Gene Deletion
+  - keyword: Molecular Sequence Data
+  - keyword: Multigene Family
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: 'Recombination, Genetic'
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+  - keyword: Restriction Mapping
+  - keyword: 'Sequence Homology, Amino Acid'
+cites: []
+citedBy:
+  - pmid: '23224996'
+  - pmid: '11381029'
+  - pmid: '9973284'
+  - pmid: '9545397'
+  - pmid: '9032649'

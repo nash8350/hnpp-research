@@ -1,0 +1,55 @@
+pmid: '18760885'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) in childhood a
+  case study emphasizing the relevance of detailed electrophysiological
+  examination for suspected HNPP in the first decade.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) is an autosomal
+  dominant disorder characterized by recurrent mono-neuropathies secondary to
+  minor trauma or compression. Whilst typical episodes of palsy generally become
+  apparent during the second and the third decades, HNPP is rarely diagnosed in
+  the first decade. We present the case of a 6-year-old patient to draw
+  attention to the possibility of HNPP attacks in the first decade and the
+  importance of detailed electrophysiological examination.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18760885%5Buid%5D&cmd=DetailsSearch'
+date: 2008/09
+authors:
+  - name: Bayrak AO
+  - name: Battaloglu E
+  - name: Turker H
+  - name: Baris I
+  - name: Oztas G
+keywords:
+  - keyword: Age of Onset
+  - keyword: Child
+  - keyword: Disease Progression
+  - keyword: Early Diagnosis
+  - keyword: Electrodiagnosis
+  - keyword: instrumentation
+  - keyword: methods
+  - keyword: Extremities
+  - keyword: innervation
+  - keyword: physiopathology
+  - keyword: Genetic Predisposition to Disease
+  - keyword: 'Heredodegenerative Disorders, Nervous System'
+  - keyword: diagnosis
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Peripheral Nerves
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: congenital
+  - keyword: Predictive Value of Tests
+  - keyword: Pressure
+  - keyword: adverse effects
+cites: []
+citedBy:
+  - pmid: '25506001'
+  - pmid: '24251057'
+  - pmid: '22953141'

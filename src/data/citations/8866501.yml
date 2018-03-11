@@ -1,0 +1,53 @@
+pmid: '8866501'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Persisting "writer's cramp" as a result of compensation of a temporary palsy
+  due to a hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  A 49-year-old man reported several periods of acute paresis of different
+  nerves after exposure to pressure. All palsies showed a good recovery over a
+  period of days to months. The suspected diagnosis of a hereditary neuropathy
+  with liability to pressure palsies was confirmed by the histology of a suralis
+  nerve biopsy, which showed a distinct tomaculous swelling of the myelin. Nine
+  years ago he noticed an acute, distally pronounced palsy of the right arm. A
+  brachial plexus lesion was diagnosed. His profession required written work,
+  thereby forcing him to compensate this weakness by increasing the coactivation
+  of the elbow and upper arm. This coactivation persisted even after complete
+  recovery from the plexus palsy. Thus, the patient showed the typical feature
+  of classical writer's cramp, with broad coactivation of the arm muscles, which
+  has continued to the present. At the same time, however, the patient was able
+  to perform other motoric tasks well, such as painting. After several practice
+  sessions with a special program that makes use of preserved motor abilities to
+  reestablish writing, the patient was again able to write with a normal
+  kinematic profile as documented by the recorded handwriting. This suggests
+  that the "writer's cramp" of our patient is one form of task-related dystonia
+  that may be related more to the perserveration of a misleading motor strategy
+  than to a general inability of the motor system to control the movement
+  properly.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8866501%5Buid%5D&cmd=DetailsSearch'
+date: 1996/09
+authors:
+  - name: Straube A
+  - name: Mai N
+  - name: Walther E
+  - name: Mayer M
+keywords:
+  - keyword: Brachial Plexus
+  - keyword: physiopathology
+  - keyword: Electromyography
+  - keyword: Handwriting
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: Myelin Sheath
+  - keyword: Neural Conduction
+  - keyword: Writing
+cites: []
+citedBy:
+  - pmid: '27761228'

@@ -1,0 +1,23 @@
+pmid: '18440055'
+categories:
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Ultrasound aids in the diagnosis of hereditary neuropathy with liability to
+  pressure palsies.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18440055%5Buid%5D&cmd=DetailsSearch'
+date: 2008/04
+authors:
+  - name: Tekin L
+  - name: Ozgül A
+keywords:
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnostic imaging
+  - keyword: Median Nerve
+  - keyword: Nerve Compression Syndromes
+  - keyword: Ultrasonography
+  - keyword: Young Adult
+cites: []
+citedBy:
+  - pmid: '24639934'

@@ -1,0 +1,57 @@
+pmid: '8538664'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Tomaculous neuropathy a clinical and electrophysiological study in patients
+  with and without 1.5-Mb deletions in chromosome 17p11.2.
+abstract: >-
+  Tomaculous neuropathy is the descriptive term for the "sausagelike" swellings
+  of myelin characteristic of hereditary neuropathy with liability to pressure
+  palsies (HNPP). A 1.5-Mb deletion in chromosome 17p11.2 is present in the
+  majority but not all cases of HNPP. We reviewed the clinical and
+  electrophysiological features of 18 patients with tomaculous neuropathy and
+  compared these features between patients with and without the typical large
+  deletion. Patients presented with a variety of pressure-induced nerve palsies
+  and brachial plexopathies. Two patients presented with generalized symmetric
+  sensorimotor polyneuropathies. Four patients were older than their respective
+  probands but were as yet asymptomatic. Nerve conduction studies demonstrated
+  prolonged distal latencies out of proportion to slowing of conduction
+  velocities, suggesting a distally accentuated myelinopathy. DNA analysis
+  revealed the 1.5-Mb deletion in all the familial cases and in 3 of the
+  sporadic patients. The clinical and electrophysiological features were similar
+  between patients with and without the 1.5-Mb deletion in chromosome 17p11.2.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8538664%5Buid%5D&cmd=DetailsSearch'
+date: 1996/01
+authors:
+  - name: Amato AA
+  - name: Gronseth GS
+  - name: Callerame KJ
+  - name: Kagan-Hallet KS
+  - name: Bryan WW
+  - name: Barohn RJ
+keywords:
+  - keyword: Adolescent
+  - keyword: Child
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: Electrophysiology
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Neurologic Examination
+  - keyword: Retrospective Studies
+cites: []
+citedBy:
+  - pmid: '23224996'
+  - pmid: '15083272'

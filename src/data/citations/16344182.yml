@@ -1,0 +1,68 @@
+pmid: '16344182'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  The prevalence of hereditary neuropathy with liability to pressure palsies in
+  patients with multiple surgically treated entrapment neuropathies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal-dominant peripheral neuropathy that results from deletion of a
+  1.5-Megabase pair (Mb) segment of the short arm (p) of chromosome 17.
+  Hereditary neuropathy with liability to pressure palsies increases
+  susceptibility of peripheral nerves to pressure and trauma and can be
+  associated with symptoms at multiple anatomic entrapment sites. Many patients
+  present with multiple upper-extremity entrapment neuropathies and the etiology
+  is uncertain. We hypothesized that some of these patients have an underlying
+  hereditary neuropathy. The purpose of this study was to determine the
+  prevalence of HNPP in patients with multiple surgically treated
+  upper-extremity entrapment neuropathies. The inclusion criterion for the study
+  was history of more than 1 carpal tunnel release and/or ulnar nerve
+  transposition. The exclusion criteria were history of diabetes or history of
+  Charcot-Marie-Tooth neuropathy. Fifty-nine patients were in the study group.
+  Two patients known to have the 17p11.2 deletion were used as controls. Genomic
+  DNA was extracted from peripheral blood. Each sample was genotyped using
+  polymerase chain reaction (PCR) amplification with short tandem repeat
+  polymorphism markers within the 1.5-Mb region of 17p deleted in HNPP. Markers
+  were scored as homozygous or heterozygous after resolution by polyacrylamide
+  gel electrophoresis and silver staining. The 2 control patients were
+  homozygous for 11 markers. None of the 59 study patients were homozygous for
+  all markers tested in the deleted region. No study patient had the 17p
+  deletion diagnostic for HNPP. Based on the sample size of 59 patients the 95%
+  confidence interval for the prevalence of the 17p11.2 deletion in this
+  population is 0% to 5%. We found no evidence for an association between HNPP
+  and patients who have multiple surgical releases for upper-extremity
+  entrapment neuropathies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16344182%5Buid%5D&cmd=DetailsSearch'
+date: 2005/12
+authors:
+  - name: Sander MD
+  - name: Abbasi D
+  - name: Ferguson AL
+  - name: Steyers CM
+  - name: Wang K
+  - name: Morcuende JA
+keywords:
+  - keyword: Case-Control Studies
+  - keyword: Chromosome Deletion
+  - keyword: Genetic Markers
+  - keyword: Genotype
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Nerve Compression Syndromes
+  - keyword: surgery
+  - keyword: Polymerase Chain Reaction
+  - keyword: Prevalence
+cites: []
+citedBy:
+  - pmid: '25337104'
+  - pmid: '18751796'

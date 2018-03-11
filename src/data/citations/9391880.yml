@@ -1,0 +1,77 @@
+pmid: '9391880'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Atypical hereditary neuropathy with liability to pressure palsies (HNPP) the
+  value of direct DNA diagnosis.
+abstract: >-
+  We report two patients with suspected hereditary liability to pressure
+  palsies. Neurophysiological studies showed a mixed axonal-demyelinating
+  sensory-motor polyneuropathy with focal slowing of conduction velocities at
+  the common sites of entrapment. Morphological studies on sural nerve biopsy
+  from the proband showed active axonal regeneration without typical tomacula.
+  Molecular analysis confirmed the presence of a deletion of chromosome 17p11.2
+  in both patients. Our observation confirms the heterogeneity of hereditary
+  liability to pressure palsies and the relevance of DNA testing for the
+  diagnosis of this hereditary neuropathy.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9391880%5Buid%5D&cmd=DetailsSearch'
+date: 1997/12
+authors:
+  - name: Sessa M
+  - name: Nemni R
+  - name: Quattrini A
+  - name: Del Carro U
+  - name: Wrabetz L
+  - name: Canal N
+keywords:
+  - keyword: Adolescent
+  - keyword: 'Blotting, Southern'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: Genetic Testing
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Pedigree
+  - keyword: Polymerase Chain Reaction
+cites:
+  - pmid: '1117305'
+  - pmid: '7944298'
+  - pmid: '880924'
+  - pmid: '7955724'
+  - pmid: '7825607'
+  - pmid: '7885351'
+  - pmid: '7753126'
+  - pmid: '7581450'
+  - pmid: '7501152'
+  - pmid: '8848937'
+  - pmid: '8651299'
+  - pmid: '8780105'
+  - pmid: '14212604'
+  - pmid: '4724822'
+  - pmid: '4303801'
+  - pmid: '4345910'
+  - pmid: '431042'
+  - pmid: '3003872'
+  - pmid: '8422677'
+  - pmid: '8393091'
+  - pmid: '8396068'
+  - pmid: '8375058'
+  - pmid: '7903071'
+  - pmid: '8112739'
+  - pmid: '8125763'
+  - pmid: '7511317'
+  - pmid: '7909361'
+  - pmid: '8004087'
+  - pmid: '8012388'
+  - pmid: '864493'
+citedBy:
+  - pmid: '16775374'

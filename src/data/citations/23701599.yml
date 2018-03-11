@@ -1,0 +1,49 @@
+pmid: '23701599'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  High resolution sonography in the evaluation of the peripheral nervous system
+  in polyneuropathy--a review of the literature.
+abstract: >-
+  Clinical, laboratory and electrodiagnostic studies are the mainstay in the
+  diagnosis of polyneuropathy. An accurate etiological diagnosis is of paramount
+  importance to provide the appropriate treatment, prognosis and genetic
+  counselling. High resolution sonography of the peripheral nervous system
+  allows nerves to be readily visualized and to assess their morphology.
+  Ultrasonography has brought pathophysiological insights and substantially
+  added to diagnostic accuracy and treatment decisions amongst mononeuropathies.
+  In this study the literature on its clinical application in polyneuropathy is
+  reviewed. Several polyneuropathies have been studied by means of ultrasound
+  Charcot-Marie-Tooth, hereditary neuropathy with liability to pressure palsies,
+  chronic inflammatory demyelinating polyneuropathy, Guillain-Barré syndrome,
+  multifocal motor neuropathy, paraneoplastic polyneuropathy, leprosy and
+  diabetic neuropathy. The most prominent reported pathological changes were
+  nerve enlargement, increased hypo-echogenicity and increased intraneural
+  vascularization. Sonography revealed intriguingly different patterns of nerve
+  enlargement between inflammatory neuropathies and axonal and inherited
+  polyneuropathies. However, many studies concerned case reports or case series
+  and showed methodological shortcomings. Further prospective studies with
+  standardized protocols for nerve sonography and clinical and electrodiagnostic
+  testing are needed to determine the role of nerve sonography in inherited and
+  acquired polyneuropathies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23701599%5Buid%5D&cmd=DetailsSearch'
+date: 2013/05
+authors:
+  - name: Goedee HS
+  - name: Brekelmans GJ
+  - name: van Asseldonk JT
+  - name: Beekman R
+  - name: Mess WH
+  - name: Visser LH
+keywords:
+  - keyword: Peripheral Nervous System
+  - keyword: diagnostic imaging
+  - keyword: Polyneuropathies
+  - keyword: Ultrasonography
+cites: []
+citedBy: []

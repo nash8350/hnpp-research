@@ -1,0 +1,22 @@
+pmid: '11033525'
+categories:
+  - name: Physiopathology
+    enabled: true
+title: '[Hereditary neuropathy with liability to pressure palsies].'
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11033525%5Buid%5D&cmd=DetailsSearch'
+date: 2000/10
+authors:
+  - name: Bouche P
+  - name: Mouton P
+  - name: Gouider R
+  - name: Dubourg O
+  - name: Le Guern E
+  - name: Maisonobe T
+  - name: le Forestier N
+keywords:
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: physiopathology
+  - keyword: 'Spastic Paraplegia, Hereditary'
+cites: []
+citedBy: []

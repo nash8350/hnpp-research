@@ -1,0 +1,54 @@
+pmid: '8856651'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies distinguishing
+  clinical and electrophysiological features among patients with multiple
+  entrapment neuropathy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies is caused by deletion
+  of the PMP-22 gene. As its relatively mild symptoms may escape detection by
+  clinical examination alone, we screened the gene in patients with multiple
+  entrapment neuropathy (MEN) that had been diagnosed by nerve conduction
+  studies (NCS). Two of the eight patients with MEN had deletion of the gene.
+  The characteristic features that distinguished them from the other MEN
+  patients were predominantly sensory deficits associated with mild weakness and
+  subclinical polyneuropathy as detected by NCS.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8856651%5Buid%5D&cmd=DetailsSearch'
+date: 1996/08
+authors:
+  - name: Hirota N
+  - name: Kaji R
+  - name: Yoshikawa H
+  - name: Nishimura T
+  - name: Ikeda T
+  - name: Yanagihara T
+  - name: Kimura J
+keywords:
+  - keyword: Adolescent
+  - keyword: Aged
+  - keyword: 'Aged, 80 and over'
+  - keyword: 'Blotting, Southern'
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Infant
+  - keyword: Myelin Proteins
+  - keyword: deficiency
+  - keyword: Nerve Compression Syndromes
+  - keyword: etiology
+  - keyword: Paresthesia
+cites: []
+citedBy: []

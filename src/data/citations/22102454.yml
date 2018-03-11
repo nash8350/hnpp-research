@@ -1,0 +1,44 @@
+pmid: '22102454'
+categories:
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Sonographic features in hereditary neuropathy with liability to pressure
+  palsies.
+abstract: >-
+  Diagnostic nerve ultrasound is becoming more commonly used by both
+  radiologists and clinicians. The features of different neuromuscular
+  conditions must be described to broaden our understanding and ability to
+  interpret findings. Our study examines the sonographic features of 7 subjects
+  with hereditary neuropathy with liability to pressure palsies (HNPP) in
+  comparison to 32 controls by measuring the nerve cross-sectional area (CSA) of
+  the median, ulnar and tibial nerves. Significant differences (P < 0.05) in
+  nerve size were found. The HNPP group had a larger CSA for the median nerve at
+  the wrist and ulnar nerve at the elbow (entrapment sites), but not the
+  forearms. The tibial nerve at the ankle was also larger in the HNPP group,
+  suggesting possible concomitant tibial neuropathy at the ankle. These results
+  will help shape imaging protocols to better detect conditions with non-uniform
+  nerve enlargements.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22102454%5Buid%5D&cmd=DetailsSearch'
+date: 2011/11
+authors:
+  - name: Hooper DR
+  - name: Lawson W
+  - name: Smith L
+  - name: Baker SK
+keywords:
+  - keyword: Adolescent
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: complications
+  - keyword: diagnostic imaging
+  - keyword: Paralysis
+  - keyword: etiology
+  - keyword: Pressure
+  - keyword: adverse effects
+  - keyword: Ultrasonography
+  - keyword: Young Adult
+cites: []
+citedBy:
+  - pmid: '25685136'
+  - pmid: '24646194'
+  - pmid: '24639934'

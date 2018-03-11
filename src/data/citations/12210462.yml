@@ -1,0 +1,44 @@
+pmid: '12210462'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Sonographic detection of diffuse peripheral nerve enlargement in hereditary
+  neuropathy with liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is a disorder
+  characterized by a tendency to develop focal neuropathies after trivial
+  traumas. On teased nerve fiber studies, sausage-shaped myelin sheath swellings
+  (tomacula) are found. We report the sonographic findings in a patient with
+  genetically proven HNPP. We were able to demonstrate enlargement of several
+  peripheral nerves, even nerves that were clinically unaffected. Enlargement
+  was found not only at typical nerve entrapment sites but also outside these
+  sites. This diffuse nerve enlargement may play an important role in the
+  pathogenesis of entrapment neuropathies in HNPP patients.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12210462%5Buid%5D&cmd=DetailsSearch'
+date: 2002/09
+authors:
+  - name: Beekman R
+  - name: Visser LH
+keywords:
+  - keyword: Extremities
+  - keyword: innervation
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnostic imaging
+  - keyword: Hypertrophy
+  - keyword: Nerve Compression Syndromes
+  - keyword: complications
+  - keyword: Paresis
+  - keyword: etiology
+  - keyword: Peripheral Nerves
+  - keyword: Ultrasonography
+cites: []
+citedBy:
+  - pmid: '24639934'
+  - pmid: '18751796'

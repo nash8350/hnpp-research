@@ -1,0 +1,47 @@
+pmid: '11903093'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: Familial carpal tunnel syndrome a report of a Finnish family.
+abstract: >-
+  The existence of familial carpal tunnel syndrome (FCTS) as a separate
+  autonomic entity has been discussed during the last few years. In order to
+  contribute with more data to the literature, we report here the results of
+  clinical. electrophysiological, pathological and radiological studies
+  performed in 5 patients belonging to the same Finnish pedigree. The disease
+  appeared usually before the second decade with numbness and pain on the I--III
+  digits. In most patients symptoms were unilateral but within 2 years they
+  became bilateral. In all patients typical electrophysiological features of
+  median nerve entrapment have been recorded. X-rays of the wrist showed narrow
+  carpal tunnel in all patients. In all patients the possibility of having HNPP
+  as well as familial amyloidosis has been excluded by molecular genetic and
+  pathological studies. All patients underwent surgery and at postoperative
+  stage symptoms were relieved or completely disappeared. Our study supports the
+  theory that FCTS exists as a separate autonomic entity, therefore it is
+  important in front of a sporadic case to investigate the family occurrence of
+  CTS.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11903093%5Buid%5D&cmd=DetailsSearch'
+date: 2002/03
+authors:
+  - name: Mahjneh I
+  - name: Saarinen A
+  - name: Siivola J
+keywords:
+  - keyword: Adolescent
+  - keyword: Carpal Tunnel Syndrome
+  - keyword: physiopathology
+  - keyword: surgery
+  - keyword: Electromyography
+  - keyword: Finland
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Pedigree
+  - keyword: Peripheral Nerves
+cites: []
+citedBy: []

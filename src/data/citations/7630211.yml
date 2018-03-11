@@ -1,0 +1,44 @@
+pmid: '7630211'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies and inherited
+  brachial plexus neuropathy--two genetically distinct disorders.
+abstract: >-
+  To determine whether hereditary neuropathy with liability to pressure palsies
+  (HNPP) and inherited brachial plexus neuropathy (IBPN) are genetically
+  distinct disorders and to evaluate the usefulness of fluorescence in situ
+  hybridization (FISH) for diagnosing HNPP in individual patients. We studied
+  representative metaphases from patients with HNPP and IBPN with use of FISH
+  and a DNA probe. With use of FISH, 14 persons from 4 unrelated families with
+  HNPP and 7 members from 3 unrelated families with IBPN were studied. We used a
+  DNA probe that hybridizes to chromosome 17p11.2 in an area thought to be
+  deleted in HNPP. Each participant in this study who had HNPP showed deletion
+  of this chromosome site. Each of the 10 control subjects and 7 patients with
+  IBPN showed normal fluorescent signals on both number 17 chromosomes. These
+  results demonstrate that HNPP and IBPN are genetically different. FISH with
+  this probe is a sensitive and specific method for detecting the chromosomal
+  deletion in individual patients without the use of family studies or linkage
+  analysis.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7630211%5Buid%5D&cmd=DetailsSearch'
+date: 1995/08
+authors:
+  - name: Windebank AJ
+  - name: Schenone A
+  - name: Dewald GW
+keywords:
+  - keyword: Brachial Plexus Neuritis
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA Probes
+  - keyword: 'Genes, erbB-2'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Metaphase
+  - keyword: Paralysis
+cites: []
+citedBy:
+  - pmid: '16775374'

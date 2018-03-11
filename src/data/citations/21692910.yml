@@ -1,0 +1,63 @@
+pmid: '21692910'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: The phenotype of the Gly94fsX222 PMP22 insertion.
+abstract: >-
+  Point mutations in PMP22 are relatively rare and the phenotype may vary from
+  mild hereditary neuropathy with liability to pressure palsies (HNPP) to severe
+  Charcot-Marie-Tooth type 1 (CMT1). We describe the phenotype of the
+  Gly94fsX222 mutation in the PMP22 gene. Medical records of all patients were
+  reviewed and 11 patients were re-examined. EMG was carried out in nine
+  patients and nerve biopsy in one. Thirteen patients originating from seven
+  families with a Gly94fsX222 mutation were included and consisted of 10 women
+  and 3 men with a median age of 41 years (range 7-67). Five index patients were
+  originally suspected of CMT1. Ten patients had abnormal motor skills during
+  childhood. Nine patients had a history of pressure palsies. Involvement of the
+  olfactory, trigeminal, facial, and pudendal nerves occurred in three patients.
+  Twelve patients had pes cavus and one scoliosis. Distal anterior leg and
+  distal arm weakness were found in 12 and 4 patients, respectively. Twelve
+  patients had distal leg sensory abnormalities. Electrophysiological
+  examination revealed a demyelinating sensorimotor neuropathy, both resembling
+  CMT1 and HNPP. Sural nerve biopsy showed demyelinating neuropathy with
+  presence of tomacula. More than three-fourths of the patients with Gly94fsX222
+  mutation demonstrated a CMT1 phenotype combined with transient deficits.
+  Clinicians should test for this mutation in those patients exhibiting a
+  generalised neuropathy combined with compressive like episodes.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21692910%5Buid%5D&cmd=DetailsSearch'
+date: 2011/06
+authors:
+  - name: de Vries SD
+  - name: Verhamme C
+  - name: van Ruissen F
+  - name: van Paassen BW
+  - name: Arts WF
+  - name: Kerkhoff H
+  - name: van Engelen BG
+  - name: Lammens M
+  - name: de Visser M
+  - name: Baas F
+  - name: van der Kooi AJ
+keywords:
+  - keyword: Adolescent
+  - keyword: Arthrogryposis
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Child
+  - keyword: Electrophysiology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: 'Mutation, Missense'
+  - keyword: Myelin Proteins
+  - keyword: Phenotype
+  - keyword: Point Mutation
+  - keyword: Young Adult
+cites: []
+citedBy:
+  - pmid: '24646194'

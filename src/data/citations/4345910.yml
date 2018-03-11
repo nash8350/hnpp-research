@@ -1,0 +1,55 @@
+pmid: '4345910'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies. Electrophysiological
+  and histopathological aspects.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=4345910%5Buid%5D&cmd=DetailsSearch'
+date: 1972/01
+authors:
+  - name: Behse F
+  - name: Buchthal F
+  - name: Carlsen F
+  - name: Knappeis GG
+keywords:
+  - keyword: Adolescent
+  - keyword: Child
+  - keyword: Demyelinating Diseases
+  - keyword: pathology
+  - keyword: Electromyography
+  - keyword: Evoked Potentials
+  - keyword: Median Nerve
+  - keyword: physiopathology
+  - keyword: 'Microscopy, Electron'
+  - keyword: Muscles
+  - keyword: Myelin Sheath
+  - keyword: Neural Conduction
+  - keyword: Paralysis
+  - keyword: etiology
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: complications
+  - keyword: Pressure
+  - keyword: Sural Nerve
+cites: []
+citedBy:
+  - pmid: '26512614'
+  - pmid: '25324890'
+  - pmid: '19447823'
+  - pmid: '18218131'
+  - pmid: '16775374'
+  - pmid: '16024889'
+  - pmid: '10727485'
+  - pmid: '9391880'
+  - pmid: '8936351'
+  - pmid: '7825607'
+  - pmid: '7931393'
+  - pmid: '8125763'
+  - pmid: '3220711'
+  - pmid: '6185651'
+  - pmid: '6174708'

@@ -1,0 +1,46 @@
+pmid: '20425816'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: Genomic and clinical characteristics of microduplications in chromosome 17.
+abstract: >-
+  Genomic disorders have been increasingly recognized as a significant source of
+  clinically relevant phenotypes largely fostered by advances in technologies
+  for genome-wide analyses. Molecular and clinical studies of copy number
+  variants involving chromosome 17 began with locus-specific studies of
+  Charcot-Marie-Tooth disease type 1A (CMT1A, OMIM #118220) and hereditary
+  neuropathy with liability to pressure palsies (HNPP, OMIM #162500), which laid
+  the foundation for the paradigm of duplication/deletion and gene-dosage for
+  our understanding of genomic disorders. With the clinical introduction of
+  high-resolution array comparative genomic hybridization (aCGH) the number of
+  recognized genomic disorders including microduplications has been increasing
+  rapidly. A relatively high proportion of disease-associated copy number
+  variants map to chromosome 17. This may result from its unique structural
+  features, such as relative abundance of segmental duplications and
+  interspersed repetitive elements, high gene content, and the presence of
+  dosage-sensitive genes. These genomic rearrangements are mediated by diverse
+  mechanisms including Non-Allelic Homologous Recombination (NAHR),
+  Non-Homologous End-Joining (NHEJ), and Fork Stalling and Template Switching
+  (FoSTeS). We provide specific examples of chromosome 17 microduplications with
+  the emphasis on their phenotype, specific clinical features aiding in their
+  diagnosis, and counseling.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20425816%5Buid%5D&cmd=DetailsSearch'
+date: 2010/04
+authors:
+  - name: Shchelochkov OA
+  - name: Cheung SW
+  - name: Lupski JR
+keywords:
+  - keyword: 'Abnormalities, Multiple'
+  - keyword: pathology
+  - keyword: Chromosome Aberrations
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Duplication
+  - keyword: 'Genome, Human'
+  - keyword: Phenotype
+cites: []
+citedBy: []

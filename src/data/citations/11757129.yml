@@ -1,0 +1,34 @@
+pmid: '11757129'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  [Hereditary neuropathy with liability to pressure palsies--a more common
+  neuropathy than generally thought].
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11757129%5Buid%5D&cmd=DetailsSearch'
+date: 2002/01
+authors:
+  - name: Meretoja P
+  - name: Silander K
+  - name: Savontaus ML
+  - name: Kalimo H
+keywords:
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA Mutational Analysis
+  - keyword: Electrodiagnosis
+  - keyword: Electromyography
+  - keyword: Finland
+  - keyword: epidemiology
+  - keyword: 'Genes, Dominant'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: Myelin Proteins
+  - keyword: deficiency
+  - keyword: Nerve Compression Syndromes
+  - keyword: Neural Conduction
+  - keyword: Paralysis
+cites: []
+citedBy: []

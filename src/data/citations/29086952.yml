@@ -1,0 +1,35 @@
+pmid: '29086952'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: Molecular Mechanisms for CMT1A Duplication and HNPP Deletion.
+abstract: >-
+  As the best characterized human genomic disorders, 118 CMT1A and HNPP
+  illustrate several common mechanistic features of genomic rearrangements.
+  These features include the following (1) Recombination occurs between
+  homologous sequences flanking the duplicated/deleted genomic segment. (2) The
+  evolution of the mammalian genome may result in an architecture consisting of
+  region-specific low-copy repeats that predispose to rearrangement secondary to
+  providing homologous regions as substrate for recombination. (3) Strand
+  exchange occurs preferentially in a region of perfect sequence identity within
+  the flanking repeat sequences. (4) Double-strand breaks likely initiate
+  recombination between the flanking repeats. (5) The mechanism and rate of
+  homologous recombination resulting in DNA rearrangement may differ for male
+  and female gametogenesis. (6) Homologous recombination resulting in DNA
+  rearrangement occurs with high frequency in the human genome. (7) Genomic
+  disorders result from structural features of the human genome and not
+  population specific alleles or founder effects; therefore, genomic disorders
+  appear to occur with equal frequencies in different world populations.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29086952%5Buid%5D&cmd=DetailsSearch'
+date: 1999/10
+authors:
+  - name: Boerkoel CF
+  - name: Inoue K
+  - name: Reiter LT
+  - name: Warner LE
+  - name: Lupski JR
+keywords: []
+cites: []
+citedBy: []

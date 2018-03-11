@@ -1,0 +1,55 @@
+pmid: '24752454'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Axonal dysfunction, dysmyelination, and conduction failure in hereditary
+  neuropathy with liability to pressure palsies.
+abstract: >-
+  Patients with hereditary neuropathy with liability to pressure palsies (HNPP)
+  manifest with episodes of focal paresis when exposed to mechanical stress,
+  although the basis for vulnerability to conduction block remains relatively
+  unexplained. Axonal excitability techniques were utilized to provide insights
+  into pathophysiological mechanisms in 13 HNPP patients, stimulating median
+  motor and sensory axons at the wrist. In HNPP, distal latencies were
+  prolonged, and motor and sensory amplitudes were reduced. Threshold was
+  increased. Depolarizing and hyperpolarizing electrotonus was greater, and
+  resting current-threshold slope was reduced. There were greater threshold
+  changes in superexcitability, and refractoriness was decreased. Taken
+  together, excitability testing in patients with HNPP established axonal
+  hyperpolarization in both motor and sensory axons that may be attributable to
+  changes in nerve architecture. In turn, the hyperpolarized resting membrane
+  potential in HNPP may be a major predisposing factor for development of
+  conduction block with mechanical stresses.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24752454%5Buid%5D&cmd=DetailsSearch'
+date: 2014/04
+authors:
+  - name: Farrar MA
+  - name: Park SB
+  - name: Krishnan AV
+  - name: Kiernan MC
+  - name: Lin CS
+keywords:
+  - keyword: Adolescent
+  - keyword: Aged
+  - keyword: Arthrogryposis
+  - keyword: physiopathology
+  - keyword: Axons
+  - keyword: physiology
+  - keyword: Case-Control Studies
+  - keyword: Child
+  - keyword: Demyelinating Diseases
+  - keyword: Electric Stimulation
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Membrane Potentials
+  - keyword: Neural Conduction
+  - keyword: Phenotype
+  - keyword: Reaction Time
+  - keyword: 'Stress, Mechanical'
+  - keyword: Wrist Joint
+  - keyword: innervation
+  - keyword: Young Adult
+cites: []
+citedBy: []

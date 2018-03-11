@@ -1,0 +1,54 @@
+pmid: '9751292'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: Carpal tunnel syndrome in childhood study of 6 cases.
+abstract: >-
+  Six children, 4 girls and two boys, aged 5-14 years, with carpal tunnel
+  syndrome (CTS) are reported. Median nerve entrapment had different aetiologies
+  in each case. One patient developed unilateral CTS symptoms after intensive
+  basketball training. He improved upon terminating this sporting activity. In 3
+  patients bilateral CTS was associated with Schwartz-Jampel syndrome, trigger
+  finger and mucopolysaccharidosis I (MPS IS = Scheie syndrome), respectively.
+  The latter subject, a boy aged 11 years who had severe bilateral muscle thenar
+  weakness and atrophy, made a good recovery after surgery. Two cases with
+  bilateral CTS had autosomal dominant disease. One of them showed familial CTS
+  with thickening of the transverse carpal ligament. The other child (5 years
+  old) presented early bilateral CTS as first manifestation of hereditary
+  neuropathy with liability to pressure palsies (HNPP). His relatives were
+  asymptomatic, but they showed electrophysiological and nerve biopsy changes
+  consistent with HNPP. Nerve conduction studies (NCS) are diagnostic in
+  paediatric CTS. Moreover, NCS is an objective method to evaluate the evolution
+  of the nerve lesions after surgery. NCS must be performed in nerves of the
+  propositus other than the median, as well as in first degree symptomatic and
+  asymptomatic relatives in order to identify possible familial neuropathies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9751292%5Buid%5D&cmd=DetailsSearch'
+date: 1998/09
+authors:
+  - name: Cruz Martínez A
+  - name: Arpa J
+keywords:
+  - keyword: Adolescent
+  - keyword: Carpal Tunnel Syndrome
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: Electromyography
+  - keyword: Mucopolysaccharidosis I
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Osteochondrodysplasias
+  - keyword: Sural Nerve
+  - keyword: Ulnar Nerve
+cites: []
+citedBy: []

@@ -1,0 +1,52 @@
+pmid: '24251057'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsy a recurrent and
+  bilateral foot drop case report.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy is characterized by
+  acute, painless, recurrent mononeuropathies secondary to minor trauma or
+  compression. A 16-year-old boy had the first episode of right foot drop after
+  minor motorcycle accident. Electromyography revealed conduction block and
+  slowing velocity conduction of the right deep peroneal nerve at the fibular
+  head. After motor rehabilitation, he fully recovered. Six months later he had
+  the second episode of foot drop in the opposite site after prolonged squatting
+  position. Electromyography revealed sensorimotor polyneuropathy of left
+  peroneal, sural, posterior tibial, and deep peroneal nerves and also of ulnar,
+  radial, and median nerves of both upper limbs. Histological examination
+  revealed sensory nerve demyelination and focal thickenings of myelin fibers.
+  The diagnosis of hereditary neuropathy with liability to pressure palsy was
+  confirmed by PMP22 deletion of chromosome 17p11.2. He started motor
+  rehabilitation and avoidance of stressing factors with progressive recovery.
+  After one-year followup, he was completely asymptomatic. Recurrent bilateral
+  foot drop history, "sausage-like" swellings of myelin in histological
+  examination, and the results of electromyography led the authors to consider
+  the diagnosis despite negative family history. The authors highlight this rare
+  disease in pediatric population and the importance of high index of clinical
+  suspicion for its diagnosis.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24251057%5Buid%5D&cmd=DetailsSearch'
+date: 2013/11
+authors:
+  - name: Flor-de-Lima F
+  - name: Macedo L
+  - name: Taipa R
+  - name: Melo-Pires M
+  - name: Rodrigues ML
+keywords: []
+cites:
+  - pmid: '8936351'
+  - pmid: '11494267'
+  - pmid: '17607607'
+  - pmid: '22953141'
+  - pmid: '18502948'
+  - pmid: '22098098'
+  - pmid: '18760885'
+citedBy: []

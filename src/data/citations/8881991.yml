@@ -1,0 +1,60 @@
+pmid: '8881991'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Correlation between the histopathologic, genotypic, and phenotypic features of
+  hereditary peripheral neuropathies in childhood.
+abstract: >-
+  In recent years, there have been remarkable advances in the understanding of
+  the molecular genetic basis of the hereditary polyneuropathies. Linkage of the
+  genes for Charcot-Marie-Tooth disease to chromosomes 1 and then 17 was
+  followed by the discovery that the commonest form of Charcot-Marie-Tooth
+  disease (CMT1A) was due to a duplication of DNA at 17p11.2-12. This
+  duplication was shown to contain the gene for peripheral myelin protein PMP22.
+  The finding that mutations of the myelin protein PMP22 gene were present in
+  some Charcot-Marie-Tooth disease cases lacking the duplication confirmed the
+  myelin protein PMP22 gene as the site of the defect in Charcot-Marie-Tooth
+  disease. Similarly, defects of the myelin protein P0 gene on chromosome 1 have
+  been demonstrated in a rarer form of Charcot-Marie-Tooth disease (CMT1B). A
+  deletion of DNA at 17p11.2-12 results in the disorder hereditary neuropathy
+  with liability to pressure palsies. Other mutations of the myelin protein
+  PMP22 and myelin protein P0 genes have been associated with the clinical
+  syndrome known as Dejerine-Sottas disease. An X-linked form of
+  Charcot-Marie-Tooth disease (CMTX) has been characterized and shown to be due
+  to mutations of the gap junction protein, connexin 32. Transgenic murine
+  models with inactivated myelin protein PMP22 and myelin protein P0 genes have
+  shown pathologic changes strinkingly similar to those seen in human patients
+  with disturbances of those genes. In this paper, the clinical and
+  histopathologic characteristics of these conditions are discussed in relation
+  to the genotypic basis. It will be argued that there is still an important
+  place for the clinician and nerve pathologist in a medical world immersed in
+  the wonders of molecular genetics.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8881991%5Buid%5D&cmd=DetailsSearch'
+date: 1996/03
+authors:
+  - name: R Ouvrier
+keywords:
+  - keyword: Adolescent
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: Chromosome Deletion
+  - keyword: Chromosomes
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Demyelinating Diseases
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Neural Conduction
+  - keyword: Phenotype
+  - keyword: Point Mutation
+  - keyword: Proteins
+  - keyword: Sural Nerve
+  - keyword: ultrastructure
+cites: []
+citedBy: []

@@ -1,0 +1,79 @@
+pmid: '26559821'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+title: >-
+  The modified ultrasound pattern sum score mUPSS as additional diagnostic tool
+  for genetically distinct hereditary neuropathies.
+abstract: >-
+  The objective of this study is to evaluate the nerve ultrasound
+  characteristics in genetically distinct inherited neuropathies, the value of
+  the modified ultrasound pattern sum score (mUPSS) to differentiate between the
+  subtypes and the correlation of ultrasound with nerve conduction studies
+  (NCS), disease duration and severity. All patients underwent a standardized
+  neurological examination, ultrasound, and NCS. In addition, genetic testing
+  was performed. Consequently, mUPSS was applied, which is a sum-score of
+  cross-sectional areas (CSA) at predefined anatomical points in different
+  nerves. 31 patients were included (10xCharcot-Marie-Tooth (CMT)1a, 3xCMT1b,
+  3xCMTX, 9xCMT2, 6xHNPP [Hereditary neuropathy with liability to pressure
+  palsies]). Generalized, homogeneous nerve enlargement and significantly
+  increased UPS scores emphasized the diagnosis of demyelinating neuropathy,
+  particularly CMT1a and CMT1b. The amount of enlargement did not depend on
+  disease duration, symptom severity, height and weight. In CMTX the nerves were
+  enlarged, as well, however, only in the roots and lower limbs, most prominent
+  in men. In CMT2 no significant enlargement was detectable. In HNPP the CSA
+  values were increased at entrapped sites, and not elsewhere. However, a
+  distinction from CMT1, which also showed enlarged CSA values at entrapment
+  sites, was only possible by calculating the entrapment ratios and entrapment
+  score. The mUPSS allowed distinction between CMT1a (increased UPS scores,
+  entrapment ratios <1.0) and HNPP (low UPS scores, entrapment ratios >1.4),
+  while CMT1b and CMTX showed intermediate UPS types and entrapment ratios <1.0.
+  Although based on few cases, ultrasound revealed consistent and homogeneous
+  nerve alteration in certain inherited neuropathies. The modified UPSS is a
+  quantitative tool, which may provide useful information for diagnosis,
+  differentiation and follow-up evaluation in addition to NCS and molecular
+  testing.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26559821%5Buid%5D&cmd=DetailsSearch'
+date: 2015/11
+authors:
+  - name: Grimm A
+  - name: Rasenack M
+  - name: Athanasopoulou IM
+  - name: Dammeier NM
+  - name: Lipski C
+  - name: Wolking S
+  - name: Vittore D
+  - name: Décard BF
+  - name: Axer H
+keywords:
+  - keyword: Area Under Curve
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnostic imaging
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: ROC Curve
+  - keyword: Severity of Illness Index
+  - keyword: Ultrasonography
+  - keyword: methods
+cites:
+  - pmid: '24764211'
+  - pmid: '19533637'
+  - pmid: '19697380'
+  - pmid: '25691156'
+  - pmid: '25632087'
+  - pmid: '20133042'
+  - pmid: '25091364'
+  - pmid: '24634226'
+  - pmid: '25454275'
+  - pmid: '18387336'
+  - pmid: '25576636'
+  - pmid: '26123539'
+  - pmid: '25454274'
+  - pmid: '22810069'
+  - pmid: '26246519'
+  - pmid: '23821028'
+  - pmid: '24101129'
+  - pmid: '23381770'
+  - pmid: '25246646'
+citedBy: []

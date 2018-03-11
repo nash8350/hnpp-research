@@ -1,0 +1,55 @@
+pmid: '22023293'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsy a brief review with a
+  case report.
+abstract: >-
+  Hereditary Neuropathy with Liability to Pressure Palsy (HNPP) is an autosomal
+  dominant disorder and is usually characterized by episodes of recurrent and
+  painless focal motor and sensory peripheral mononeuropathy. This condition is
+  usually localized around areas of entrapment (predominantly the wrists, knees,
+  elbows, and shoulders). The genetic locus of the disease is chromosome 17p12.
+  A deletion of the PMP22 gene results in the lack of peripheral myelin protein,
+  a key component to the myelin sheet of peripheral nerves. However, this
+  disease may be completely asymptomatic until an event, such as a minor trauma,
+  triggers these episodes, as seen in our presented case report. The diagnosis
+  of HNPP can be somewhat challenging, as other diseases, such as
+  Charcot-Marie-Tooth disease type 1A (CMT) and Hereditary Neuralgic Amyotrophy
+  (HNA) must be included in the differential diagnosis due to their overlapping
+  clinical features. There are currently no treatments to cure the disease, but
+  therapies seek to alleviate the symptoms and recurring episodes.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22023293%5Buid%5D&cmd=DetailsSearch'
+date: 2011/10
+authors:
+  - name: Rana AQ
+  - name: Masroor MS
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Myelin Proteins
+  - keyword: deficiency
+  - keyword: Peripheral Nerves
+  - keyword: metabolism
+  - keyword: pathology
+cites: []
+citedBy:
+  - pmid: '25337104'

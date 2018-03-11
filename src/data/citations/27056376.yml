@@ -1,0 +1,31 @@
+pmid: '27056376'
+categories:
+  - name: Diagnosis
+    enabled: true
+title: >-
+  HNPP not only entrapment sites. Ultrasound digital nerve abnormalities in a
+  guitar player.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27056376%5Buid%5D&cmd=DetailsSearch'
+date: 2016/04
+authors:
+  - name: Cacciavillani M
+  - name: Padua L
+  - name: Gasparotti R
+  - name: Briani C
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: diagnostic imaging
+  - keyword: Fingers
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Music
+  - keyword: Peripheral Nerves
+  - keyword: Ultrasonography
+  - keyword: methods
+  - keyword: Young Adult
+cites:
+  - pmid: '22581553'
+  - pmid: '23224996'
+  - pmid: '23279340'
+  - pmid: '25454274'
+citedBy: []

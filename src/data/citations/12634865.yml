@@ -1,0 +1,65 @@
+pmid: '12634865'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  A new quantitative PCR multiplex assay for rapid analysis of chromosome
+  17p11.2-12 duplications and deletions leading to HMSN/HNPP.
+abstract: >-
+  A 1.4-Mb tandem duplication, including the gene for peripheral myelin protein
+  22 (PMP22) in chromosome 17p11.2-12 is responsible for 70% of the cases of the
+  demyelinating type 1 of Charcot-Marie-Tooth disease or hereditary motor and
+  sensory neuropathy I (CMT1A/HMSN I). A reciprocal deletion of this CMT1A
+  region causes the hereditary neuropathy with liability to pressure palsies
+  (HNPP). The CMT1A duplication increases the PMP22 gene dosage from two to
+  three, the HNPP deletion reduces the gene dosage from two to one. Currently,
+  routine diagnosis of HMSN/HNPP patients is mainly performed with polymorphic
+  markers in-between the repetitive elements flanking the CMT1A region. These
+  show quantitative and/or qualitative changes in case of a CMT1A duplication
+  and a homozygous allele pattern in case of HNPP deletion. In HNPP patients the
+  deletion is usually confirmed by fluorescence in situ hybridisation (FISH). We
+  now developed a reliable, single tube real-time quantitative PCR assay for
+  rapid determination of PMP22 gene dosage directly. This method involves a
+  multiplex reaction using FAM labelled Taqman-probe with TAMRA quencher derived
+  from PMP22 exon 3 and a VIC labelled probe with non-fluorescent quencher from
+  exon 12 of the albumin gene as internal reference. Copy number of the PMP22
+  gene was determined by the comparative threshold cycle method (deltadeltaCt).
+  Each sample was run in quadruplicate and analysed at two different threshold
+  levels. The level giving the smallest standard deviation was scored. We
+  evaluated this method through the retrospective analysis of 252 HMSN patients
+  with known genotype and could confirm the previous findings in 99% of cases.
+  Two patients were wrongly diagnosed with microsatellite analysis while
+  quantitative real-time PCR identified the correct genotype, as confirmed by
+  FISH. Thus, this method shows superior sensitivity to microsatellite analysis
+  and has the additional advantage of being a fast and uniform assay for
+  quantitative analysis of both CMT1A and HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12634865%5Buid%5D&cmd=DetailsSearch'
+date: 2003/03
+authors:
+  - name: Thiel CT
+  - name: Kraus C
+  - name: Rauch A
+  - name: Ekici AB
+  - name: Rautenstrauss B
+  - name: Reis A
+keywords:
+  - keyword: Biological Assay
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Dosage
+  - keyword: Gene Duplication
+  - keyword: Paralysis
+  - keyword: Polymerase Chain Reaction
+  - keyword: Sequence Deletion
+cites: []
+citedBy:
+  - pmid: '16570190'
+  - pmid: '15988805'

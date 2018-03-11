@@ -1,0 +1,45 @@
+pmid: '16570573'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Allele-specific all-or-none PCR product diagnostic strategy for
+  Charcot-Marie-Tooth 1A and hereditary neuropathy with liability to pressure
+  palsies.
+abstract: >-
+  We designed allele-specific primers to amplify genomic DNA of patients with
+  Charcot-Marie-Tooth 1A (CMT1A) and hereditary neuropathy with liability to
+  pressure palsies (HNPP). Genomic DNA analysis was performed on 40 unrelated
+  CMT1A duplication patients, 25 unrelated HNPP deletion patients, and 50
+  unaffected control individuals. The CMT1A and HNPP patients had previously
+  been identified with microsatellite mapping. Amplification products came to
+  3.6 kb in length from the normal proximal CMT1A repeated segment on chromosome
+  17p11.2 (proximal CMT1A-REP), 3.57 kb from the normal distal CMT1A repeated
+  segment on chromosome 17p11.2 (distal CMT1A-REP), 3.6 kb from HNPP patients,
+  and 3.58 kb from CMT1A patients. We could identify the mutations by means of
+  agarose gel electrophoresis after polymerase chain reaction (PCR)
+  amplification without restriction enzyme digestion from 33 of the 40 CMT1A and
+  19 of the 25 HNPP samples. Stringently specific primers were used to overcome
+  the problem of nonspecific amplification and provide a rapid, all-or-none PCR
+  product and efficient screening test for CMT1A and HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16570573%5Buid%5D&cmd=DetailsSearch'
+date: 2006/03
+authors:
+  - name: Lin KP
+  - name: Chou CH
+  - name: Lee HY
+  - name: Soong BW
+keywords:
+  - keyword: Alleles
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Polymerase Chain Reaction
+  - keyword: methods
+cites: []
+citedBy:
+  - pmid: '25337104'

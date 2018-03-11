@@ -1,0 +1,66 @@
+pmid: '9843070'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Detection of hereditary neuropathy with liability to pressure palsies among
+  patients with acute painless mononeuropathy or plexopathy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disorder characterized by recurrent mononeuropathies or
+  brachial plexopathies, commonly associated with a chromosome 17p11.2-12
+  deletion encompassing the peripheral myelin protein-22 (PMP22) gene. We tried
+  to identify criteria distinguishing HNPP among patients with acute painless
+  mononeuropathy/plexopathy. We investigated by pulsed-field gel electrophoresis
+  the presence of the deletion in 27 patients with isolated or recurrent acute
+  painless mononeuropathy or brachial plexopathy, and no obvious cause of
+  neuropathy. Eight patients carried the deletion, whereas 19 had neither the
+  deletion nor mutations in the PMP22 gene. Age at onset, presenting modality,
+  precipitating events, and rate of recovery did not significantly differ in the
+  two groups. Family history was informative for HNPP diagnosis in 3 cases only.
+  HNPP patients more often showed recurrent episodes, brachial plexopathy, and
+  clinical or electrophysiologic involvement of other nerves. Non-HNPP patients
+  more frequently had peroneal palsy, recent weight loss, and normal
+  electrophysiologic examination in other nerves. Signs of generalized
+  neuropathy and evidence of disease in other family member are often subtle in
+  HNPP and must be thoroughly investigated in patients with acute painless
+  mononeuropathy/plexopathy.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9843070%5Buid%5D&cmd=DetailsSearch'
+date: 1998/12
+authors:
+  - name: Pareyson D
+  - name: Solari A
+  - name: Taroni F
+  - name: Botti S
+  - name: Fallica E
+  - name: Scaioli V
+  - name: Ciano C
+  - name: Sghirlanzoni A
+keywords:
+  - keyword: Action Potentials
+  - keyword: physiology
+  - keyword: Acute Disease
+  - keyword: Adolescent
+  - keyword: Aged
+  - keyword: 'Diagnosis, Differential'
+  - keyword: 'Electrophoresis, Gel, Pulsed-Field'
+  - keyword: Gene Deletion
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Myelin Proteins
+  - keyword: Nervous System Diseases
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Neural Conduction
+  - keyword: 'Neurons, Afferent'
+  - keyword: Paralysis
+  - keyword: Pressure
+  - keyword: 'Reflex, Stretch'
+cites: []
+citedBy:
+  - pmid: '29078790'
+  - pmid: '25326571'
+  - pmid: '21429232'

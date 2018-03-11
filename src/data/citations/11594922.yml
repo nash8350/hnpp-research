@@ -1,0 +1,47 @@
+pmid: '11594922'
+categories:
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies is not a major cause
+  of idiopathic carpal tunnel syndrome.
+abstract: >-
+  Carpal tunnel syndrome is a debilitating neuropathy affecting millions of
+  individuals. Although there are published reports of familial associations of
+  carpal tunnel syndrome, the molecular mechanisms are unknown. To determine the
+  prevalence and potential role of the chromosome 17 microdeletion associated
+  with hereditary neuropathy with liability to pressure palsies in patients
+  diagnosed as having carpal tunnel syndrome. Prospective study. Since
+  hereditary neuropathy with liability to pressure palsies may present as carpal
+  tunnel syndrome, we evaluated 50 patients with idiopathic carpal tunnel
+  syndrome for hereditary neuropathy with liability to pressure palsies. No
+  hereditary neuropathy with liability to pressure palsies deletions were
+  detected. Molecular genetic testing for hereditary neuropathy with liability
+  to pressure palsies in patients with idiopathic carpal tunnel syndrome is of
+  limited value.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11594922%5Buid%5D&cmd=DetailsSearch'
+date: 2001/10
+authors:
+  - name: Stockton DW
+  - name: Meade RA
+  - name: Netscher DT
+  - name: Epstein MJ
+  - name: Shenaq SM
+  - name: Shaffer LG
+  - name: Lupski JR
+keywords:
+  - keyword: Aged
+  - keyword: Carpal Tunnel Syndrome
+  - keyword: epidemiology
+  - keyword: physiopathology
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Prevalence
+  - keyword: Risk Factors
+  - keyword: Tangier Disease
+cites: []
+citedBy:
+  - pmid: '24646194'
+  - pmid: '16775374'

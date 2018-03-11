@@ -1,0 +1,65 @@
+pmid: '11807410'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Is the 31 CAG repeat allele of the spinocerebellar ataxia 1 (SCA1) gene locus
+  non-specifically associated with trinucleotide expansion diseases?
+abstract: >-
+  A number of human hereditary neuromuscular and neurodegenerative disorders are
+  caused by the expansion of trinucleotide repeats within certain genes. The
+  molecular mechanisms that underlie these expansions are not yet known. We have
+  analyzed six trinucleotide repeat-containing loci [spinocerebellar ataxias
+  (SCA1, SCA3, SCA8), dentatorubral-pallidoluysian atrophy (DRPLA), Huntington
+  chorea (HD) and fragile X syndrome (FRAXA)] in myotonic dystrophy type 1 (DM1)
+  patients (n = 52). As controls, we analyzed two groups of subjects healthy
+  control subjects (n =133), and a group of patients with non-triplet
+  neuromuscular diseases (n = 68) caused by point mutations, deletions or
+  duplications (spinal muscular atrophy, Charcot-Marie-Tooth disease, type 1A,
+  hereditary neuropathy with liability to pressure palsies, and Duchenne and
+  Becker muscular dystrophy). Allele frequency distributions for all tested loci
+  were similar in these three groups with the exception of the SCA1 locus. In
+  DM1 patients, the SCA1 allele with 31 CAG repeats account for 40.4% of all
+  chromosomes tested, which is significantly higher than in two other groups
+  (11.3% in healthy controls and 6.6% in the group of non-triplet diseased
+  patients; P < 0.001, Fisher's exact test). This is consistent with our
+  previous findings in HD patients. The absence of this association in
+  non-triplet diseases as well as in healthy controls could indicate a possible
+  role of this SCA1 allele with 31 repeats in triplet diseases. Here we discuss
+  a possible role of the SCA1 region in pathological trinucleotide repeat
+  expansions.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11807410%5Buid%5D&cmd=DetailsSearch'
+date: 2002/01
+authors:
+  - name: Savić D
+  - name: Topisirović I
+  - name: Keckarević M
+  - name: Keckarević D
+  - name: Major T
+  - name: Culjković B
+  - name: Stojković O
+  - name: Rakocević-Stojanović V
+  - name: Mladenović J
+  - name: Todorović S
+  - name: Apostolski S
+  - name: Romac S
+keywords:
+  - keyword: Alleles
+  - keyword: Ataxin-1
+  - keyword: Ataxins
+  - keyword: Base Sequence
+  - keyword: DNA
+  - keyword: blood
+  - keyword: DNA Primers
+  - keyword: Gene Frequency
+  - keyword: Nerve Tissue Proteins
+  - keyword: Nuclear Proteins
+  - keyword: Reference Values
+  - keyword: Spinocerebellar Ataxias
+  - keyword: Trinucleotide Repeats
+cites: []
+citedBy: []

@@ -1,0 +1,59 @@
+pmid: '10905469'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: Peroneal neuropathy after weight loss.
+abstract: >-
+  The objectives of this study were to evaluate the clinical and
+  electrophysiological findings in peroneal mononeuropathies following a
+  weight-reduction diet. Thirty patients with acute peroneal palsy and weight
+  loss were studied. Complete nerve conduction studies (NCS) were performed in
+  upper and lower limbs. NCS showed conduction block (CB) of the peroneal nerve
+  at the fibular head that recovered in 29 patients within 3 weeks to 3 months.
+  Severity of CB was correlated with clinical weakness. Three patients had
+  abnormalities consistent with polyneuropathy (PNP). NCS in asymptomatic
+  relatives confirmed familial neuropathy. Nerve biopsy and molecular study were
+  consistent with hereditary neuropathy with liability to pressure palsies
+  (HNPP). One of these peroneal palsies (6 months) recovered after neurolysis.
+  Weight loss might be a risk factor in peroneal mononeuropathies. NCS is a tool
+  in the diagnosis of the site and severity of the nerve injury. Testing should
+  be considered for relatives of patients with PNP because peroneal
+  mononeuropathies may be the first expression of HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10905469%5Buid%5D&cmd=DetailsSearch'
+date: 2000/07
+authors:
+  - name: Cruz-Martinez A
+  - name: Arpa J
+  - name: Palau F
+keywords:
+  - keyword: Adolescent
+  - keyword: Arm
+  - keyword: innervation
+  - keyword: 'Diet, Reducing'
+  - keyword: adverse effects
+  - keyword: Electrodiagnosis
+  - keyword: Leg
+  - keyword: Motor Neurons
+  - keyword: physiology
+  - keyword: Muscle Weakness
+  - keyword: etiology
+  - keyword: 'Muscle, Skeletal'
+  - keyword: Neural Conduction
+  - keyword: 'Neurons, Afferent'
+  - keyword: Paralysis
+  - keyword: diagnosis
+  - keyword: surgery
+  - keyword: Pedigree
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: Peroneal Nerve
+  - keyword: Weight Loss
+cites: []
+citedBy:
+  - pmid: '24646194'
+  - pmid: '23185166'

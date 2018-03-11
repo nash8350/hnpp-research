@@ -1,0 +1,73 @@
+pmid: '19627867'
+categories:
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Practice parameter the evaluation of distal symmetric polyneuropathy the role
+  of laboratory and genetic testing (an evidence-based review). Report of the
+  American Academy of Neurology, the American Association of Neuromuscular and
+  Electrodiagnostic Medicine, and the American Academy of Physical Medicine and
+  Rehabilitation.
+abstract: >-
+  Distal symmetric polyneuropathy (DSP) is the most common variety of
+  neuropathy. Since the evaluation of this disorder is not standardized, the
+  available literature was reviewed to provide evidence-based guidelines
+  regarding the role of laboratory and genetic tests for the assessment of DSP.
+  A literature review using MEDLINE, EMBASE, Science Citation Index and Current
+  Contents was performed to identify the best evidence regarding the evaluation
+  of polyneuropathy published between 1980 and March 2007. Articles were
+  classified according to a four-tiered level of evidence scheme and
+  recommendations were based upon the level of evidence. 1. Screening laboratory
+  tests may be considered for all patients with polyneuropathy (Level C). Those
+  tests that provide the highest yield of abnormality are blood glucose, serum
+  B12 with metabolites (methylmalonic acid with or without homocysteine) and
+  serum protein immunofixation electrophoresis (Level C). If there is no
+  definite evidence of diabetes mellitus by routine testing of blood glucose,
+  testing for impaired glucose tolerance may be considered in distal symmetric
+  sensory polyneuropathy (Level C). 2. Genetic testing is established as useful
+  for the accurate diagnosis and classification of hereditary neuropathies
+  (Level A). Genetic testing may be considered in patients with cryptogenic
+  polyneuropathy who exhibit a hereditary neuropathy phenotype (Level C).
+  Initial genetic testing should be guided by the clinical phenotype,
+  inheritance pattern, and electrodiagnostic (EDX) features and should focus on
+  the most common abnormalities which are CMT1A duplication/HNPP deletion, Cx32
+  (GJB1), and MFN2 mutation screening. There is insufficient evidence to
+  determine the usefulness of routine genetic testing in patients with
+  cryptogenic polyneuropathy who do not exhibit a hereditary neuropathy
+  phenotype (Level U).
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19627867%5Buid%5D&cmd=DetailsSearch'
+date: 2009/07
+authors:
+  - name: England JD
+  - name: Gronseth GS
+  - name: Franklin G
+  - name: Carter GT
+  - name: Kinsella LJ
+  - name: Cohen JA
+  - name: Asbury AK
+  - name: Szigeti K
+  - name: Lupski JR
+  - name: Latov N
+  - name: Lewis RA
+  - name: Low PA
+  - name: Fisher MA
+  - name: Herrmann DN
+  - name: Howard JF
+  - name: Lauria G
+  - name: Miller RG
+  - name: Polydefkis M
+  - name: Sumner AJ
+keywords:
+  - keyword: Blood Protein Electrophoresis
+  - keyword: Clinical Laboratory Techniques
+  - keyword: DNA Mutational Analysis
+  - keyword: Evidence-Based Medicine
+  - keyword: Glucose Tolerance Test
+  - keyword: Inheritance Patterns
+  - keyword: Polyneuropathies
+  - keyword: blood
+  - keyword: diagnosis
+  - keyword: Vitamin B 12
+cites: []
+citedBy:
+  - pmid: '21280073'

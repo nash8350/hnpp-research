@@ -1,0 +1,94 @@
+pmid: '26512614'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  DTI Study of Cerebral Normal-Appearing White Matter in Hereditary Neuropathy
+  With Liability to Pressure Palsies (HNPP).
+abstract: >-
+  The majority of previous studies on hereditary neuropathy with liability to
+  pressure palsies (HNPP) were focused on peripheral nerves, whereas cerebral
+  alterations in HNPP have been less attended to. In this work, Diffusion tensor
+  imaging (DTI) was used to detect the changes in WM, especially in the
+  normal-appearing white matter (NAWM) in HNPP patients for its sensitivity in
+  probing the microstructure of WM, the sensitive metric was searched for
+  probing cerebral alterations and the regional distribution of cerebral
+  abnormalities was identified. Twelve HNPP patients and 12 age- and
+  gender-matched healthy controls underwent the conventional MRI, DTI scan, and
+  electrophysiological examination. The conventional MRI images were first
+  analyzed to identify abnormal intense regions and the NAWM regions. NAWM
+  refers to the white matter regions that do not include the lesions on
+  conventional MRI. The apparent diffusion coefficient and fractional anisotropy
+  (FA) values of the NAWM were then measured and compared between patient and
+  control groups. The sensitivity and specificity of 3 methods and the cerebral
+  regional distribution of MR signal abnormalities were further analyzed.
+  Hyperintense foci were observed on T2 weighted image and fluid attenuated
+  inversion recovery images in 6 patients. Compared to the controls, FA values
+  of the patients were significantly lower in bilateral frontal, orbitofrontal,
+  and temporal NAWMs; whereas the electrophysiological examination results of
+  patients and controls exhibited no statistically significant difference. The
+  sensitivity of FA value was higher than that of electrophysiological
+  examination and conventional MRI. The majority of abnormal signals on
+  conventional MRI images and abnormal FA values were located in the frontal and
+  temporal lobes. The results of our study show cerebral WM changes in HNPP
+  patients. FA value in DTI has been shown to be sensitive to the cerebral
+  microstructural changes in HNPP. The frontal lobe is the predilection site
+  that is most involved in HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26512614%5Buid%5D&cmd=DetailsSearch'
+date: 2015/10
+authors:
+  - name: Wang WW
+  - name: Song CL
+  - name: Huang L
+  - name: Song QW
+  - name: Liang ZH
+  - name: Wei Q
+  - name: Hu JN
+  - name: Miao YW
+  - name: Wu B
+  - name: Xie L
+keywords:
+  - keyword: Adolescent
+  - keyword: Arthrogryposis
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Case-Control Studies
+  - keyword: Child
+  - keyword: Diffusion Tensor Imaging
+  - keyword: Electrodiagnosis
+  - keyword: Evoked Potentials
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Magnetic Resonance Imaging
+  - keyword: Sensitivity and Specificity
+  - keyword: White Matter
+  - keyword: Young Adult
+cites:
+  - pmid: '15489403'
+  - pmid: '11784354'
+  - pmid: '8609929'
+  - pmid: '12682341'
+  - pmid: '14616306'
+  - pmid: '18751796'
+  - pmid: '4345910'
+  - pmid: '17413027'
+  - pmid: '23787190'
+  - pmid: '20947644'
+  - pmid: '22846632'
+  - pmid: '17922888'
+  - pmid: '12084875'
+  - pmid: '17190957'
+  - pmid: '18218131'
+  - pmid: '15124766'
+  - pmid: '19270104'
+  - pmid: '15906348'
+  - pmid: '16344349'
+  - pmid: '23147806'
+  - pmid: '15804150'
+  - pmid: '10787121'
+  - pmid: '14755484'
+  - pmid: '10636123'
+  - pmid: '23243264'
+citedBy:
+  - pmid: '27749933'

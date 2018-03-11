@@ -1,0 +1,66 @@
+pmid: '9973607'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Splice variants of the nuclear dot-associated Sp100 protein contain homologies
+  to HMG-1 and a human nuclear phosphoprotein-box motif.
+abstract: >-
+  Sp100 and PML are interferon-inducible proteins associated with a new class of
+  nuclear domains (known as nuclear dots or PML bodies) which play a role in
+  tumorigenesis, virus infections, and autoimmunity. While PML is extensively
+  alternatively spliced, only two splice variants are known for Sp100. Here we
+  describe the identification and characterization of several Sp100 splice
+  variant proteins and support their existence by elucidation of the 3'-end of
+  the Sp100 gene. Some of the splice variants contain a domain of significant
+  sequence similarity with two previously described highly related
+  interferon-inducible nuclear phosphoproteins as well as to suppressin and
+  DEAF-1, which altogether define a novel protein motif, termed HNPP-box. One
+  class of splice variants contains an almost complete and highly conserved copy
+  of the DNA-binding high mobility group 1 protein sequence and thus represent
+  novel HMG-box proteins. When expressed transiently, both major classes of
+  Sp100 splice variant proteins localize in part to nuclear dots/PML bodies and
+  in addition to different nuclear domains. Furthermore, PML was occasionally
+  redistributed. These data indicate that alternatively spliced Sp100 proteins
+  are expressed, differ in part in localization from Sp100, and might bind to
+  chromatin via the HMG domain.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9973607%5Buid%5D&cmd=DetailsSearch'
+date: 1999/02
+authors:
+  - name: Guldner HH
+  - name: Szostecki C
+  - name: Schröder P
+  - name: Matschl U
+  - name: Jensen K
+  - name: Lüders C
+  - name: Will H
+  - name: Sternsdorf T
+keywords:
+  - keyword: Alternative Splicing
+  - keyword: Amino Acid Sequence
+  - keyword: Animals
+  - keyword: 'Antigens, Nuclear'
+  - keyword: Autoantigens
+  - keyword: Base Sequence
+  - keyword: Carrier Proteins
+  - keyword: Cell Line
+  - keyword: 'Cloning, Molecular'
+  - keyword: Exons
+  - keyword: Gene Expression
+  - keyword: Genetic Variation
+  - keyword: HMGB1 Protein
+  - keyword: HeLa Cells
+  - keyword: High Mobility Group Proteins
+  - keyword: Introns
+  - keyword: Molecular Sequence Data
+  - keyword: Nuclear Proteins
+  - keyword: Oligonucleotide Probes
+  - keyword: Polymerase Chain Reaction
+  - keyword: 'Sequence Homology, Amino Acid'
+  - keyword: Transfection
+cites: []
+citedBy: []

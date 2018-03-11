@@ -1,0 +1,39 @@
+pmid: '22953141'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsy presenting with hand
+  drop in a young child.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) results from the
+  deletion of the PMP22 gene in chromosome 17p11.2. Clinically, it presents with
+  painless pressure palsies, typically in the 2nd and 3rd decades of life, being
+  a rare entity in childhood. We present the case study of a six-year-old male
+  child who presented with left hand drop that he kept for over four weeks.
+  Electrophysiological studies suggested HNPP and genetic studies confirmed it.
+  With this paper, we pretend to create awareness to this entity as a diagnosis
+  to be considered in a child with painless monoparesis and to emphasize the
+  importance of electrophysiological studies in the diagnosis.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22953141%5Buid%5D&cmd=DetailsSearch'
+date: 2012/09
+authors:
+  - name: Sobreira I
+  - name: Sousa C
+  - name: Raposo A
+  - name: Soares MR
+  - name: Soudo A
+  - name: Dias AI
+keywords: []
+cites:
+  - pmid: '8396068'
+  - pmid: '12682341'
+  - pmid: '14678806'
+  - pmid: '18760885'
+  - pmid: '17183456'
+  - pmid: '17607607'
+  - pmid: '15804150'
+citedBy:
+  - pmid: '24251057'

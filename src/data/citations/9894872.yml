@@ -1,0 +1,67 @@
+pmid: '9894872'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Effects of PMP22 duplication and deletions on the axonal cytoskeleton.
+abstract: >-
+  Axonal loss in Charcot-Marie-Tooth type 1A (CMT1A) is an important feature
+  correlated with the functional disability in affected individuals. It is not
+  known, however, how the most common genetic defect in Schwann cells (PMP22
+  duplication) causes the CMT1A phenotype and results in axonal loss. In this
+  study, sural nerve segments from individuals with PMP22 duplications or
+  deletions, causing the reciprocal disorder hereditary neuropathy with pressure
+  palsies (HNPP), were grafted into the cut ends of the sciatic nerve of nude
+  mice. The xenografts and host segments were studied at 2, 4, 6, 8, 12, and 16
+  weeks after grafting and compared with the controls from healthy volunteers.
+  Within the CMT1A xenografts, the nude mice axons in the proximal part of the
+  graft showed a significant increase in axonal area with an increase in the
+  neurofilament and membranous organelle (mitochondria) density, compared with
+  distal graft and distal host segments. A preferential distal axonal loss,
+  associated with a perpetual axonal atrophy, degeneration, and axonal sprouting
+  was observed over time, with increasing intensity at 8 to 16 weeks. These
+  alterations were seen to a lesser extent in HNPP xenografts and were not
+  observed in controls. In addition, the onset of regeneration-associated
+  myelination was delayed, more significantly in HNPP xenografts than those of
+  CMT1A. Our findings indicate that the PMP22 duplication in Schwann cells
+  results in an impairment in the normal axonal cytoskeletal organization,
+  resulting in distal axonal degeneration and fiber loss, and the affect of
+  PMP22 deletion on axonal cytoskeleton is less deleterious.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9894872%5Buid%5D&cmd=DetailsSearch'
+date: 1999/01
+authors:
+  - name: Sahenk Z
+  - name: Chen L
+  - name: Mendell JR
+keywords:
+  - keyword: Animals
+  - keyword: Axons
+  - keyword: chemistry
+  - keyword: pathology
+  - keyword: ultrastructure
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Cytoskeleton
+  - keyword: Gene Deletion
+  - keyword: Gene Duplication
+  - keyword: Mice
+  - keyword: 'Mice, Nude'
+  - keyword: 'Microscopy, Electron'
+  - keyword: Myelin Proteins
+  - keyword: Myelin Sheath
+  - keyword: Neurofilament Proteins
+  - keyword: analysis
+  - keyword: Schwann Cells
+  - keyword: Sciatic Nerve
+  - keyword: cytology
+  - keyword: 'Transplantation, Heterologous'
+cites: []
+citedBy:
+  - pmid: '23224996'
+  - pmid: '16024889'

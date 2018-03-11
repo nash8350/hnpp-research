@@ -1,0 +1,40 @@
+pmid: '22037956'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsy combined with suspected
+  schwannomas of the peroneal and radial nerves.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22037956%5Buid%5D&cmd=DetailsSearch'
+date: 2011/11
+authors:
+  - name: Ohyagi M
+  - name: Sanjo N
+  - name: Yokota T
+  - name: Mizusawa H
+keywords:
+  - keyword: Electromyography
+  - keyword: Magnetic Resonance Imaging
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Neurilemmoma
+  - keyword: complications
+  - keyword: pathology
+  - keyword: Paralysis
+  - keyword: Peripheral Nervous System Neoplasms
+  - keyword: Peroneal Nerve
+  - keyword: physiopathology
+  - keyword: Radial Nerve
+cites:
+  - pmid: '15544900'
+  - pmid: '11673320'
+  - pmid: '10680781'
+  - pmid: '19654968'
+  - pmid: '16969831'
+  - pmid: '12210843'
+  - pmid: '9040736'
+citedBy:
+  - pmid: '25324890'

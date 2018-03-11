@@ -1,0 +1,32 @@
+pmid: '1767713'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  [Familial peripheral neuropathy caused by susceptibility to entrapment
+  (tomaculous neuropathy)].
+abstract: >-
+  The authors describe a case of hereditary neuropathy with liability to
+  pressure palsies (entrapment), and compare it to reports from literature. The
+  main characteristics are autosomal dominant inheritance, recurrent
+  mononeuropathies (ulnar, median, peroneal, brachial plexus), and specific
+  features at nerve biopsy. The sensory nerve reveals predominantly
+  demyelinating alterations, having the remaining myelin fibres focal
+  thickenings, the so called tomaculous, and shows numerous subperineural
+  structures named Renaut Bodies. The EMG findings show a slowing of the nerve
+  conduction velocities and an increase of distal latencies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1767713%5Buid%5D&cmd=DetailsSearch'
+date: 1991/07
+authors:
+  - name: Viana JP
+  - name: Coimbra J
+  - name: Goulart Z
+  - name: de Almeida LB
+  - name: Beirão JC
+keywords:
+  - keyword: Nerve Compression Syndromes
+  - keyword: pathology
+cites: []
+citedBy: []

@@ -1,0 +1,84 @@
+pmid: '8112739'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  Evidence for genetic heterogeneity underlying hereditary neuropathy with
+  liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is a disorder
+  of the peripheral nervous system, the cause of which has recently been
+  identified as a deletion on chromosome 17p. The deletion corresponds to the
+  duplication that is commonly observed in patients with hereditary motor and
+  sensory neuropathy type Ia (HMSNIa, 17p11.2-p12). Therefore, the gene for
+  peripheral myelin protein 22 (PMP-22) is a candidate gene for both HMSNIa and
+  HNPP. Here, we show that a similar deletion is present in one family with HNPP
+  but is clearly absent in another family. Affected members of this family carry
+  the expected two copies of the PMP-22 gene and the surrounding region.
+  Furthermore, linkage analyses of this family exclude a large part of 17p,
+  spanning the area deleted in other families with HNPP, as the location for the
+  disease gene. These data strongly argue for the existence of genetic
+  heterogeneity underlying HNPP. Results from two-point linkage analysis with
+  markers on chromosome 1q are inconsistent with a possible involvement of the
+  locus for HMSNIb in the present family.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8112739%5Buid%5D&cmd=DetailsSearch'
+date: 1994/02
+authors:
+  - name: Mariman EC
+  - name: Gabreëls-Festen AA
+  - name: van Beersum SE
+  - name: Jongen PJ
+  - name: van de Looij E
+  - name: Baas F
+  - name: Bolhuis PA
+  - name: Ropers HH
+  - name: Gabreëls FJ
+keywords:
+  - keyword: Base Sequence
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: DNA Primers
+  - keyword: 'Electrophoresis, Polyacrylamide Gel'
+  - keyword: Genetic Linkage
+  - keyword: Genetic Markers
+  - keyword: Genetic Variation
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Molecular Sequence Data
+  - keyword: Multigene Family
+  - keyword: Myelin Proteins
+  - keyword: Pedigree
+  - keyword: Peripheral Nervous System Diseases
+cites:
+  - pmid: '1971099'
+  - pmid: '2335351'
+  - pmid: '2388856'
+  - pmid: '1303281'
+  - pmid: '2073835'
+  - pmid: '2020558'
+  - pmid: '8396068'
+  - pmid: '3344216'
+  - pmid: '6312838'
+  - pmid: '1303228'
+  - pmid: '1303231'
+  - pmid: '1303229'
+  - pmid: '1303282'
+  - pmid: '1891385'
+  - pmid: '2916582'
+  - pmid: '1677316'
+  - pmid: '8422677'
+  - pmid: '2388867'
+  - pmid: '6185651'
+  - pmid: '3859205'
+  - pmid: '8393091'
+citedBy:
+  - pmid: '29127354'
+  - pmid: '9418989'
+  - pmid: '9391880'
+  - pmid: '8937360'
+  - pmid: '8557256'
+  - pmid: '7643137'
+  - pmid: '7825607'

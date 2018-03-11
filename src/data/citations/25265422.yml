@@ -1,0 +1,48 @@
+pmid: '25265422'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Overlap phenotype between CMT1A and hereditary neuropathy with liability to
+  pressure palsies caused by the novel small in-frame deletion c.407_418del12 in
+  PMP22 gene.
+abstract: >-
+  We report monozygotic twins, who presented with a clinical picture of
+  Charcot-Marie-Tooth disease type 1 (CMT1) with bilateral foot drop, pes cavus,
+  thoracic kyphosis, and scoliosis. Hereditary neuropathy with liability to
+  pressure palsies (HNPP) showed up in one of them. Neurography showed
+  demyelinating neuropathy, typical for CMT1, and transient conduction block in
+  the ulnar nerve correlating with clinical ulnar palsy due to minor mechanical
+  stress in only one of them. Genetic analysis revealed novel small de novo
+  deletion c.407_418del12 in the PMP22 gene. Our patient shows the rarely
+  reported combination of CMT1A and HNPP, caused by an in-frame deletion in the
+  PMP22 gene. HNPP is in the majority of cases correlated with heterozygous
+  deletion of the whole PMP22 gene or other mutations leading to functional
+  haploinsufficiency. The cases give further evidence that pathogenesis of HNPP
+  is not completely understood and can obviously result from existence of a
+  defective protein, too. The intrafamiliar phenotypic variability, even in
+  monozygotic twins, confirms the well-known fact that factors apart from
+  genetics contribute to the clinical course.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25265422%5Buid%5D&cmd=DetailsSearch'
+date: 2014/09
+authors:
+  - name: Vill K
+  - name: Kuhn M
+  - name: Gläser D
+  - name: Müller-Felber W
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Child, Preschool'
+  - keyword: DNA Mutational Analysis
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Neural Conduction
+  - keyword: Pedigree
+  - keyword: Phenotype
+cites: []
+citedBy: []

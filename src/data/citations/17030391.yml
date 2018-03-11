@@ -1,0 +1,41 @@
+pmid: '17030391'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  [Hereditary neuropathy with liability to pressure palsies (HNPP) in hand
+  surgery reminds and warn against a usually unrecognised disease].
+abstract: >-
+  Tomacula is a rare hereditary disease due to a deletion on chromosome 17.
+  Clinical presentation varies but patients usually complain of recurrent
+  paraesthesiaes and palsies related to compression or trauma of a peripheral
+  nerve. Diagnosis is based on electrophysiological studies, nerve biopsies and
+  genetic tests. Implications for the patient and family members are a genetic
+  counselling and some simple preventive measures. Although there is no curative
+  treatment for this neuropathy, surgery can be useful for decompression of
+  nerves and neurolysis. However, the surgical act increases the risk of nerve
+  damage. Knowing about the diagnosis can help the patient and the surgical team
+  avoid causing lesions.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17030391%5Buid%5D&cmd=DetailsSearch'
+date: 2006/10
+authors:
+  - name: Lazar CC
+  - name: Auquit-Auckbur I
+  - name: Milliez PY
+keywords:
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Hand
+  - keyword: physiopathology
+  - keyword: surgery
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: Intraoperative Complications
+  - keyword: prevention & control
+  - keyword: Nerve Compression Syndromes
+  - keyword: etiology
+cites: []
+citedBy: []

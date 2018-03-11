@@ -1,0 +1,86 @@
+pmid: '8422677'
+categories:
+  - name: Genetics
+    enabled: true
+title: >-
+  DNA deletion associated with hereditary neuropathy with liability to pressure
+  palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disorder that causes episodes of focal demyelinating
+  neuropathy following minor trauma to peripheral nerves. We assign the HNPP
+  locus to chromosome 17p11.2 and demonstrate the presence of a large
+  interstitial deletion associated with this disorder in three unrelated
+  pedigrees. De novo deletion is documented in one pedigree. The deleted region
+  appears uniform in all pedigrees and includes the gene for peripheral myelin
+  protein 22 (PMP-22), suggesting that underexpression of PMP-22 may cause HNPP.
+  The deletion in HNPP spans approximately 1.5 Mb and includes all markers that
+  are known to map within the Charcot-Marie-Tooth neuropathy type 1A (CMT1A)
+  duplication. Furthermore, the breakpoints in HNPP and CMT1A map to the same
+  intervals in 17p11.2, suggesting that these genetic disorders may be the
+  result of reciprocal products of unequal crossover.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8422677%5Buid%5D&cmd=DetailsSearch'
+date: 1993/01
+authors:
+  - name: Chance PF
+  - name: Alderson MK
+  - name: Leppig KA
+  - name: Lensch MW
+  - name: Matsunami N
+  - name: Smith B
+  - name: Swanson PD
+  - name: Odelberg SJ
+  - name: Disteche CM
+  - name: Bird TD
+keywords:
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Demyelinating Diseases
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Myelin Proteins
+  - keyword: Pedigree
+  - keyword: Sequence Deletion
+cites: []
+citedBy:
+  - pmid: '29127354'
+  - pmid: '27749933'
+  - pmid: '27583434'
+  - pmid: '27386852'
+  - pmid: '26933540'
+  - pmid: '26761923'
+  - pmid: '25792482'
+  - pmid: '25374586'
+  - pmid: '25326571'
+  - pmid: '24819634'
+  - pmid: '24646194'
+  - pmid: '23224996'
+  - pmid: '22180461'
+  - pmid: '20493460'
+  - pmid: '20071523'
+  - pmid: '19654968'
+  - pmid: '19638685'
+  - pmid: '19447823'
+  - pmid: '19306083'
+  - pmid: '19181681'
+  - pmid: '18218131'
+  - pmid: '16775374'
+  - pmid: '16024889'
+  - pmid: '15205993'
+  - pmid: '14757858'
+  - pmid: '11381029'
+  - pmid: '10727485'
+  - pmid: '9973284'
+  - pmid: '9545397'
+  - pmid: '9418989'
+  - pmid: '9391880'
+  - pmid: '9032649'
+  - pmid: '8651299'
+  - pmid: '8936351'
+  - pmid: '8557256'
+  - pmid: '7643137'
+  - pmid: '7783177'
+  - pmid: '7825607'
+  - pmid: '7931393'
+  - pmid: '8112739'
+  - pmid: '8125763'
+  - pmid: '8396068'

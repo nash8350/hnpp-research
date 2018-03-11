@@ -58,6 +58,10 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         citation = yaml.safeLoad(content);
     } catch(err) {
     }
+
+    // add blank categories if doesn't exist
+    if(!citation.categories)
+        citation.categories = [];
     
     //set title
     citation.title = get(['MedlineCitation','Article','ArticleTitle'], article);
@@ -78,10 +82,20 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         citation.abstract = citation.abstract.replace(/:/g,"").trim();
     }
 
-    // add blank categories if doesn't exist
-    if(!citation.categories)
-        citation.categories = [];
+    // add a link
+    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
 
+    // add a date we can sort on
+    citation.date = "";
+    article.PubmedData.History.PubMedPubDate.forEach(date => {
+        if(date.PubStatus == "pubmed") {
+            citation.date = date.Year + "/";
+            if(date.Month.length == 1) 
+                citation.date += "0";
+            citation.date += date.Month;
+        } 
+    })
+    
     //get the authors
     citation.authors = [];
     if(article.MedlineCitation.Article.AuthorList) {
@@ -122,17 +136,6 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         })
     }
 
-    // add a date we can sort on
-    citation.date = "";
-    article.PubmedData.History.PubMedPubDate.forEach(date => {
-        if(date.PubStatus == "pubmed") {
-            citation.date = date.Year + "/";
-            if(date.Month.length == 1) 
-                citation.date += "0";
-            citation.date += date.Month;
-        } 
-    })
-
     // cites
     citation.cites = [];
     if(article.MedlineCitation && article.MedlineCitation.CommentsCorrectionsList) {
@@ -144,9 +147,6 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
             })
         }
     }
-
-    // add a link
-    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
 
     if(!citationBlacklist.includes(citation.pmid))
         citationList.push(citation);

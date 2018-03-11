@@ -1,0 +1,75 @@
+pmid: '14616306'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Clinical and electrophysiologic features of HNPP patients with 17p11.2
+  deletion.
+abstract: >-
+  Although the diagnosis of hereditary neuropathy with liability to pressure
+  palsies (HNPP) is important for correct prognostic evaluation and genetic
+  counseling, the diagnosis is frequently missed or delayed. Our main aim on
+  undertaking this study was to characterize the electrodiagnostic features of
+  HNPP. Clinical, electrophysiologic and molecular studies were performed on
+  Korean HNPP patients with 17p11.2 deletion. The results of electrophysiologic
+  studies were compared with those of Charcot-Marie-Tooth disease type 1 A
+  (CMT1A) patients carrying 17p11.2 duplication. Eight HNPP (50 motor, 39
+  sensory nerves) and six CMT1A (28 motor, 16 sensory nerves) patients were
+  included. Sensory nerve conduction was slow in 97% of HNPP nerves. Motor nerve
+  conduction at common entrapment sites was also abnormally slow in 87.5%,
+  whereas at non-entrapment sites conduction slowing was infrequent. Distal
+  motor latency (DML) was prolonged in 80% of HNPP nerves, and terminal latency
+  index (TLI) was significantly lower in HNPP than in normal controls and in
+  CMT1A patients (P < 0.01). In contrast to CMT1A, where severity of nerve
+  conduction slowing was not different among nerve groups, HNPP sensory nerve
+  conduction was more slowed in the median and ulnar nerves than in the sural
+  nerve (P < 0.01), and DML was more prolonged in the median nerve than in the
+  other motor nerves (P < 0.01). TLIs were significantly lower in HNPP than in
+  the normal control and CMT1A patients for the median and ulnar nerves (P <
+  0.01), and were also significantly reduced for the peroneal nerve (P < 0.05)
+  compared with those of the normal controls. HNPP is characterized
+  electrophysiologically by a generalized neuropathy, superimposed by focal
+  entrapment neuropathies. The slowing of sensory conduction in nearly all
+  nerves and the distal accentuation of motor conduction abnormalities are the
+  main features of background polyneuropathy in HNPP. The distribution and
+  severity of the background electrophysiologic abnormalities are closely
+  related to the topography of common entrapment or compression sites, which
+  suggests the possible pathogenetic role of subclinical pressure injury at
+  these sites in the development of the distinct background polyneuropathy in
+  HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14616306%5Buid%5D&cmd=DetailsSearch'
+date: 2003/11
+authors:
+  - name: Hong YH
+  - name: Kim M
+  - name: Kim HJ
+  - name: Sung JJ
+  - name: Kim SH
+  - name: Lee KW
+keywords:
+  - keyword: Adolescent
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Electrodiagnosis
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: physiopathology
+  - keyword: Neural Conduction
+  - keyword: Polymerase Chain Reaction
+cites: []
+citedBy:
+  - pmid: '26512614'
+  - pmid: '24646194'
+  - pmid: '18218131'

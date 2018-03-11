@@ -1,0 +1,46 @@
+pmid: '15468313'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  X-linked Charcot-Marie-Tooth disease phenotypic expression of a novel mutation
+  Ile127Ser in the GJB1 (connexin 32) gene.
+abstract: >-
+  We report a family with X-linked dominant Charcot-Marie-Tooth disease (CMTX1).
+  Three affected family members are described, who underwent detailed clinical,
+  electrophysiological, molecular genetic, and histopathological studies. A
+  novel isoleucine at position 127 with serine (Ile127Ser) mutation in the gap
+  junction protein beta 1 (GJB1) gene was detected. The electrophysiological
+  findings were consistent with a primary demyelinating neuropathy with
+  secondary axonal loss and support this model of disease progression. All
+  patients having the CMT phenotype and intermediate conduction velocities who
+  are negative for CMT1A duplication/hereditary neuropathy with liability to
+  pressure palsies (HNPP) deletion, and whose family shows a dominant trait
+  without male-to-male transmission, should be screened for CMTX1.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15468313%5Buid%5D&cmd=DetailsSearch'
+date: 2004/10
+authors:
+  - name: Vondracek P
+  - name: Seeman P
+  - name: Hermanova M
+  - name: Fajkusova L
+keywords:
+  - keyword: Adolescent
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Chromosomes, Human, X'
+  - keyword: Connexins
+  - keyword: Gene Expression Regulation
+  - keyword: Genetic Linkage
+  - keyword: Isoleucine
+  - keyword: Mutation
+  - keyword: Pedigree
+  - keyword: Phenotype
+  - keyword: Serine
+cites: []
+citedBy: []

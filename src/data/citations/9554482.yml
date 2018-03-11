@@ -1,0 +1,60 @@
+pmid: '9554482'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Determination of gene dosage at the PMP22 and androgen receptor loci by
+  quantitative PCR.
+abstract: >-
+  Although many genetic diseases are caused by the presence of point mutations
+  in respective genes, an increasing number of diseases are known to be caused
+  by gene copy number changes. We report the development of a rapid and reliable
+  PCR-based method for quantitation of gene copy number with sufficient
+  sensitivity to detect single copy changes without the use of radioactive or
+  fluorescent labeling. The sensitivity of this technique has been demonstrated
+  by the detection of the DNA duplication or deletion occurring in two inherited
+  peripheral neuropathies, Charcot-Marie-Tooth type 1A (CMT1A) and hereditary
+  neuropathy with liability to pressure palsies (HNPP), that are caused by a
+  reciprocal duplication or deletion event on chromosome 17p11.2-12. This method
+  relies on the comparison of the amount of PCR product generated from a
+  potentially duplicated or deleted target sequence with the amount of product
+  generated from a disomic reference gene. The value of this ratio (target PCR
+  productreference PCR product) indicates whether the target sequence is
+  duplicated, deleted, or unchanged. Using primers from within a duplicated or
+  deleted region (PMP22 gene and EW401) and from within a reference region (NF1
+  gene), we tested 50 CMT1A, 30 HNPP, and 50 unaffected individuals for the
+  presence of a DNA duplication or deletion. reference ratios of 1.58, 1.02, and
+  0.56 were detected for the CMT1A, unaffected, and HNPP groups, respectively.
+  Thus, differentiation of the three groups of individuals was on the basis of
+  gene copy number. This technique was successfully used to detect the
+  difference in the X chromosome copy number between males and females
+  (targetreference ratios of 1.1 and 2.3, respectively). This approach to the
+  detection of DNA duplications and deletions is sensitive, accurate, and has
+  potential applications in the quantitation of changes in gene copy number
+  associated with diseases characterized by such chromosomal alterations.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9554482%5Buid%5D&cmd=DetailsSearch'
+date: 1998/04
+authors:
+  - name: Poropat RA
+  - name: Nicholson GA
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: DNA
+  - keyword: Gene Dosage
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Myelin Proteins
+  - keyword: Polymerase Chain Reaction
+  - keyword: methods
+  - keyword: 'Receptors, Androgen'
+  - keyword: Sensitivity and Specificity
+  - keyword: Sequence Deletion
+  - keyword: X Chromosome
+cites: []
+citedBy:
+  - pmid: '15988805'

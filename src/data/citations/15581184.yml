@@ -1,0 +1,50 @@
+pmid: '15581184'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: Peripheral nerve biopsy study in 19 cases with 17p11.2 deletion.
+abstract: >-
+  In most cases of hereditary neuropathy with liability to pressure palsy (HNPP)
+  the diagnosis is now assessed by molecular detection of 17p11.2 deletion.
+  However, the family history may be missing and the clinical presentation is
+  not always informative. In such cases, a peripheral nerve biopsy showing the
+  characteristic focal myelin sheath thickening ("tomaculae") may be helpful. We
+  present a retrospective study of peripheral nerve biopsies performed in 19
+  patients suffering from either a mononeuropathy or a generalized sensory-motor
+  polyneuropathy, and for whom the finding of tomaculae led to a search for
+  17p11.2 deletion, which was confirmed secondarily. Tomaculae and other
+  coexisting neuropathological lesions such as uncompacted myelin, "onion bulb"
+  formations, and axonal degeneration are described and discussed in the view of
+  previously reported data. It appears that demyelinating lesions with tomaculae
+  are strongly suggestive of HNPP but are not specific as they may be observed
+  in other conditions. Moreover, these features may be overlooked if axonal
+  degeneration is marked.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15581184%5Buid%5D&cmd=DetailsSearch'
+date: 2004/12
+authors:
+  - name: Vital A
+  - name: Vital C
+  - name: Latour P
+  - name: Ferrer X
+  - name: Rouanet-Larivière M
+  - name: Brechenmacher C
+  - name: Lagueny A
+keywords:
+  - keyword: Adolescent
+  - keyword: Aged
+  - keyword: Axons
+  - keyword: pathology
+  - keyword: ultrastructure
+  - keyword: Biopsy
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Demyelinating Diseases
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Myelin Sheath
+  - keyword: Retrospective Studies
+cites: []
+citedBy: []

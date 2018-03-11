@@ -1,0 +1,47 @@
+pmid: '19437170'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Rapidly progressive amyotrophic lateral sclerosis in a young patient with
+  hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  We describe the rare case of a young woman with hereditary neuropathy with
+  liability to compression palsy (HNPP), who developed a rapidly progressive
+  ALS. We suggest that underexpression of PMP22 protein in the nervous system
+  might interfere with motor neuron function by impairing myelin formation and
+  exposure of the axon to injury. Patients with ALS and evidence of
+  demyelination should be screened for HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19437170%5Buid%5D&cmd=DetailsSearch'
+date: 2009/05
+authors:
+  - name: Canali E
+  - name: Chiari A
+  - name: Sola P
+  - name: Fioravanti V
+  - name: Valzania F
+  - name: Pentore R
+  - name: Nichelli P
+  - name: Mandrioli J
+keywords:
+  - keyword: Amyotrophic Lateral Sclerosis
+  - keyword: complications
+  - keyword: pathology
+  - keyword: Brain
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Disease Progression
+  - keyword: Electromyography
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Magnetic Resonance Imaging
+  - keyword: Myelin Proteins
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Paralysis
+  - keyword: etiology
+  - keyword: Pressure
+cites: []
+citedBy: []

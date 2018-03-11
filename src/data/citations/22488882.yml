@@ -1,0 +1,128 @@
+pmid: '22488882'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: Genetic disruption of Pten in a novel mouse model of tomaculous neuropathy.
+abstract: >-
+  'Tomacula' and myelin outfoldings are striking neuropathological features of a
+  diverse group of inherited demyelinating neuropathies. Whereas the underlying
+  genetic defects are well known, the molecular mechanisms of tomacula formation
+  have remained obscure. We hypothesized that they are caused by uncontrolled,
+  excessive myelin membrane growth, a process, which is regulated in normal
+  development by neuregulin-1/ErbB2, PI3 Kinase signalling and ERK/MAPK
+  signalling. Here, we demonstrate by targeted disruption of Pten in Schwann
+  cells that hyperactivation of the endogenous PI3 Kinase pathway causes focal
+  hypermyelination, myelin outfoldings and tomacula, even when induced in adult
+  animals by tamoxifen, and is associated with progressive peripheral
+  neuropathy. Activated AKT kinase is associated with PtdIns(3,4,5)P(3) at
+  paranodal loops and Schmidt-Lanterman incisures. This striking myelin
+  pathology, with features of human CMT type 4B1 and HNPP, is dependent on
+  AKT/mTOR signalling, as evidenced by a significant amelioration of the
+  pathology in mice treated with rapamycin. We suggest that regions of
+  non-compact myelin are under lifelong protection by PTEN against abnormal
+  membrane outgrowth, and that dysregulated phosphoinositide levels play a
+  critical role in the pathology of tomaculous neuropathies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22488882%5Buid%5D&cmd=DetailsSearch'
+date: 2012/04
+authors:
+  - name: Goebbels S
+  - name: Oltrogge JH
+  - name: Wolfer S
+  - name: Wieser GL
+  - name: Nientiedt T
+  - name: Pieper A
+  - name: Ruhwedel T
+  - name: Groszer M
+  - name: Sereda MW
+  - name: Nave KA
+keywords:
+  - keyword: Animals
+  - keyword: Arthrogryposis
+  - keyword: pathology
+  - keyword: Cell Line
+  - keyword: 'Disease Models, Animal'
+  - keyword: Gene Knockout Techniques
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Mice
+  - keyword: Myelin Sheath
+  - keyword: PTEN Phosphohydrolase
+  - keyword: deficiency
+  - keyword: Schwann Cells
+  - keyword: chemistry
+  - keyword: cytology
+cites:
+  - pmid: '16856148'
+  - pmid: '16921364'
+  - pmid: '16969156'
+  - pmid: '17082460'
+  - pmid: '17254974'
+  - pmid: '17299765'
+  - pmid: '17564959'
+  - pmid: '17564972'
+  - pmid: '17576798'
+  - pmid: '17576799'
+  - pmid: '17572665'
+  - pmid: '17917119'
+  - pmid: '17855448'
+  - pmid: '17965826'
+  - pmid: '18201277'
+  - pmid: '18226258'
+  - pmid: '18349142'
+  - pmid: '18614687'
+  - pmid: '18550519'
+  - pmid: '18803320'
+  - pmid: '18803325'
+  - pmid: '19332693'
+  - pmid: '19474313'
+  - pmid: '19587293'
+  - pmid: '19680125'
+  - pmid: '19668082'
+  - pmid: '20086078'
+  - pmid: '20237282'
+  - pmid: '20448149'
+  - pmid: '20592216'
+  - pmid: '20832498'
+  - pmid: '21220101'
+  - pmid: '21263026'
+  - pmid: '22125056'
+  - pmid: '22192173'
+  - pmid: '10646847'
+  - pmid: '10727485'
+  - pmid: '10760291'
+  - pmid: '10802647'
+  - pmid: '10839370'
+  - pmid: '10844033'
+  - pmid: '10965800'
+  - pmid: '11335693'
+  - pmid: '11857804'
+  - pmid: '11875759'
+  - pmid: '11914378'
+  - pmid: '12112076'
+  - pmid: '12186854'
+  - pmid: '12398840'
+  - pmid: '12403818'
+  - pmid: '12590258'
+  - pmid: '12727441'
+  - pmid: '15044753'
+  - pmid: '15282275'
+  - pmid: '15328005'
+  - pmid: '4430158'
+  - pmid: '8575326'
+  - pmid: '8987752'
+  - pmid: '9169527'
+  - pmid: '9488714'
+  - pmid: '9697695'
+  - pmid: '15557122'
+  - pmid: '15731758'
+  - pmid: '15743877'
+  - pmid: '16129398'
+  - pmid: '16162938'
+  - pmid: '16249189'
+citedBy:
+  - pmid: '27799291'
+  - pmid: '27098694'
+  - pmid: '24339129'

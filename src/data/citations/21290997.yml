@@ -1,0 +1,30 @@
+pmid: '21290997'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+title: Hereditary neuropathy.
+abstract: >-
+  A 58-year-old male presented with a history of slowly progressive bilateral
+  hand weakness manifested by decreased grip strength and pinch strength
+  associated with some pain in the first metacarpal-carpal joints with atrophy
+  of the muscles of the web space. An evaluation based on history, physical
+  exam, and judicious diagnostic testing yielded a finding of motor and sensory
+  peripheral polyneuropathy and a working diagnosis of hereditary nerve pressure
+  palsy syndrome (HNPP) or hereditary neuropathy with liability to pressure
+  palsies. The clinical findings and diagnostic tests for sensory and motor
+  peripheral neuropathy are discussed. The case details over time, hereditary
+  features, and the natural history of this disorder lead to a favorable
+  clinical and insurance medicine prognosis.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21290997%5Buid%5D&cmd=DetailsSearch'
+date: 2011/02
+authors:
+  - name: Wayne F Heidenreich
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+cites: []
+citedBy: []

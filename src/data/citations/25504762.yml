@@ -1,0 +1,59 @@
+pmid: '25504762'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Benefits and burdens of using a SNP array in pregnancies at increased risk for
+  the common aneuploidies.
+abstract: >-
+  We present the nature of pathogenic SNP array findings in pregnancies without
+  ultrasound (US) abnormalities and show the additional diagnostic value of SNP
+  array as compared with rapid aneuploidy detection and karyotyping. 1,330
+  prenatal samples were investigated with a 0.5-Mb SNP array after the exclusion
+  of the most common aneuploidies. In 2.7% (36/1,330) of the cases, pathogenic
+  chromosome aberrations were found; a microscopically detectable abnormality in
+  0.7% and a submicroscopic aberration in 2%. Our results show that in addition
+  to the age- or screening-related aneuploidy risk, in pregnancies without US
+  abnormalities, there is a risk of 1148 (9/1,330) for a (sub)microscopic
+  abnormality associated with an early-onset often severe disease, 1222
+  (6/1,330) for a submicroscopic aberration causing an early-onset disease, 174
+  (18/1,330) for carrying a susceptibility locus for a neurodevelopmental
+  disorder, and 1443 (3/1,330) for a late-onset disorder (hereditary neuropathy
+  with liability to pressure palsies in all three cases). These risk figures are
+  important for adequate pretest counseling so that prospective parents can make
+  informed individualized choices between targeted prenatal testing and broad
+  testing with SNP array. Based on our results, we believe if invasive testing
+  is performed, SNP array should be the preferred cytogenetic technique
+  irrespective of the indication.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25504762%5Buid%5D&cmd=DetailsSearch'
+date: 2014/12
+authors:
+  - name: Van Opstal D
+  - name: de Vries F
+  - name: Govaerts L
+  - name: Boter M
+  - name: Lont D
+  - name: van Veen S
+  - name: Joosten M
+  - name: Diderich K
+  - name: Galjaard RJ
+  - name: Srebniak MI
+keywords:
+  - keyword: Age of Onset
+  - keyword: Aneuploidy
+  - keyword: Chromosome Aberrations
+  - keyword: embryology
+  - keyword: Karyotyping
+  - keyword: Oligonucleotide Array Sequence Analysis
+  - keyword: 'Polymorphism, Single Nucleotide'
+  - keyword: Pregnancy
+  - keyword: Prenatal Diagnosis
+  - keyword: methods
+cites: []
+citedBy: []

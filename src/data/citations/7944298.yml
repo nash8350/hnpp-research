@@ -1,0 +1,68 @@
+pmid: '7944298'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Prevalence of the 1.5-Mb 17p deletion in families with hereditary neuropathy
+  with liability to pressure palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disorder of the peripheral nerves leading to increased
+  susceptibility to mechanical traction or compression. Some patients have been
+  shown to be carriers of a 1.5-Mb deletion in chromosome 17p11.2, which
+  corresponds to the duplicated region present in most patients with
+  Charcot-Marie-Tooth disease type 1A. Recently, evidence has been presented
+  that the deletion is not the only cause of HNPP. To determine the prevalence
+  of the 1.5-Mb deletion, we have examined 22 unrelated families with HNPP in
+  the following two ways by polymerase chain reaction analysis of marker loci
+  D17S122 and D17S261, and by gene dosage measurements with DNA probes for
+  D17S122 (VAW409R3a) and D17S125 (VAW412R3a) and for the PMP-22 gene. The
+  efficiency and sensitivity of these methods is discussed. Our results show
+  that the prevalence of the 17p deletion in our families with HNPP is 68%. One
+  patient, presenting as a sporadic case, was found to be affected by a de novo
+  deletion in the paternal chromosome. Single-strand conformation analysis of
+  the protein-coding region of the PMP-22 gene did not reveal any mutation in
+  patients from the 7 families lacking the 17p deletion. As a group, these
+  families could not be distinguished by clinical, electrophysiological, or
+  morphological features from the families with the deletion.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7944298%5Buid%5D&cmd=DetailsSearch'
+date: 1994/10
+authors:
+  - name: Mariman EC
+  - name: Gabreëls-Festen AA
+  - name: van Beersum SE
+  - name: Valentijn LJ
+  - name: Baas F
+  - name: Bolhuis PA
+  - name: Jongen PJ
+  - name: Ropers HH
+  - name: Gabreëls FJ
+keywords:
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Family
+  - keyword: Gene Deletion
+  - keyword: Genetic Markers
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Paralysis
+  - keyword: Pedigree
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: 'Polymorphism, Single-Stranded Conformational'
+  - keyword: Pressure
+cites: []
+citedBy:
+  - pmid: '29127354'
+  - pmid: '25337104'
+  - pmid: '16024889'
+  - pmid: '15083272'
+  - pmid: '9418989'
+  - pmid: '9391880'
+  - pmid: '9032649'
+  - pmid: '8936351'
+  - pmid: '8557256'

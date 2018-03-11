@@ -1,0 +1,41 @@
+pmid: '9703447'
+categories:
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Recurrent brachial plexus palsies as the only clinical expression of
+  hereditary neuropathy with liability to pressure palsies associated with a de
+  novo deletion of the peripheral myelin protein-22 gene.
+abstract: >-
+  There is phenotypic heterogeneity in patients with hereditary neuropathy with
+  liability to pressure palsies. In rare cases, recurrent brachial plexopathy is
+  the only expression of the disease. We describe a patient with three episodes
+  of plexus brachialis palsy and a de novo deletion of the peripheral myelin
+  protein-22 gene. We conclude that DNA analysis is a key issue not only for the
+  differentiation of peripheral neuropathies but also in the diagnosis of
+  recurrent plexopathies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9703447%5Buid%5D&cmd=DetailsSearch'
+date: 1998/08
+authors:
+  - name: Stögbauer F
+  - name: Young P
+  - name: Kerschensteiner M
+  - name: Ringelstein EB
+  - name: Assmann G
+  - name: Funke H
+keywords:
+  - keyword: Brachial Plexus
+  - keyword: physiopathology
+  - keyword: Gene Deletion
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: complications
+  - keyword: Myelin Proteins
+  - keyword: Paralysis
+  - keyword: etiology
+  - keyword: Pedigree
+  - keyword: Recurrence
+cites: []
+citedBy: []

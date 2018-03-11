@@ -1,0 +1,34 @@
+pmid: '10734269'
+categories:
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Guidelines for diagnosis of hereditary neuropathy with liability to pressure
+  palsies.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10734269%5Buid%5D&cmd=DetailsSearch'
+date: 2000/03
+authors:
+  - name: Dubourg O
+  - name: Mouton P
+  - name: Brice A
+  - name: LeGuern E
+  - name: Bouche P
+keywords:
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: Nerve Compression Syndromes
+  - keyword: Paralysis
+  - keyword: Practice Guidelines as Topic
+cites: []
+citedBy:
+  - pmid: '29127354'
+  - pmid: '29079893'
+  - pmid: '26187721'
+  - pmid: '25506001'
+  - pmid: '25326571'
+  - pmid: '24646194'
+  - pmid: '24639934'
+  - pmid: '23881104'
+  - pmid: '18751796'
+  - pmid: '16775374'

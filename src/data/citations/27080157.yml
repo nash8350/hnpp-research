@@ -1,0 +1,68 @@
+pmid: '27080157'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  A Case of Apoplexy Attack-Like Neuropathy due to Hereditary Neuropathy with
+  Liability to Pressure Palsies in a Patient Diagnosed with Chronic Cerebral
+  Infarction.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies is an inherited
+  disease associated with the loss of a copy of the PMP22 gene. The condition
+  leads to mononeuropathy due to compression and easy strangulation during daily
+  life activities, resulting in sudden muscle weakness and sensory disturbance,
+  and displaying symptoms similar to cerebrovascular diseases. We report the
+  case of an 80-year-old man with left paralysis due to chronic cerebral
+  infarction. His medical history indicated remarkable recovery from about 4
+  months after the onset of left hemiplegia with predominant involvement of the
+  fingers. Despite subsequent recurrent monoplegia of the upper or lower limbs,
+  brain magnetic resonance imaging consistently revealed only previous cerebral
+  infarction in the right corona radiata without new lesions. Medical
+  examination showed reduced deep tendon reflexes in his extremities on both the
+  healthy and hemiplegic sides. Nerve conduction studies showed delayed
+  conduction at the bilateral carpal and cubital tunnels and near the right
+  caput fibulae. Genetic analysis revealed loss of a copy of the PMP22 gene.
+  Thus, he was diagnosed with a cerebral infarction complicated by hereditary
+  neuropathy with liability to pressure palsies. Stroke patients develop sudden
+  muscle weakness and sensory disturbance. However, if such patients have no
+  hyperactive deep tendon reflexes and show atypical recovery of paralysis that
+  does not correspond to findings of imaging modalities, nerve conduction
+  studies and genetic analysis may be necessary, considering the complication of
+  hereditary neuropathy with liability to pressure palsies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27080157%5Buid%5D&cmd=DetailsSearch'
+date: 2016/04
+authors:
+  - name: Hachisuka A
+  - name: Matsushima Y
+  - name: Hachisuka K
+  - name: Saeki S
+keywords:
+  - keyword: 'Aged, 80 and over'
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Cerebral Infarction
+  - keyword: Chronic Disease
+  - keyword: Electromyography
+  - keyword: 'Gait Disorders, Neurologic'
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Magnetic Resonance Imaging
+  - keyword: Motor Activity
+  - keyword: Muscle Weakness
+  - keyword: Myelin Proteins
+  - keyword: Neurologic Examination
+  - keyword: Phenotype
+  - keyword: Sensory Thresholds
+cites: []
+citedBy: []

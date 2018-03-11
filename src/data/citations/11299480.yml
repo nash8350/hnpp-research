@@ -1,0 +1,32 @@
+pmid: '11299480'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: '[Molecular genetics of hereditary neuropathies].'
+abstract: >-
+  Significant progress in the understanding of the molecular genetics and
+  pathophysiology of inherited neuropathies has been achieved during the last
+  years. The causative genetic defects of most of the demyelinating forms are
+  known and different chromosomal loci have been identified for the rarer axonal
+  forms. Mutations in genes encoding the myelin proteins peripheral myelin
+  protein 22, myelin protein zero and connection 32 are associated with
+  hereditary motor and sensory neuropathy type I and II and hereditary
+  neuropathy with liability to pressure palsies. Transgenic animals have been
+  generated allowing new insights in the pathophysiology of the diseases. The
+  understanding of the cellular mechanisms leading to hereditary neuropathies
+  will contribute to the development of effective therapeutic strategies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11299480%5Buid%5D&cmd=DetailsSearch'
+date: 2001/04
+authors:
+  - name: F Stögbauer
+keywords:
+  - keyword: Genotype
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Phenotype
+  - keyword: Recurrence
+cites: []
+citedBy: []

@@ -1,0 +1,51 @@
+pmid: '28221301'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Electrodiagnostic Characterization of Hereditary Neuropathy With Liability to
+  Pressure Palsies.
+abstract: >-
+  The study objective was electrodiagnostic characterization of a large cohort
+  of patients with genetically confirmed hereditary neuropathy with liability to
+  pressure palsies (HNPP). A retrospective review was conducted on all patients
+  with HNPP seen at the neuromuscular clinic (London, Canada) from 1977 to 2015.
+  Clinical data obtained included patient characteristics, examination findings,
+  and nerve conduction study results. A total of 46 patients were analyzed. The
+  mean age and median disease duration were 42.6 and 5.0 years, respectively.
+  Most patients had abnormalities on sural nerve conduction studies. The most
+  common focal neuropathies at compressive sites were ulnar nerve at the elbow
+  (85.7%), distal median nerve at the wrist (84.4%), and fibular nerve at the
+  fibular head (36.7%). Distal median neuropathy was associated with a mean
+  terminal latency of 6.64 milliseconds. The presence of polyneuropathy, median
+  terminal motor latency prolongation, and multiple compressive neuropathies are
+  the most common findings associated with HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28221301%5Buid%5D&cmd=DetailsSearch'
+date: 2017/02
+authors:
+  - name: Takahashi S
+  - name: Chum M
+  - name: Kimpinski K
+keywords:
+  - keyword: Action Potentials
+  - keyword: physiology
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Electrodiagnosis
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Median Nerve
+  - keyword: Neural Conduction
+  - keyword: Phenotype
+  - keyword: Retrospective Studies
+  - keyword: Sural Nerve
+  - keyword: Symptom Assessment
+cites: []
+citedBy:
+  - pmid: '29079893'

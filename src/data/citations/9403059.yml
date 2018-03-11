@@ -1,0 +1,72 @@
+pmid: '9403059'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  The Charcot-Marie-Tooth binary repeat contains a gene transcribed from the
+  opposite strand of a partially duplicated region of the COX10 gene.
+abstract: >-
+  Misalignment between the two elements of the CMT1A-REP binary repeat on
+  chromosome 17p11.2-p12 causes two inherited peripheral neuropathies,
+  Charcot-Marie-Tooth type 1A (CMT1A) and hereditary neuropathy with liability
+  to pressure palsies. This binary repeat contains repetitive DNA elements that
+  include LINES, SINES, medium reiteration frequency repeats, and a
+  transposon-like element. The COX10 gene has been mapped 10 kb centromeric to
+  the distal CMT1A-REP element, and a portion of this gene is present in both
+  the proximal and the distal CMT1A-REP elements. We report the isolation and
+  characterization of a novel cDNA (C170RF1), which maps centromeric to and
+  partially within the proximal CMT1A-REP element. Part of C170RF1 is
+  transcribed from the opposite strand of the COX10 partial gene duplication
+  present in the proximal CMT1A-REP element. This finding shows that C170RF1 and
+  COX10 are being transcribed from opposite strands of identical DNA sequences
+  that are separated by 1.5 Mb in the genome. RT-PCR analysis showed the
+  proximal transcript was expressed in skeletal muscle. Sequence analysis
+  identified an open reading frame encoding a 199-amino-acid protein. Zoo blot
+  analysis showed that the transcript is conserved in nonhuman primates. The
+  presence of a binary repeat contributes to the instability of this region of
+  chromosome 17, yet two CMT1A-REP elements are present in the chimpanzee and
+  all human populations. The presence of expressed sequences in both elements of
+  the CMT1A-REP binary repeat could explain the maintenance of this repeat in
+  humans.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9403059%5Buid%5D&cmd=DetailsSearch'
+date: 1997/12
+authors:
+  - name: Kennerson ML
+  - name: Nassif NT
+  - name: Dawkins JL
+  - name: DeKroon RM
+  - name: Yang JG
+  - name: Nicholson GA
+keywords:
+  - keyword: Alkyl and Aryl Transferases
+  - keyword: Amino Acid Sequence
+  - keyword: Animals
+  - keyword: Base Sequence
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Chromosome Mapping
+  - keyword: 'Cloning, Molecular'
+  - keyword: Electron Transport Complex IV
+  - keyword: Genes
+  - keyword: 'Genes, Overlapping'
+  - keyword: Membrane Proteins
+  - keyword: Molecular Sequence Data
+  - keyword: Multigene Family
+  - keyword: 'Muscle, Skeletal'
+  - keyword: chemistry
+  - keyword: Myocardium
+  - keyword: Organ Specificity
+  - keyword: Primates
+  - keyword: 'RNA, Messenger'
+  - keyword: analysis
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+  - keyword: Sequence Alignment
+  - keyword: 'Sequence Analysis, DNA'
+  - keyword: Species Specificity
+  - keyword: 'Transcription, Genetic'
+cites: []
+citedBy:
+  - pmid: '11381029'

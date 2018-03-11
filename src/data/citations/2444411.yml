@@ -1,0 +1,43 @@
+pmid: '2444411'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Neuropathies with prolonged conduction block, single and grouped
+  fasciculations, localized limb myokymia.
+abstract: >-
+  Fourteen patients presented prolonged conduction block (CB) related to
+  hereditary neuropathy with liability to pressure palsies (n = 7), neuropathy
+  with proximal multifocal persistent CB (n = 2), radiation plexopathy (n = 3)
+  and chronic acquired polyneuropathy (n = 2). All subjects presented both
+  single and grouped fasciculation potentials that resulted in visible limb
+  myokymia in 9 patients. This ectopic activity was recorded only in muscles
+  affected by the CB, was more important in severe or complete CB, and often
+  arose from terminal branches of blocked axons. These fasciculations and
+  grouped fasciculations therefore appear to be causally related to the CB. In
+  the presence of localized myokymia, a prolonged CB should be suspected.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2444411%5Buid%5D&cmd=DetailsSearch'
+date: 1987/11
+authors:
+  - name: Roth G
+  - name: Magistris MR
+keywords:
+  - keyword: Chronic Disease
+  - keyword: Disease Susceptibility
+  - keyword: Electrophysiology
+  - keyword: Extremities
+  - keyword: Fasciculation
+  - keyword: physiopathology
+  - keyword: Nervous System Diseases
+  - keyword: complications
+  - keyword: Neural Conduction
+  - keyword: Paralysis
+  - keyword: etiology
+  - keyword: Time Factors
+cites: []
+citedBy:
+  - pmid: '8936351'

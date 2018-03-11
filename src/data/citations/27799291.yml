@@ -1,0 +1,95 @@
+pmid: '27799291'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
+  hypermyelination.
+abstract: "Charcot-Marie-Tooth (CMT) neuropathies are highly heterogeneous disorders caused by mutations in more than 70 genes, with no available treatment. Thus, it is difficult to envisage a single suitable treatment for all pathogenetic mechanisms. Axonal Neuregulin 1 (Nrg1) type III drives Schwann cell myelination and determines myelin thickness by ErbB2/B3-PI3K-Akt signaling pathway activation. Nrg1 type III is inhibited by the α-secretase Tace, which negatively regulates PNS myelination. We hypothesized that modulation of Nrg1 levels and/or secretase activity may constitute a unifying treatment strategy for CMT neuropathies with focal hypermyelination as it could restore normal levels of myelination. Here we show that in\_vivo delivery of Niaspan, a FDA-approved drug known to enhance TACE activity, efficiently rescues myelination in the Mtmr2mouse, a model of CMT4B1 with myelin outfoldings, and in the Pmp22mouse, which reproduces HNPP (hereditary neuropathy with liability to pressure palsies) with tomacula. Importantly, we also found that Niaspan reduces hypermyelination of Vim (vimentin)mice, characterized by increased Nrg1 type III and Akt activation, thus corroborating the hypothesis that Niaspan treatment downregulates Nrg1 type III signaling."
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27799291%5Buid%5D&cmd=DetailsSearch'
+date: 2016/11
+authors:
+  - name: Bolino A
+  - name: Piguet F
+  - name: Alberizzi V
+  - name: Pellegatta M
+  - name: Rivellini C
+  - name: Guerrero-Valero M
+  - name: Noseda R
+  - name: Brombin C
+  - name: Nonis A
+  - name: D'Adamo P
+  - name: Taveggia C
+  - name: Previtali SC
+keywords:
+  - keyword: ADAM17 Protein
+  - keyword: metabolism
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: drug therapy
+  - keyword: pathology
+  - keyword: 'Disease Models, Animal'
+  - keyword: Mice
+  - keyword: 'Mice, Knockout'
+  - keyword: Neuroprotective Agents
+  - keyword: administration & dosage
+  - keyword: Niacin
+  - keyword: Treatment Outcome
+  - keyword: Vitamin B Complex
+cites:
+  - pmid: '20554037'
+  - pmid: '23224996'
+  - pmid: '19587293'
+  - pmid: '22357929'
+  - pmid: '21666671'
+  - pmid: '25018718'
+  - pmid: '16162938'
+  - pmid: '23749797'
+  - pmid: '7168798'
+  - pmid: '9030624'
+  - pmid: '17099708'
+  - pmid: '22028665'
+  - pmid: '17557352'
+  - pmid: '16249189'
+  - pmid: '22121335'
+  - pmid: '15044753'
+  - pmid: '18778774'
+  - pmid: '24339129'
+  - pmid: '21944259'
+  - pmid: '25150498'
+  - pmid: '10704451'
+  - pmid: '20184396'
+  - pmid: '15557122'
+  - pmid: '22266016'
+  - pmid: '23222914'
+  - pmid: '23642725'
+  - pmid: '23553667'
+  - pmid: '25186737'
+  - pmid: '20671245'
+  - pmid: '19223914'
+  - pmid: '24018473'
+  - pmid: '10802647'
+  - pmid: '1374476'
+  - pmid: '25766751'
+  - pmid: '20071523'
+  - pmid: '16990514'
+  - pmid: '27799291'
+  - pmid: '9169527'
+  - pmid: '17880751'
+  - pmid: '16129398'
+  - pmid: '19897823'
+  - pmid: '19539237'
+  - pmid: '17035995'
+  - pmid: '22488882'
+  - pmid: '20592216'
+  - pmid: '22578719'
+  - pmid: '27098694'
+  - pmid: '9334404'
+  - pmid: '23637177'
+  - pmid: '7581450'
+citedBy:
+  - pmid: '27799291'

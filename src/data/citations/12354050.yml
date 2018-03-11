@@ -1,0 +1,50 @@
+pmid: '12354050'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Pyrazolylcyclotriphosphazene containing pendant polymers synthesis,
+  characterization, and phosphate ester hydrolysis using a Cu(II)-metalated
+  cross-linked polymeric catalyst.
+abstract: >-
+  A multi-pyrazolyl cyclotriphosphazene containing polymerizable group
+  N(3)P(3)(3,5-Me(2)Pz)(5)(O-C(6)H(4)-p-C(6)H(4)-p-CH=CH(2)) (2) has been
+  prepared from the corresponding chloro derivative
+  N(3)P(3)Cl(5)(O-C(6)H(4)-p-C(6)H(4)-p-CH=CH(2)) (1). The X-ray structures of 1
+  and 2 have been determined. Compound 2 undergoes ready metalation with CuCl(2)
+  to afford N(3)P(3)(3,5-Me(2)Pz)(5)(O-C(6)H(4)-p-C(6)H(4)-p-CH=CH(2)).CuCl(2)
+  (3). Model compound N(3)P(3)(3,5-Me(2)Pz)(5)(O-C(6)H(4)-p-CHO).CuCl(2) (6) has
+  been prepared and characterized by spectroscopy and X-ray crystallography. In
+  this compound, the coordination around copper is distorted trigonal
+  bipyramidal, and the cyclotriphosphazene coordinates in a non-gem N(3) mode.
+  Compound 2 has been copolymerized with divinylbenzene to afford cross-linked
+  multisite coordinating polymer CPPL which is readily metalated with CuCl(2) to
+  afford copper-containing polymer CPPL-Cu. The coordination environment around
+  copper in CPPL-Cu has been evaluated by obtaining its EPR, optical, and IR
+  spectra and comparing them with those of model compounds 3 and 6. The utility
+  of CPPL-Cu as a heterogeneous catalyst has been demonstrated in the phosphate
+  ester hydrolysis involving three model phosphate esters p-nitrophenyl
+  phosphate (pNPP), bis(p-nitrophenyl) phosphate (bNPP), and
+  2-(hydroxypropyl)-p-nitrophenyl phosphate (hNPP). In all of these reactions, a
+  significant rate enhancement of ester hydrolysis is observed. Detailed kinetic
+  analyses to evaluate Michaelis-Menten parameters have also been carried out
+  along with experiments to elucidate the effect of pH, solvent, and temperature
+  on the rate of hydrolysis. Recycling experiments on the hydrolysis of pNPP
+  with CPPL-Cu shows that it can be recycled several times over without
+  affecting the rates.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12354050%5Buid%5D&cmd=DetailsSearch'
+date: 2002/10
+authors:
+  - name: Chandrasekhar V
+  - name: Athimoolam A
+  - name: Srivatsan SG
+  - name: Sundaram PS
+  - name: Verma S
+  - name: Steiner A
+  - name: Zacchini S
+  - name: Butcher R
+keywords: []
+cites: []
+citedBy: []

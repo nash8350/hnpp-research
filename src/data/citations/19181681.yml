@@ -1,0 +1,80 @@
+pmid: '19181681'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  Support for the involvement of large copy number variants in the pathogenesis
+  of schizophrenia.
+abstract: >-
+  We investigated the involvement of rare (<1%) copy number variants (CNVs) in
+  471 cases of schizophrenia and 2792 controls that had been genotyped using the
+  Affymetrix GeneChip 500K Mapping Array. Large CNVs >1 Mb were 2.26 times more
+  common in cases (P = 0.00027), with the effect coming mostly from deletions
+  (odds ratio, OR = 4.53, P = 0.00013) although duplications were also more
+  common (OR = 1.71, P = 0.04). Two large deletions were found in two cases
+  each, but in no controls a deletion at 22q11.2 known to be a susceptibility
+  factor for schizophrenia and a deletion on 17p12, at 14.0-15.4 Mb. The latter
+  is known to cause hereditary neuropathy with liability to pressure palsies.
+  The same deletion was found in 6 of 4618 (0.13%) cases and 6 of 36 092
+  (0.017%) controls in the re-analysed data of two recent large CNV studies of
+  schizophrenia (OR = 7.82, P = 0.001), with the combined significance level for
+  all three studies achieving P = 5 x 10(-5). One large duplication on 16p13.1,
+  which has been previously implicated as a susceptibility factor for autism,
+  was found in three cases and six controls (0.6% versus 0.2%, OR = 2.98, P =
+  0.13). We also provide the first support for a recently reported association
+  between deletions at 15q11.2 and schizophrenia (P = 0.026). This study
+  confirms the involvement of rare CNVs in the pathogenesis of schizophrenia and
+  contributes to the growing list of specific CNVs that are implicated.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19181681%5Buid%5D&cmd=DetailsSearch'
+date: 2009/02
+authors:
+  - name: Kirov G
+  - name: Grozeva D
+  - name: Norton N
+  - name: Ivanov D
+  - name: Mantripragada KK
+  - name: Holmans P
+  - name: Craddock N
+  - name: Owen MJ
+  - name: O'Donovan MC
+keywords:
+  - keyword: Gene Deletion
+  - keyword: Gene Dosage
+  - keyword: 'Polymorphism, Single Nucleotide'
+  - keyword: Schizophrenia
+  - keyword: United Kingdom
+cites:
+  - pmid: '18668039'
+  - pmid: '12742865'
+  - pmid: '18179900'
+  - pmid: '18668038'
+  - pmid: '17363630'
+  - pmid: '16626941'
+  - pmid: '11823265'
+  - pmid: '17033636'
+  - pmid: '18413704'
+  - pmid: '18252227'
+  - pmid: '18369103'
+  - pmid: '18469341'
+  - pmid: '18550696'
+  - pmid: '18945720'
+  - pmid: '17989066'
+  - pmid: '17389127'
+  - pmid: '10530637'
+  - pmid: '15303102'
+  - pmid: '17480035'
+  - pmid: '18511947'
+  - pmid: '17554300'
+  - pmid: '18806272'
+  - pmid: '1677316'
+  - pmid: '18057082'
+  - pmid: '18784092'
+  - pmid: '17701901'
+  - pmid: '8422677'
+  - pmid: '14594915'
+  - pmid: '16213148'
+  - pmid: '2190539'
+  - pmid: '18184952'
+citedBy: []

@@ -1,0 +1,50 @@
+pmid: '29086948'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Overview of Hereditary Neuropathy with Liability to Pressure Palsies.
+abstract: >-
+  Hereditary neuropathy with liability to recurrent pressure-sensitive palsies
+  (HNPP; also called tomaculous neuropathy) is an autosomal dominant disorder
+  that produces an episodic, recurrent demyelinating neuropathy. HNPP generally
+  develops during adolescence, and may cause attacks of numbness, muscular
+  weakness, and atrophy. Peroneal palsies, carpal-tunnel syndrome, and other
+  entrapment neuropathies are frequent manifestations of this disorder. Motor
+  and sensory nerve conduction velocities may be reduced in clinically affected
+  patients, as well as in asymptomatic gene carriers. Pathological changes
+  observed in peripheral nerves of HNPP patients include segmental demyelination
+  and tomaculous or "sausage-like" formations. Because of mild overlap of
+  clinical features with CMT1, HNPP patients may be misdiagnosed as having CMT1.
+  HNPP and CMT1 are both demyelinating neuropathies; however, their clinical,
+  pathological, and electrophysiological features are quite distinct. The HNPP
+  locus maps to chromosome 17p11.2-12 and is associated with a 1.5-Mb deletion.
+  DNA markers known to map to the region in 17p11.2-12 associated with the CMT1A
+  duplication, including the PMP22 gene, are deleted in HNPP. The deletion
+  breakpoints in HNPP map to the same intervals in which the CMT1A duplication
+  breakpoints map. In one pedigree, de novo deletion of paternal origin was
+  detected as a basis for sporadic HNPP. HNPP results from deletion of the PMP22
+  gene and underexpression of this locus, which is reflected in reduced mRNA and
+  protein levels in sural nerve biopsy samples from HNPP patients. Further
+  support for this hypothesis was provided by the identification of a nondeleted
+  HNPP kindred in which a two base pair deletion and early termination codon
+  within exon 1 of PMP22 was present. The possibility of genetic heterogeneity
+  in HNPP was raised by the identification of an HNPP pedigree that did not
+  demonstrate linkage to the region of 17p11.2-12. Hereditary neuralgic
+  amyotrophy (familial brachial plexus neuropathy) is an autosomal dominant
+  disorder causing painful, recurrent brachial plexopathies and maps to
+  chromosome 17q25.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29086948%5Buid%5D&cmd=DetailsSearch'
+date: 1999/10
+authors:
+  - name: Philip F Chance
+keywords: []
+cites: []
+citedBy:
+  - pmid: '29079893'
+  - pmid: '15083272'

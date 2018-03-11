@@ -1,0 +1,53 @@
+pmid: '6313866'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Multiple exercise-related mononeuropathy with abdominal colic.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (NLPP) is a rare
+  disease characterized by recurrent sensory-motor deficits precipitated by
+  exposure to minor pressure. This report describes a variant of this neuropathy
+  in 5 siblings suffering from painful palsies after strenuous work with
+  concurrent episodes of abdominal colic resembling that of acute intermittent
+  porphyria. Electrophysiological studies of the index case showed the typical
+  abnormalities of motor and sensory nerve conduction, including clinically
+  non-affected nerves. Light and electron-microscopic examination showed the
+  characteristic lesions of the NLPP with sausage-like swelling of the myelin
+  sheaths. In addition, non-compacted, "loose" myelin lamellae were frequently
+  observed in association with distended Schmidt-Lantermann incisures.
+  Non-compacted myelin was a prominent finding in this type of demyelinating
+  neuropathy. We suggest that an unknown metabolic factor may induce both
+  demyelination of peripheral nerve fibers and functional disturbance in
+  autonomic nerves leading to attacks of abdominal pain.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6313866%5Buid%5D&cmd=DetailsSearch'
+date: 1983/08
+authors:
+  - name: Trockel U
+  - name: Schröder JM
+  - name: Reiners KH
+  - name: Toyka KV
+  - name: Goerz G
+  - name: Freund HJ
+keywords:
+  - keyword: Abdomen
+  - keyword: Adolescent
+  - keyword: Biopsy
+  - keyword: Colic
+  - keyword: complications
+  - keyword: Electromyography
+  - keyword: Electrophysiology
+  - keyword: 'Microscopy, Electron'
+  - keyword: Pedigree
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: physiopathology
+  - keyword: Physical Exertion
+  - keyword: Sural Nerve
+  - keyword: pathology
+cites: []
+citedBy: []

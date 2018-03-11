@@ -1,0 +1,28 @@
+pmid: '7586531'
+categories:
+  - name: Genetics
+    enabled: true
+title: 'Single test for two hereditary neuropathies, CMT1A and HNPP.'
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7586531%5Buid%5D&cmd=DetailsSearch'
+date: 1995/10
+authors:
+  - name: Kennerson ML
+  - name: Gordon MJ
+  - name: Blair IP
+  - name: Nicholson GA
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: Demyelinating Diseases
+  - keyword: Gene Deletion
+  - keyword: Genetic Linkage
+  - keyword: Multigene Family
+  - keyword: Nucleic Acid Hybridization
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+cites: []
+citedBy:
+  - pmid: '10727485'

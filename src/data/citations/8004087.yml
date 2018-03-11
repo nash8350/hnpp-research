@@ -1,0 +1,61 @@
+pmid: '8004087'
+categories:
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Two autosomal dominant neuropathies result from reciprocal DNA
+  duplication/deletion of a region on chromosome 17.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1A (CMT1A) is a common autosomal dominant
+  demyelinating neuropathy that is associated with a 1.5 megabase (Mb) tandem
+  DNA duplication in chromosome 17p11.2-p12. Hereditary neuropathy with
+  liability to pressure palsies (HNPP, tomaculous neuropathy) is another less
+  frequently diagnosed autosomal dominant neuropathy and is associated with a
+  1.5 Mb deletion in chromosome 17p11.2-12. Meiotic unequal crossover is a
+  proposed mechanism for the generation of both the duplication in CMT1A and the
+  deletion in HNPP. CMT1A-REP is a repeat that flanks the region which is
+  duplicated/deleted in CMT1A/HNPP. The CMT1A-REP repeat sequence may mediate
+  unequal crossover through misalignment of the homologous, repeated sequences.
+  Three copies of the CMT1A-REP repeat are present on stably inherited CMT1A
+  duplication chromosomes. In this report, molecular analysis in multiple
+  patients detected three copies of the CMT1A-REP sequence on both inherited and
+  de novo CMT1A duplication chromosomes, and one copy of the CMT1A-REP repeat on
+  the deleted chromosome in both inherited and de novo HNPP. These observations
+  support the hypothesis that a reciprocal recombination mechanism involving the
+  CMT1A-REP is responsible for the generation of both the duplicated and deleted
+  chromosomes, and document the first examples in humans of Mendelian syndromes
+  resulting from the reciprocal products of unequal exchange involving large
+  intra-chromosomal segments.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8004087%5Buid%5D&cmd=DetailsSearch'
+date: 1994/02
+authors:
+  - name: Chance PF
+  - name: Abbas N
+  - name: Lensch MW
+  - name: Pentao L
+  - name: Roa BB
+  - name: Patel PI
+  - name: Lupski JR
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: ultrastructure
+  - keyword: 'Crossing Over, Genetic'
+  - keyword: 'Genes, Dominant'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Multigene Family
+  - keyword: Sequence Deletion
+cites: []
+citedBy:
+  - pmid: '15988805'
+  - pmid: '14757858'
+  - pmid: '11381029'
+  - pmid: '9973284'
+  - pmid: '9545397'
+  - pmid: '9391880'
+  - pmid: '9032649'
+  - pmid: '8937360'
+  - pmid: '8651299'
+  - pmid: '8936351'
+  - pmid: '8557256'
+  - pmid: '7825607'

@@ -1,0 +1,43 @@
+pmid: '8752423'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  [Clinical, pathologic and molecular genetic studies of patients with
+  hereditary motor and sensory neuropathy (HMSN)].
+abstract: >-
+  Clinical, pathologic and molecular genetic studies of Japanese HMSN patients
+  were reported. Among 26 HMSN I probands tested, the PMP22 gene region was
+  duplicated in 18 (69%). A proband of HNPP, whose PMP22 gene region was
+  deleted, was described. A proband with HMSN I was found to have a mutant
+  allele that caused a substitution of arginine for glycine at amino acid 93 of
+  PMP22. The mutation was located in the transmembrane portion of PMP22. The
+  patient's sural nerve showed decrease of large myelinated fibers and frequent
+  segmental demyelination and remyelination. A family with HMSN IB was found to
+  have a mutant allele that caused a substitution of histidine for arginine at
+  amino acid 98 of Po. The mutation was located in the extracellular domain of
+  Po. The sural nerve from a proband showed uncompaction of major dense lines,
+  wide-spaced major dense lines, and thin myelin sheath relative to axon size.
+  One family of HMSN X with a mutant allele that caused a substitution of
+  leucine for serine at amino acid 26 of Cx32 was found. The mutation was
+  located in the fist transmembrane portion of Cx32. A variety of genetic
+  abnormalities, probably underlying pathologic changes of the peripheral nerve,
+  found among Caucasians were also noticed among Japanese.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8752423%5Buid%5D&cmd=DetailsSearch'
+date: 1995/12
+authors:
+  - name: A Ohnishi
+keywords:
+  - keyword: Adolescent
+  - keyword: Alleles
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: Connexins
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Sural Nerve
+cites: []
+citedBy: []

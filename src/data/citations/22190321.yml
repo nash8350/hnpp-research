@@ -1,0 +1,43 @@
+pmid: '22190321'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  A novel small deletion in PMP22 causes a mild hereditary neuropathy with
+  liability to pressure palsies phenotype.
+abstract: >-
+  In this study we examined a family with electrophysiological findings of
+  hereditary neuropathy with liability to pressure palsies (HNPP) and a mild
+  clinical presentation. Four members of a family were referred for diagnosis of
+  HNPP. Electrophysiological studies included motor and sensory nerve conduction
+  studies in the upper and lower extremities. Investigations of microsatellites,
+  using polymorphic repeat markers flanking the gene, and multiplex
+  ligation-dependent probe amplification (MLPA) were performed for molecular
+  studies. The initial study of microsatellites did not detect any change, but
+  MLPA demonstrated a small deletion of exon 5 in the PMP22 gene. Our findings
+  demonstrate the important role of small deletions in the PMP22 gene in the
+  etiology of HNPP with a normal microsatellite study.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22190321%5Buid%5D&cmd=DetailsSearch'
+date: 2011/12
+authors:
+  - name: Casasnovas C
+  - name: Banchs I
+  - name: De Jorge L
+  - name: Antónia Albertí M
+  - name: Martínez-Campo Y
+  - name: Povedano M
+  - name: Montero J
+  - name: Volpini V
+keywords:
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Myelin Proteins
+  - keyword: Neural Conduction
+  - keyword: Paralysis
+  - keyword: complications
+  - keyword: Polyneuropathies
+  - keyword: Sequence Deletion
+cites: []
+citedBy:
+  - pmid: '25685136'

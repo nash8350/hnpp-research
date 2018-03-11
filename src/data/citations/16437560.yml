@@ -1,0 +1,60 @@
+pmid: '16437560'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: T118M PMP22 mutation causes partial loss of function and HNPP-like neuropathy.
+abstract: >-
+  To determine the clinical consequences of the PMP22 point mutation, T118M,
+  which has been previously considered to either cause an autosomal recessive
+  form of Charcot-Marie-Tooth (CMT) disease or be a benign polymorphism. We
+  analyzed patients from five separate kindreds and characterized their
+  peripheral nerve function by clinical and electrophysiological methods. All
+  heterozygous patients had clinical and/or electrophysiological features of a
+  neuropathy similar to hereditary neuropathy with liability to pressure palsies
+  (HNPPs). The homozygous patient had a severe axonal neuropathy without
+  features of demyelination. These findings suggest that T118M PMP22 retains
+  some normal PMP22 activity, allowing the formation of compact myelin and
+  normal nerve conduction velocities in the homozygous state. Taken together,
+  these findings suggest that T118M is a pathogenic mutation causing a
+  dominantly inherited form of CMT by a partial loss of PMP22 function.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16437560%5Buid%5D&cmd=DetailsSearch'
+date: 2006/01
+authors:
+  - name: Shy ME
+  - name: Scavina MT
+  - name: Clark A
+  - name: Krajewski KM
+  - name: Li J
+  - name: Kamholz J
+  - name: Kolodny E
+  - name: Szigeti K
+  - name: Fischer RA
+  - name: Saifi GM
+  - name: Scherer SS
+  - name: Lupski JR
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: physiopathology
+  - keyword: Child
+  - keyword: Genotype
+  - keyword: Methionine
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Peripheral Nerves
+  - keyword: Phenotype
+  - keyword: Threonine
+cites: []
+citedBy:
+  - pmid: '29078790'
+  - pmid: '26012543'
+  - pmid: '23224996'
+  - pmid: '21670407'
+  - pmid: '19513300'

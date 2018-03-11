@@ -1,0 +1,49 @@
+pmid: '25175852'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: >-
+  Characteristic features of hereditary neuropathy with liability to pressure
+  palsy (HNPP) presenting with brachial plexopathy in soldiers.
+abstract: >-
+  A brachial plexus lesion is not common in hereditary neuropathy with liability
+  to pressure palsy (HNPP). We report the clinical and electrodiagnostic
+  features of young soldiers with HNPP presenting with brachial plexopathy. By
+  reviewing 2year medical records from Korean military hospitals, we identified
+  soldiers with brachial plexus lesions. Among them, patients diagnosed with
+  HNPP were determined and clinical and electrophysiological findings were
+  compared between HNPP and non-HNPP patients with a brachial plexus lesion.
+  Thirteen patients (6.8%) were diagnosed with HNPP among 189 patients with a
+  brachial plexus lesion. Push-ups, as either a punishment or an exercise, was
+  the most frequent preceding event in HNPP patients (76.9%), whereas it was
+  rare in non-HNPP patients. The distal motor latency of the median nerve showed
+  the highest sensitivity (90.9%) and specificity (100%) for HNPP in patients
+  with a brachial plexus lesion. In conclusion, HNPP should be suspected in
+  patients with brachial plexopathy if brachial plexopathy develops after
+  push-ups or if the distal motor latency of median nerves is prolonged.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25175852%5Buid%5D&cmd=DetailsSearch'
+date: 2014/09
+authors:
+  - name: Kyoung-Eun Kim
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Brachial Plexus Neuropathies
+  - keyword: etiology
+  - keyword: Electromyography
+  - keyword: Exercise
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Median Nerve
+  - keyword: Medical Records
+  - keyword: Military Personnel
+  - keyword: Neural Conduction
+  - keyword: Republic of Korea
+  - keyword: Young Adult
+cites: []
+citedBy:
+  - pmid: '28948078'
+  - pmid: '26347841'

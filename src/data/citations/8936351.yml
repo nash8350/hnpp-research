@@ -1,0 +1,73 @@
+pmid: '8936351'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies the same molecular
+  defect can result in diverse clinical presentation.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is a
+  peripheral nerve disorder characterized by autosomal dominant inheritance,
+  recurrent pressure palsies, reduced motor and sensory conduction velocities
+  and sausage-like swellings (tomacula) of myelin sheaths in nerve biopsy. Two
+  young adult patients are reported as index cases of two families in which HNPP
+  was diagnosed. The first patient presented with recurrent pressure palsies,
+  whereas the second suffered from fasciculations and myokymias in his right
+  hand, with difficulty in writing, and upper and lower limb paraesthesias of 3
+  years' duration. Electrodiagnostic studies revealed slowing of conduction
+  primarily in common sites of compression in both patients. Sural nerve biopsy
+  revealed the characteristic tomaculous swellings in both patients. DNA
+  analysis showed that both patients have a deletion in chromosome 17p11.2 which
+  is found in the majority of HNPP cases. In light of the common molecular
+  defect, the different clinical symptomatology of the two patients is
+  discussed.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8936351%5Buid%5D&cmd=DetailsSearch'
+date: 1996/03
+authors:
+  - name: Andreadou E
+  - name: Yapijakis C
+  - name: Paraskevas GP
+  - name: Stavropoulos P
+  - name: Karadimas C
+  - name: Zis VP
+  - name: Davaki P
+  - name: Karandreas N
+  - name: Rentzos M
+  - name: Tsakanikas C
+  - name: Vassilopoulos D
+  - name: Papageorgiou C
+keywords:
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Paralysis
+  - keyword: Pedigree
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: Pressure
+cites:
+  - pmid: '7944298'
+  - pmid: '864493'
+  - pmid: '1303281'
+  - pmid: '4345910'
+  - pmid: '431042'
+  - pmid: '7753126'
+  - pmid: '14212604'
+  - pmid: '1303231'
+  - pmid: '8033945'
+  - pmid: '3476973'
+  - pmid: '1677316'
+  - pmid: '8004087'
+  - pmid: '8422677'
+  - pmid: '2276038'
+  - pmid: '2556882'
+  - pmid: '2381536'
+  - pmid: '8012388'
+  - pmid: '13184660'
+  - pmid: '2444411'
+  - pmid: '8393091'
+  - pmid: '1473315'
+  - pmid: '7991108'
+  - pmid: '1822787'
+  - pmid: '1117305'
+citedBy:
+  - pmid: '24251057'

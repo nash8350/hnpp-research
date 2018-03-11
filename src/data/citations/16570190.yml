@@ -1,0 +1,71 @@
+pmid: '16570190'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Identification of Alu elements mediating a partial PMP22 deletion.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is most
+  frequently caused by deletion of a 1.4-Mb region in chromosome 17p11.2-12
+  including the peripheral myelin protein 22 (PMP22) gene. Smaller deletions
+  partially affecting the PMP22 gene are less frequently observed. We identified
+  in a HNPP patient a deletion of the 5' region of PMP22 including non-coding
+  exon 1, coding exons 2 and 3, whereas, exons 4 and 5 were present. PMP22 exon
+  3- and 4-specific qPCR resulted in a deletion of one exon 3 allele but in the
+  presence of 2 exon 4 alleles. SNP analysis revealed the presence of
+  heterozygosity for PMP22 coding exons 4 and 5. Finally, MLPA specific for the
+  CMT1A region defined this deletion for the entire 5' region of PMP22 (exons 1,
+  2 and 3). These partial HNPP deletions may be missed by other techniques,
+  e.g., STR marker analysis. Alu elements have been reported to mediate
+  non-allelic recombination events. Bioinformatic analysis revealed 12 Alu
+  elements flanking in close neighbourhood the estimated 40-kb deletion region
+  as candidates for recombination events. PCR primers were designed to identify
+  a breakpoint-spanning product including the respective Alu elements.
+  PCR-driven identification of a junction fragment was successful with
+  AluJo-AluSq and AluYb9-AluSq specific primer pairs comprising the same
+  intronic region of PMP22. Sequence analysis of these breakpoint-overlapping
+  PCR fragments revealed a 29-bp motif including a chi-like sequence (GCTGG)
+  present both in the AluYb9 and the AluSq element. These data confirm that
+  low-copy repeats (LCRs) mediate non-allelic homologous recombinations (NAHR).
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16570190%5Buid%5D&cmd=DetailsSearch'
+date: 2006/03
+authors:
+  - name: Matejas V
+  - name: Huehne K
+  - name: Thiel C
+  - name: Sommer C
+  - name: Jakubiczka S
+  - name: Rautenstrauss B
+keywords:
+  - keyword: Alu Elements
+  - keyword: Base Sequence
+  - keyword: DNA Mutational Analysis
+  - keyword: Exons
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Molecular Sequence Data
+  - keyword: Myelin Proteins
+cites:
+  - pmid: '8789446'
+  - pmid: '8111370'
+  - pmid: '15103551'
+  - pmid: '15564036'
+  - pmid: '12297985'
+  - pmid: '15461806'
+  - pmid: '7834893'
+  - pmid: '14506474'
+  - pmid: '14577517'
+  - pmid: '12634865'
+  - pmid: '16199442'
+  - pmid: '15241798'
+  - pmid: '15526218'
+  - pmid: '10975740'
+  - pmid: '10586225'
+  - pmid: '11381029'
+  - pmid: '8644705'
+  - pmid: '12207933'
+  - pmid: '9384615'
+  - pmid: '8800924'
+  - pmid: '12497641'
+citedBy: []

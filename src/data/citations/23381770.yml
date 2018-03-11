@@ -1,0 +1,70 @@
+pmid: '23381770'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: 'Sonography of the median nerve in CMT1A, CMT2A, CMTX, and HNPP.'
+abstract: >-
+  In this study we compare the ultrasound features in the median nerve in
+  patients with different types of Charcot-Marie-Tooth (CMT) disease and
+  hereditary neuropathies with liability to pressure palsies (HNPP) as a typical
+  entrapment neuropathy. Median nerve ultrasound and conduction studies were
+  performed in patients with CMT1A (n = 12), MFN2-associated CMT2A (n = 7), CMTX
+  (n = 5), and HNPP (n = 5), and in controls (n = 28). Median nerve
+  cross-sectional area (CSA) was significantly increased in CMT1A, whereas, in
+  axonal CMT2A, fascicle diameter (FD) was enlarged. CSA correlated with nerve
+  conduction slowing in CMT1A and with axonal loss, as shown by motor and
+  sensory nerve amplitudes in both CMT1A and CMT2A. A relatively low
+  wrist-to-forearm-ratio (WFR <0.8) or a relatively high WFR (>1.8) appeared to
+  be unlikely in MFN2 and Cx32 mutations of CMT2A and CMTX, respectively.
+  Differences in CSA, FD, and WFR of the median nerve can be helpful in defining
+  subtypes of hereditary neuropathies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23381770%5Buid%5D&cmd=DetailsSearch'
+date: 2013/02
+authors:
+  - name: Schreiber S
+  - name: Oldag A
+  - name: Kornblum C
+  - name: Kollewe K
+  - name: Kropf S
+  - name: Schoenfeld A
+  - name: Feistner H
+  - name: Jakubiczka S
+  - name: Kunz WS
+  - name: Scherlach C
+  - name: Tempelmann C
+  - name: Mawrin C
+  - name: Dengler R
+  - name: Schreiber F
+  - name: Goertler M
+  - name: Vielhaber S
+keywords:
+  - keyword: Adolescent
+  - keyword: Aged
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnostic imaging
+  - keyword: Connexins
+  - keyword: Electrodiagnosis
+  - keyword: Electrophysiological Phenomena
+  - keyword: Forearm
+  - keyword: anatomy & histology
+  - keyword: innervation
+  - keyword: GTP Phosphohydrolases
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: International Classification of Diseases
+  - keyword: Median Nerve
+  - keyword: Mitochondrial Proteins
+  - keyword: Myelin Proteins
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Phenotype
+  - keyword: Ultrasonography
+  - keyword: Wrist
+  - keyword: Young Adult
+cites: []
+citedBy:
+  - pmid: '26559821'
+  - pmid: '24646194'

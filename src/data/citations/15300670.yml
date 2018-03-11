@@ -1,0 +1,61 @@
+pmid: '15300670'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Does parkin play a role in the peripheral nervous system? A family report.
+abstract: >-
+  Two genes were identified for autosomal recessive forms of early onset
+  Parkinson's disease parkin and DJ-1. We describe 2 siblings with EOPD due to
+  parkin mutations and peripheral neuropathy, which presented as neuropathy with
+  liability to pressure palsies (HNPP) in the index case. RT-PCR experiments
+  revealed that the parkin gene is expressed in sural nerves from both controls
+  and patient with parkin-related disease. Our findings support the view that
+  parkin may play a role in the peripheral nervous system.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15300670%5Buid%5D&cmd=DetailsSearch'
+date: 2004/08
+authors:
+  - name: Abbruzzese G
+  - name: Pigullo S
+  - name: Schenone A
+  - name: Bellone E
+  - name: Marchese R
+  - name: Di Maria E
+  - name: Benedetti L
+  - name: Ciotti P
+  - name: Nobbio L
+  - name: Bonifati V
+  - name: Ajmar F
+  - name: Mandich P
+keywords:
+  - keyword: Aged
+  - keyword: Biopsy
+  - keyword: methods
+  - keyword: DNA Mutational Analysis
+  - keyword: Family Health
+  - keyword: 'Genes, Recessive'
+  - keyword: Intracellular Signaling Peptides and Proteins
+  - keyword: Mutation
+  - keyword: Neurologic Examination
+  - keyword: Oncogene Proteins
+  - keyword: Paralysis
+  - keyword: etiology
+  - keyword: pathology
+  - keyword: Parkinson Disease
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: complications
+  - keyword: metabolism
+  - keyword: Protein Deglycase DJ-1
+  - keyword: 'RNA, Messenger'
+  - keyword: biosynthesis
+  - keyword: Reverse Transcriptase Polymerase Chain Reaction
+  - keyword: Sural Nerve
+  - keyword: Ubiquitin-Protein Ligases
+  - keyword: physiology
+cites: []
+citedBy: []

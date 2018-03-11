@@ -1,0 +1,69 @@
+pmid: '10697408'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: The peripheral myelin protein 22 and epithelial membrane protein family.
+abstract: >-
+  The peripheral myelin protein 22 (PMP22) and the epithelial membrane proteins
+  (EMP-1, -2, and -3) comprise a subfamily of small hydrophobic membrane
+  proteins. The putative four-transmembrane domain structure as well as the
+  genomic structure are highly conserved among family members. PMP22 and EMPs
+  are expressed in many tissues, and functions in cell growth, differentiation,
+  and apoptosis have been reported. EMP-1 is highly up-regulated during squamous
+  differentiation and in certain tumors, and a role in tumorigenesis has been
+  proposed. PMP22 is most highly expressed in peripheral nerves, where it is
+  localized in the compact portion of myelin. It plays a crucial role in normal
+  physiological and pathological processes in the peripheral nervous system.
+  Progress in molecular genetics has revealed that genetic alterations in the
+  PMP22 gene, including duplications, deletions, and point mutations, are
+  responsible for several forms of hereditary peripheral neuropathies, including
+  Charcot-Marie-Tooth disease type 1A (CMT1A), Dejerine-Sottas syndrome (DDS),
+  and hereditary neuropathy with liability to pressure palsies (HNPP). The
+  natural mouse mutants Trembler and Trembler-J contain a missense mutation in
+  different hydrophobic domains of PMP22, resulting in demyelination and Schwann
+  cell proliferation. Transgenic mice carrying many copies of the PMP22 gene and
+  PMP22-null mice display a variety of defects in the initial steps of
+  myelination and/or maintenance of myelination, whereas no pathological
+  alterations are detected in other tissues normally expressing PMP22. Further
+  characterization of the interactions of PMP22 and EMPs with other proteins as
+  well as their regulation will provide additional insight into their normal
+  physiological function and their roles in disease and possibly will result in
+  the development of therapeutic tools.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10697408%5Buid%5D&cmd=DetailsSearch'
+date: 2000/03
+authors:
+  - name: Jetten AM
+  - name: Suter U
+keywords:
+  - keyword: Amino Acid Sequence
+  - keyword: Animals
+  - keyword: Cell Differentiation
+  - keyword: Cell Division
+  - keyword: Gene Expression Regulation
+  - keyword: Membrane Glycoproteins
+  - keyword: Membrane Proteins
+  - keyword: chemistry
+  - keyword: physiology
+  - keyword: Mice
+  - keyword: 'Models, Molecular'
+  - keyword: Molecular Sequence Data
+  - keyword: Myelin Proteins
+  - keyword: Neoplasm Proteins
+  - keyword: Nervous System Diseases
+  - keyword: 'Receptors, Cell Surface'
+cites: []
+citedBy:
+  - pmid: '25506001'
+  - pmid: '23224996'
+  - pmid: '21670407'
+  - pmid: '20071523'

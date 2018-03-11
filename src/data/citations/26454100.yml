@@ -1,0 +1,62 @@
+pmid: '26454100'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Clinical and genetic spectra in a series of Chinese patients with
+  Charcot-Marie-Tooth disease.
+abstract: >-
+  The aim of this study was to determine the clinical features and frequencies
+  of genetic subtypes in a series of patients with Charcot-Marie-Tooth (CMT)
+  disease from Eastern China. Patients were divided into three subtypes, CMT1,
+  CMT2 and hereditary neuropathy with liability to pressure palsy (HNPP),
+  according to their electrophysiological manifestations. Multiplex
+  ligation-dependent probe analysis (MLPA) was performed to detect
+  duplications/deletions in the PMP22 gene. The coding regions and splice sites
+  of the GJB1, MPZ, MFN2 and GDAP-1 genes were determined by direct sequencing.
+  Among the 148 patients in the study, 37.2% of the cases had mutations in genes
+  assessed. The mutation detection rate was higher in patients with family
+  histories than in spontaneous cases. PMP22 duplication (13.5%) was predominant
+  in this group of patients, followed by PMP22 deletion (11.5%), and point
+  mutations in GJB1 (8.8%), MPZ (2.0%) and MFN2 (0.7%). Three novel mutations
+  (c.151T>C and c.310 A>G in GJB1 and c.1516 C>G in MFN2) were detected. A small
+  deletion in PMP22 exon 4 was detected in a patient with severe CMT1. Genetic
+  tests have great value in CMT patients with family histories. The frequency of
+  PMP22 duplications was lower in Asian patients than in others. We suggest that
+  genetic testing strategies in CMT patients should be primarily based on
+  electromyography data.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26454100%5Buid%5D&cmd=DetailsSearch'
+date: 2015/10
+authors:
+  - name: Wang R
+  - name: He J
+  - name: Li JJ
+  - name: Ni W
+  - name: Wu ZY
+  - name: Chen WJ
+  - name: Wang Y
+keywords:
+  - keyword: Adolescent
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: China
+  - keyword: DNA Mutational Analysis
+  - keyword: Electromyography
+  - keyword: Genetic Testing
+  - keyword: Genotype
+  - keyword: Infant
+  - keyword: 'Infant, Newborn'
+  - keyword: Mutation
+  - keyword: Young Adult
+cites: []
+citedBy: []

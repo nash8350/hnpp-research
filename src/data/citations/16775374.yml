@@ -1,0 +1,182 @@
+pmid: '16775374'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  Inherited focal, episodic neuropathies hereditary neuropathy with liability to
+  pressure palsies and hereditary neuralgic amyotrophy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP; also called
+  tomaculous neuropathy) is an autosomal-dominant disorder that produces a
+  painless episodic, recurrent, focal demyelinating neuropathy. HNPP generally
+  develops during adolescence, and may cause attacks of numbness, muscular
+  weakness, and atrophy. Peroneal palsies, carpal tunnel syndrome, and other
+  entrapment neuropathies may be frequent manifestations of HNPP. Motor and
+  sensory nerve conduction velocities may be reduced in clinically affected
+  patients, as well as in asymptomatic gene carriers. The histopathological
+  changes observed in peripheral nerves of HNPP patients include segmental
+  demyelination and tomaculous or "sausage-like" formations. Mild overlap of
+  clinical features with Charcot-Marie-Tooth (CMT) disease type 1 (CMT1) may
+  lead patients with HNPP to be misdiagnosed as having CMT1. HNPP and CMT1 are
+  both demyelinating neuropathies, however, their clinical, pathological, and
+  electrophysiological features are quite distinct. HNPP is most frequently
+  associated with a 1.4-Mb pair deletion on chromosome 17p12. A duplication of
+  the identical region leads to CMT1A. Both HNPP and CMT1A result from a dosage
+  effect of the PMP22 gene, which is contained within the deleted/duplicated
+  region. This is reflected in reduced mRNA and protein levels in sural nerve
+  biopsy samples from HNPP patients. Treatment for HNPP consists of preventative
+  and symptom-easing measures. Hereditary neuralgic amyotrophy (HNA; also called
+  familial brachial plexus neuropathy) is an autosomal-dominant disorder causing
+  episodes of paralysis and muscle weakness initiated by severe pain.
+  Individuals with HNA may suffer repeated episodes of intense pain, paralysis,
+  and sensory disturbances in an affected limb. The onset of HNA is at birth or
+  later in childhood with prognosis for recovery usually favorable; however,
+  persons with HNA may have permanent residual neurological dysfunction
+  following attack(s). Episodes are often triggered by infections,
+  immunizations, the puerperium, and stress. Electrophysiological studies show
+  normal or mildly prolonged motor nerve conduction velocities distal to the
+  affected brachial plexus. Pathological studies have found axonal degeneration
+  in nerves examined distal to the plexus abnormality. In some HNA pedigrees
+  there are characteristic facial features, including hypotelorism. The
+  prognosis for recovery of normal function of affected limbs in HNA is good,
+  although recurrent episodes may cause residual deficits. HNA is genetically
+  linked to chromosome 17q25, where mutations in the septin-9 (SEPT9) gene have
+  been found.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16775374%5Buid%5D&cmd=DetailsSearch'
+date: 2006/06
+authors:
+  - name: Phillip F Chance
+keywords:
+  - keyword: Animals
+  - keyword: Brachial Plexus Neuritis
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: therapy
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: 'Diagnosis, Differential'
+  - keyword: 'Disease Models, Animal'
+  - keyword: Electrophysiology
+  - keyword: GTP Phosphohydrolases
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Mutation
+  - keyword: Paralysis
+  - keyword: Phenotype
+  - keyword: Pressure
+  - keyword: Septins
+cites:
+  - pmid: '9096765'
+  - pmid: '11697522'
+  - pmid: '1895146'
+  - pmid: '9712007'
+  - pmid: '4297726'
+  - pmid: '1692961'
+  - pmid: '9150742'
+  - pmid: '10602368'
+  - pmid: '8780104'
+  - pmid: '8609929'
+  - pmid: '11550219'
+  - pmid: '9771681'
+  - pmid: '8105684'
+  - pmid: '171026'
+  - pmid: '18866299'
+  - pmid: '2540008'
+  - pmid: '9191796'
+  - pmid: '8532623'
+  - pmid: '4345910'
+  - pmid: '8780105'
+  - pmid: '10727485'
+  - pmid: '12544147'
+  - pmid: '10474898'
+  - pmid: '11594922'
+  - pmid: '7929285'
+  - pmid: '11935323'
+  - pmid: '8729178'
+  - pmid: '9040737'
+  - pmid: '8776588'
+  - pmid: '13837190'
+  - pmid: '14212604'
+  - pmid: '11369192'
+  - pmid: '9545397'
+  - pmid: '11578281'
+  - pmid: '9326925'
+  - pmid: '11140841'
+  - pmid: '1552943'
+  - pmid: '10734269'
+  - pmid: '9973284'
+  - pmid: '7649472'
+  - pmid: '9391880'
+  - pmid: '1552545'
+  - pmid: '8740237'
+  - pmid: '9285799'
+  - pmid: '1303228'
+  - pmid: '8757248'
+  - pmid: '12626509'
+  - pmid: '10733998'
+  - pmid: '7630211'
+  - pmid: '3202614'
+  - pmid: '1935894'
+  - pmid: '141700'
+  - pmid: '1303282'
+  - pmid: '6668475'
+  - pmid: '9447611'
+  - pmid: '4339239'
+  - pmid: '21610756'
+  - pmid: '10842280'
+  - pmid: '16186812'
+  - pmid: '9748013'
+  - pmid: '12082044'
+  - pmid: '9187667'
+  - pmid: '8614534'
+  - pmid: '4003034'
+  - pmid: '11523718'
+  - pmid: '12388755'
+  - pmid: '11523561'
+  - pmid: '8937360'
+  - pmid: '1556154'
+  - pmid: '14450651'
+  - pmid: '1677316'
+  - pmid: '7991107'
+  - pmid: '7693873'
+  - pmid: '12727837'
+  - pmid: '8422677'
+  - pmid: '11439387'
+  - pmid: '10996784'
+  - pmid: '8012388'
+  - pmid: '13864958'
+  - pmid: '9619649'
+  - pmid: '11245726'
+  - pmid: '205473'
+  - pmid: '7512319'
+  - pmid: '8894410'
+  - pmid: '10227632'
+  - pmid: '12427913'
+  - pmid: '8565626'
+  - pmid: '10093067'
+  - pmid: '10734003'
+  - pmid: '10360513'
+  - pmid: '7991108'
+  - pmid: '9384615'
+  - pmid: '1822787'
+  - pmid: '9040736'
+  - pmid: '2996415'
+  - pmid: '8800924'
+  - pmid: '1714591'
+  - pmid: '7581450'
+  - pmid: '20271590'
+  - pmid: '9439655'
+  - pmid: '4434174'
+citedBy:
+  - pmid: '29079893'
+  - pmid: '26640726'
+  - pmid: '24646194'
+  - pmid: '19513300'

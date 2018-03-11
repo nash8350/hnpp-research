@@ -1,0 +1,62 @@
+pmid: '8847735'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Widespread expression of the peripheral myelin protein-22 gene (PMP22) in
+  neural and non-neural tissues during murine development.
+abstract: >-
+  The gene encoding the peripheral myelin protein PMP22 is affected by various
+  mutations in the hereditary peripheral neuropathies Charcot-Marie-Tooth
+  disease type 1A (CMT1A), Déjérine-Sottas syndrome (DSS) and hereditary
+  neuropathy with liability to pressure palsies (HNPP). In contrast to the
+  recent remarkable progress in the genetics of the PMP22 gene, the biological
+  function of PMP22 remains largely unknown. In this report, we have confirmed
+  by using in situ hybridization techniques that high levels of PMP22 mRNA are
+  present in maturing peripheral nerves of the 2-week-old mouse, a finding
+  consistent with the PNS-specific defect observed in hereditary peripheral
+  neuropathies. However, high levels of PMP22 transcripts were also found in the
+  villi of the adult gut, and PMP22 expression was detected in various
+  non-neural tissues during embryonic mouse development. In early embryogenesis
+  (9.5 days postconception, dpc), PMP22 RNA expression appears restricted to the
+  epithelial ectodermal layer. During early organogenesis (11.5 dpc),
+  particularly high levels of expression are present in the capsule surrounding
+  the liver and in the forming gut, while low levels of PMP22 mRNA can be found
+  in precartilagous condensations forming the vertebrae and the ventricular
+  layer of the myelencephalon. During midgestation development (14.5 dpc to 16.5
+  dpc), the number of PMP22-positive tissues increases, and high expression is
+  detected in several mesoderm-derived tissues, in particular connective tissues
+  of the face region, bones including the vertebrae, the lung mesenchym, and in
+  muscles. In addition, high expression is also found in ectoderm-derived
+  tissues, especially the epithelia of the lens and the skin. These findings
+  strongly suggest that PMP22 serves not only a PNS-specific function but is
+  also of broader biological significance in cell proliferation and/or
+  differentiation.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8847735%5Buid%5D&cmd=DetailsSearch'
+date: 1995/12
+authors:
+  - name: Baechner D
+  - name: Liehr T
+  - name: Hameister H
+  - name: Altenberger H
+  - name: Grehl H
+  - name: Suter U
+  - name: Rautenstrauss B
+keywords:
+  - keyword: Age Factors
+  - keyword: Animals
+  - keyword: In Situ Hybridization
+  - keyword: Mice
+  - keyword: Myelin Proteins
+  - keyword: Neurons
+  - keyword: physiology
+  - keyword: RNA
+  - keyword: metabolism
+cites: []
+citedBy: []

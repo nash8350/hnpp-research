@@ -1,0 +1,55 @@
+pmid: '10589461'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  [A family of hereditary neuropathy with liability to pressure palsies with a
+  proband who developed right and left foot drop successively following the left
+  radial nerve palsy].
+abstract: >-
+  A 41-year-old man developed multifocal mononeuropathies manifesting right and
+  left foot drop successively, following the left radial nerve palsy as an
+  initial symptom. Based on the neurological findings and the results of the
+  genetic study of peripheral myelin protein (PMP) 22 gene and the histological
+  study of the sural nerve on biopsy, the diagnosis of hereditary neuropathy
+  with liability to pressure palsies (HNPP) was made. Two asymptomatic carriers
+  were found among his family members based on the genetic study. The diagnosis
+  of HNPP can be definitely established by the genetic study and this disease is
+  relatively rare. In this report it is important to note that there are a few
+  patients who show radial nerve palsy as an initial symptom, that we should
+  carefully study the family members to obtain the prevalence of HNPP because
+  asymptomatic carriers may be present, and that the carriers should be advised
+  to avoid strenuous exercises and works which may produce excessive extension
+  or compression of nerve trunks with the subsequent development of clinical
+  symptoms.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10589461%5Buid%5D&cmd=DetailsSearch'
+date: 1999/12
+authors:
+  - name: Ohnishi A
+  - name: Yamamoto T
+  - name: Suenaga A
+keywords:
+  - keyword: Adolescent
+  - keyword: Aged
+  - keyword: Child
+  - keyword: Foot Diseases
+  - keyword: etiology
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: complications
+  - keyword: Heterozygote
+  - keyword: Myelin Proteins
+  - keyword: Paralysis
+  - keyword: Radial Neuropathy
+  - keyword: Sural Nerve
+  - keyword: pathology
+cites: []
+citedBy: []

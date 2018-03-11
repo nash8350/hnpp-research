@@ -1,0 +1,84 @@
+pmid: '21429232'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Recovery of brachial plexus lesions resulting from heavy backpack use a
+  follow-up case series.
+abstract: >-
+  Brachial plexus lesions as a consequence of carrying a heavy backpack have
+  been reported, but the typical clinical course and long-term consequences are
+  not clear. Here we evaluated the clinical course and pattern of recovery of
+  backpack palsy (BPP) in a large series of patients. Thirty-eight consecutive
+  patients with idiopathic BPP were identified from our population of 193,450
+  Finnish conscripts by means of computerised register. A physiotherapist
+  provided instructions for proper hand use and rehabilitative exercises at
+  disease onset. The patients were followed up for 2 to 8 years from the
+  diagnosis. We also searched for genetic markers of hereditary neuropathy with
+  pressure palsies. Mann-Whitney U-test was used to analyze continuous data. The
+  Fischer's exact test was used to assess two-way tables. Eighty percent of the
+  patients recovered totally within 9 months after the onset of weakness.
+  Prolonged symptoms occurred in 15% of the patients, but daily activities were
+  not affected. The weight of the carried load at the symptom onset
+  significantly affected the severity of the muscle strength loss in the
+  physiotherapeutic testing at the follow-up. The initial electromyography did
+  not predict recovery. Genetic testing did not reveal de novo hereditary
+  neuropathy with pressure palsies. The prognosis of BPP is favorable in the
+  vast majority of cases. Electromyography is useful for diagnosis. To prevent
+  brachial plexus lesions, backpack loads greater than 40 kg should be avoided.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21429232%5Buid%5D&cmd=DetailsSearch'
+date: 2011/03
+authors:
+  - name: Nylund T
+  - name: Mattila VM
+  - name: Salmi T
+  - name: Pihlajamäki HK
+  - name: Mäkelä JP
+keywords:
+  - keyword: Adolescent
+  - keyword: Brachial Plexus Neuropathies
+  - keyword: epidemiology
+  - keyword: etiology
+  - keyword: rehabilitation
+  - keyword: Cohort Studies
+  - keyword: Follow-Up Studies
+  - keyword: Lifting
+  - keyword: adverse effects
+  - keyword: Military Personnel
+  - keyword: Myelin Proteins
+  - keyword: Occupational Diseases
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Prevalence
+  - keyword: Recovery of Function
+  - keyword: physiology
+  - keyword: Time Factors
+  - keyword: Young Adult
+cites:
+  - pmid: '10613149'
+  - pmid: '11439387'
+  - pmid: '15489403'
+  - pmid: '5654826'
+  - pmid: '5819183'
+  - pmid: '4339239'
+  - pmid: '4606284'
+  - pmid: '1196741'
+  - pmid: '6650720'
+  - pmid: '3112640'
+  - pmid: '3120046'
+  - pmid: '2360121'
+  - pmid: '7931393'
+  - pmid: '8549212'
+  - pmid: '9447611'
+  - pmid: '9843070'
+  - pmid: '13450376'
+  - pmid: '16371410'
+  - pmid: '16906084'
+  - pmid: '18506720'
+citedBy: []

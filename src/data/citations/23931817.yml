@@ -1,0 +1,41 @@
+pmid: '23931817'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: Dominant Charcot-Marie-Tooth syndrome and cognate disorders.
+abstract: >-
+  Charcot-Marie-Tooth neuropathy (CMT) is a group of genetically heterogeneous
+  disorders sharing a similar phenotype, characterized by wasting and weakness
+  mainly involving the distal muscles of lower and upper limbs, variably
+  associated with distal sensory loss and skeletal deformities. This chapter
+  deals with dominantly transmitted CMT and related disorders, namely hereditary
+  neuropathy with liability to pressure palsies (HNPP) and hereditary neuralgic
+  amyotrophy (HNA). During the last 20 years, several genes have been uncovered
+  associated with CMT and our understanding of the underlying molecular
+  mechanisms has greatly improved. Consequently, a precise genetic diagnosis is
+  now possible in the majority of cases, thus allowing proper genetic
+  counseling. Although, unfortunately, treatment is still unavailable for all
+  types of CMT, several cellular and animal models have been developed and some
+  compounds have proved effective in these models. The first trials with
+  ascorbic acid in CMT type 1A have been completed and, although negative, are
+  providing relevant information on disease course and on how to prepare for
+  future trials.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23931817%5Buid%5D&cmd=DetailsSearch'
+date: 2013/08
+authors:
+  - name: Pareyson D
+  - name: Marchesi C
+  - name: Salsano E
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: therapy
+  - keyword: 'Genes, X-Linked'
+  - keyword: Multigene Family
+cites: []
+citedBy: []

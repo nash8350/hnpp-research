@@ -1,0 +1,55 @@
+pmid: '10545609'
+categories:
+  - name: Genetics
+    enabled: true
+title: >-
+  Homologous DNA exchanges in humans can be explained by the yeast double-strand
+  break repair model a study of 17p11.2 rearrangements associated with CMT1A and
+  HNPP.
+abstract: >-
+  Rearrangements in 17p11.2, responsible for the 1.5 Mb duplications and
+  deletions associated, respectively, with autosomal dominant
+  Charcot-Marie-Tooth type 1A disease (CMT1A) and hereditary neuropathy with
+  liability to pressure palsies (HNPP) are a suitable model for studying human
+  recombination. Rearrangements in 17p11.2 are caused by unequal crossing-over
+  between two homologous 24 kb sequences, the CMT1A-REPs, that flank the disease
+  locus and occur in most cases within a 1.7 kb hotspot. We sequenced this
+  hotspot in 28 de novo patients (25 CMT1A and three HNPP), in order to localize
+  precisely, at the DNA sequence level, the crossing-overs. We show that some
+  chimeric CMT1A-REPs in de novo patients (10/28) present conversion of DNA
+  segments associated with the crossing-over. These rearrangements can be
+  explained by the double-strand break (DSB) repair model described in yeast.
+  Fine mapping of the de novo rearrangements provided evidence that the
+  successive steps of this model, heteroduplex DNA formation, mismatch
+  correction and gene conversion, occurred in patients. Furthermore, the model
+  explains 17p11.2 recombinations between chromosome homologues as well as
+  between sister chromatids. In addition, defective mismatch repair of the
+  heteroduplex DNA, observed in two patients, resulted in two heterozygous
+  chimeric CMT1A-REPs which can be explained, as in yeast, by post-meiotic
+  segregation. This work supports the hypothesis that the DSB repair model of
+  DNA exchange may apply universally from yeasts to humans.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10545609%5Buid%5D&cmd=DetailsSearch'
+date: 1999/11
+authors:
+  - name: Lopes J
+  - name: Tardieu S
+  - name: Silander K
+  - name: Blair I
+  - name: Vandenberghe A
+  - name: Palau F
+  - name: Ruberg M
+  - name: Brice A
+  - name: LeGuern E
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: DNA Damage
+  - keyword: DNA Repair
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Heterozygote
+  - keyword: 'Models, Genetic'
+  - keyword: 'Recombination, Genetic'
+  - keyword: Saccharomyces cerevisiae
+cites: []
+citedBy: []

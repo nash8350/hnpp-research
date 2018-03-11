@@ -1,0 +1,54 @@
+pmid: '8215977'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Charcot-Marie-Tooth syndrome.
+abstract: >-
+  Charcot-Marie-Tooth syndrome (CMT) is a group of genetically determined
+  symmetric distal polyneuropathies. The CMT loci are known to map to chromosome
+  1 (CMT1B), chromosome 17 (CMT1A), the X chromosome (CMTX), and two additional
+  unknown autosomes (CMT1C and CMT2). The most prevalent form is CMT1A, an
+  autosomal dominant demyelinative disorder caused either by a tandem
+  duplication in band p11.2-12 of chromosome 17 (17p11.2-12) with trisomic
+  expression of the peripheral myelin protein-22 (PMP-22) gene or, less
+  frequently, by a missense mutation of PMP-22. Missense mutations in PMP-22 are
+  also responsible for two forms of demyelinative polyneuropathy in mice,
+  trembler and trembler. Hereditary neuropathy with liability to pressure
+  palsies (HNPP) is an autosomal dominant disorder characterized by recurrent
+  focal neuropathy. In all families thus far studied, patients with HNPP have
+  been found to be monosomic for a segment of chromosome 17p11.2-12. The
+  duplication in CMT1A and deletion in HNPP map to the same region in 17p11.2-12
+  and are both likely to be consequences of unequal crossing over during germ
+  cell meiosis.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8215977%5Buid%5D&cmd=DetailsSearch'
+date: 1993/11
+authors:
+  - name: Chance PF
+  - name: Pleasure D
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: physiopathology
+  - keyword: Chromosome Banding
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 1'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: 'Crossing Over, Genetic'
+  - keyword: Gene Deletion
+  - keyword: Genetic Linkage
+  - keyword: Meiosis
+  - keyword: Mice
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+  - keyword: X Chromosome
+cites: []
+citedBy:
+  - pmid: '25342198'

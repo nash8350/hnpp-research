@@ -1,0 +1,101 @@
+pmid: '10727485'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Clinical syndromes associated with tomacula or myelin swellings in sural nerve
+  biopsies.
+abstract: >-
+  To describe the neuropathological features of clinical syndromes associated
+  with tomacula or focal myelin swellings in sural nerve biospies and to discuss
+  possible common aetiopathological pathways leading to their formation in this
+  group of neuropathies. Fifty two patients with sural nerve biopsies reported
+  to show tomacula or focal myelin swellings were reviewed, light and electron
+  microscopy were performed, and tomacula were analysed on teased fibre studies.
+  Molecular genetic studies were performed on those patients who were available
+  for genetic testing. Thirty seven patients were diagnosed with hereditary
+  neuropathy with liability to pressure palsies (HNPP), four with hereditary
+  motor and sensory neuropathy type I (HMSN I) or Charcot-Marie-Tooth disease
+  type 1 (CMT1), four with HMSN with myelin outfolding (CMT4B), three with IgM
+  paraproteinemic neuropathy, three with chronic inflammatory demyelinating
+  polyneuropathy (CIDP), and one with HMSN III (CMT3). Most of these syndromes
+  were shown to be related to genetic or immunological defects of myelin
+  components such as peripheral myelin protein 22 (PMP22), myelin protein zero
+  (P0), or myelin associated glycoprotein (MAG). These proteins share the HNK-1
+  epitope which has been implicated in cell adhesion processes. Impaired myelin
+  maintenance may therefore contribute to the formation of tomacula and
+  subsequent demyelination.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10727485%5Buid%5D&cmd=DetailsSearch'
+date: 2000/03
+authors:
+  - name: Sander S
+  - name: Ouvrier RA
+  - name: McLeod JG
+  - name: Nicholson GA
+  - name: Pollard JD
+keywords:
+  - keyword: Biopsy
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: 'Microscopy, Electron'
+  - keyword: Myelin Sheath
+  - keyword: pathology
+  - keyword: ultrastructure
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: Sural Nerve
+cites:
+  - pmid: '4303801'
+  - pmid: '8510709'
+  - pmid: '624962'
+  - pmid: '6516797'
+  - pmid: '3003872'
+  - pmid: '3673511'
+  - pmid: '2458847'
+  - pmid: '2549849'
+  - pmid: '1692961'
+  - pmid: '2276038'
+  - pmid: '1677316'
+  - pmid: '7511317'
+  - pmid: '8162049'
+  - pmid: '8004109'
+  - pmid: '8012388'
+  - pmid: '7530550'
+  - pmid: '7605070'
+  - pmid: '8393091'
+  - pmid: '7690857'
+  - pmid: '7693129'
+  - pmid: '7693873'
+  - pmid: '8266101'
+  - pmid: '8275092'
+  - pmid: '7586531'
+  - pmid: '8628474'
+  - pmid: '8797476'
+  - pmid: '8817346'
+  - pmid: '8862128'
+  - pmid: '9097074'
+  - pmid: '9187667'
+  - pmid: '9219742'
+  - pmid: '9222756'
+  - pmid: '9427224'
+  - pmid: '9466597'
+  - pmid: '1714591'
+  - pmid: '1935894'
+  - pmid: '1556154'
+  - pmid: '1384988'
+  - pmid: '8422677'
+  - pmid: '7680499'
+  - pmid: '8486695'
+  - pmid: '1303281'
+  - pmid: '4345910'
+citedBy:
+  - pmid: '27098694'
+  - pmid: '23224996'
+  - pmid: '23185166'
+  - pmid: '22488882'
+  - pmid: '20071523'
+  - pmid: '16775374'
+  - pmid: '16024889'

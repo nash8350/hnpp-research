@@ -1,0 +1,63 @@
+pmid: '23418209'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Pathophysiology of HNPP explored using axonal excitability.
+abstract: >-
+  Hereditary liability to pressure palsies (HNPP) is an autosomal dominant
+  disorder of myelination resulting in susceptibility to pressure palsies from
+  compression or stretching of peripheral nerves. This study examined axonal
+  excitability at two sites (one distal and one proximal) in five patients with
+  biopsy and genetically proven HNPP to understand the pathophysiology of the
+  disease. Comparisons were made with age-matched control subjects as well as
+  five Charcot-Marie-Tooth type 1A patients to contrast the findings and explain
+  the different phenotypes of diseases affecting the same gene. Changes in
+  axonal excitability were found in HNPP subjects, but these were not uniform
+  along the nerve at the wrist there were prominent alterations in threshold
+  electrotonus, whereas at the elbow there were only subtle alterations in the
+  recovery cycle and the response to strong long-lasting hyperpolarisation.
+  Threshold was raised at both sites, but the nerves were probably not
+  hyperpolarised. Not unexpectedly, changes in CMT1A subjects were more marked
+  than those in HNPP subjects and were uniform along the nerve. Structural
+  abnormalities at the node of Ranvier are sufficient to explain the changes in
+  axonal excitability in HNPP, and these abnormalities would predispose the
+  nerves to conduction block when subjected to pressure or stretch.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23418209%5Buid%5D&cmd=DetailsSearch'
+date: 2013/02
+authors:
+  - name: Jankelowitz SK
+  - name: Burke D
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: physiopathology
+  - keyword: Axons
+  - keyword: Biopsy
+  - keyword: Brachial Plexus
+  - keyword: injuries
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Data Interpretation, Statistical'
+  - keyword: Demyelinating Diseases
+  - keyword: pathology
+  - keyword: Elbow
+  - keyword: innervation
+  - keyword: Electric Stimulation
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Longitudinal Studies
+  - keyword: Median Nerve
+  - keyword: 'Models, Statistical'
+  - keyword: Motor Neurons
+  - keyword: Muscle Tonus
+  - keyword: Myelin Sheath
+  - keyword: Potassium Channels
+  - keyword: metabolism
+  - keyword: Pressure
+  - keyword: Reproducibility of Results
+  - keyword: Sural Nerve
+  - keyword: Wrist
+cites: []
+citedBy:
+  - pmid: '24646194'

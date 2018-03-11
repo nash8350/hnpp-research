@@ -1,0 +1,58 @@
+pmid: '16823858'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Dispersion of compound muscle action potential in hereditary neuropathies and
+  chronic inflammatory demyelinating polyneuropathy.
+abstract: >-
+  Distal compound muscle action potential (DCMAP) dispersion, defined as a DCMAP
+  duration > or = 9 ms, and proximal-distal (P-D) CMAP dispersion are considered
+  useful in the electrodiagnosis of chronic inflammatory demyelinating
+  polyneuropathy (CIDP). Distal and P-D CMAP dispersion have not been fully
+  studied in hereditary neuropathies, and it is not known whether these measures
+  distinguish hereditary from acquired demyelination. We compared DCMAP duration
+  and P-D CMAP dispersion in 91 genetically characterized hereditary
+  neuropathies and 33 subjects with CIDP. DCMAP dispersion was more frequent in
+  nerves affected by CIDP (41.5%) than in Charcot-Marie-Tooth disease (CMT)1A
+  (24.4%), CMT1B (7.4%), hereditary neuropathy with liability to pressure
+  palsies (HNPP) (10.5%), or CMTX (9.8%). P-D CMAP dispersion was more frequent
+  in CIDP (27.7% of nerves) than in hereditary neuropathies (16.3%) when
+  applying American Academy of Neurology (AAN) criteria; however, its frequency
+  was similar in CIDP and the hereditary neuropathies using the more restrictive
+  criteria of the American Association of Neuromuscular and Electrodiagnostic
+  Medicine (AANEM). Although dispersion is more common in CIDP than in the
+  hereditary neuropathies, DCMAP and P-D dispersion occur in at least one motor
+  nerve in a significant proportion of hereditary neuropathies, and cannot be
+  used in isolation to distinguish acquired from hereditary demyelination.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16823858%5Buid%5D&cmd=DetailsSearch'
+date: 2006/07
+authors:
+  - name: Stanton M
+  - name: Pannoni V
+  - name: Lewis RA
+  - name: Logigian EL
+  - name: Naguib D
+  - name: Shy ME
+  - name: Cleland J
+  - name: Herrmann DN
+keywords:
+  - keyword: Action Potentials
+  - keyword: physiology
+  - keyword: Chronic Disease
+  - keyword: Demyelinating Diseases
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Electrophysiology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Motor Neurons
+  - keyword: 'Muscle, Skeletal'
+  - keyword: innervation
+  - keyword: Neural Conduction
+  - keyword: Polyneuropathies
+cites: []
+citedBy: []

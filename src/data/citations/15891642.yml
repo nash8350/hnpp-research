@@ -1,0 +1,71 @@
+pmid: '15891642'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Sensorineural hearing impairment in patients with Pmp22 duplication, deletion,
+  and frameshift mutations.
+abstract: >-
+  To characterize and distinguish the types of sensorineural hearing impairment
+  (SNHI) that occur in hereditary motor and sensory neuropathy Type 1a (HMSN-1a)
+  and hereditary neuropathy with liability to pressure palsies (HNPP), which are
+  caused by deletion or frameshift mutation. Prospective study. Ambulatory
+  patients in a university hospital. Twelve patients with HMSN-1a due to a
+  duplication of the PMP22 gene on chromosome 17p11.2, 16 patients with HNPP due
+  to the common PMP22 deletion (HNPP del), and 11 HNPP patients with a frame
+  shift mutation (heterozygous PMP22 G-insertion) (HNPP mut), all confirmed by
+  molecular genetic analysis. Pure-tone audiograms and speech audiograms were
+  obtained. Results of cross-sectional analysis comprising linear regression of
+  hearing threshold on age. Pure-tone audiograms showed mild to moderate SNHI,
+  predominant at the low and the high frequencies. SNHI showed significant
+  progression by approximately 0.4 dB per year at 0.25 to 4 kHz and up to 1 to 2
+  dB per year at 4 to 8 kHz. Patients with HMSN-1a had substantial, presumably
+  congenital, SNHI but did not show significant progression beyond presbyacusis.
+  Patients with HNPP showed postnatal onset at age 11 years with progression of
+  SNHI in excess of presbyacusis by 0.4 dB per year. All three types of
+  neuropathy showed normal speech recognition. All three types of neuropathy
+  showed SNHI with normal speech recognition. HMSN-1a showed stable SNHI without
+  progression beyond presbyacusis. HNPP showed progression beyond presbyacusis
+  with postnatal onset. The differences in SNHI may be explained by the
+  differences in PMP22 expression. The progressive SNHI in HNPP might be
+  explained by the liability for exogenous factors associated with this
+  disorder.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15891642%5Buid%5D&cmd=DetailsSearch'
+date: 2005/05
+authors:
+  - name: Verhagen WI
+  - name: Huygen PL
+  - name: Gabreëls-Festen AA
+  - name: Engelhart M
+  - name: van Mierlo PJ
+  - name: van Engelen BG
+keywords:
+  - keyword: Aged
+  - keyword: Aging
+  - keyword: 'Audiometry, Pure-Tone'
+  - keyword: 'Audiometry, Speech'
+  - keyword: Auditory Threshold
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Cross-Sectional Studies
+  - keyword: Disease Progression
+  - keyword: Frameshift Mutation
+  - keyword: Gene Deletion
+  - keyword: Gene Duplication
+  - keyword: Hearing
+  - keyword: 'Hearing Loss, Sensorineural'
+  - keyword: diagnosis
+  - keyword: physiopathology
+  - keyword: Linear Models
+  - keyword: Myelin Proteins
+  - keyword: Presbycusis
+  - keyword: Prospective Studies
+cites: []
+citedBy:
+  - pmid: '26640726'
+  - pmid: '24646194'

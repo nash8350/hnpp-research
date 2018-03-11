@@ -1,0 +1,52 @@
+pmid: '26663344'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Are electrophysiological criteria useful in distinguishing childhood
+  demyelinating neuropathies?
+abstract: >-
+  Childhood chronic inflammatory demyelinating polyneuropathy (CIDP) needs to be
+  differentiated from hereditary neuropathy. We aimed to validate existing CIDP
+  nerve conduction study (NCS) criteria in a group of children with
+  demyelinating neuropathies of chronic or subacute onset. Retrospective
+  analysis of clinical and NCS results in 18 children with CIDP, 7 with
+  hereditary neuropathy with pressure palsy (HNPP), and 24 with
+  Charcot-Marie-Tooth 1a (CMT1a). AAN and EFNS electrodiagnostic CIDP criteria
+  were fulfilled in 17 of 18 CIDP, 3 of 7 HNPP, and 23 of 24 CMT1a patients. A
+  distal compound muscle action potential (dCMAP) of >9 ms was observed in 14 of
+  18 CIDP patients but not in any patients with HNPP. Abnormal median/normal
+  sural SNAP (AMNS) and a 10 m/s difference between conduction velocities (CV)
+  of two corresponding nerves were not observed in any CMT1a patients. NCS in
+  CMT1a, HNPP, and CIDP reflect demyelination. dCMAP duration, sensory AMNS, and
+  a 10 m/s CV difference parameter are most useful in the differential diagnosis
+  of pediatric CIDP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26663344%5Buid%5D&cmd=DetailsSearch'
+date: 2015/12
+authors:
+  - name: Potulska-Chromik A
+  - name: Ryniewicz B
+  - name: Aragon-Gawinska K
+  - name: Kabzinska D
+  - name: Seroka A
+  - name: Lipowska M
+  - name: Kaminska AM
+  - name: Kostera-Pruszczyk A
+keywords:
+  - keyword: Adolescent
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Electrodiagnosis
+  - keyword: methods
+  - keyword: Electrophysiology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Neural Conduction
+  - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
+  - keyword: Retrospective Studies
+cites: []
+citedBy: []

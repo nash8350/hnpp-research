@@ -1,0 +1,102 @@
+pmid: '9032649'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
+  European descent.
+abstract: >-
+  Charcot-Marie-Tooth type 1 disease (CMT1) and hereditary neuropathy with
+  liability to pressure palsies (HNPP) are common inherited disorders of the
+  peripheral nervous system. The majority of CMT1 patients have a 1.5Mb tandem
+  duplication (CMT1A) in chromosome 17p11.2 while most HNPP patients have a
+  deletion of the same 1.5 Mb region. The CMT1A duplication and HNPP deletion
+  are the reciprocal products of an unequal crossing over event between
+  misaligned flanking CMT1A-REP elements. We analysed 162 unrelated CMT1A
+  duplication patients and HNPP deletion patients from 11 different countries
+  for the presence of a recombination hotspot in the CMT1A-REP sequences. A
+  hotspot for unequal crossing over between the misaligned flanking CMT1A-REP
+  elements was observed through the detection of novel junction fragments in
+  76.9% of 130 unrelated CMT1A patients and in 71.9% of 32 unrelated HNPP
+  patients. This recombination hotspot was also detected in eight out of 10 de
+  novo CMT1A duplication and in two de novo HNPP deletion patients. These data
+  indicate that the hotspot of unequal crossing over occurs in several
+  populations independently of ethnic background and is directly involved in the
+  pathogenesis of CMT1A and HNPP. We conclude that the detection of junction
+  fragments from the CMT1A-REP element on Southern blot analysis is a simple and
+  reliable DNA diagnostic tool for the identification of the CMT1A duplication
+  and HNPP deletion in most patients.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9032649%5Buid%5D&cmd=DetailsSearch'
+date: 1997/01
+authors:
+  - name: Timmerman V
+  - name: Rautenstrauss B
+  - name: Reiter LT
+  - name: Koeuth T
+  - name: Löfgren A
+  - name: Liehr T
+  - name: Nelis E
+  - name: Bathke KD
+  - name: De Jonghe P
+  - name: Grehl H
+  - name: Martin JJ
+  - name: Lupski JR
+  - name: Van Broeckhoven C
+keywords:
+  - keyword: 'Blotting, Southern'
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: ethnology
+  - keyword: Europe
+  - keyword: Genetic Testing
+  - keyword: Middle East
+  - keyword: Pedigree
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: 'Recombination, Genetic'
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+cites:
+  - pmid: '1677316'
+  - pmid: '1552545'
+  - pmid: '8674212'
+  - pmid: '8789446'
+  - pmid: '1303230'
+  - pmid: '1303231'
+  - pmid: '1303281'
+  - pmid: '1303282'
+  - pmid: '8099303'
+  - pmid: '8510709'
+  - pmid: '8105684'
+  - pmid: '8252046'
+  - pmid: '7903071'
+  - pmid: '8111370'
+  - pmid: '8111385'
+  - pmid: '7909361'
+  - pmid: '8210227'
+  - pmid: '8004087'
+  - pmid: '8012365'
+  - pmid: '8012388'
+  - pmid: '8033938'
+  - pmid: '8422677'
+  - pmid: '1303228'
+  - pmid: '1303229'
+  - pmid: '7944298'
+  - pmid: '7825607'
+  - pmid: '7834893'
+  - pmid: '7541290'
+  - pmid: '8532623'
+  - pmid: '8557256'
+  - pmid: '8589720'
+  - pmid: '8634706'
+  - pmid: '8967749'
+  - pmid: '8644705'
+  - pmid: '8800924'
+citedBy:
+  - pmid: '20493460'
+  - pmid: '11381029'
+  - pmid: '9545397'

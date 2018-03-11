@@ -1,0 +1,37 @@
+pmid: '438848'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: Intranervous regeneration. The study of motor axon reflexes.
+abstract: >-
+  More than 1000 motor axon reflexes (ARs) have been studied. The AR often has a
+  long latency and the first excited branch almost always has the fastest
+  conduction velocity. Sometimes the potentials of the two branches are recorded
+  at the same needle placement, giving the appearance in the EMG tracing of a
+  coupling discharge. Stimulation of the axons in the muscle produces more ARs
+  than stimulation of the nerve trunk. ARs are recorded in denervated muscles
+  but never in normal subjects. All kinds of lower motor neuron lesions produce
+  ARs. They are more frequent in the Charcot-Marie-Tooth syndrome and hereditary
+  neuropathy with liability to pressure palsies where the axonal lesions are
+  mainly located at the traditional sites of entrapment. The possibility of
+  neurolysis in some of these cases has to be considered. Obstetrical brachial
+  plexus palsies furnish many ARs linking two muscles, thus explaining the
+  associated contractions in these cases.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=438848%5Buid%5D&cmd=DetailsSearch'
+date: 1979/04
+authors:
+  - name: G Roth
+keywords:
+  - keyword: Electromyography
+  - keyword: Evoked Potentials
+  - keyword: Motor Neurons
+  - keyword: physiology
+  - keyword: Nerve Regeneration
+  - keyword: Neuromuscular Diseases
+  - keyword: physiopathology
+  - keyword: Reaction Time
+  - keyword: 'Reflex, Abnormal'
+cites: []
+citedBy: []

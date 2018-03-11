@@ -1,0 +1,60 @@
+pmid: '15955700'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  A family with a novel frameshift mutation in the PMP22 gene (c.433_434insC)
+  causing a phenotype of hereditary neuropathy with liability to pressure
+  palsies.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies is usually due to
+  PMP22 deletion. Point mutations of PMP22 causing an hereditary neuropathy with
+  liability to pressure palsies phenotype are rare. We describe a clinical and
+  electrodiagnostic phenotype of hereditary neuropathy with liability to
+  pressure palsies in a 21-year-old woman, which led to our detecting a novel
+  frameshift mutation of PMP22. This mutation was also found in her mother and
+  brother and corresponded to an insertion of one cytidine between nucleotides
+  433 and 434 in the last coding exon (c.433_434insC). The mutated PMP22 protein
+  lacks the last 15 amino acids and has a modified C terminus lengthened to 221
+  residues instead of 160 (Leu145fsX222). The mother and the proband had a
+  clinical and electrophysiological hereditary neuropathy with liability to
+  pressure palsies phenotype. The brother was asymptomatic, but the results of
+  electrodiagnostic tests were suggestive of hereditary neuropathy with
+  liability to pressure palsies. This observation of a new mutation mostly
+  leading to a PMP22 haploinsufficiency provides further evidence of the
+  diversity of phenotypes associated with frameshift PMP22 mutations.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15955700%5Buid%5D&cmd=DetailsSearch'
+date: 2005/06
+authors:
+  - name: Zéphir H
+  - name: Stojkovic T
+  - name: Latour P
+  - name: Hurtevent JF
+  - name: Blankaert F
+  - name: Vermersch P
+keywords:
+  - keyword: 'Blotting, Southern'
+  - keyword: methods
+  - keyword: Child
+  - keyword: DNA Mutational Analysis
+  - keyword: 'Evoked Potentials, Motor'
+  - keyword: Exons
+  - keyword: Family Health
+  - keyword: Frameshift Mutation
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: physiopathology
+  - keyword: Myelin Proteins
+  - keyword: Neural Conduction
+  - keyword: Paralysis
+  - keyword: Phenotype
+  - keyword: Pressure
+cites: []
+citedBy: []

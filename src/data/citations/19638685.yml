@@ -1,0 +1,71 @@
+pmid: '19638685'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Screening of the 17p11.2--p12 region in a large cohort of patients with
+  Charcot-Marie-Tooth (CMT) disease or hereditary neuropathy with liability to
+  pressure palsies (HNPP).
+abstract: >-
+  Within the last decade, numerous methods have been applied to detect the most
+  common mutation in patients affected with Charcot-Marie-Tooth (CMT) disease,
+  i.e. submicroscopic duplication in the 17p11.2--p12 region. In 1993, another
+  neuropathy - known as hereditary neuropathy with liability to pressure palsies
+  (HNPP) - has been shown to be caused by a 17p11.2--p12 deletion. Historically,
+  Southern blot analysis was the first approach to identify CMT1A duplication or
+  HNPP deletion. This time- and labor-consuming method requires prior selection
+  of DNA samples. In fact, only CMT patients affected with the demyelinating
+  form of CMT1 have been screened for CMT1A duplication. After the 17p11.2--p12
+  duplication was identified in the CMT1 families, subsequent studies revealed
+  additional axonal features in the patients harboring the 17p11.2--p12
+  duplication. Thus it seems reasonable to test all patients affected with CMT
+  for the presence of the 17p11.2--p12 duplication. To evaluate the utility of
+  real-time polymerase chain reaction (Q-PCR) and restriction fragment length
+  polymorphism PCR (RFLP-PCR), we screened a large group of 179 families with
+  the diagnosis of CMT/HNPP for the presence of the 17p11.2--p12
+  duplication/deletion. Due to a high frequency of CMT1A duplication in familial
+  cases of CMT, we propose (in contrast to the previous studies) to perform
+  Q-PCR analysis in all patients diagnosed with CMT.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19638685%5Buid%5D&cmd=DetailsSearch'
+date: 2009/07
+authors:
+  - name: Kabzinska D
+  - name: Pierscinska J
+  - name: Kochanski A
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Duplication
+  - keyword: Myelin Proteins
+  - keyword: Pedigree
+  - keyword: Polymerase Chain Reaction
+  - keyword: methods
+  - keyword: Proteins
+cites:
+  - pmid: '12477701'
+  - pmid: '16775379'
+  - pmid: '8510709'
+  - pmid: '1303281'
+  - pmid: '10869062'
+  - pmid: '2220808'
+  - pmid: '7501152'
+  - pmid: '1303228'
+  - pmid: '2797453'
+  - pmid: '10442687'
+  - pmid: '11140948'
+  - pmid: '8422677'
+  - pmid: '8012388'
+  - pmid: '2316525'
+  - pmid: '1822787'
+  - pmid: '8800924'
+  - pmid: '1674726'
+citedBy:
+  - pmid: '25342198'

@@ -1,0 +1,48 @@
+pmid: '8375058'
+categories:
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Quantitative measurement of duplicated DNA as a diagnostic test for
+  Charcot-Marie-Tooth disease type 1a.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1 (CMT1) is a hereditary motor and sensory
+  neuropathy. The autosomal dominant subtype is often linked with a large
+  duplication on chromosome 17p11.2. The gene encoding the peripheral myelin
+  protein PMP 22 (the critical gene in this subtype of CMT1) is located within
+  this duplication. To detect this duplication in chromosomal DNA from
+  individuals thought to have CMT1, we compared the hybridization signals of two
+  DNA probes within this duplication (VAW412R3a and VAW409R3a) with the signal
+  of a reference probe (E3.9). When duplication was present, the signals from
+  the first two probes increased from 100% (for nonduplicated samples) to 145%
+  and 142%, respectively. The day-to-day variance was 3.7% and 5.1%,
+  respectively. We demonstrated this DNA duplication in 49 of 95 DNA samples
+  from unrelated individuals thought to have CMT1. Moreover, because hereditary
+  neuropathy with liability to pressure palsies (HNPP) is based on a DNA
+  deletion in the same area of chromosome 17, this quantitative test may be
+  useful in establishing the presence of HNPP. In a preliminary investigation,
+  four unrelated patients with HNPP yielded test values of 63% and 54%,
+  respectively, of those for nonduplicated samples (CV 19% and 18%,
+  respectively; n = 4), suggesting a deletion in 17p11.2.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8375058%5Buid%5D&cmd=DetailsSearch'
+date: 1993/09
+authors:
+  - name: Hensels GW
+  - name: Janssen EA
+  - name: Hoogendijk JE
+  - name: Valentijn LJ
+  - name: Baas F
+  - name: Bolhuis PA
+keywords:
+  - keyword: Autoradiography
+  - keyword: 'Blotting, Southern'
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: DNA Probes
+  - keyword: Nucleic Acid Hybridization
+cites: []
+citedBy:
+  - pmid: '9391880'
+  - pmid: '7931393'

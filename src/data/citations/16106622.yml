@@ -1,0 +1,58 @@
+pmid: '16106622'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: Genetic evaluation of inherited motor/sensory neuropathy.
+abstract: >-
+  Inherited disorders of peripheral nerves represent a common group of
+  neurologic diseases. Charcot-Marie-Tooth neuropathy type 1 (CMT1) is a
+  genetically heterogeneous group of chronic demyelinating polyneuropathies with
+  loci mapping to chromosome 17 (CMT1A), chromosome 1 (CMT1B), chromosome 16
+  (CMT1C) and chromosome 10 (CMT1D). CMT1A is most often associated with a
+  tandem 1.5-megabase (Mb) duplication in chromosome 17p11.2-p12. In rare
+  patients it may result from a point mutation in the peripheral myelin
+  protein-22 (PMP22) gene. CMT1B is associated with point mutations in the
+  myelin protein zero (Po or MPZ) gene. Mutations in the SIMPLE gene cause
+  CMT1C, and CMT1D is the result of mutations in the early response 2 (ERG2 or
+  Krox-20) gene. An X-linked form of CMT1 (CMT1X) maps to Xq13 and is associated
+  with mutations in the connexin32 (Cx32) gene. Charcot-Marie-Tooth neuropathy
+  type 2 (CMT2) is an axonal neuropathy that maps to chromosome 1p35-p36
+  (CMT2A), chromosome 3q13-q22 (CMT2B), chromosome 7p14 (CMT2D), chromosome 8p21
+  (CMT2E), chromosome 1q22-q23 (CMT2F) or chromosome 3q13 (CMT2G). Two X-linked
+  forms of CMT2 have been reported (CMT2XA and CMT2XB), but the genes remain
+  unidentified. An area that has recently expanded is the identification of
+  autosomal recessive forms of CMT type 1 and 2. Of the eight recessive forms of
+  CMT1 that have been identified to date, only two have been fully characterized
+  at the molecular level (CMT1 AR B 1 and CMT1 AR D). Point mutations were found
+  in the myotubularin-related protein-2 (MTM2) gene for CMT1 AR B1. CMT1 AR D is
+  the result of point mutations in the N-myc downstream-regulated gene 1
+  (NDRG1). Dejerine-Sottas disease (DSD), also called hereditary motor and
+  sensory neuropathy type III (HMSNIII), is a severe, infantile-onset
+  demyelinating polyneuropathy syndrome that may be associated with point
+  mutations in either the PMP22 gene, PO gene, EGR2 gene or the PRX gene (for
+  the recessive form). It shares considerable clinical and pathological features
+  with CMT1. Hereditary neuropathy with liability to pressure palsies (HNPP) is
+  an autosomal dominant disorder that results in a recurrent, episodic
+  demyelinating neuropathy. HNPP is associated with a 1.5-Mb deletion in
+  chromosome 17p11.2-p12 that results in reduced expression of the PMP22 gene.
+  CMT1A and HNPP are reciprocal duplication/deletion syndromes that originate
+  from unequal crossover during germ cell meiosis. Other rare forms of
+  demyelinating peripheral neuropathies map to chromosome 8q, 10q and 11q.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16106622%5Buid%5D&cmd=DetailsSearch'
+date: 2005/08
+authors:
+  - name: Phillip F Chance
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: classification
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: Hereditary Sensory and Motor Neuropathy
+cites: []
+citedBy: []

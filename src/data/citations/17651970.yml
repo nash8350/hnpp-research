@@ -1,0 +1,64 @@
+pmid: '17651970'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Ciliary neurotrophic factor null alleles are not a risk factor for
+  Charcot-Marie-Tooth disease, hereditary neuropathy with pressure palsies and
+  amyotrophic lateral sclerosis.
+abstract: >-
+  Growth factors, such as ciliary neurotrophic factor (CNTF), have been
+  implicated in neuronal survival and proliferation. About 2% of the human
+  population is homozygous for a polymorphism that induces truncated and
+  biologically inactive CNTF but does not obviously change the phenotype. In a
+  population of patients with hereditary neuropathy, a higher rate of the CNTF
+  null mutation would indicate greater susceptibility for clinically significant
+  disease, and a recent report attributes early onset and rapid deterioration in
+  a case of familial ALS (FALS) to this mutation. We have, therefore, genotyped
+  the CNTF polymorphism in a large group of patients with CMT 1a, HNPP, sporadic
+  ALS, in one pedigree with FALS, and controls. All groups exhibited a similar
+  distribution of the polymorphism. We conclude that absence of CNTF does not
+  increase susceptibility for these disorders and confirm that it does not
+  affect onset and course of familial and sporadic ALS.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17651970%5Buid%5D&cmd=DetailsSearch'
+date: 2007/07
+authors:
+  - name: Van Vught PW
+  - name: Van Wijk J
+  - name: Bradley TE
+  - name: Plasmans D
+  - name: Jakobs ME
+  - name: Veldink JH
+  - name: de Jong JM
+  - name: Van den Berg LH
+  - name: Baas F
+keywords:
+  - keyword: Age of Onset
+  - keyword: Aged
+  - keyword: 'Aged, 80 and over'
+  - keyword: Alleles
+  - keyword: Amyotrophic Lateral Sclerosis
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: metabolism
+  - keyword: physiopathology
+  - keyword: Ciliary Neurotrophic Factor
+  - keyword: DNA Mutational Analysis
+  - keyword: Disease Progression
+  - keyword: Genetic Predisposition to Disease
+  - keyword: Genetic Testing
+  - keyword: Genotype
+  - keyword: Mutation
+  - keyword: Netherlands
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: Phenotype
+  - keyword: 'Polymorphism, Genetic'
+cites: []
+citedBy: []

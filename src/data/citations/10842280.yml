@@ -1,0 +1,41 @@
+pmid: '10842280'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: Fulminant case of hereditary neuropathy with liability to pressure palsy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) is typified as
+  isolated nerve palsies caused by trivial compression or trauma. It rarely
+  presents in two extremities and even more infrequently affects all four limbs
+  simultaneously. We present a patient who concurrently experienced right
+  shoulder, left hand, and bilateral foot weakness mimicking several multifocal
+  conditions. Electromyography suggested HNPP and subsequent nerve biopsy and
+  genetic testing were confirmatory. The case demonstrates that HNPP can present
+  in a fulminant manner and should be included in the differential diagnosis of
+  acute multiple mononeuropathies. The possible causes for such a rapid clinical
+  course in our patient are discussed.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10842280%5Buid%5D&cmd=DetailsSearch'
+date: 2000/06
+authors:
+  - name: Crum BA
+  - name: Sorenson EJ
+  - name: Abad GA
+  - name: Dyck PJ
+keywords:
+  - keyword: Biopsy
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: pathology
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Paralysis
+  - keyword: Pressure
+  - keyword: Sural Nerve
+cites: []
+citedBy:
+  - pmid: '18751796'
+  - pmid: '18218131'
+  - pmid: '16775374'

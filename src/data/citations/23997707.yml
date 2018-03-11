@@ -1,0 +1,91 @@
+pmid: '23997707'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Therapies
+    enabled: true
+title: >-
+  Restless leg syndrome in different types of demyelinating neuropathies a
+  single-center pilot study.
+abstract: >-
+  to determine the prevalence of restless legs syndrome (RLS) in a cohort of
+  patients with demyelinating neuropathies. Patients were retrospectively
+  recruited from our cohort of different forms of demyelinating neuropathies,
+  including chronic inflammatory demyelinating neuropathy (CIDP),
+  Charcot-Marie-Tooth 1A (CMT1A), and hereditary neuropathy with liability to
+  pressure palsies (HNPP) referred to our Department of Neurology in a 10-year
+  period. The validated 4-item RLS questionnaire was used for diagnosis of RLS.
+  All patients with RLS who fulfilled criteria underwent a suggested
+  immobilization test to confirm the diagnosis. A group of outpatients referred
+  to the sleep disorders unit and data from published literature were used as
+  controls. Prevalence of RLS in demyelinating neuropathy group was higher than
+  prevalence observed in control population (p = 0.0142) or in the literature
+  data (p = 0.0007). In particular, in comparison with both control population
+  and literature data, prevalence of RLS was higher in CIDP group (p = 0.0266
+  and p = 0.0063, respectively) and in CMT1A group (p = 0.0312 and p = 0.0105,
+  respectively), but not in HNPP (p = 1.000 and p = 0.9320, respectively). our
+  study confirms a high prevalence of RLS in inflammatory neuropathies as CIDP
+  and, among inherited neuropathies, in CMT1A but not in HNPP. Considering that
+  this is only a small cohort from a single-center retrospective experience, the
+  link between RLS and neuropathy remains uncertain, and larger multicenter
+  studies are probably needed to clarify the real meaning of the association
+  between RLS and neuropathy.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23997707%5Buid%5D&cmd=DetailsSearch'
+date: 2013/09
+authors:
+  - name: Luigetti M
+  - name: Del Grande A
+  - name: Testani E
+  - name: Bisogni G
+  - name: Losurdo A
+  - name: Giannantoni NM
+  - name: Mazza S
+  - name: Sabatelli M
+  - name: Della Marca G
+keywords:
+  - keyword: Adolescent
+  - keyword: Aged
+  - keyword: 'Aged, 80 and over'
+  - keyword: Arthrogryposis
+  - keyword: complications
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Demyelinating Diseases
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Pilot Projects
+  - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
+  - keyword: Prevalence
+  - keyword: Restless Legs Syndrome
+  - keyword: epidemiology
+  - keyword: etiology
+  - keyword: Surveys and Questionnaires
+  - keyword: Young Adult
+cites:
+  - pmid: '20456730'
+  - pmid: '19937049'
+  - pmid: '20544936'
+  - pmid: '21504497'
+  - pmid: '21576965'
+  - pmid: '21984771'
+  - pmid: '22539566'
+  - pmid: '22258033'
+  - pmid: '22445278'
+  - pmid: '23040374'
+  - pmid: '11071488'
+  - pmid: '11284994'
+  - pmid: '14592341'
+  - pmid: '8947287'
+  - pmid: '9539348'
+  - pmid: '10102430'
+  - pmid: '10209187'
+  - pmid: '15956009'
+  - pmid: '16459136'
+  - pmid: '17494979'
+  - pmid: '18642376'
+  - pmid: '19038854'
+  - pmid: '19691533'
+  - pmid: '19750232'
+  - pmid: '20298964'
+  - pmid: '20581683'
+citedBy: []

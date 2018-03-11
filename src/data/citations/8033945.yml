@@ -1,0 +1,46 @@
+pmid: '8033945'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies masquerading as
+  slowly progressive polyneuropathy.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNLPP) is a
+  peripheral nerve disorder in which recurrent pressure palsies are associated
+  with pathological swelling ('tomacula') of myelinated nerve internodes. We
+  report a patient with a slowly progressive polyneuropathy associated with
+  substantial slowing of conduction velocities initially suggestive of an
+  acquired or hereditary demyelinating polyneuropathy. However, repeat
+  electrodiagnostic studies demonstrated that conduction slowing and partial
+  conduction block were localized primarily to common sites of nerve compression
+  and entrapment. Sural nerve biopsy revealed multiple tomacula consistent with
+  the diagnosis of HNLPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8033945%5Buid%5D&cmd=DetailsSearch'
+date: 1994/01
+authors:
+  - name: Felice KJ
+  - name: Poole RM
+  - name: Blaivas M
+  - name: Albers JW
+keywords:
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Nerve Compression Syndromes
+  - keyword: 'Nerve Fibers, Myelinated'
+  - keyword: physiology
+  - keyword: Paralysis
+  - keyword: Polyneuropathies
+  - keyword: Reaction Time
+  - keyword: Sural Nerve
+  - keyword: Synaptic Transmission
+cites: []
+citedBy:
+  - pmid: '8936351'

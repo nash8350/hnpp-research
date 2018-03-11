@@ -1,0 +1,74 @@
+pmid: '15031668'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) patients of
+  Korean ancestry with chromosome 17p11.2-p12 deletion.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant inherited disorder characterized by recurrent pressure
+  palsies. Most HNPP patients have a 1.5 mb deletion in chromosome 17p11.2-p12.
+  The present study aimed at evaluating the deletion of the 17p11.2-p12 region
+  in Korean subjects with families exhibiting HNPP phenotype, and to determine
+  the clinical, electrophysiological and morphological aspects specifically
+  associated with this deletion in HNPP patients. By genotyping six
+  microsatellite markers (D17S921, D17S955, D17S1358, D17S839, D17S122 and
+  D17S261), HNPP with the deletion was observed in 79% (19 of 24) of HNPP
+  families. Nerve conduction studies were performed in 35 HNPP patients from
+  these 19 families. The observed HNPP deletion frequency in Koreans is
+  consistent with findings in other populations. Disease onset occurred at a
+  significantly earlier age in patients with recurrent pressure palsies than in
+  those with a single attack (P < 0.01). Nerve conduction studies demonstrated
+  diffuse mild to moderate slowing of nerve conduction velocities that were
+  worse over the common entrapment sites, regardless of the clinical
+  manifestations. A long duration of compound muscle action potentials without a
+  conduction block or a temporal dispersion is a characteristic of this disease.
+  A sural nerve biopsy with teasing was performed in four patients, and tomacula
+  of the myelin sheath was found in 56.4%. Our findings appear to support the
+  existence of a phenotype/genotype correlation in HNPP patients of Korean
+  ancestry with the deletion, and suggest that HNPP patients with earlier
+  symptom onset face an increased chance of having recurrent attacks.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15031668%5Buid%5D&cmd=DetailsSearch'
+date: 2004/03
+authors:
+  - name: Kim SM
+  - name: Chung KW
+  - name: Choi BO
+  - name: Yoon ES
+  - name: Choi JY
+  - name: Park KD
+  - name: Sunwoo IN
+keywords:
+  - keyword: Adolescent
+  - keyword: Age of Onset
+  - keyword: Aged
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Child
+  - keyword: 'Child, Preschool'
+  - keyword: Chromosome Deletion
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA Mutational Analysis
+  - keyword: Electrophysiology
+  - keyword: Genotype
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: Korea
+  - keyword: Microsatellite Repeats
+  - keyword: Paralysis
+  - keyword: Pedigree
+  - keyword: Phenotype
+  - keyword: Sural Nerve
+cites: []
+citedBy:
+  - pmid: '24646194'
+  - pmid: '19513300'

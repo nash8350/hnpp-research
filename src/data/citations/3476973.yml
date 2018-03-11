@@ -1,0 +1,60 @@
+pmid: '3476973'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  [Tomaculous neuropathy. A histopathological study and electroclinical
+  correlates in 10 cases].
+abstract: >-
+  Among 980 sural nerve biopsies, the nerves of 10 patients showed a great
+  number of focal sausage-shaped thickenings of the myelin sheaths and were
+  investigated by light and electron microscopy, teasing and quantitative
+  studies. Single teased nerve fibres revealed myelin thickening in more than 25
+  p. 100 of internodes. This condition defined the tomaculous neuropathy and
+  differed from other degenerative or toxic neuropathies which displayed a small
+  number of internodes with myelin thickenings, in less than 5 p. 100. Segmental
+  demyelination and remyelination were found in 12 p. 100 to 65 p. 100 of
+  myelinated fibres. Tomaculous swellings were observed in the internodes of
+  these fibres. Except axonal constriction within the sausage-shaped
+  thickenings, no fibers with axonal degeneration was observed. The density of
+  myelinated and unmyelinated fibres was normal. The loss of large myelinated
+  fibres was interpreted as resulting from the myelinic changes. Clinical and
+  electrophysiological data were similar in the ten cases of tomaculous
+  neuropathies and in hereditary neuropathy with liability to pressure palsies,
+  i.e. autosomal dominant inheritance, higher incidence in males, recurrent
+  nerve trunck and/or brachial plexus involvement related to compression,
+  slowing of nerve conduction velocities in clinically affected and unaffected
+  nerves more pronounced in anatomical narrow sites and increased F wave
+  latencies. One patient (case 10) showed a mixed sensory motor progressive
+  neuropathy but signs of widespread neuropathy were noted in more advanced
+  cases. A great number of tomaculous swellings of myelin sheaths is considered
+  as a specific but non constant change of hereditary neuropathy with liability
+  to pressure palsies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=3476973%5Buid%5D&cmd=DetailsSearch'
+date: 1987/01
+authors:
+  - name: Pellissier JF
+  - name: Pouget J
+  - name: de Victor B
+  - name: Serratrice G
+  - name: Toga M
+keywords:
+  - keyword: Electrophysiology
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: pathology
+  - keyword: Myelin Sheath
+  - keyword: ultrastructure
+  - keyword: Neuromuscular Diseases
+  - keyword: Sural Nerve
+  - keyword: physiology
+cites: []
+citedBy:
+  - pmid: '18751796'
+  - pmid: '8936351'
+  - pmid: '8125763'

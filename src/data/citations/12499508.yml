@@ -1,0 +1,29 @@
+pmid: '12499508'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+title: Hereditary neuropathy with liability to pressure palsies in a toddler.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12499508%5Buid%5D&cmd=DetailsSearch'
+date: 2002/12
+authors:
+  - name: Hardon WJ
+  - name: Van Alfen N
+  - name: Zwarts MJ
+  - name: Rotteveel JJ
+keywords:
+  - keyword: 'Child, Preschool'
+  - keyword: Electrophysiology
+  - keyword: Nervous System Diseases
+  - keyword: complications
+  - keyword: diagnosis
+  - keyword: Neural Conduction
+  - keyword: physiology
+  - keyword: Neurologic Examination
+  - keyword: Paralysis
+  - keyword: etiology
+cites: []
+citedBy:
+  - pmid: '29078790'

@@ -1,0 +1,57 @@
+pmid: '29078790'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Case Studies
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
+  family with a new point mutation in PMP22 gene.
+abstract: "Hereditary neuropathy with liability to pressure palsy (HNPP) is an autosomal dominant disorder most commonly presenting with acute-onset, non-painful focal sensory and motor mononeuropathy. Approximately 80% of patients carry a 1.5\_Mb deletion of chromosome 17p11.2 involving the peripheral myelin protein 22 gene (PMP22), the same duplicated in Charcot-Marie-Tooth 1A patients. In a small proportion of patients the disease is caused by PMP22 point mutations. We report on a familial case harbouring a new point mutation in the PMP22 gene. The proband is a 4-years-old girl with acute onset of focal numbness and weakness in her right hand. Electroneurography demonstrated transient sensory and motor radial nerves involvement. In her father, reporting chronic symptoms (cramps and exercise-induced myalgia), we uncovered mild atrophy and areflexia on clinical examination and a mixed (predominantly demyelinating) polyneuropathy with sensory-motor involvement on electrophysiological study. Both carried a nucleotidic substitution c.178\_+\_2\_T\_>\_C on intron 3 of the PMP22 gene, involving the splicing donor site, not reported on databases but predicted to be likely pathogenic. We described a previously unreported point mutation in PMP22 gene, which led to the development of a HNPP phenotype in a child and her father. In children evaluated for a sensory and motor transient episode, HNPP disorder due to PMP22 mutations should be suspected. Clinical and electrophysiological studies should be extended to all family members even in the absence of previous episodes suggestive for HNPP."
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29078790%5Buid%5D&cmd=DetailsSearch'
+date: 2017/10
+authors:
+  - name: Fusco C
+  - name: Spagnoli C
+  - name: Salerno GG
+  - name: Pavlidis E
+  - name: Frattini D
+  - name: Pisani F
+keywords: []
+cites:
+  - pmid: '9712007'
+  - pmid: '19830275'
+  - pmid: '24646194'
+  - pmid: '8252046'
+  - pmid: '17707409'
+  - pmid: '21741240'
+  - pmid: '1322507'
+  - pmid: '8988161'
+  - pmid: '27137093'
+  - pmid: '24668782'
+  - pmid: '26189194'
+  - pmid: '24339129'
+  - pmid: '12849887'
+  - pmid: '16199442'
+  - pmid: '20382840'
+  - pmid: '17620487'
+  - pmid: '20739940'
+  - pmid: '9447611'
+  - pmid: '21252112'
+  - pmid: '19433282'
+  - pmid: '9187667'
+  - pmid: '22378671'
+  - pmid: '18698610'
+  - pmid: '9843070'
+  - pmid: '8012388'
+  - pmid: '24239057'
+  - pmid: '19735987'
+  - pmid: '12499508'
+  - pmid: '10227632'
+  - pmid: '24870368'
+  - pmid: '16437560'
+citedBy: []

@@ -1,0 +1,49 @@
+pmid: '24239057'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  Clinical, electrophysiological and magnetic resonance findings in a family
+  with hereditary neuropathy with liability to pressure palsies caused by a
+  novel PMP22 mutation.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is a disorder
+  mainly caused by a 1.5-Mb deletion at 17p11.2-12 (and in some rare cases by
+  point mutations) and clinically associated with recurrent painless palsies.
+  Here, we performed electrophysiological (motor, sensory and terminal latency
+  index), MRI and genetic studies in a family referred for ulnar neuropathy with
+  pain. Surprisingly, we found typical neurophysiological features of HNPP
+  (prolongation of distal motor latencies and diffuse SNCV slowing with
+  significant slowing of motor nerve conduction velocities). Besides, the
+  proband presented conduction block in left ulnar, left median and both
+  peroneal nerves. MRI findings were consistent with an underlying neuropathy.
+  Molecular studies identified a novel frameshift mutation in PMP22 confirming
+  the diagnosis of HNPP. Our data suggest that neurophysiological studies are
+  essential to characterize underdiagnosed HNPP patients referred for peripheral
+  neuropathy. Our experience shows that MRI could be a complementary tool for
+  the diagnosis of these patients.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24239057%5Buid%5D&cmd=DetailsSearch'
+date: 2013/11
+authors:
+  - name: Yurrebaso I
+  - name: Casado OL
+  - name: Barcena J
+  - name: Perez de Nanclares G
+  - name: Aguirre U
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: diagnosis
+  - keyword: Electrodiagnosis
+  - keyword: Frameshift Mutation
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Magnetic Resonance Imaging
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+cites: []
+citedBy:
+  - pmid: '29079893'
+  - pmid: '29078790'

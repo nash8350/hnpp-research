@@ -1,0 +1,81 @@
+pmid: '12056842'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Identification of the regulatory region of the peripheral myelin protein 22
+  (PMP22) gene that directs temporal and spatial expression in development and
+  regeneration of peripheral nerves.
+abstract: >-
+  Minor changes in PMP22 gene dosage have profound effects on the development
+  and maintenance of peripheral nerves. This is evident from the genetic disease
+  mechanisms in Charcot-Marie-Tooth disease type 1A (CMT1A) and hereditary
+  neuropathy with liability to pressure palsies (HNPP) as well as transgenic
+  animals with altered PMP22 gene dosage. Thus, regulation of PMP22 is a crucial
+  aspect in understanding the function of this protein in health and disease. In
+  this study, we have generated transgenic mice containing 10 kb of the
+  5'-flanking region of the PMP22 gene, including the two previously identified
+  alternative promoters, fused to a lacZ reporter gene. We show that this part
+  of the PMP22 gene contains the necessary information to mirror the endogenous
+  expression pattern in peripheral nerves during development and regeneration
+  and in mouse models of demyelination due to genetic lesions. Transgene
+  expression is strongly regulated during myelination, demyelination, and
+  remyelination in Schwann cells, demonstrating the crucial influence of
+  neuron-Schwann cell interactions in the regulation of PMP22. In addition, the
+  region of the PMP22 gene present on this transgene confers also neuronal
+  expression in sensory and motor neurons. These results provide the crucial
+  basis for further dissection of the elements that direct the temporal and
+  spatial regulation of the PMP22 gene and to elucidate the molecular basis of
+  the master program regulating peripheral nerve myelination.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12056842%5Buid%5D&cmd=DetailsSearch'
+date: 2002/06
+authors:
+  - name: Maier M
+  - name: Berger P
+  - name: Nave KA
+  - name: Suter U
+keywords:
+  - keyword: Animals
+  - keyword: Cell Differentiation
+  - keyword: Fetus
+  - keyword: 'Gene Expression Regulation, Developmental'
+  - keyword: physiology
+  - keyword: 'Genes, Regulator'
+  - keyword: 'Genes, Reporter'
+  - keyword: Lac Operon
+  - keyword: Mice
+  - keyword: 'Mice, Transgenic'
+  - keyword: Motor Neurons
+  - keyword: cytology
+  - keyword: metabolism
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: biosynthesis
+  - keyword: Myelin Sheath
+  - keyword: ultrastructure
+  - keyword: 'Nerve Fibers, Myelinated'
+  - keyword: Nerve Regeneration
+  - keyword: Neurons
+  - keyword: 'Neurons, Afferent'
+  - keyword: Peripheral Nerves
+  - keyword: embryology
+  - keyword: growth & development
+  - keyword: 'Promoter Regions, Genetic'
+  - keyword: Schwann Cells
+  - keyword: Transgenes
+  - keyword: Up-Regulation
+  - keyword: Viscera
+  - keyword: Wallerian Degeneration
+  - keyword: pathology
+  - keyword: physiopathology
+  - keyword: beta-Galactosidase
+cites: []
+citedBy:
+  - pmid: '23224996'
+  - pmid: '22180461'
+  - pmid: '21670407'
+  - pmid: '19654968'

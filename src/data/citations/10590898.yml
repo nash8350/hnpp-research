@@ -1,0 +1,47 @@
+pmid: '10590898'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: Molecular basis of inherited neuropathies.
+abstract: >-
+  Considerable advances in our knowledge of the most frequently encountered
+  group of inherited neuropathies, Charcot-Marie-Tooth neurpathy (CMT) and
+  related disorders, have recently been made by genetic studies demonstrating
+  that these disorders are caused by duplication, deletion or point mutations of
+  specific genes of the peripheral myelin. The present classification of CMT and
+  related disorders is based on a combination of clinical, neurophysiological,
+  and genetic findings, and new genes and distinct mutations responsible for
+  different clinical phenotypes are continuously being added. The genes that
+  encode peripheral myelin protein of 22 kDa, protein zero, connexin-32 and
+  early growth response-2 are the genes known to be involved in the pathogenesis
+  of inherited neuropathies. Overexpression or underexpression of peripheral
+  myelin protein of 22 kDa are causative for the most frequent forms of
+  CMT-CMT1A and hereditary neuropathy with liability to pressure palsies--but
+  the mechanisms that lead to incorrect myelin formation and maintenance are
+  still unknown. Point mutations in the myelin genes can determine a loss of
+  function, but in some cases an aberrant protein can act through a dominant
+  negative or a toxic gain of function mechanism, disrupting the regular and
+  precise relationship between the different myelin genes. Animal and in-vitro
+  models of inherited neuropathies have been developed and will probably give
+  the information that is necessary to clarify the pathogenetic mechanisms of
+  demyelination.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10590898%5Buid%5D&cmd=DetailsSearch'
+date: 1999/12
+authors:
+  - name: Schenone A
+  - name: Mancardi GL
+keywords:
+  - keyword: Animals
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: classification
+  - keyword: 'Disease Models, Animal'
+  - keyword: 'Genes, Recessive'
+  - keyword: Genetic Linkage
+  - keyword: Nervous System Diseases
+  - keyword: Paralysis
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: X Chromosome
+cites: []
+citedBy: []

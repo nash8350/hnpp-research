@@ -1,0 +1,75 @@
+pmid: '8396068'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  Gene for hereditary neuropathy with liability to pressure palsies (HNPP) maps
+  to chromosome 17 at or close to the locus for HMSN type 1.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disorder with an increased susceptibility of peripheral
+  nerves to mechanical lesions resulting in transient nerve palsies. Many
+  carriers remain asymptomatic but can be traced by electrophysiological
+  examination, thereby demonstrating that HNPP is a generalised polyneuropathy.
+  By using highly polymorphic markers linkage analysis was performed in a large
+  family with HNPP. This resulted in a maximum lod score of 4.20 at theta = 0.10
+  with D17S520. Three-point linkage suggests that the gene for HNPP is located
+  on chromosome 17 in the region between D17S250 (q11.2-q12) and D17S520 (p12),
+  a region that has recently been shown to encompass a locus for another
+  hereditary neuropathy, hereditary motor and sensory neuropathy type 1 (HMSN
+  type 1). This raises the possibility that HNPP and this form of HMSN type 1
+  are allelic. In keeping with this speculation is our recent finding that
+  D17S122, another marker from the HMSN type 1 region, displays apparent loss of
+  heterozygosity in this family.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8396068%5Buid%5D&cmd=DetailsSearch'
+date: 1993/08
+authors:
+  - name: Mariman EC
+  - name: Gabreëls-Festen AA
+  - name: van Beersum SE
+  - name: Jongen PJ
+  - name: Ropers HH
+  - name: Gabreëls FJ
+keywords:
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Genetic Markers
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Pedigree
+  - keyword: Peripheral Nervous System Diseases
+cites:
+  - pmid: '1971099'
+  - pmid: '2388856'
+  - pmid: '1303281'
+  - pmid: '2020558'
+  - pmid: '1322507'
+  - pmid: '3344216'
+  - pmid: '1552943'
+  - pmid: '1303228'
+  - pmid: '1303231'
+  - pmid: '1303230'
+  - pmid: '1303229'
+  - pmid: '1891385'
+  - pmid: '1303214'
+  - pmid: '2916582'
+  - pmid: '1827702'
+  - pmid: '1677316'
+  - pmid: '2707366'
+  - pmid: '8422677'
+  - pmid: '2388867'
+  - pmid: '6185651'
+  - pmid: '3859205'
+  - pmid: '2589322'
+  - pmid: '8393091'
+  - pmid: '2171842'
+citedBy:
+  - pmid: '22953141'
+  - pmid: '9391880'
+  - pmid: '8557256'
+  - pmid: '7825607'
+  - pmid: '7931393'
+  - pmid: '8112739'

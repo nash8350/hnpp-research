@@ -1,0 +1,56 @@
+pmid: '14502374'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Thr(118)Met amino acid substitution in the peripheral myelin protein 22 does
+  not influence the clinical phenotype of Charcot-Marie-Tooth disease type 1A
+  due to the 17p11.2-p12 duplication.
+abstract: >-
+  The Thr(118)Met substitution in the peripheral myelin protein 22 (PMP22) gene
+  has been detected in a number of families with demyelinating
+  Charcot-Marie-Tooth (CMT1) neuropathy or with the hereditary neuropathy with
+  liability to pressure palsy, but in none of them has it consistently
+  segregated with the peripheral neuropathy. We describe here a CMT1 family (a
+  63-year-old man, his brother and his niece) in which two mutations on
+  different chromosomes were found in the PMP22 gene, the 17p duplication,
+  detected by fluorescent semiquantitative polymerase chain reaction (PCR) of
+  microsatellite markers localized within the duplicated region on chromosome
+  17p11.2-p12, and the Thr(118)Met substitution, detected by direct sequencing
+  the four coding exons of the PMP22 gene. A genotype/phenotype correlation
+  study showed that the neuropathy segregates with the duplication and that the
+  amino acid substitution does not seem to modify the clinical characteristics
+  or the severity of the peripheral neuropathy. We did not find any evidence to
+  characterize this substitution as a polymorphism in the population studied and
+  we propose that the high frequency reported for this point mutation in the
+  literature suggests that the Thr(118)Met substitution may be a hotspot for
+  mutations in the PMP22 gene.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14502374%5Buid%5D&cmd=DetailsSearch'
+date: 2003/09
+authors:
+  - name: Marques W
+  - name: Sweeney MG
+  - name: Wood NW
+keywords:
+  - keyword: Amino Acid Substitution
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Gene Duplication
+  - keyword: Genotype
+  - keyword: Myelin Proteins
+  - keyword: Pedigree
+  - keyword: Phenotype
+  - keyword: Point Mutation
+  - keyword: Polymerase Chain Reaction
+cites: []
+citedBy: []

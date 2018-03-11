@@ -1,0 +1,42 @@
+pmid: '8661034'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  A 1.5-Mb cosmid contig of the CMT1A duplication/HNPP deletion critical region
+  in 17p11.2-p12.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1A (CMT1A) is associated with a 1. 5-Mb
+  tandem duplication in chromosome 17p11.2-p12, and hereditary neuropathy with
+  liability to pressure palsies (HNPP) is associated with a 1.5-Mb deletion at
+  this locus. Both diseases appear to result from an altered copy number of the
+  peripheral myelin protein-22 gene, PMP22, which maps within the critical
+  region. To identify additional genes and characterize chromosomal elements, a
+  1.5-Mb cosmid contig of the CMT1A duplication/HNPP deletion critical region
+  was assembled using a yeast artificial chromosome (YAC)-based isolation and
+  binning strategy. Whole YAC probes were used for screening a high-density
+  arrayed chromosome 17-specific cosmid library. Selected cosmids were spotted
+  on dot blots and assigned to bins defined by YACs. This binning of cosmids
+  facilitated the subsequent fingerprint analysis. The 1.5-Mb region was covered
+  by 137 cosmids with a minimum overlap set of 52 cosmids assigned to 17 bins
+  and 9 contigs.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8661034%5Buid%5D&cmd=DetailsSearch'
+date: 1996/05
+authors:
+  - name: Murakami T
+  - name: Lupski JR
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Chromosome Mapping
+  - keyword: 'Chromosomes, Artificial, Yeast'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Cosmids
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: In Situ Hybridization
+  - keyword: Restriction Mapping
+cites: []
+citedBy:
+  - pmid: '11381029'

@@ -1,0 +1,58 @@
+pmid: '9678509'
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  PMP-22 gene duplications and deletions identified in archival,
+  paraffin-embedded sural nerve biopsy specimens correlation to structural
+  changes.
+abstract: >-
+  We retrospectively analyzed paraffin-embedded sural nerve biopsy specimens
+  from cases suspected of having dominantly inherited motor and sensory
+  neuropathy (HMSN) or hereditary neuropathy with liability to pressure palsy
+  (HNPP), with respect to their proportional DNA content at chromosome
+  17p11.2-12, encompassing the PMP-22 gene, using polymerase chain reaction
+  (PCR). Of 19 cases in whom HMSN Ia had been suspected on clinical,
+  neurophysiological, and histopathological grounds, 14 showed a duplication on
+  chromosome 17p11.2-12. A deletion in the identical chromosomal region could be
+  identified in all of the suspected cases with HNPP. In 5 cases showing neither
+  duplication, deletion, nor a point mutation in the exons of the PMP-22 gene on
+  heteroduplex DNA analysis, the histopathological findings strongly suggested a
+  diagnosis of chronic inflammatory demyelinating polyneuropathy in 2 cases, and
+  HMSN Ib, or HMSN non-a non-b, and HMSN III in 3 cases. It is shown for the
+  first time that archival, formalin-fixed, paraffin-embedded sural nerve biopsy
+  samples can be used for establishing the diagnosis of PMP-22 diseases, i.e.,
+  HMSN Ia and HNPP, by PCR amplification of the region coding for the PMP-22
+  gene.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9678509%5Buid%5D&cmd=DetailsSearch'
+date: 1998/07
+authors:
+  - name: Thiex R
+  - name: Schröder JM
+keywords:
+  - keyword: Aged
+  - keyword: 'Aged, 80 and over'
+  - keyword: Biopsy
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: metabolism
+  - keyword: pathology
+  - keyword: Child
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: 'Electrophoresis, Polyacrylamide Gel'
+  - keyword: Gene Deletion
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Multigene Family
+  - keyword: Myelin Proteins
+  - keyword: biosynthesis
+  - keyword: Paraffin Embedding
+  - keyword: Polymerase Chain Reaction
+  - keyword: Sural Nerve
+cites: []
+citedBy: []

@@ -1,0 +1,29 @@
+pmid: '14638986'
+categories:
+  - name: Diagnosis
+    enabled: true
+title: >-
+  Hereditary neuropathy with liability to pressure palsies mimicking hypoglossal
+  nerve injuries.
+abstract: ''
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14638986%5Buid%5D&cmd=DetailsSearch'
+date: 2003/11
+authors:
+  - name: Corwin HM
+  - name: Girardet RE
+keywords:
+  - keyword: Aged
+  - keyword: Demyelinating Diseases
+  - keyword: diagnosis
+  - keyword: pathology
+  - keyword: 'Diagnosis, Differential'
+  - keyword: Electrodiagnosis
+  - keyword: 'Endarterectomy, Carotid'
+  - keyword: adverse effects
+  - keyword: Hypoglossal Nerve Injuries
+  - keyword: Neural Conduction
+  - keyword: Paralysis
+  - keyword: Tongue
+cites: []
+citedBy:
+  - pmid: '18218131'

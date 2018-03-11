@@ -1,0 +1,63 @@
+pmid: '10439967'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Two buffer PAGE system-based SSCP/HD analysis a general protocol for rapid and
+  sensitive mutation screening in cystic fibrosis and any other human genetic
+  disease.
+abstract: >-
+  The large size of many disease genes and the multiplicity of mutations
+  complicate the design of an adequate assay for the identification of
+  disease-causing variants. One of the most successful methods for mutation
+  detection is the single strand conformation polymorphism (SSCP) technique. By
+  varying temperature, gel composition, ionic strength and additives, we
+  optimised the sensitivity of SSCP for all 27 exons of the CFTR gene. Using
+  simultaneously SSCP and heteroduplex (HD) analysis, a total of 80 known CF
+  mutations (28 missense, 22 frameshift, 17 nonsense, 13 splicesite) and 20
+  polymorphisms was analysed resulting in a detection rate of 97.5% including
+  the 24 most common mutations worldwide. The ability of this technique to
+  detect mutations independent of their nature, frequency, and population
+  specificity was confirmed by the identification of five novel mutations
+  (420del9, 1199delG, R560S, A613T, T1299I) in Swiss CF patients, as well as by
+  the detection of 41 different mutations in 198 patients experimentally
+  analysed. We present a three-stage screening strategy allowing analysis of
+  seven exons within 5 hours and analysis of the entire coding region within 1
+  week, including sequence analysis of the variants. Additionally, our protocol
+  represents a general model for point mutation analysis in other genetic
+  disorders and has already been successfully established for OTC deficiency,
+  collagene deficiency, X-linked myotubular myopathy (XLMTM), Duchenne and
+  Becker muscular dystrophy (DMD, BMD), Wilson disease (WD), Neurofibromatosis I
+  and II, Charcot-Marie-Tooth disease, hereditary neuropathy with liability to
+  pressure palsies, and defects in mitochondrial DNA. No other protocol
+  published so far presents standard SSCP/HD conditions for mutation screening
+  in different disease genes.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10439967%5Buid%5D&cmd=DetailsSearch'
+date: 1999/08
+authors:
+  - name: Liechti-Gallati S
+  - name: Schneider V
+  - name: Neeser D
+  - name: Kraemer R
+keywords:
+  - keyword: Base Sequence
+  - keyword: Buffers
+  - keyword: Cystic Fibrosis
+  - keyword: diagnosis
+  - keyword: DNA Primers
+  - keyword: 'Electrophoresis, Polyacrylamide Gel'
+  - keyword: methods
+  - keyword: 'Genetic Diseases, Inborn'
+  - keyword: Mutation
+  - keyword: 'Polymorphism, Single-Stranded Conformational'
+  - keyword: Sensitivity and Specificity
+cites: []
+citedBy: []

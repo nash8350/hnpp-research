@@ -1,0 +1,47 @@
+pmid: '16215943'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  [Detection of duplications or deletions of the PMP22 gene using real-time
+  quantitative PCR].
+abstract: >-
+  To detect the duplication or deletion of peripheral myelin protein 22(PMP22)
+  gene in Chinese patients with Charcot-Marie-Tooth disease(CMT) or hereditary
+  neuropathy with liability to pressure palsies(HNPP) using real-time
+  quantitative polymerase chain reaction. Duplications or deletions of PMP22
+  gene were detected in 113 CMT cases, 4 HNPP cases and 50 normal controls by
+  using real-time quantitative PCR. Thirty-six of 113 CMT cases had the PMP22
+  duplication, 4 HNPP cases had the PMP22 deletion. No duplication or deletion
+  was found in 50 normal controls. The PMP22 duplication rate in Chinese
+  patients with CMT is 31.9%(36/113). PMP22 deletion is the common cause of
+  HNPP.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16215943%5Buid%5D&cmd=DetailsSearch'
+date: 2005/10
+authors:
+  - name: Zhang FF
+  - name: Tang BS
+  - name: Shen Y
+  - name: Zhao GH
+  - name: Xia K
+  - name: Zhao YQ
+  - name: Chen B
+  - name: Zhang C
+  - name: Pan Q
+  - name: Cai F
+  - name: Liu XM
+  - name: Luo W
+  - name: Zhang RX
+  - name: Guo P
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Gene Duplication
+  - keyword: Myelin Proteins
+  - keyword: Polymerase Chain Reaction
+  - keyword: methods
+  - keyword: Sequence Deletion
+  - keyword: Young Adult
+cites: []
+citedBy: []

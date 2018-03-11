@@ -1,0 +1,88 @@
+pmid: '14757858'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  Comparative genomic hybridisation using a proximal 17p BAC/PAC array detects
+  rearrangements responsible for four genomic disorders.
+abstract: >-
+  Proximal chromosome 17p is a region rich in low copy repeats (LCRs) and prone
+  to chromosomal rearrangements. Four genomic disorders map within the interval
+  17p11-p12 Charcot-Marie-Tooth disease type 1A, hereditary neuropathy with
+  liability to pressure palsies, Smith-Magenis syndrome, and dup(17)(p11.2p11.2)
+  syndrome. While 80-90% or more of the rearrangements resulting in each
+  disorder are recurrent, several non-recurrent deletions or duplications of
+  varying sizes within proximal 17p also have been characterised using
+  fluorescence in situ hybridisation (FISH). A BAC/PAC array based comparative
+  genomic hybridisation (array-CGH) method was tested for its ability to detect
+  these genomic dosage differences and map breakpoints in 25 patients with
+  recurrent and non-recurrent rearrangements. Array-CGH detected the dosage
+  imbalances resulting from either deletion or duplication in all the samples
+  examined. The array-CGH approach, in combination with a dependent statistical
+  inference method, mapped 45/46 (97.8%) of the analysed breakpoints to within
+  one overlapping BAC/PAC clone, compared with determinations done independently
+  by FISH. Several clones within the array that contained large LCRs did not
+  have an adverse effect on the interpretation of the array-CGH data. Array-CGH
+  is an accurate and sensitive method for detecting genomic dosage differences
+  and identifying rearrangement breakpoints, even in LCR-rich regions of the
+  genome.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14757858%5Buid%5D&cmd=DetailsSearch'
+date: 2004/02
+authors:
+  - name: Shaw CJ
+  - name: Shaw CA
+  - name: Yu W
+  - name: Stankiewicz P
+  - name: White LD
+  - name: Beaudet AL
+  - name: Lupski JR
+keywords:
+  - keyword: Centromere
+  - keyword: Chromosome Breakage
+  - keyword: Chromosome Deletion
+  - keyword: Chromosome Mapping
+  - keyword: methods
+  - keyword: statistics & numerical data
+  - keyword: 'Chromosomes, Artificial, Bacterial'
+  - keyword: 'Chromosomes, Artificial, P1 Bacteriophage'
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: 'Electrophoresis, Gel, Pulsed-Field'
+  - keyword: standards
+  - keyword: Gene Duplication
+  - keyword: 'Genetic Diseases, Inborn'
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Mutation
+  - keyword: Nucleic Acid Hybridization
+  - keyword: Oligonucleotide Array Sequence Analysis
+cites:
+  - pmid: '10615134'
+  - pmid: '10398439'
+  - pmid: '11381029'
+  - pmid: '11818139'
+  - pmid: '11923193'
+  - pmid: '11997338'
+  - pmid: '11997339'
+  - pmid: '12649807'
+  - pmid: '12915473'
+  - pmid: '2425619'
+  - pmid: '3728561'
+  - pmid: '1677316'
+  - pmid: '1746552'
+  - pmid: '1639385'
+  - pmid: '8422677'
+  - pmid: '1303282'
+  - pmid: '8105684'
+  - pmid: '8004087'
+  - pmid: '8651284'
+  - pmid: '9096765'
+  - pmid: '9326934'
+  - pmid: '9491330'
+  - pmid: '9605871'
+  - pmid: '9973284'
+  - pmid: '11159946'
+citedBy: []

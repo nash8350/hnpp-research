@@ -1,0 +1,39 @@
+pmid: '8894410'
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Deletion of the PMP22 gene and hereditary neuropathy with liability to
+  pressure palsies.
+abstract: >-
+  Deletion of the 1.5 Mb tract on chromosome 17p11.2-12 that is duplicated in
+  Charcot-Marie-Tooth disease type 1A is commonly associated with hereditary
+  neuropathy with liability to pressure palsies. The deletion, which originates
+  from an unequal meiotic crossover involving two homologous repeats, causes
+  underexpression of the peripheral myelin protein gene PMP22. PMP22 frameshift
+  and non-sense mutations can be found in the rare nondeleted cases. Targeted
+  disruption of the PMP22 gene in mice has provided an animal model for the
+  disease. Current studies are aimed at characterising the genetics of this
+  chromosomal rearrangement and the pathogenic role of altered PMP22 expression.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8894410%5Buid%5D&cmd=DetailsSearch'
+date: 1996/10
+authors:
+  - name: Pareyson D
+  - name: Taroni F
+keywords:
+  - keyword: Animals
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: Genotype
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Mice
+  - keyword: 'Mice, Knockout'
+  - keyword: Molecular Biology
+  - keyword: Myelin Proteins
+  - keyword: Phenotype
+cites: []
+citedBy:
+  - pmid: '16775374'

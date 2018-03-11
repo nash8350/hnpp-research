@@ -1,0 +1,53 @@
+pmid: '19930872'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Molecular diagnosis of PMP22 gene duplications and deletions comparison of
+  different methods.
+abstract: >-
+  Several techniques can be used to diagnose Charcot-Marie-Tooth disease type 1A
+  (CMT1A) and hereditary neuro pathy with liability to pressure palsies (HNPP),
+  but no technique combines simplicity with high sensitivity. Multiplex
+  ligation-dependent probe amplification (MLPA) was applied to develop an
+  efficient and sensitive test for the detection of duplication/deletion of the
+  peripheral myelin protein 22 (PMP22) gene. The study sample included 70
+  probands that had each been previously analysed by fluorescence in situ
+  hibridization (FISH) and the restriction fragment length
+  polymorphism-polymerase chain reaction (RFLP-PCR) assay, both of which detect
+  a unique recombination fragment uniquely present in most patients with the
+  duplication. A total of nine duplications and 19 deletions were detected in
+  the 70 probands using MLPA, and there was 100% concordance between MPLA and
+  FISH. A single duplication was missed by the RFLP-PCR assay, which accords
+  with the lower sensitivity of this method. It is concluded that the MLPA
+  allows accurate detection of PMP22 gene duplications/deletions and could be
+  used for the molecular diagnosis of these two neuropathies.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19930872%5Buid%5D&cmd=DetailsSearch'
+date: 2009/11
+authors:
+  - name: Stangler Herodez S
+  - name: Zagradisnik B
+  - name: Erjavec Skerget A
+  - name: Zagorac A
+  - name: Kokalj Vokac N
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Gene Deletion
+  - keyword: Gene Duplication
+  - keyword: Genetic Testing
+  - keyword: 'In Situ Hybridization, Fluorescence'
+  - keyword: Myelin Proteins
+  - keyword: Paralysis
+  - keyword: Polymerase Chain Reaction
+  - keyword: 'Polymorphism, Restriction Fragment Length'
+  - keyword: Prognosis
+cites: []
+citedBy:
+  - pmid: '25337104'

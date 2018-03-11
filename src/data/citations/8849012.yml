@@ -1,0 +1,56 @@
+pmid: '8849012'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Asian hereditary neuropathy patients with peripheral myelin protein-22 gene
+  aneuploidy.
+abstract: >-
+  Japanese hereditary neuropathy with liability to pressure palsy (HNPP)
+  patients have a deletion of one peripheral myelin protein-22 (PMP22) gene
+  region in distal chromosome band 17p11.2 as do Caucasian patients. Japanese
+  and Asiatic Indian CMT1A patients have a PMP22 gene duplication that results
+  in Charcot-Marie-Tooth disease type IA (CMT1A; HMSNIA) in patients of European
+  and Middle Eastern ancestry. About 70% of Japanese CMT1 patients have a PMP22
+  duplication as do Caucasians, while Japanese CMT1B, CMT2 and Dejerine-Sottas
+  patients to not have PMP22 gene region aneuploidy. Although HNPP and CMT1A
+  genotypes are generated simultaneously by unequal recombination that results
+  in PMP22 gene aneuploidy in each daughter cell, only 3 Japanese HNPP probands
+  with PMP22 deletion from a large patient population were referred to a single
+  center compared to 18 referred CMT1A probands with PMP22 duplication. This
+  lower HNPP frequency more likely reflects lower HNPP reproductive fitness than
+  patient ascertainment bias because disease severity and variation in severity
+  is about the same in CMT1A and HNPP patients and because all patients of both
+  types were referred regardless of disease severity. These results, along with
+  an apparently high de novo CMT1A mutation rate, suggest that common ancestors
+  of Japanese, Asian Indians, and Caucasians carried PMP22 geneflanking
+  sequences that enhance unequal crossing over.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8849012%5Buid%5D&cmd=DetailsSearch'
+date: 1995/10
+authors:
+  - name: Ohnishi A
+  - name: Li LY
+  - name: Fukushima Y
+  - name: Mori T
+  - name: Mori M
+  - name: Endo C
+  - name: Yoshimura T
+  - name: Sonobe M
+  - name: Flandermeyer R
+  - name: Lebo RV
+keywords:
+  - keyword: Aneuploidy
+  - keyword: Chromosome Mapping
+  - keyword: Ethnic Groups
+  - keyword: Hereditary Sensory and Autonomic Neuropathies
+  - keyword: ethnology
+  - keyword: metabolism
+  - keyword: Myelin Proteins
+cites: []
+citedBy: []

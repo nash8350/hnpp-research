@@ -1,0 +1,115 @@
+pmid: '19447823'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: PMP22 expression in dermal nerve myelin from patients with CMT1A.
+abstract: >-
+  Charcot-Marie-Tooth disease type 1A (CMT1A) is caused by a 1.4 Mb duplication
+  on chromosome 17p11.2, which contains the peripheral myelin protein-22 (PMP22)
+  gene. Increased levels of PMP22 in compact myelin of peripheral nerves have
+  been demonstrated and presumed to cause the phenotype of CMT1A. The objective
+  of the present study was to determine whether an extra copy of the PMP22 gene
+  in CMT1A disrupts the normally coordinated expression of PMP22 protein in
+  peripheral nerve myelin and to evaluate PMP22 over-expression in patients with
+  CMT1A and determine whether levels of PMP22 are molecular markers of disease
+  severity. PMP22 expression was measured by taking skin biopsies from patients
+  with CMT1A (n = 20) and both healthy controls (n = 7) and patients with
+  Hereditary Neuropathy with liability to Pressure Palsies (HNPP) (n = 6), in
+  which patients have only a single copy of PMP22. Immunological electron
+  microscopy was performed on the skin biopsies to quantify PMP22 expression in
+  compact myelin. Similar biopsies were analysed by real time PCR to measure
+  PMP22 mRNA levels. Results were also correlated with impairment in CMT1A, as
+  measured by the validated CMT Neuropathy Score. Most, but not all patients
+  with CMT1A, had elevated PMP22 levels in myelin compared with the controls.
+  The levels of PMP22 in CMT1A were highly variable, but not in HNPP or the
+  controls. However, there was no correlation between neurological disabilities
+  and the level of over-expression of PMP22 protein or mRNA in patients with
+  CMT1A. The extra copy of PMP22 in CMT1A results in disruption of the tightly
+  regulated expression of PMP22. Thus, variability of PMP22 levels, rather than
+  absolute level of PMP22, may play an important role in the pathogenesis of
+  CMT1A.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19447823%5Buid%5D&cmd=DetailsSearch'
+date: 2009/05
+authors:
+  - name: Katona I
+  - name: Wu X
+  - name: Feely SM
+  - name: Sottile S
+  - name: Siskind CE
+  - name: Miller LJ
+  - name: Shy ME
+  - name: Li J
+keywords:
+  - keyword: Biomarkers
+  - keyword: metabolism
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: pathology
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: 'Microscopy, Immunoelectron'
+  - keyword: Myelin Proteins
+  - keyword: Myelin Sheath
+  - keyword: Prospective Studies
+  - keyword: 'RNA, Messenger'
+  - keyword: Schwann Cells
+  - keyword: Severity of Illness Index
+  - keyword: Skin
+  - keyword: ultrastructure
+cites:
+  - pmid: '10869062'
+  - pmid: '19192070'
+  - pmid: '12891672'
+  - pmid: '12901701'
+  - pmid: '14608378'
+  - pmid: '14755484'
+  - pmid: '15034573'
+  - pmid: '4345910'
+  - pmid: '4430158'
+  - pmid: '3004403'
+  - pmid: '3171688'
+  - pmid: '1699107'
+  - pmid: '1677316'
+  - pmid: '1895146'
+  - pmid: '1552545'
+  - pmid: '1556154'
+  - pmid: '1822787'
+  - pmid: '8422677'
+  - pmid: '8099303'
+  - pmid: '8105684'
+  - pmid: '1341967'
+  - pmid: '7512319'
+  - pmid: '8028042'
+  - pmid: '7559122'
+  - pmid: '7581451'
+  - pmid: '7501164'
+  - pmid: '8615087'
+  - pmid: '8800924'
+  - pmid: '8651657'
+  - pmid: '9040736'
+  - pmid: '9126058'
+  - pmid: '9210878'
+  - pmid: '9315897'
+  - pmid: '9409359'
+  - pmid: '10209165'
+  - pmid: '10212299'
+  - pmid: '15555916'
+  - pmid: '15668968'
+  - pmid: '15824348'
+  - pmid: '15774502'
+  - pmid: '16386273'
+  - pmid: '17030746'
+  - pmid: '17262851'
+  - pmid: '17620487'
+  - pmid: '18255032'
+  - pmid: '18351520'
+  - pmid: '18337304'
+  - pmid: '11381029'
+citedBy:
+  - pmid: '23224996'

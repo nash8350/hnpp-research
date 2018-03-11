@@ -1,0 +1,56 @@
+pmid: '8674184'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+title: >-
+  Molecular diagnosis of Charcot-Marie-Tooth 1A disease and hereditary
+  neuropathy with liability to pressure palsies by quantifying CMT1A-REP
+  sequences consequences of recombinations at variant sites on chromosomes
+  17p11.2-12.
+abstract: >-
+  The most frequent form of Charcot-Marie-Tooth disease (CMT1A; OMIM118.220) is
+  the result of a duplication on chromosome 17 in pll.2-p12. This region
+  contains PMP22, a gene expressed in peripheral myelin. The mutation results
+  from an unequal crossing-over involving repeated sequences, CMT1A-REP, located
+  on both sides of the duplicated region. The reciprocal product of this
+  recombination is a deletion of the same region, which is associated with
+  hereditary neuropathy with liability to pressure palsies (HNPP; OMIM162.500).
+  Proximal and distal CMT1A-REP sequences can be distinguished by the presence
+  of a variant EcoRI site. We quantified the number of these repeat sequences in
+  36 CMT1A and 40 HNPP patients. CMT1A-REP sequences are involved in almost all
+  of the mutations. The majority of recombination breakpoints occur distally
+  from the variant EcoRI site. However, a few have a breakpoint proximal to this
+  site, which creates the risk of misinterpretation with respect to a
+  duplicated/deleted status.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8674184%5Buid%5D&cmd=DetailsSearch'
+date: 1996/07
+authors:
+  - name: Vandenberghe A
+  - name: Latour P
+  - name: Chauplannaz G
+  - name: Chapon F
+  - name: Pouget J
+  - name: Dumas R
+  - name: Laguenay A
+  - name: Ollagnon E
+  - name: Bost M
+  - name: Duthel S
+  - name: Chazot G
+  - name: Boucherat M
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: diagnosis
+  - keyword: Chromosome Aberrations
+  - keyword: 'Chromosomes, Human, Pair 17'
+  - keyword: DNA
+  - keyword: analysis
+  - keyword: Gene Deletion
+  - keyword: Peripheral Nervous System Diseases
+  - keyword: 'Polymorphism, Restriction Fragment Length'
+  - keyword: 'Repetitive Sequences, Nucleic Acid'
+cites: []
+citedBy: []

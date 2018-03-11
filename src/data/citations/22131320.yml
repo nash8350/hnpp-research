@@ -1,0 +1,66 @@
+pmid: '22131320'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+title: >-
+  Mutation analysis of PMP22 in Slovak patients with Charcot-Marie-Tooth disease
+  and hereditary neuropathy with liability to pressure palsies.
+abstract: >-
+  Charcot-Marie-Tooth disease (CMT) and related peripheral neuropathies are the
+  most commonly inherited neurological disorders in humans, characterized by
+  clinical and genetic heterogeneity. The most prevalent clinical entities
+  belonging to this group of disorders are CMT type 1A (CMT1A) and hereditary
+  neuropathy with liability to pressure palsies (HNPP). CMT1A and HNPP are
+  predominantly caused by a 1.5 Mb duplication and deletion in the chromosomal
+  region 17p11.2, respectively, and less frequently by other mutations in the
+  peripheral myelin protein 22 (PMP22) gene. Despite being relatively common
+  diseases, they haven't been previously studied in the Slovak population.
+  Therefore, the aim of this study was to identify the spectrum and frequency of
+  PMP22 mutations in the Slovak population by screening 119 families with CMT
+  and 2 families with HNPP for causative mutations in this gene. The copy number
+  determination of PMP22 resulted in the detection of CMT1A duplication in 40
+  families and the detection of HNPP deletion in 7 families, 6 of which were
+  originally diagnosed as CMT. Consequent mutation screening of families without
+  duplication or deletion using dHPLC and sequencing identified 6 single base
+  changes (3 unpublished to date), from which only c.327C>A (Cys109X) present in
+  one family was provably causative. These results confirm the leading role of
+  PMP22 mutation analysis in the differential diagnosis of CMT and show that the
+  spectrum and frequency of PMP22 mutations in the Slovak population is
+  comparable to that seen in the global population.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22131320%5Buid%5D&cmd=DetailsSearch'
+date: 2011/12
+authors:
+  - name: Resko P
+  - name: Radvansky J
+  - name: Odnogova Z
+  - name: Baldovic M
+  - name: Minarik G
+  - name: Polakova H
+  - name: Palffy R
+  - name: Kadasi L
+keywords:
+  - keyword: Arthrogryposis
+  - keyword: Base Sequence
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Chromosome Mapping
+  - keyword: DNA Mutational Analysis
+  - keyword: methods
+  - keyword: Electrophysiology
+  - keyword: Gene Dosage
+  - keyword: Hereditary Sensory and Motor Neuropathy
+  - keyword: Molecular Sequence Data
+  - keyword: Mutation
+  - keyword: Myelin Proteins
+  - keyword: Point Mutation
+  - keyword: Real-Time Polymerase Chain Reaction
+  - keyword: Slovakia
+cites: []
+citedBy: []
