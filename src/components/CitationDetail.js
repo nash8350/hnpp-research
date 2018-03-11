@@ -16,7 +16,7 @@ export default ({ row }) => (
             <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Categories</h4>
             <ul>
             {row.categories.map(category => (
-                category.enabled && <li className="bullet">{category.name}</li>
+                category.enabled && <li className="bullet" key={category.name}>{category.name}</li>
             ))}
             </ul>
             </div>
@@ -24,7 +24,7 @@ export default ({ row }) => (
             <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Keywords</h4>
             <ul>
             {row.keywords.map(keyword => (
-                <li className="bullet">{keyword.keyword}</li>
+                <li className="bullet" key={keyword.keyword}>{keyword.keyword}</li>
             ))}
             </ul>
         </div>

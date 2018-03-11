@@ -12,6 +12,8 @@ const CitationPreview = ({ entry, getAsset }) => {
   row.date = entry.getIn(['data', 'date']);
   row.authors = entry.getIn(['data', 'authors']);
   row.authors = row.authors ? row.authors.toJS() : [];
+  row.keywords = entry.getIn(['data', 'keywords']);
+  row.keywords = row.keywords ? row.keywords.toJS() : [];
 
   return (
     <CitationDetail row={row}/>
