@@ -61,7 +61,7 @@ collections:
     format: yaml
     fields:
       - { name: pmid, label: "Pubmed ID", widget: string }
-      - { name: categories, label: Categories, widget: list, fields: [{label: Enabled, name: enabled, widget: boolean}, {label: Name, name: name, widget: string}]}
+      - { name: categories, label: Categories, widget: list, fields: [{label: Enabled, name: enabled, widget: boolean}, {label: Name, name: name, widget: select, options: ["Symptoms", "Diagnosis", "Case Studies", "Prevalence", "Genetics", "Physiopathology", "Biochemistry", "Therapies"]}]}
       - { name: title, label: Title, widget: string }
       - { name: abstract, label: Abstract, widget: string }
       - { name: abstractLink, label: Abstract Link, widget: string }
