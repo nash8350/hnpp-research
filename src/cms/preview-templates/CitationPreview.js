@@ -1,5 +1,5 @@
 import React from 'react';
-import CitationDetail from '../../components/CitationDetail';
+import CitationDetailPreview from '../../components/CitationDetailPreview';
 
 const CitationPreview = ({ entry, getAsset }) => {
   const row = {};
@@ -16,7 +16,7 @@ const CitationPreview = ({ entry, getAsset }) => {
   row.keywords = row.keywords ? row.keywords.toJS() : [];
 
   return (
-    <CitationDetail row={row}/>
+    <CitationDetailPreview row={row}/>
   );
 };
 
