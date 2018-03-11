@@ -57,10 +57,11 @@ collections:
     label: "Citations"
     folder: "src/data/citations"
     create: false
+    delete: false
     format: yaml
     fields:
       - { name: pmid, label: "Pubmed ID", widget: string }
-      - { name: categories, label: Categories, widget: list, fields: [{label: Name, name: name, widget: string}, {label: Enabled, name: enabled, widget: boolean}]}
+      - { name: categories, label: Categories, widget: list, fields: [{label: Enabled, name: enabled, widget: boolean}, {label: Name, name: name, widget: string}]}
       - { name: title, label: Title, widget: string }
       - { name: abstract, label: Abstract, widget: string }
       - { name: abstractLink, label: Abstract Link, widget: string }
