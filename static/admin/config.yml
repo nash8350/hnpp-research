@@ -54,18 +54,18 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string}
   - name: "citations"
-      label: "Citations"
-      folder: "src/data/citations"
-      create: false
-      format: yaml
-      fields:
-        - { name: pmid, label: "Pubmed ID", widget: string }
-        - { name: categories, label: Categories, widget: list, fields: [{label: Name, name: name, widget: string}, {label: Enabled, name: enabled, widget: boolean}]}
-        - { name: title, label: Title, widget: string }
-        - { name: abstract, label: Abstract, widget: string }
-        - { name: abstractLink, label: Abstract Link, widget: string }
-        - { name: date, label: Date, widget: string }
-        - { name: authors, label: Authors, widget: list, fields: [{label: Name, name: name, widget: string}]}
-        - { name: keywords, label: Keywords, widget: list, fields: [{label: Keyword, name: keyword, widget: string}]}
-        - { name: cites, label: Cites, widget: list, fields: [{label: PMID, name: pmid, widget: string}]}
-        - { name: citedBy, label: Cited By, widget: list, fields: [{label: PMID, name: pmid, widget: string}]}
+    label: "Citations"
+    folder: "src/data/citations"
+    create: false
+    format: yaml
+    fields:
+      - { name: pmid, label: "Pubmed ID", widget: string }
+      - { name: categories, label: Categories, widget: list, fields: [{label: Name, name: name, widget: string}, {label: Enabled, name: enabled, widget: boolean}]}
+      - { name: title, label: Title, widget: string }
+      - { name: abstract, label: Abstract, widget: string }
+      - { name: abstractLink, label: Abstract Link, widget: string }
+      - { name: date, label: Date, widget: string }
+      - { name: authors, label: Authors, widget: list, fields: [{label: Name, name: name, widget: string}]}
+      - { name: keywords, label: Keywords, widget: list, fields: [{label: Keyword, name: keyword, widget: string}]}
+      - { name: cites, label: Cites, widget: list, fields: [{label: PMID, name: pmid, widget: string}]}
+      - { name: citedBy, label: Cited By, widget: list, fields: [{label: PMID, name: pmid, widget: string}]}
