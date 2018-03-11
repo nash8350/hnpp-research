@@ -18,17 +18,18 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: D Pareyson
 keywords:
-  - keyword: Adult
   - keyword: Electrophysiology
   - keyword: Family Health
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: classification
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Phenotype
 date: 2004/02
 cites: []

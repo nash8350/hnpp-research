@@ -19,6 +19,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Calpena E
   - name: Martínez-Rubio D
@@ -36,10 +38,7 @@ keywords:
   - keyword: Family
   - keyword: Genetic Loci
   - keyword: Haplotypes
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Peripheral Nervous System Diseases
   - keyword: physiopathology
   - keyword: 'Polymorphism, Genetic'
@@ -49,6 +48,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24878226%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
-    title: >-
-      Clinical and Molecular Characterization of PMP22 point mutations in
-      Taiwanese patients with Inherited Neuropathy.

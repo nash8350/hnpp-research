@@ -23,6 +23,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Vill K
   - name: Kuhn M
@@ -31,13 +33,10 @@ authors:
 keywords:
   - keyword: Arthrogryposis
   - keyword: complications
-  - keyword: genetics
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: 'Child, Preschool'
   - keyword: DNA Mutational Analysis
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: Neural Conduction

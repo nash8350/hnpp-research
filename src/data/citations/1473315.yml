@@ -13,6 +13,10 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Malandrini A
   - name: Guazzi GC
@@ -22,12 +26,8 @@ keywords:
   - keyword: Axons
   - keyword: ultrastructure
   - keyword: Biopsy
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: pathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: 'Microscopy, Electron'
   - keyword: Myelin Sheath
   - keyword: Neurologic Examination
@@ -39,10 +39,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1473315%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8936351'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies the same
-      molecular defect can result in diverse clinical presentation.
   - pmid: '8125763'
-    title: >-
-      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
-      review of the literature.

@@ -1,7 +1,11 @@
 pmid: '12499508'
 title: Hereditary neuropathy with liability to pressure palsies in a toddler.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Hardon WJ
   - name: Van Alfen N
@@ -10,12 +14,9 @@ authors:
 keywords:
   - keyword: 'Child, Preschool'
   - keyword: Electrophysiology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Nervous System Diseases
   - keyword: complications
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Neurologic Examination
@@ -26,6 +27,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12499508%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.

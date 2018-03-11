@@ -10,6 +10,10 @@ abstract: >-
   exposure of the axon to injury. Patients with ALS and evidence of
   demyelination should be screened for HNPP.
 categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -22,7 +26,6 @@ authors:
   - name: Nichelli P
   - name: Mandrioli J
 keywords:
-  - keyword: Adult
   - keyword: Amyotrophic Lateral Sclerosis
   - keyword: complications
   - keyword: pathology
@@ -30,10 +33,7 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Disease Progression
   - keyword: Electromyography
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
   - keyword: Myelin Proteins
   - keyword: Neural Conduction

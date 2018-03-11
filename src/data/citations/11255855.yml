@@ -16,7 +16,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
     enabled: true
   - name: Therapies
     enabled: true
@@ -25,17 +29,12 @@ authors:
   - name: Aarskog N
   - name: Vedeler C
 keywords:
-  - keyword: Adult
   - keyword: 'Blotting, Southern'
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: therapy
-  - keyword: Female
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: classification
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin P0 Protein
   - keyword: Paralysis
   - keyword: Pressure

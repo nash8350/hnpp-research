@@ -19,7 +19,7 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
-  - name: Case study
+  - name: Physiopathology
     enabled: true
 authors:
   - name: Harada Y
@@ -31,10 +31,7 @@ keywords:
   - keyword: diagnosis
   - keyword: physiopathology
   - keyword: Electrodiagnosis
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Muscle Cramp
   - keyword: 'Muscle, Skeletal'
   - keyword: Neural Conduction

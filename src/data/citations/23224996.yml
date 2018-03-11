@@ -18,6 +18,10 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Li J
   - name: Parker B
@@ -28,10 +32,8 @@ keywords:
   - keyword: Amino Acid Sequence
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: metabolism
   - keyword: pathology
-  - keyword: Humans
   - keyword: Molecular Sequence Data
   - keyword: Mutation
   - keyword: Myelin Proteins
@@ -256,52 +258,15 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23224996%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
-    title: >-
-      Clinical and Molecular Characterization of PMP22 point mutations in
-      Taiwanese patients with Inherited Neuropathy.
   - pmid: '27799291'
-    title: >-
-      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
-      hypermyelination.
   - pmid: '27761228'
-    title: >-
-      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
-      Experience in Southern Brazil.
   - pmid: '27056376'
-    title: >-
-      HNPP not only entrapment sites. Ultrasound digital nerve abnormalities in
-      a guitar player.
   - pmid: '26761923'
-    title: >-
-      Phenotype HNPP (Hereditary Neuropathy With Liability to Pressure Palsies)
-      Induced by Medical Procedures.
   - pmid: '26410747'
-    title: >-
-      A patient with PMP22-related hereditary neuropathy and DBH-gene-related
-      dysautonomia.
   - pmid: '25792482'
-    title: >-
-      Molecular regulators of nerve conduction - Lessons from inherited
-      neuropathies and rodent genetic models.
   - pmid: '25506001'
-    title: >-
-      Partial Gene Deletions of PMP22 Causing Hereditary Neuropathy with
-      Liability to Pressure Palsies.
   - pmid: '25429154'
-    title: >-
-      PMP22 is critical for actin-mediated cellular functions and for
-      establishing lipid rafts.
   - pmid: '25374586'
-    title: >-
-      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
-      deficiency.
   - pmid: '25253751'
-    title: >-
-      Proximal nerve magnetization transfer MRI relates to disability in
-      Charcot-Marie-Tooth diseases.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '24339129'
-    title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.

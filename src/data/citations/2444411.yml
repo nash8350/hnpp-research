@@ -18,6 +18,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Roth G
   - name: Magistris MR
@@ -28,10 +30,8 @@ keywords:
   - keyword: Extremities
   - keyword: Fasciculation
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Nervous System Diseases
   - keyword: complications
-  - keyword: genetics
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: etiology
@@ -41,6 +41,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2444411%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8936351'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies the same
-      molecular defect can result in diverse clinical presentation.

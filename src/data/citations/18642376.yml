@@ -22,6 +22,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Luigetti M
   - name: Conte A
@@ -37,14 +39,9 @@ keywords:
   - keyword: Aged
   - keyword: DNA Mutational Analysis
   - keyword: Family Health
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Neural Conduction
   - keyword: Sequence Deletion
@@ -53,8 +50,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18642376%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23997707'
-    title: >-
-      Restless leg syndrome in different types of demyelinating neuropathies a
-      single-center pilot study.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

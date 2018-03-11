@@ -25,6 +25,14 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Bienfait HM
   - name: Baas F
@@ -41,7 +49,6 @@ authors:
 keywords:
   - keyword: Action Potentials
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Age of Onset
   - keyword: Aged
   - keyword: Axons
@@ -50,25 +57,20 @@ keywords:
   - keyword: classification
   - keyword: diagnosis
   - keyword: epidemiology
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: DNA Mutational Analysis
   - keyword: Demyelinating Diseases
   - keyword: Electromyography
-  - keyword: Female
   - keyword: GTP Phosphohydrolases
   - keyword: GTP-Binding Protein gamma Subunits
   - keyword: Genetic Heterogeneity
   - keyword: Genotype
-  - keyword: Humans
   - keyword: Hypesthesia
   - keyword: etiology
   - keyword: Infant
-  - keyword: Male
   - keyword: Membrane Proteins
-  - keyword: Middle Aged
   - keyword: Mitochondrial Proteins
   - keyword: Muscle Weakness
   - keyword: Muscular Atrophy

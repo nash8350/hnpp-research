@@ -16,6 +16,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Leblhuber F
   - name: Reisecker F
@@ -27,11 +29,9 @@ keywords:
   - keyword: Adolescent
   - keyword: Biopsy
   - keyword: Blood Group Antigens
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 1'
   - keyword: Duffy Blood-Group System
   - keyword: Electromyography
-  - keyword: Female
   - keyword: Genetic Linkage
   - keyword: Genetic Markers
   - keyword: H-Reflex
@@ -39,9 +39,6 @@ keywords:
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Motor Neurons
   - keyword: Neural Conduction
   - keyword: Neurologic Examination
@@ -59,6 +56,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=1827702%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8396068'
-    title: >-
-      Gene for hereditary neuropathy with liability to pressure palsies (HNPP)
-      maps to chromosome 17 at or close to the locus for HMSN type 1.

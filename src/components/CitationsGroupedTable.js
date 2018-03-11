@@ -70,7 +70,8 @@ export default class CitationTable extends React.Component {
     if(this.state.search && 
       row.title.search(new RegExp(this.state.search, "i")) == -1 && 
       row.authorlist.search(new RegExp(this.state.search, "i")) == -1 &&
-      row.abstract.search(new RegExp(this.state.search, "i")) == -1)
+      row.abstract.search(new RegExp(this.state.search, "i")) == -1 &&
+      JSON.stringify(row.keywords).search(new RegExp(this.state.search, "i")) == -1)
       return false;
 
     return true;

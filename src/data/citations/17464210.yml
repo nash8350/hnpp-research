@@ -23,7 +23,15 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Choi BO
@@ -36,14 +44,12 @@ keywords:
   - keyword: Alleles
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Gene Deletion
   - keyword: Gene Dosage
   - keyword: Gene Duplication
   - keyword: Gene Frequency
   - keyword: 'Genome, Human'
-  - keyword: Humans
   - keyword: Microsatellite Repeats
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases

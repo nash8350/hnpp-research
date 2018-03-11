@@ -18,10 +18,19 @@ xml2js.parseString(content, options, function (err, result) {
 const get = (p, o) =>
   p.reduce((xs, x) => (xs && xs[x]) ? xs[x] : "", o);
 
-const blacklist = [
+const citationBlacklist = [
     "27535300",
     "28360724"
 ];
+
+const keywordBlacklist = [
+    "Humans",
+    "genetics",
+    "Male",
+    "Female",
+    "Adult",
+    "Middle Aged"
+]
 
 const citationList = [];
 
@@ -92,8 +101,10 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
     citation.keywords = [];
     function addUniqueKeyword(key) {
         if(!uniqueKeywords.has(key)) {
-            citation.keywords.push({ keyword: key });
-            uniqueKeywords.add(key);
+            if(!keywordBlacklist.includes(key)) {
+                citation.keywords.push({ keyword: key });
+                uniqueKeywords.add(key);
+            }
         }
     }
     if(article.MedlineCitation.MeshHeadingList) {
@@ -137,7 +148,7 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
     // add a link
     citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
 
-    if(!blacklist.includes(citation.pmid))
+    if(!citationBlacklist.includes(citation.pmid))
         citationList.push(citation);
 })
 
@@ -148,8 +159,7 @@ citationList.forEach(c1 => {
         c2.cites.forEach(c3 => {
             if(c3.pmid == c1.pmid) {
                 c1.citedBy.push ({
-                    pmid: c2.pmid,
-                    title: c2.title
+                    pmid: c2.pmid
                 })
             }
         })

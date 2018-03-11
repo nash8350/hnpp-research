@@ -19,16 +19,18 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Meier C
   - name: Moll C
 keywords:
-  - keyword: Adult
   - keyword: Age Factors
   - keyword: Disease Susceptibility
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: 'Microscopy, Electron'
   - keyword: Nerve Compression Syndromes
   - keyword: epidemiology
@@ -37,7 +39,6 @@ keywords:
   - keyword: pathology
   - keyword: ultrastructure
   - keyword: Peripheral Nervous System Diseases
-  - keyword: genetics
   - keyword: Sex Factors
 date: 1982/01
 cites:
@@ -73,18 +74,7 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6185651%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9418989'
-    title: Animal models for inherited peripheral neuropathies.
   - pmid: '8112739'
-    title: >-
-      Evidence for genetic heterogeneity underlying hereditary neuropathy with
-      liability to pressure palsies.
   - pmid: '8125763'
-    title: >-
-      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
-      review of the literature.
   - pmid: '8396068'
-    title: >-
-      Gene for hereditary neuropathy with liability to pressure palsies (HNPP)
-      maps to chromosome 17 at or close to the locus for HMSN type 1.
   - pmid: '3220711'
-    title: Recurrent familial neuropathy due to liability to pressure palsies.

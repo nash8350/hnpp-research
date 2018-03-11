@@ -34,6 +34,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -51,7 +53,6 @@ authors:
   - name: Hahn K
   - name: Bellmann-Strobl J
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: metabolism
   - keyword: pathology
@@ -61,15 +62,10 @@ keywords:
   - keyword: Case-Control Studies
   - keyword: Cross-Sectional Studies
   - keyword: 'Evoked Potentials, Visual'
-  - keyword: Female
   - keyword: Gray Matter
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Retina
   - keyword: Sequence Deletion
   - keyword: 'Tomography, Optical Coherence'

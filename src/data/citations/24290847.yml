@@ -26,6 +26,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Liang C
   - name: Howells J
@@ -34,19 +36,13 @@ authors:
   - name: Burke D
   - name: Ng K
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Axons
   - keyword: physiology
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: physiopathology
   - keyword: Connexins
-  - keyword: genetics
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
-  - keyword: Middle Aged
   - keyword: 'Models, Neurological'
   - keyword: Mutation
   - keyword: Peripheral Nerves

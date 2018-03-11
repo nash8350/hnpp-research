@@ -29,6 +29,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Luigetti M
   - name: Del Grande A
@@ -41,19 +43,13 @@ authors:
   - name: Sabatelli M
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Cohort Studies
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Peripheral Nerves
@@ -64,6 +60,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24726093%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27761228'
-    title: >-
-      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
-      Experience in Southern Brazil.

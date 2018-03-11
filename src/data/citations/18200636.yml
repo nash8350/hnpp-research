@@ -28,6 +28,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Hung CC
   - name: Lee CN
@@ -42,13 +44,11 @@ authors:
 keywords:
   - keyword: Case-Control Studies
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Gene Deletion
   - keyword: Gene Dosage
   - keyword: Gene Duplication
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Molecular Probe Techniques
   - keyword: Myelin Proteins
   - keyword: Nucleic Acid Amplification Techniques

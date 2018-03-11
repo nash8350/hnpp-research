@@ -25,6 +25,8 @@ categories:
     enabled: true
   - name: Case Studies
     enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Jerath NU
   - name: Kamholz J
@@ -36,9 +38,6 @@ keywords:
   - keyword: Child
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
-  - keyword: Female
-  - keyword: Humans
   - keyword: 'Mutation, Missense'
   - keyword: Myelin Proteins
   - keyword: Pedigree

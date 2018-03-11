@@ -29,16 +29,12 @@ authors:
   - name: Dewald GW
 keywords:
   - keyword: Brachial Plexus Neuritis
-  - keyword: genetics
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA Probes
-  - keyword: Female
   - keyword: 'Genes, erbB-2'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Male
   - keyword: Metaphase
   - keyword: Paralysis
 date: 1995/08
@@ -46,6 +42,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7630211%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.

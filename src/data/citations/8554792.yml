@@ -32,6 +32,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -46,21 +48,15 @@ authors:
   - name: Palau F
   - name: Bort S
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Chromosome Aberrations
   - keyword: Chromosome Deletion
   - keyword: Chromosome Disorders
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Electromyography
-  - keyword: Female
   - keyword: Foot Deformities
-  - keyword: genetics
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Pedigree
   - keyword: Peripheral Nerves
   - keyword: Sural Nerve

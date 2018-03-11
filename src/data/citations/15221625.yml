@@ -28,11 +28,9 @@ keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: 'Diagnosis, Differential'
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: 'Heredodegenerative Disorders, Nervous System'
-  - keyword: Humans
   - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
   - keyword: Refsum Disease
 date: 2004/06
@@ -40,6 +38,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15221625%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

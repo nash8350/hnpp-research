@@ -24,6 +24,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
   - name: Biochemistry
@@ -35,14 +37,10 @@ authors:
   - name: Lin KP
   - name: Huang CC
 keywords:
-  - keyword: Adult
   - keyword: Biopsy
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: Sural Nerve
@@ -51,10 +49,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15804150%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '22953141'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy presenting with
-      hand drop in a young child.

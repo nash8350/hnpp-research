@@ -26,19 +26,19 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Shchelochkov OA
   - name: Cheung SW
   - name: Lupski JR
 keywords:
   - keyword: 'Abnormalities, Multiple'
-  - keyword: genetics
   - keyword: pathology
   - keyword: Chromosome Aberrations
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Gene Duplication
   - keyword: 'Genome, Human'
-  - keyword: Humans
   - keyword: Phenotype
 date: 2010/04
 cites: []

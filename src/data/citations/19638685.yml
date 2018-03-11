@@ -24,6 +24,8 @@ abstract: >-
   cases of CMT, we propose (in contrast to the previous studies) to perform
   Q-PCR analysis in all patients diagnosed with CMT.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Prevalence
@@ -37,11 +39,9 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Gene Duplication
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Pedigree
   - keyword: Polymerase Chain Reaction
@@ -69,6 +69,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19638685%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25342198'
-    title: >-
-      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
-      of CMT1A/HNPP diseases.

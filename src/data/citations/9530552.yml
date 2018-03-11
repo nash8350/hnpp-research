@@ -19,6 +19,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Stögbauer F
   - name: Young P
@@ -30,7 +32,6 @@ authors:
   - name: Ringelstein EB
 keywords:
   - keyword: Amyloid Neuropathies
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: psychology
   - keyword: Brachial Plexus Neuritis
@@ -38,7 +39,6 @@ keywords:
   - keyword: Electrophysiology
   - keyword: Family
   - keyword: Genotype
-  - keyword: Humans
   - keyword: Molecular Biology
   - keyword: Pedigree
 date: 1998/04

@@ -24,6 +24,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -33,13 +35,11 @@ keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: ultrastructure
   - keyword: Genes
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Mice
   - keyword: 'Mice, Neurologic Mutants'
   - keyword: Multigene Family
@@ -56,4 +56,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7515304%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

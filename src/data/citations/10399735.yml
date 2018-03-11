@@ -17,6 +17,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Dorobek M
   - name: Szmidt-Sałkowska E
@@ -24,14 +26,10 @@ authors:
   - name: Hardin A
   - name: Kwieciński H
 keywords:
-  - keyword: Adult
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: DNA Mutational Analysis
   - keyword: Genetic Predisposition to Disease
-  - keyword: Humans
-  - keyword: Male
   - keyword: Motor Neuron Disease
   - keyword: Myelin Sheath
   - keyword: pathology

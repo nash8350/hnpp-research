@@ -27,14 +27,12 @@ authors:
   - name: Lupski JR
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Artificial, Yeast'
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Cosmids
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: In Situ Hybridization
   - keyword: Restriction Mapping
 date: 1996/05
@@ -42,7 +40,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8661034%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.

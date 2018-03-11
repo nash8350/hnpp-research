@@ -6,6 +6,8 @@ abstract: ''
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -16,16 +18,12 @@ keywords:
   - keyword: Electromyography
   - keyword: Hand
   - keyword: innervation
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: physiopathology
-  - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: etiology
   - keyword: Nervous System Diseases
   - keyword: complications
-  - keyword: genetics
   - keyword: Paralysis
 date: 1995/11
 cites: []

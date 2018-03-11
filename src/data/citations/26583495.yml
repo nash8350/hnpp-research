@@ -26,22 +26,21 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Shah A
   - name: Rison RA
   - name: Beydoun SR
 keywords:
-  - keyword: Adult
   - keyword: Electrodiagnosis
-  - keyword: Humans
   - keyword: 'Immunoglobulins, Intravenous'
   - keyword: therapeutic use
   - keyword: Magnetic Resonance Imaging
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: drug effects
   - keyword: Paralysis

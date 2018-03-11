@@ -55,13 +55,10 @@ keywords:
   - keyword: Animals
   - keyword: Child
   - keyword: Demyelinating Diseases
-  - keyword: genetics
   - keyword: metabolism
   - keyword: 'Disease Models, Animal'
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mice
   - keyword: 'Mice, Knockout'
   - keyword: Myelin Proteins
@@ -91,12 +88,5 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21670407%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25429154'
-    title: >-
-      PMP22 is critical for actin-mediated cellular functions and for
-      establishing lipid rafts.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '23185166'
-    title: >-
-      Two cases of elderly-onset hereditary neuropathy with liability to
-      pressure palsy manifesting bilateral peroneal nerve palsies.

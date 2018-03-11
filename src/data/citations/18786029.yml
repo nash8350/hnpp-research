@@ -18,6 +18,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Biochemistry
@@ -40,7 +42,6 @@ keywords:
   - keyword: methods
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Infectious pancreatic necrosis virus
-  - keyword: genetics
   - keyword: isolation & purification
   - keyword: Kidney
   - keyword: cytology

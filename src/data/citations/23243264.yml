@@ -31,6 +31,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
@@ -55,7 +57,6 @@ keywords:
   - keyword: Brain
   - keyword: pathology
   - keyword: Brain Chemistry
-  - keyword: genetics
   - keyword: Central Nervous System
   - keyword: abnormalities
   - keyword: Cognition Disorders
@@ -64,13 +65,9 @@ keywords:
   - keyword: Creatine
   - keyword: Diffusion Magnetic Resonance Imaging
   - keyword: Disability Evaluation
-  - keyword: Female
-  - keyword: Humans
   - keyword: 'Image Processing, Computer-Assisted'
   - keyword: Magnetic Resonance Imaging
   - keyword: Magnetic Resonance Spectroscopy
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Mutation
   - keyword: physiology
   - keyword: Myelin Proteins
@@ -85,14 +82,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23243264%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

@@ -26,6 +26,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Chen SR
   - name: Lin KP
@@ -42,13 +44,11 @@ keywords:
   - keyword: Case-Control Studies
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Gene Deletion
   - keyword: Gene Duplication
   - keyword: Genetic Testing
   - keyword: methods
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Microsatellite Repeats
   - keyword: Myelin Proteins
   - keyword: analysis

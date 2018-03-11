@@ -25,24 +25,21 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Liehr T
   - name: Grehl H
   - name: Rautenstrauss B
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: metabolism
   - keyword: pathology
   - keyword: 'Child, Preschool'
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Peripheral Nervous System Diseases
   - keyword: Sural Nerve
@@ -51,7 +48,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9292696%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15083272'
-    title: >-
-      [Delayed paresis of the femoral nerve after total hip arthroplasty
-      associated with hereditary neuropathy with liability to pressure palsies
-      (HNPP)].

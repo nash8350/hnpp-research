@@ -26,6 +26,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -33,14 +35,12 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Connexins
   - keyword: deficiency
   - keyword: Genetic Linkage
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Multigene Family
   - keyword: Myelin P0 Protein
   - keyword: Myelin Proteins
@@ -55,6 +55,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7541290%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9032649'
-    title: >-
-      Detection of the CMT1A/HNPP recombination hotspot in unrelated patients of
-      European descent.

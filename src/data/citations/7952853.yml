@@ -29,19 +29,17 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Chance PF
   - name: Lupski JR
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Genetic Predisposition to Disease
   - keyword: Genetic Techniques
-  - keyword: Humans
   - keyword: Nerve Compression Syndromes
   - keyword: Nervous System Diseases
   - keyword: Paralysis

@@ -17,24 +17,22 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
   - name: Amato AA
   - name: Barohn RJ
 keywords:
-  - keyword: Adult
   - keyword: Brain
   - keyword: pathology
   - keyword: Chromosome Deletion
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 14'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: Neural Conduction
   - keyword: Peroneal Nerve
@@ -47,26 +45,8 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8609929%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '19238316'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies and amyotrophic
-      lateral sclerosis.
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.

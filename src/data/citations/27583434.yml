@@ -31,9 +31,11 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Hu B
@@ -53,7 +55,6 @@ keywords:
   - keyword: Action Potentials
   - keyword: Animals
   - keyword: Arthrogryposis
-  - keyword: genetics
   - keyword: 'Cells, Cultured'
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy

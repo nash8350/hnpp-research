@@ -18,18 +18,18 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Yoshikawa H
   - name: Yanagihara T
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Connexins
   - keyword: Demyelinating Diseases
   - keyword: Gene Deletion
   - keyword: Genotype
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: physiology
   - keyword: Phenotype

@@ -6,6 +6,8 @@ abstract: ''
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
@@ -16,10 +18,8 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: 'Disease Models, Animal'
-  - keyword: Humans
   - keyword: Mice
   - keyword: Myelin Proteins
   - keyword: physiology

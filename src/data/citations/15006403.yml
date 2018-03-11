@@ -13,6 +13,8 @@ abstract: >-
 categories:
   - name: Biochemistry
     enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Chandrasekhar V
   - name: Deria P

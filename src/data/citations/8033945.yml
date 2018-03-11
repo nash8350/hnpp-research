@@ -16,6 +16,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -25,13 +27,10 @@ authors:
   - name: Albers JW
 keywords:
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: 'Nerve Fibers, Myelinated'
   - keyword: physiology
@@ -45,6 +44,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8033945%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8936351'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies the same
-      molecular defect can result in diverse clinical presentation.

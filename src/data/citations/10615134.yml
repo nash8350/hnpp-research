@@ -49,15 +49,11 @@ authors:
   - name: Lupski JR
 keywords:
   - keyword: 'Abnormalities, Multiple'
-  - keyword: genetics
   - keyword: Chromosome Aberrations
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
   - keyword: Genotype
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Intellectual Disability
-  - keyword: Male
   - keyword: Pedigree
   - keyword: 'Recombination, Genetic'
   - keyword: Syndrome
@@ -66,11 +62,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10615134%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '14757858'
-    title: >-
-      Comparative genomic hybridisation using a proximal 17p BAC/PAC array
-      detects rearrangements responsible for four genomic disorders.
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.

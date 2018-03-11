@@ -33,9 +33,11 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Jetten AM
@@ -46,11 +48,9 @@ keywords:
   - keyword: Cell Differentiation
   - keyword: Cell Division
   - keyword: Gene Expression Regulation
-  - keyword: Humans
   - keyword: Membrane Glycoproteins
   - keyword: Membrane Proteins
   - keyword: chemistry
-  - keyword: genetics
   - keyword: physiology
   - keyword: Mice
   - keyword: 'Models, Molecular'
@@ -64,12 +64,6 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10697408%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25506001'
-    title: >-
-      Partial Gene Deletions of PMP22 Causing Hereditary Neuropathy with
-      Liability to Pressure Palsies.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '21670407'
-    title: Neuropathy in a human without the PMP22 gene.
   - pmid: '20071523'
-    title: Conduction block in PMP22 deficiency.

@@ -4,6 +4,10 @@ title: >-
   neuropathy with liability to pressure palsy.
 abstract: ''
 categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -14,11 +18,9 @@ authors:
 keywords:
   - keyword: Bicycling
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Follow-Up Studies
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: complications
-  - keyword: Humans
   - keyword: Paralysis
   - keyword: Physical Exertion
   - keyword: Rhabdomyolysis

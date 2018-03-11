@@ -38,6 +38,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Choi JR
   - name: Lee WH
@@ -48,12 +50,10 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Gene Dosage
   - keyword: Genetic Testing
   - keyword: methods
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Polymerase Chain Reaction
 date: 2005/07
 cites:
@@ -84,6 +84,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15988805%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
-    title: >-
-      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
-      hereditary neuropathy with liability to pressure palsies patients.

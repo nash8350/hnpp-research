@@ -16,8 +16,10 @@ abstract: >-
   history is negative.
 categories:
   - name: Symptoms
-    enabled: false
+    enabled: true
   - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
     enabled: true
@@ -34,15 +36,12 @@ keywords:
   - keyword: Arthrogryposis
   - keyword: diagnosis
   - keyword: diagnostic imaging
-  - keyword: genetics
   - keyword: Brachial Plexus
   - keyword: 'Diagnosis, Differential'
   - keyword: Diffusion Magnetic Resonance Imaging
   - keyword: Exercise
   - keyword: Genetic Testing
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: Neuroimaging
 date: 2017/06

@@ -21,6 +21,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Gabriel JM
   - name: Erne B
@@ -30,24 +32,18 @@ authors:
   - name: Steck AJ
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Biopsy
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: metabolism
   - keyword: pathology
   - keyword: Child
-  - keyword: Female
   - keyword: Gene Dosage
   - keyword: Genetic Predisposition to Disease
   - keyword: Genotype
-  - keyword: Humans
   - keyword: Immunohistochemistry
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Basic Protein
   - keyword: Myelin P0 Protein
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Nerve Compression Syndromes
   - keyword: Paralysis
   - keyword: Peripheral Nervous System Diseases
@@ -57,8 +53,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9409359%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '19447823'
-    title: PMP22 expression in dermal nerve myelin from patients with CMT1A.

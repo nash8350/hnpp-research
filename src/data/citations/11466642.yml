@@ -22,6 +22,10 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Lane JE
   - name: Foulkes GD
@@ -29,14 +33,10 @@ authors:
   - name: Mayorov VI
   - name: Adkison L
 keywords:
-  - keyword: Adult
   - keyword: Chromosome Deletion
   - keyword: 'Electrophoresis, Gel, Pulsed-Field'
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mononeuropathies
   - keyword: Myelin Proteins
   - keyword: metabolism
@@ -48,11 +48,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11466642%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.
   - pmid: '15083272'
-    title: >-
-      [Delayed paresis of the femoral nerve after total hip arthroplasty
-      associated with hereditary neuropathy with liability to pressure palsies
-      (HNPP)].

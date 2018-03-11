@@ -19,6 +19,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -33,17 +35,9 @@ keywords:
   - keyword: Electromyography
   - keyword: methods
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
 date: 2011/10
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21988036%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26347841'
-    title: >-
-      Complex Scapular Winging following Total Shoulder Arthroplasty in a
-      Patient with Ehlers-Danlos Syndrome.
   - pmid: '25326571'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies presenting with
-      sciatic neuropathy.

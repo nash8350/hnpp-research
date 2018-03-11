@@ -20,6 +20,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -37,12 +39,9 @@ keywords:
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Electrodiagnosis
-  - keyword: Female
-  - keyword: Humans
   - keyword: Infant
   - keyword: 'Leukodystrophy, Metachromatic'
   - keyword: diagnosis
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: Neurologic Examination
 date: 2004/03

@@ -10,7 +10,9 @@ abstract: >-
   and sensory pathways. This commonality suggests that there might be
   similarities in the molecular pathology underlying these conditions, and here
   we compare the molecular genetics and cellular pathology of the two groups.
-categories: []
+categories:
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Timmerman V
   - name: Clowes VE
@@ -19,9 +21,7 @@ keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: epidemiology
-  - keyword: genetics
   - keyword: pathology
-  - keyword: Humans
   - keyword: Mutation
   - keyword: 'Nerve Fibers, Myelinated'
   - keyword: 'Spastic Paraplegia, Hereditary'
@@ -30,6 +30,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22285450%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24819634'
-    title: >-
-      Mutation analysis of MFN2, GJB1, MPZ and PMP22 in Italian patients with
-      axonal Charcot-Marie-Tooth disease.

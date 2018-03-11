@@ -5,22 +5,20 @@ title: >-
   delivery.
 abstract: ''
 categories:
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
   - name: Chilvers RJ
   - name: Salman MM
 keywords:
-  - keyword: Adult
   - keyword: 'Anesthesia, Obstetrical'
   - keyword: adverse effects
   - keyword: 'Anesthesia, Spinal'
   - keyword: Cesarean Section
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Neurologic Examination
   - keyword: Paralysis
   - keyword: etiology

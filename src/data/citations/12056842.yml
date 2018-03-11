@@ -27,6 +27,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -37,15 +39,12 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Cell Differentiation
-  - keyword: genetics
-  - keyword: Female
   - keyword: Fetus
   - keyword: 'Gene Expression Regulation, Developmental'
   - keyword: physiology
   - keyword: 'Genes, Regulator'
   - keyword: 'Genes, Reporter'
   - keyword: Lac Operon
-  - keyword: Male
   - keyword: Mice
   - keyword: 'Mice, Transgenic'
   - keyword: Motor Neurons
@@ -77,14 +76,6 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12056842%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '22180461'
-    title: >-
-      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
-      PMP22.
   - pmid: '21670407'
-    title: Neuropathy in a human without the PMP22 gene.
   - pmid: '19654968'
-    title: >-
-      Charcot-Marie-Tooth 1A concurrent with schwannomas of the spinal cord and
-      median nerve.

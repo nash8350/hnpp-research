@@ -20,14 +20,15 @@ abstract: >-
   suggests that acquired and genetic demyelinating polyneuropathies may be
   associated with optic and auditory nerve involvement, which may contribute to
   neurological disability, and require greater awareness.
-categories: []
+categories:
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Knopp M
   - name: Leese RJ
   - name: Martin-Lamb D
   - name: Rajabally YA
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Auditory Pathways
   - keyword: physiopathology
@@ -36,10 +37,6 @@ keywords:
   - keyword: 'Evoked Potentials, Auditory, Brain Stem'
   - keyword: physiology
   - keyword: 'Evoked Potentials, Visual'
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Polyneuropathies
   - keyword: Visual Pathways
 date: 2014/02
@@ -47,6 +44,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24571608%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.

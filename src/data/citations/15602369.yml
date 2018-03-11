@@ -29,14 +29,11 @@ authors:
   - name: Tranchant C
 keywords:
   - keyword: Acute Disease
-  - keyword: Adult
-  - keyword: Female
   - keyword: Guillain-Barre Syndrome
   - keyword: etiology
   - keyword: 'Heredodegenerative Disorders, Nervous System'
   - keyword: complications
   - keyword: diagnosis
-  - keyword: Humans
   - keyword: Paralysis
   - keyword: Polyneuropathies
   - keyword: Pressure
@@ -45,6 +42,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15602369%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26640726'
-    title: >-
-      Hereditary Neuropathy with Liability to Pressure Palsies Masked by
-      Previous Gunshots and Tuberculosis.

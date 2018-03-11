@@ -22,9 +22,9 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Goebbels S
@@ -124,10 +124,5 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22488882%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27799291'
-    title: >-
-      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
-      hypermyelination.
   - pmid: '27098694'
-    title: Akt Regulates Axon Wrapping and Myelin Sheath Thickness in the PNS.
   - pmid: '24339129'
-    title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.

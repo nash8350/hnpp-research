@@ -3,7 +3,11 @@ title: >-
   Hereditary neuropathy with liability to pressure palsies (HNPP) revealed after
   weight loss.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Cruz-Martínez A
   - name: Bort S
@@ -11,15 +15,11 @@ authors:
   - name: Palau F
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
   - keyword: Genetic Markers
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Nerve Compression Syndromes
   - keyword: Neural Conduction
   - keyword: physiology

@@ -16,7 +16,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
     enabled: true
 authors:
   - name: Meuleman J
@@ -28,18 +32,13 @@ authors:
   - name: Van Broeckhoven C
   - name: De Jonghe P
 keywords:
-  - keyword: Adult
   - keyword: Base Sequence
-  - keyword: genetics
   - keyword: Child
   - keyword: 'DNA, Recombinant'
   - keyword: Electrophysiology
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: Paralysis
@@ -51,10 +50,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11369192%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.
   - pmid: '16199442'
-    title: >-
-      An abnormal mRNA produced by a novel PMP22 splice site mutation associated
-      with HNPP.

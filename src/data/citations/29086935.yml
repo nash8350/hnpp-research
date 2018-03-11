@@ -14,8 +14,6 @@ abstract: >-
   PMP22 and Pin PNS myelin.
 categories:
   - name: Diagnosis
-    enabled: false
-  - name: Biochemistry
     enabled: true
 authors:
   - name: H W Müller

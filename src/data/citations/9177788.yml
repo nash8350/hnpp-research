@@ -23,7 +23,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Murakami T
@@ -34,7 +38,6 @@ keywords:
   - keyword: Base Sequence
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: enzymology
-  - keyword: genetics
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA Primers
@@ -42,7 +45,6 @@ keywords:
   - keyword: Exons
   - keyword: Gene Expression
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Introns
   - keyword: Membrane Proteins
   - keyword: Molecular Sequence Data
@@ -56,7 +58,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9177788%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.

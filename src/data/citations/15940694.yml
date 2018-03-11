@@ -28,6 +28,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Naïmi M
   - name: Tardieu S
@@ -38,7 +40,6 @@ authors:
   - name: Leguern E
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: 'Chromatography, High Pressure Liquid'
   - keyword: methods
@@ -47,7 +48,6 @@ keywords:
   - keyword: DNA
   - keyword: Gene Dosage
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Paralysis
   - keyword: Polymerase Chain Reaction

@@ -1,17 +1,13 @@
 pmid: '6963030'
 title: '[Hereditary neuropathy with a tendency to pressure palsy].'
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: C H Wulff
 keywords:
-  - keyword: Adult
-  - keyword: Female
   - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: etiology
   - keyword: Neural Conduction

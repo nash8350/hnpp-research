@@ -15,17 +15,19 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Warner LE
   - name: Garcia CA
   - name: Lupski JR
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Electrophysiology
   - keyword: Genetic Linkage
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Molecular Biology
   - keyword: Mutation
   - keyword: Myelin Sheath

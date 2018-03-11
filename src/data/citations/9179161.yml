@@ -18,22 +18,20 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Shaibani A
   - name: Gooch C
   - name: Harati Y
 keywords:
-  - keyword: Adult
   - keyword: Biopsy
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: complications
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: DNA
   - keyword: analysis
   - keyword: 'Electrophoresis, Gel, Pulsed-Field'
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myoclonus
   - keyword: etiology
   - keyword: Neural Conduction

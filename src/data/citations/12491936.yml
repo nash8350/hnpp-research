@@ -6,6 +6,8 @@ title: >-
   Pelizaeus-Merzbacher disease.
 abstract: ''
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
 authors:
@@ -14,7 +16,6 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Chromosome Mapping
   - keyword: methods
   - keyword: DNA
@@ -23,7 +24,6 @@ keywords:
   - keyword: Gene Dosage
   - keyword: Gene Duplication
   - keyword: Gene Rearrangement
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Indicators and Reagents
   - keyword: Pelizaeus-Merzbacher Disease

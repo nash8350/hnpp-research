@@ -26,6 +26,8 @@ categories:
     enabled: true
   - name: Biochemistry
     enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Guo J
   - name: Wang L
@@ -41,7 +43,6 @@ authors:
 keywords:
   - keyword: Action Potentials
   - keyword: drug effects
-  - keyword: genetics
   - keyword: Age Factors
   - keyword: Animals
   - keyword: Arthrogryposis
@@ -52,7 +53,6 @@ keywords:
   - keyword: Gene Expression Regulation
   - keyword: HEK293 Cells
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Junctional Adhesion Molecules
   - keyword: Mice
   - keyword: 'Mice, Transgenic'
@@ -102,37 +102,11 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24339129%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.
   - pmid: '28912683'
-    title: >-
-      Nano-scale Biophysical and Structural Investigations on Intact and
-      Neuropathic Nerve Fibers by Simultaneous Combination of Atomic Force and
-      Confocal Microscopy.
   - pmid: '27799291'
-    title: >-
-      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
-      hypermyelination.
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '27583434'
-    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
   - pmid: '26761923'
-    title: >-
-      Phenotype HNPP (Hereditary Neuropathy With Liability to Pressure Palsies)
-      Induced by Medical Procedures.
   - pmid: '25792482'
-    title: >-
-      Molecular regulators of nerve conduction - Lessons from inherited
-      neuropathies and rodent genetic models.
   - pmid: '25429154'
-    title: >-
-      PMP22 is critical for actin-mediated cellular functions and for
-      establishing lipid rafts.
   - pmid: '25374586'
-    title: >-
-      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
-      deficiency.

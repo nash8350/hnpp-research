@@ -19,6 +19,10 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Martinelli P
   - name: Fabbri R
@@ -27,12 +31,8 @@ authors:
   - name: D'Alessandro R
   - name: Rizzuto N
 keywords:
-  - keyword: Adult
   - keyword: Brachial Plexus
   - keyword: physiopathology
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: 'Microscopy, Electron'
   - keyword: Paralysis
   - keyword: Peripheral Nervous System Diseases
@@ -41,10 +41,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2540008%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.
   - pmid: '8125763'
-    title: >-
-      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
-      review of the literature.

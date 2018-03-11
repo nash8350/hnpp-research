@@ -15,6 +15,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -22,8 +24,6 @@ authors:
 keywords:
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Phenotype
   - keyword: Recurrence
 date: 2001/04

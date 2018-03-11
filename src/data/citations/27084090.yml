@@ -22,9 +22,11 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Logroscino G
@@ -41,8 +43,6 @@ keywords:
   - keyword: 'Arthroplasty, Replacement, Hip'
   - keyword: adverse effects
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Paralysis
   - keyword: etiology
   - keyword: Peroneal Nerve

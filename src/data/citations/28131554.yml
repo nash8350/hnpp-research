@@ -28,7 +28,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Therapies
-    enabled: false
+    enabled: true
 authors:
   - name: Bar C
   - name: Villéga F
@@ -40,20 +40,16 @@ keywords:
   - keyword: Adolescent
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Child
   - keyword: Chromosome Aberrations
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: 'Diagnosis, Differential'
   - keyword: Electromyography
-  - keyword: Female
   - keyword: 'Genes, Dominant'
   - keyword: Genetic Testing
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Neurologic Examination
 date: 2017/01

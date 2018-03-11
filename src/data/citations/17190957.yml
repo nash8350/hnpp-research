@@ -10,6 +10,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Tackenberg B
   - name: Möller JC
@@ -22,19 +24,14 @@ authors:
   - name: Hamer HM
   - name: Bandmann O
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Brain
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Electroencephalography
   - keyword: Evoked Potentials
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: 'Nerve Fibers, Myelinated'
   - keyword: Paralysis
 date: 2006/12
@@ -42,14 +39,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17190957%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

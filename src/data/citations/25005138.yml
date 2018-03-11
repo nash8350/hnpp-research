@@ -26,6 +26,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Bayrak AO
   - name: Bayrak IK
@@ -35,18 +37,13 @@ authors:
   - name: Onar MK
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: diagnostic imaging
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: physiology
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Peroneal Nerve
   - keyword: Tibial Nerve

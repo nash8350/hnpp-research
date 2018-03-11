@@ -29,20 +29,14 @@ authors:
   - name: Bird TD
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Age of Onset
   - keyword: Brachial Plexus Neuritis
   - keyword: classification
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
   - keyword: Genetic Markers
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
@@ -52,12 +46,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7991108%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.
   - pmid: '8936351'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies the same
-      molecular defect can result in diverse clinical presentation.

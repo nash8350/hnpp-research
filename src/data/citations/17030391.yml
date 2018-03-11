@@ -16,6 +16,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -25,16 +27,12 @@ authors:
 keywords:
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: Hand
   - keyword: physiopathology
   - keyword: surgery
   - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: Humans
   - keyword: Intraoperative Complications
   - keyword: prevention & control
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: etiology
 date: 2006/10

@@ -3,7 +3,9 @@ title: >-
   HMSN and HNPP. Laboratory service provision in the south west of England--two
   years' experience.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Williams MM
   - name: Tyfield LA
@@ -15,15 +17,11 @@ keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Connexins
   - keyword: England
-  - keyword: Female
   - keyword: Genetic Testing
   - keyword: methods
-  - keyword: Humans
   - keyword: Laboratories
-  - keyword: Male
   - keyword: Myelin P0 Protein
   - keyword: Myelin Proteins
 date: 1999/12

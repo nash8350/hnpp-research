@@ -29,11 +29,15 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: R Martini
@@ -41,12 +45,10 @@ keywords:
   - keyword: Animals
   - keyword: Child
   - keyword: 'Disease Models, Animal'
-  - keyword: Humans
   - keyword: Mice
   - keyword: 'Mice, Mutant Strains'
   - keyword: 'Microscopy, Electron'
   - keyword: Peripheral Nervous System Diseases
-  - keyword: genetics
   - keyword: Rats
   - keyword: Research
 date: 1998/01

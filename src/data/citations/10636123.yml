@@ -30,6 +30,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -39,7 +41,6 @@ authors:
   - name: So YT
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Databases as Topic
   - keyword: Diabetic Neuropathies
   - keyword: diagnosis
@@ -47,8 +48,6 @@ keywords:
   - keyword: 'Diagnosis, Differential'
   - keyword: Electrodiagnosis
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Middle Aged
   - keyword: Motor Neurons
   - keyword: physiology
   - keyword: Neural Conduction
@@ -61,22 +60,9 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10636123%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '23207550'
-    title: Electrophysiological comparison between males and females in HNPP.
   - pmid: '19306083'
-    title: Entrapment in anti myelin-associated glycoprotein neuropathy.
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.
   - pmid: '16024889'
-    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.

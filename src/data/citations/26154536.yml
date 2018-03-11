@@ -3,21 +3,21 @@ title: >-
   Rapid improvement of hereditary neuropathy with liability to pressure palsies
   following cubital tunnel release.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Garcia-Santibanez R
   - name: Maniker AH
   - name: Scelsa SN
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: diagnosis
   - keyword: surgery
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Peripheral Nervous System Diseases
   - keyword: Ulnar Nerve
   - keyword: Young Adult

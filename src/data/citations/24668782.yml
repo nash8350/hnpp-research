@@ -24,6 +24,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -40,19 +42,15 @@ keywords:
   - keyword: Age of Onset
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: Electrophysiology
   - keyword: methods
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Genetic Predisposition to Disease
   - keyword: Genetic Testing
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Neural Conduction
   - keyword: physiology
@@ -65,16 +63,6 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24668782%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.
   - pmid: '26933540'
-    title: Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '25506001'
-    title: >-
-      Partial Gene Deletions of PMP22 Causing Hereditary Neuropathy with
-      Liability to Pressure Palsies.
   - pmid: '25342198'
-    title: >-
-      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
-      of CMT1A/HNPP diseases.

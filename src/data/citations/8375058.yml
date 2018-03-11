@@ -21,7 +21,9 @@ abstract: >-
   four unrelated patients with HNPP yielded test values of 63% and 54%,
   respectively, of those for nonduplicated samples (CV 19% and 18%,
   respectively; n = 4), suggesting a deletion in 17p11.2.
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Hensels GW
   - name: Janssen EA
@@ -34,21 +36,13 @@ keywords:
   - keyword: 'Blotting, Southern'
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: DNA
   - keyword: analysis
   - keyword: DNA Probes
-  - keyword: Humans
   - keyword: Nucleic Acid Hybridization
 date: 1993/09
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8375058%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9391880'
-    title: >-
-      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
-      the value of direct DNA diagnosis.
   - pmid: '7931393'
-    title: >-
-      DNA analysis in Finnish patients with hereditary neuropathy with liability
-      to pressure palsies (HNPP).

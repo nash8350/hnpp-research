@@ -10,6 +10,8 @@ abstract: >-
   unrecognized. We report a case of HNPP occurring during military training to
   promote recognition and proper management of this entity.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -22,12 +24,9 @@ authors:
 keywords:
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Electromyography
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Military Personnel
   - keyword: Myelin Proteins
   - keyword: Neurologic Examination

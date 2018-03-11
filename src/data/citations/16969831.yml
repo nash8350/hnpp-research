@@ -11,24 +11,22 @@ abstract: >-
   of HNPP and schwannomas in the same patient might be purely coincidental, but
   it is tempting to speculate that they share a common genetic basis.
 categories:
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Heckmann JG
   - name: Dütsch M
   - name: Buslei R
 keywords:
-  - keyword: Adult
   - keyword: Carpal Tunnel Syndrome
   - keyword: complications
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Median Nerve
   - keyword: pathology
   - keyword: surgery
@@ -43,14 +41,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16969831%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25324890'
-    title: >-
-      Does hereditary neuropathy with liability to pressure palsy predispose to
-      schwannomatosis?
   - pmid: '22037956'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy combined with
-      suspected schwannomas of the peroneal and radial nerves.
   - pmid: '19654968'
-    title: >-
-      Charcot-Marie-Tooth 1A concurrent with schwannomas of the spinal cord and
-      median nerve.

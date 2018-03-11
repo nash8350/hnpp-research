@@ -27,6 +27,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Pareyson D
   - name: Solari A
@@ -41,17 +43,11 @@ keywords:
   - keyword: physiology
   - keyword: Acute Disease
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Diagnosis, Differential'
   - keyword: 'Electrophoresis, Gel, Pulsed-Field'
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Genetic Predisposition to Disease
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Nervous System Diseases
   - keyword: diagnosis
@@ -66,14 +62,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9843070%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.
   - pmid: '25326571'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies presenting with
-      sciatic neuropathy.
   - pmid: '21429232'
-    title: >-
-      Recovery of brachial plexus lesions resulting from heavy backpack use a
-      follow-up case series.

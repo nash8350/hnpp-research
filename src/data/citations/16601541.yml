@@ -26,9 +26,9 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Koc F
@@ -38,15 +38,9 @@ authors:
   - name: Güzel I
   - name: Sarica Y
 keywords:
-  - keyword: Adult
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Neurologic Examination
   - keyword: Pedigree
@@ -55,6 +49,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16601541%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.

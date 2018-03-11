@@ -42,14 +42,12 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Frameshift Mutation
   - keyword: Gene Deletion
   - keyword: Gene Duplication
-  - keyword: Humans
   - keyword: Mutation
   - keyword: 'Mutation, Missense'
   - keyword: Myelin Proteins
@@ -58,12 +56,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10586258%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25792482'
-    title: >-
-      Molecular regulators of nerve conduction - Lessons from inherited
-      neuropathies and rodent genetic models.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

@@ -16,6 +16,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Voermans NC
   - name: van Alfen N
@@ -30,8 +34,6 @@ keywords:
   - keyword: etiology
   - keyword: surgery
   - keyword: Child
-  - keyword: Humans
-  - keyword: Male
   - keyword: Pruritus
   - keyword: psychology
   - keyword: Self-Injurious Behavior

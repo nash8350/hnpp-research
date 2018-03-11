@@ -27,6 +27,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
   - name: Case Studies
@@ -40,18 +42,12 @@ authors:
   - name: Rizzuto N
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Carpal Tunnel Syndrome
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Electrophysiology
   - keyword: Family Health
-  - keyword: Female
   - keyword: 'Genetics, Medical'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Pedigree
 date: 2003/06
@@ -59,7 +55,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12827539%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15083272'
-    title: >-
-      [Delayed paresis of the femoral nerve after total hip arthroplasty
-      associated with hereditary neuropathy with liability to pressure palsies
-      (HNPP)].

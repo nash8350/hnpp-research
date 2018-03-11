@@ -27,11 +27,13 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Chance PF
@@ -39,13 +41,11 @@ authors:
 keywords:
   - keyword: Amyloid Neuropathies
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: therapy
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 1'
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Neurologic Examination
   - keyword: Point Mutation

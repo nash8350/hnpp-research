@@ -16,6 +16,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Kurokawa K
   - name: Tani K
@@ -23,7 +25,6 @@ authors:
   - name: Nasu M
 keywords:
   - keyword: Bacterial Toxins
-  - keyword: genetics
   - keyword: Escherichia coli O157
   - keyword: isolation & purification
   - keyword: Fresh Water

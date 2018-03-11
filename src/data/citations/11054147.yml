@@ -19,23 +19,21 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
   - name: S Simonetti
 keywords:
-  - keyword: Adult
   - keyword: Brachial Plexus
   - keyword: injuries
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Brachial Plexus Neuropathies
   - keyword: etiology
-  - keyword: genetics
   - keyword: Denervation
   - keyword: adverse effects
-  - keyword: Female
-  - keyword: Humans
   - keyword: Nerve Crush
   - keyword: Peripheral Nervous System Diseases
   - keyword: complications

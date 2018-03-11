@@ -12,6 +12,8 @@ abstract: >-
   whole-cell hybridization technique is available for the identification of
   small or low-rRNA-content bacterial cells in the natural environment.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
 authors:
@@ -32,7 +34,6 @@ keywords:
   - keyword: Naphthalenes
   - keyword: RNA Probes
   - keyword: 'RNA, Ribosomal, 16S'
-  - keyword: genetics
   - keyword: Species Specificity
 date: 1996/01
 cites:
@@ -53,10 +54,4 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8572706%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11679354'
-    title: >-
-      Direct detection by in situ PCR of the amoA gene in biofilm resulting from
-      a nitrogen removal process.
   - pmid: '9546190'
-    title: >-
-      Development of a direct in situ PCR method for detection of specific
-      bacteria in natural environments.

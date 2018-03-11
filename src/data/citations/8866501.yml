@@ -28,6 +28,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -41,10 +43,6 @@ keywords:
   - keyword: Electromyography
   - keyword: Handwriting
   - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Sheath
   - keyword: Neural Conduction
   - keyword: Writing
@@ -53,6 +51,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8866501%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27761228'
-    title: >-
-      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
-      Experience in Southern Brazil.

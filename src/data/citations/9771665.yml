@@ -23,6 +23,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -33,20 +35,16 @@ authors:
   - name: Hanemann CO
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Biomarkers
   - keyword: Biopsy
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: immunology
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: Histocompatibility Antigens Class II
   - keyword: analysis
-  - keyword: Humans
   - keyword: Macrophages
   - keyword: 'Microscopy, Electron'
-  - keyword: Middle Aged
   - keyword: Nerve Fibers
   - keyword: pathology
   - keyword: ultrastructure

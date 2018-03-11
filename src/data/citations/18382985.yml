@@ -38,10 +38,7 @@ keywords:
   - keyword: innervation
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: pathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Neuropathy
   - keyword: Myelin Proteins
   - keyword: Turkey
@@ -51,6 +48,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18382985%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25685136'
-    title: >-
-      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
-      Acute Brachial Plexopathy A Lover's Palsy.

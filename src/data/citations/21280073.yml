@@ -24,7 +24,11 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
+    enabled: true
+  - name: Case Studies
     enabled: true
 authors:
   - name: Saporta AS
@@ -35,21 +39,16 @@ authors:
   - name: Shy ME
 keywords:
   - keyword: Action Potentials
-  - keyword: genetics
   - keyword: radiation effects
-  - keyword: Adult
   - keyword: Age of Onset
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
   - keyword: Child Development
   - keyword: physiology
-  - keyword: Female
   - keyword: Genetic Testing
   - keyword: methods
   - keyword: statistics & numerical data
-  - keyword: Humans
   - keyword: Infant
-  - keyword: Male
   - keyword: Mutation
   - keyword: Neural Conduction
   - keyword: Pedigree
@@ -83,16 +82,6 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21280073%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
-    title: >-
-      Clinical and Molecular Characterization of PMP22 point mutations in
-      Taiwanese patients with Inherited Neuropathy.
   - pmid: '26933540'
-    title: Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '25430934'
-    title: >-
-      CMT subtypes and disease burden in patients enrolled in the Inherited
-      Neuropathies Consortium natural history study a cross-sectional analysis.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

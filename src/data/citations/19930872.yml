@@ -37,11 +37,9 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Gene Deletion
   - keyword: Gene Duplication
   - keyword: Genetic Testing
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Myelin Proteins
   - keyword: Paralysis
@@ -53,6 +51,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19930872%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
-    title: >-
-      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
-      hereditary neuropathy with liability to pressure palsies patients.

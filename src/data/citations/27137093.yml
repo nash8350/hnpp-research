@@ -14,7 +14,6 @@ authors:
 keywords:
   - keyword: Arthrogryposis
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Paralysis
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
@@ -23,6 +22,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27137093%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.

@@ -14,6 +14,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -33,13 +35,9 @@ keywords:
   - keyword: Extremities
   - keyword: innervation
   - keyword: physiopathology
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
-  - keyword: genetics
   - keyword: 'Heredodegenerative Disorders, Nervous System'
   - keyword: diagnosis
-  - keyword: Humans
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Peripheral Nerves
@@ -53,14 +51,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18760885%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25506001'
-    title: >-
-      Partial Gene Deletions of PMP22 Causing Hereditary Neuropathy with
-      Liability to Pressure Palsies.
   - pmid: '24251057'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy a recurrent and
-      bilateral foot drop case report.
   - pmid: '22953141'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy presenting with
-      hand drop in a young child.

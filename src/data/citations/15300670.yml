@@ -9,7 +9,13 @@ abstract: >-
   and patient with parkin-related disease. Our findings support the view that
   parkin may play a role in the peripheral nervous system.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Abbruzzese G
@@ -31,11 +37,8 @@ keywords:
   - keyword: DNA Mutational Analysis
   - keyword: Family Health
   - keyword: 'Genes, Recessive'
-  - keyword: Humans
   - keyword: Intracellular Signaling Peptides and Proteins
-  - keyword: Male
   - keyword: Mutation
-  - keyword: genetics
   - keyword: Neurologic Examination
   - keyword: Oncogene Proteins
   - keyword: Paralysis

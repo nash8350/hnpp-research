@@ -8,7 +8,9 @@ abstract: >-
   suggest that the molecular study of the 17p11.2 region could be an effective
   non invasive investigative tool in cases of chronic recurrent polyneuropathy
   associated with episodes of nerve palsy.
-categories: []
+categories:
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Le Forestier N
   - name: LeGuern E
@@ -19,13 +21,9 @@ authors:
   - name: Léger JM
   - name: Bouche P
 keywords:
-  - keyword: Adult
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: Gene Deletion
   - keyword: Genetic Predisposition to Disease
-  - keyword: Humans
-  - keyword: Male
   - keyword: Paralysis
   - keyword: Peripheral Nervous System Diseases
   - keyword: physiopathology
@@ -36,6 +34,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9270678%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18218131'
-    title: >-
-      Unusual presentation of hereditary neuropathy with liability to pressure
-      palsies.

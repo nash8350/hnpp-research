@@ -6,6 +6,8 @@ abstract: ''
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: W Görke
 keywords:
@@ -13,7 +15,6 @@ keywords:
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: 'Diagnosis, Differential'
-  - keyword: Humans
   - keyword: Motor Neurons
   - keyword: physiopathology
   - keyword: Muscle Contraction
@@ -21,7 +22,6 @@ keywords:
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
@@ -30,8 +30,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=4377795%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '3220711'
-    title: Recurrent familial neuropathy due to liability to pressure palsies.
   - pmid: '6185651'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies. Report of two
-      families and review of the literature.

@@ -22,6 +22,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -30,16 +32,11 @@ authors:
   - name: Siivola J
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Carpal Tunnel Syndrome
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: surgery
   - keyword: Electromyography
-  - keyword: Female
   - keyword: Finland
-  - keyword: Humans
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Pedigree

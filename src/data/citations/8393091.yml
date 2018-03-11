@@ -19,6 +19,10 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Verhagen WI
   - name: Gabreëls-Festen AA
@@ -29,21 +33,15 @@ authors:
   - name: de Graaf R
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: Child
   - keyword: Electromyography
   - keyword: Electrophysiology
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: 'Microscopy, Electron'
-  - keyword: Middle Aged
   - keyword: 'Nerve Fibers, Myelinated'
   - keyword: ultrastructure
   - keyword: Peripheral Nervous System Diseases
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Sural Nerve
@@ -52,38 +50,11 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8393091%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27761228'
-    title: >-
-      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
-      Experience in Southern Brazil.
   - pmid: '26347841'
-    title: >-
-      Complex Scapular Winging following Total Shoulder Arthroplasty in a
-      Patient with Ehlers-Danlos Syndrome.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '10727485'
-    title: >-
-      Clinical syndromes associated with tomacula or myelin swellings in sural
-      nerve biopsies.
   - pmid: '9391880'
-    title: >-
-      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
-      the value of direct DNA diagnosis.
   - pmid: '8936351'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies the same
-      molecular defect can result in diverse clinical presentation.
   - pmid: '7931393'
-    title: >-
-      DNA analysis in Finnish patients with hereditary neuropathy with liability
-      to pressure palsies (HNPP).
   - pmid: '8112739'
-    title: >-
-      Evidence for genetic heterogeneity underlying hereditary neuropathy with
-      liability to pressure palsies.
   - pmid: '8396068'
-    title: >-
-      Gene for hereditary neuropathy with liability to pressure palsies (HNPP)
-      maps to chromosome 17 at or close to the locus for HMSN type 1.

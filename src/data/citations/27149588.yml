@@ -27,9 +27,9 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Park D
@@ -39,11 +39,9 @@ keywords:
   - keyword: Aged
   - keyword: Arthrogryposis
   - keyword: complications
-  - keyword: Female
   - keyword: 'Gait Disorders, Neurologic'
   - keyword: etiology
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Lumbosacral Region
   - keyword: diagnostic imaging
   - keyword: innervation

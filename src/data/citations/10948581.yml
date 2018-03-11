@@ -23,6 +23,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -34,15 +36,12 @@ keywords:
   - keyword: Biopsy
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Diagnosis, Differential'
   - keyword: Electromyography
   - keyword: methods
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: pathology
-  - keyword: Humans
   - keyword: Paralysis
   - keyword: Pedigree
   - keyword: Peripheral Nerves

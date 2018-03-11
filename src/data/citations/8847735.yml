@@ -34,6 +34,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -50,7 +52,6 @@ keywords:
   - keyword: In Situ Hybridization
   - keyword: Mice
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Neurons
   - keyword: physiology
   - keyword: RNA

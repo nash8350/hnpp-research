@@ -6,6 +6,8 @@ abstract: ''
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Rautenstrauss B
   - name: Fuchs C
@@ -15,17 +17,14 @@ authors:
   - name: Lupski JR
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Chromosomes
   - keyword: ultrastructure
   - keyword: Cosmids
   - keyword: Gene Duplication
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
 date: 1997/01
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10975740%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
-    title: Identification of Alu elements mediating a partial PMP22 deletion.

@@ -39,6 +39,8 @@ categories:
     enabled: true
   - name: Prevalence
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Inoue K
   - name: Dewar K
@@ -52,18 +54,14 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: 'Evolution, Molecular'
-  - keyword: Female
   - keyword: Gene Dosage
   - keyword: Gene Duplication
   - keyword: Genome
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Interspersed Repetitive Sequences
-  - keyword: Male
   - keyword: Mice
   - keyword: Myelin Proteins
   - keyword: Physical Chromosome Mapping
@@ -145,18 +143,7 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11381029%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '22180461'
-    title: >-
-      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
-      PMP22.
   - pmid: '20493460'
-    title: >-
-      Mechanisms for nonrecurrent genomic rearrangements associated with CMT1A
-      or HNPP rare CNVs as a cause for missing heritability.
   - pmid: '19447823'
-    title: PMP22 expression in dermal nerve myelin from patients with CMT1A.
   - pmid: '16570190'
-    title: Identification of Alu elements mediating a partial PMP22 deletion.
   - pmid: '14757858'
-    title: >-
-      Comparative genomic hybridisation using a proximal 17p BAC/PAC array
-      detects rearrangements responsible for four genomic disorders.

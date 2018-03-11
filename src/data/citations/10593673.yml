@@ -17,6 +17,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Felice KJ
   - name: Leicher CR
@@ -25,19 +27,12 @@ keywords:
   - keyword: Action Potentials
   - keyword: physiology
   - keyword: Adolescent
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
 date: 1999/12
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10593673%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26347841'
-    title: >-
-      Complex Scapular Winging following Total Shoulder Arthroplasty in a
-      Patient with Ehlers-Danlos Syndrome.

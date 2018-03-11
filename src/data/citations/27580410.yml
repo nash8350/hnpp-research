@@ -14,20 +14,20 @@ abstract: >-
   presenting for multiple nerve decompression surgeries and be vigilant in the
   perioperative handling of these susceptible individuals.
 categories:
-  - name: Therapies
+  - name: Diagnosis
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Morgan KJ
   - name: Figueroa JJ
 keywords:
   - keyword: Adolescent
-  - keyword: Female
   - keyword: 'Gait Disorders, Neurologic'
   - keyword: diagnosis
   - keyword: etiology
-  - keyword: Humans
   - keyword: Patient Positioning
   - keyword: adverse effects
   - keyword: Postoperative Complications

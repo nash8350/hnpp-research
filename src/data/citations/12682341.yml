@@ -10,14 +10,19 @@ abstract: >-
   three generations had recurring peripheral neuropathies. de Jong hypothesized
   a hereditary disposition for the occurrence of neuropathies, but suggested a
   relationship with low vitamin B(1) levels.
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Peter J Koehler
 keywords:
-  - keyword: Female
   - keyword: 'History, 20th Century'
-  - keyword: Humans
-  - keyword: Male
   - keyword: Migraine Disorders
   - keyword: complications
   - keyword: diagnosis
@@ -38,18 +43,6 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12682341%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '25685136'
-    title: >-
-      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
-      Acute Brachial Plexopathy A Lover's Palsy.
   - pmid: '22953141'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy presenting with
-      hand drop in a young child.
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.

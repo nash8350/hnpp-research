@@ -29,6 +29,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -36,7 +38,6 @@ authors:
   - name: Mendell JR
   - name: Sahenk Z
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Apoptosis
   - keyword: Biopsy
@@ -44,13 +45,10 @@ keywords:
   - keyword: Cell Communication
   - keyword: physiology
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: DNA Fragmentation
   - keyword: Deoxyuracil Nucleotides
-  - keyword: Humans
   - keyword: 'Microscopy, Electron'
-  - keyword: Middle Aged
   - keyword: Multigene Family
   - keyword: Myelin Proteins
   - keyword: Myelin Sheath
@@ -63,8 +61,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9630241%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
-    title: >-
-      Clinical and Molecular Characterization of PMP22 point mutations in
-      Taiwanese patients with Inherited Neuropathy.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

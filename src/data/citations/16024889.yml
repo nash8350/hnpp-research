@@ -25,6 +25,10 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Koike H
   - name: Hirayama M
@@ -52,24 +56,19 @@ authors:
 keywords:
   - keyword: Action Potentials
   - keyword: physiology
-  - keyword: Adult
   - keyword: Age Factors
   - keyword: Aging
   - keyword: Axons
   - keyword: pathology
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: DNA Mutational Analysis
   - keyword: DNA Probes
   - keyword: 'DNA, Complementary'
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: ethnology
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Japan
-  - keyword: Male
   - keyword: 'Muscle, Skeletal'
   - keyword: innervation
   - keyword: Myelin Proteins
@@ -116,24 +115,8 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16024889%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28948078'
-    title: >-
-      Muscle training-induced bilateral brachial plexopathy in an adolescent
-      with sporadic hereditary neuropathy with liability to pressure palsies.
   - pmid: '28489810'
-    title: >-
-      A case report of hereditary neuropathy with liability to pressure palsies
-      accompanied by type 2 diabetes mellitus and psoriasis.
   - pmid: '26012543'
-    title: >-
-      Coexistence of a T118M PMP22 missense mutation and chromosome 17
-      (17p11.2-p12) deletion.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '23207550'
-    title: Electrophysiological comparison between males and females in HNPP.
   - pmid: '23185166'
-    title: >-
-      Two cases of elderly-onset hereditary neuropathy with liability to
-      pressure palsy manifesting bilateral peroneal nerve palsies.

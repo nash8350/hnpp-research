@@ -3,18 +3,18 @@ title: >-
   Hypoglossal neuropathy in hereditary neuropathy with liability to pressure
   palsy.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Winter WC
   - name: Juel VC
 keywords:
-  - keyword: Adult
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: DNA Mutational Analysis
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
-  - keyword: Humans
   - keyword: Hypoglossal Nerve Diseases
   - keyword: complications
   - keyword: diagnosis
@@ -33,6 +33,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14581692%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

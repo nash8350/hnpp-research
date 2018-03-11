@@ -4,7 +4,11 @@ title: >-
   pressure palsies.
 abstract: ''
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Carassiti M
@@ -14,16 +18,12 @@ authors:
   - name: Gallì B
   - name: Agrò FE
 keywords:
-  - keyword: Adult
   - keyword: 'Anesthesia, Conduction'
   - keyword: methods
   - keyword: Anterior Cruciate Ligament
   - keyword: surgery
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
   - keyword: Paralysis
   - keyword: etiology
   - keyword: prevention & control

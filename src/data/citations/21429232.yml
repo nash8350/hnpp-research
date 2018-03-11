@@ -28,6 +28,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -38,21 +40,16 @@ authors:
   - name: Mäkelä JP
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Brachial Plexus Neuropathies
   - keyword: epidemiology
   - keyword: etiology
   - keyword: rehabilitation
   - keyword: Cohort Studies
-  - keyword: Female
   - keyword: Follow-Up Studies
-  - keyword: Humans
   - keyword: Lifting
   - keyword: adverse effects
-  - keyword: Male
   - keyword: Military Personnel
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Occupational Diseases
   - keyword: diagnosis
   - keyword: physiopathology

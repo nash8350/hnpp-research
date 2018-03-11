@@ -33,6 +33,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -41,7 +43,6 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Chromosome Mapping
@@ -49,7 +50,6 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Connexins
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Point Mutation
 date: 1999/04

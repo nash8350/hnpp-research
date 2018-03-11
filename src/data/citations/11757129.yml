@@ -3,7 +3,11 @@ title: >-
   [Hereditary neuropathy with liability to pressure palsies--a more common
   neuropathy than generally thought].
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Meretoja P
   - name: Silander K
@@ -19,8 +23,6 @@ keywords:
   - keyword: 'Genes, Dominant'
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: deficiency
   - keyword: Nerve Compression Syndromes

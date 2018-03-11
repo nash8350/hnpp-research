@@ -29,7 +29,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Fridman V
@@ -64,16 +68,12 @@ keywords:
   - keyword: Cell Cycle Proteins
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Connexins
   - keyword: Cost of Illness
   - keyword: Cross-Sectional Studies
-  - keyword: Female
   - keyword: GTP Phosphohydrolases
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mitochondrial Proteins
   - keyword: Mutation
   - keyword: Myelin P0 Protein
@@ -114,6 +114,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25430934%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
-    title: >-
-      Clinical and Molecular Characterization of PMP22 point mutations in
-      Taiwanese patients with Inherited Neuropathy.

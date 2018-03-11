@@ -22,6 +22,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
 authors:
   - name: Vandenberghe A
   - name: Latour P
@@ -38,13 +42,11 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Chromosome Aberrations
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA
   - keyword: analysis
   - keyword: Gene Deletion
-  - keyword: Humans
   - keyword: Peripheral Nervous System Diseases
   - keyword: 'Polymorphism, Restriction Fragment Length'
   - keyword: 'Repetitive Sequences, Nucleic Acid'

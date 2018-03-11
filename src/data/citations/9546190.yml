@@ -28,7 +28,6 @@ authors:
   - name: Nasu M
 keywords:
   - keyword: Alcaligenes
-  - keyword: genetics
   - keyword: isolation & purification
   - keyword: Bacteria
   - keyword: Base Sequence
@@ -59,6 +58,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9546190%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11679354'
-    title: >-
-      Direct detection by in situ PCR of the amoA gene in biofilm resulting from
-      a nitrogen removal process.

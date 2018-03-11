@@ -26,11 +26,15 @@ abstract: >-
   with neuromyotonia, autosomal recessive (AR-CMT2). The proportion of patients
   without molecular diagnosis is similar to main European series.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Prevalence
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Fernández-Ramos JA
@@ -41,7 +45,6 @@ authors:
 keywords:
   - keyword: Adolescent
   - keyword: Cell Cycle Proteins
-  - keyword: genetics
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
   - keyword: diagnosis
@@ -51,14 +54,11 @@ keywords:
   - keyword: Connexins
   - keyword: Consanguinity
   - keyword: Demyelinating Diseases
-  - keyword: Female
   - keyword: GTP Phosphohydrolases
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: 'Hospitals, Pediatric'
   - keyword: statistics & numerical data
-  - keyword: Humans
   - keyword: Intracellular Signaling Peptides and Proteins
-  - keyword: Male
   - keyword: Mitochondrial Proteins
   - keyword: Molecular Diagnostic Techniques
   - keyword: Myelin Proteins

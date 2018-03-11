@@ -15,6 +15,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Wayne F Heidenreich
 keywords:
@@ -22,9 +24,6 @@ keywords:
   - keyword: diagnosis
   - keyword: 'Diagnosis, Differential'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
 date: 2011/02
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21290997%5Buid%5D&cmd=DetailsSearch'

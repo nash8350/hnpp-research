@@ -15,19 +15,18 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Marchini C
   - name: Zambito Marsala S
   - name: Cavagna E
   - name: Ferracci F
 keywords:
-  - keyword: Adult
   - keyword: Brachial Plexus
   - keyword: physiopathology
   - keyword: Brachial Plexus Neuropathies
   - keyword: pathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Paresis

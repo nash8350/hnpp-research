@@ -22,6 +22,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -30,7 +32,6 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Chromosome Banding
   - keyword: Chromosome Mapping
@@ -39,7 +40,6 @@ keywords:
   - keyword: 'Crossing Over, Genetic'
   - keyword: Gene Deletion
   - keyword: Genetic Linkage
-  - keyword: Humans
   - keyword: Meiosis
   - keyword: Mice
   - keyword: Mutation
@@ -52,6 +52,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8215977%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25342198'
-    title: >-
-      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
-      of CMT1A/HNPP diseases.

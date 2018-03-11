@@ -26,19 +26,12 @@ authors:
   - name: Lam KS
   - name: Low CO
 keywords:
-  - keyword: Adult
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 22'
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
 date: 2006/07
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16810438%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25685136'
-    title: >-
-      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
-      Acute Brachial Plexopathy A Lover's Palsy.

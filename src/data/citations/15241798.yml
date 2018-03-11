@@ -43,7 +43,6 @@ authors:
   - name: Choo KH
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: DNA
   - keyword: isolation & purification
   - keyword: DNA Probes
@@ -51,7 +50,6 @@ keywords:
   - keyword: Gene Dosage
   - keyword: Gene Duplication
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: methods
   - keyword: Interphase
@@ -65,4 +63,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15241798%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
-    title: Identification of Alu elements mediating a partial PMP22 deletion.

@@ -17,6 +17,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -29,9 +31,6 @@ keywords:
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
   - keyword: diagnosis
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: 'Muscle, Skeletal'
   - keyword: pathology
   - keyword: 'Muscular Dystrophy, Oculopharyngeal'

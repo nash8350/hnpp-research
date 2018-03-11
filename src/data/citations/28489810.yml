@@ -31,12 +31,12 @@ abstract: >-
   patients with HNPP.
 categories:
   - name: Symptoms
-    enabled: false
+    enabled: true
   - name: Diagnosis
-    enabled: false
-  - name: Therapies
-    enabled: false
+    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Li J
@@ -53,8 +53,6 @@ keywords:
   - keyword: 'Diabetes Mellitus, Type 2'
   - keyword: 'Diagnosis, Differential'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Psoriasis
   - keyword: Young Adult
 date: 2017/05

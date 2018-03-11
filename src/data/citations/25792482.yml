@@ -22,11 +22,14 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Jun Li
 keywords:
   - keyword: Action Potentials
-  - keyword: genetics
   - keyword: Animals
   - keyword: 'Disease Models, Animal'
   - keyword: Myelin Proteins
@@ -136,4 +139,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25792482%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27583434'
-    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.

@@ -26,6 +26,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Prevalence
     enabled: true
   - name: Biochemistry
@@ -49,12 +51,8 @@ keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
   - keyword: ethnology
-  - keyword: genetics
   - keyword: Europe
-  - keyword: Female
   - keyword: Genetic Testing
-  - keyword: Humans
-  - keyword: Male
   - keyword: Middle East
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
@@ -100,15 +98,5 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9032649%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '20493460'
-    title: >-
-      Mechanisms for nonrecurrent genomic rearrangements associated with CMT1A
-      or HNPP rare CNVs as a cause for missing heritability.
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.
   - pmid: '9545397'
-    title: >-
-      Human meiotic recombination products revealed by sequencing a hotspot for
-      homologous strand exchange in multiple HNPP deletion patients.

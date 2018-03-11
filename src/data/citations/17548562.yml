@@ -1,27 +1,27 @@
 pmid: '17548562'
 title: CNS involvement in hereditary neuropathy with pressure palsies (HNPP).
 abstract: ''
-categories: []
+categories:
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Iwasaki Y
   - name: Iguchi H
   - name: Ikeda K
   - name: Kano O
 keywords:
-  - keyword: Adult
   - keyword: Blinking
-  - keyword: genetics
   - keyword: Central Nervous System
   - keyword: metabolism
   - keyword: physiopathology
   - keyword: Cranial Nerve Diseases
   - keyword: Cranial Nerves
   - keyword: Facial Nerve Diseases
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
-  - keyword: Humans
   - keyword: Hypoglossal Nerve Diseases
   - keyword: Mutation
   - keyword: Myelin Proteins
@@ -33,6 +33,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17548562%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

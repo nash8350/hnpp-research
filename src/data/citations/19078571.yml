@@ -13,11 +13,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Molloy FM

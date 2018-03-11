@@ -30,6 +30,10 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -39,14 +43,12 @@ authors:
   - name: Dellon AL
 keywords:
   - keyword: Arthrogryposis
-  - keyword: genetics
   - keyword: surgery
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Disease Progression
   - keyword: Electromyography
   - keyword: Gene Expression
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Microsurgery
   - keyword: Myelin Proteins
   - keyword: metabolism

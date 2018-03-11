@@ -39,10 +39,8 @@ authors:
   - name: Lupski JR
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Gene Deletion
-  - keyword: Humans
   - keyword: Meiosis
   - keyword: Peripheral Nervous System Diseases
   - keyword: Polymerase Chain Reaction
@@ -94,20 +92,6 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9545397%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '20493460'
-    title: >-
-      Mechanisms for nonrecurrent genomic rearrangements associated with CMT1A
-      or HNPP rare CNVs as a cause for missing heritability.
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.
   - pmid: '9973284'
-    title: >-
-      DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
-      individual with a family history of autosomal dominant carpal tunnel
-      syndrome.

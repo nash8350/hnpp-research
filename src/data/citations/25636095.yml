@@ -21,17 +21,15 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Qi F
   - name: Che F
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Neural Conduction
 date: 2015/01

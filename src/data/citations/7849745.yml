@@ -28,6 +28,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -36,10 +38,8 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Genetic Linkage
-  - keyword: Humans
   - keyword: Nervous System Diseases
   - keyword: Phenotype
   - keyword: X Chromosome
@@ -48,6 +48,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7849745%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25506001'
-    title: >-
-      Partial Gene Deletions of PMP22 Causing Hereditary Neuropathy with
-      Liability to Pressure Palsies.

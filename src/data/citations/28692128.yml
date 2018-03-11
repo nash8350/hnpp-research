@@ -18,10 +18,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Prevalence
+    enabled: true
   - name: Therapies
     enabled: true
-  - name: Prevalence
-    enabled: false
 authors:
   - name: Panosyan FB
   - name: Kirk CA

@@ -3,7 +3,9 @@ title: >-
   Swallowing dysfunction in hereditary neuropathy with liability to pressure
   palsies.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Lorenzoni PJ
   - name: Scola RH
@@ -14,21 +16,14 @@ authors:
   - name: Silvado CE
   - name: Werneck LC
 keywords:
-  - keyword: Adult
   - keyword: Deglutition Disorders
   - keyword: etiology
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
   - keyword: Recurrence
 date: 2008/12
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19099137%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27761228'
-    title: >-
-      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
-      Experience in Southern Brazil.

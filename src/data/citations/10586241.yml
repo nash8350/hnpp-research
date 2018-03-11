@@ -15,16 +15,16 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: H W Müller
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Gene Expression Regulation
-  - keyword: Humans
   - keyword: Myelin P0 Protein
   - keyword: physiology
   - keyword: Myelin Proteins

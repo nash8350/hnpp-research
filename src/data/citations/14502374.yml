@@ -27,6 +27,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
   - name: Case Studies
@@ -39,15 +41,10 @@ authors:
   - name: Wood NW
 keywords:
   - keyword: Amino Acid Substitution
-  - keyword: genetics
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
   - keyword: Gene Duplication
   - keyword: Genotype
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Pedigree
   - keyword: Phenotype

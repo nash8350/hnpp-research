@@ -17,14 +17,13 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
-  - name: Symptoms
+  - name: Physiopathology
     enabled: true
 authors:
   - name: G Roth
 keywords:
   - keyword: Electromyography
   - keyword: Evoked Potentials
-  - keyword: Humans
   - keyword: Motor Neurons
   - keyword: physiology
   - keyword: Nerve Regeneration

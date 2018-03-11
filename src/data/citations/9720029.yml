@@ -26,6 +26,8 @@ abstract: >-
   HNPP-FISH technique should be a useful tool for the analysis of microbial
   community composition.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
 authors:
@@ -35,7 +37,6 @@ authors:
   - name: Nasu M
 keywords:
   - keyword: Bacteria
-  - keyword: genetics
   - keyword: isolation & purification
   - keyword: Diazonium Compounds
   - keyword: Fluorescein-5-isothiocyanate

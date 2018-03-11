@@ -16,7 +16,11 @@ abstract: >-
   mutations were absent from the PMP22, MPZ, and connexin 32 (Cx32) genes. We
   conclude that DSS also exists as a distinct genetic entity with autosomal
   recessive inheritance as originally defined by Dejerine and Sottas in 1893.
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Stögbauer F
   - name: Young P
@@ -32,14 +36,10 @@ authors:
 keywords:
   - keyword: 'Child, Preschool'
   - keyword: Connexins
-  - keyword: genetics
   - keyword: Electrophysiology
-  - keyword: Female
   - keyword: 'Genes, Recessive'
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mutation
   - keyword: Myelin P0 Protein
   - keyword: Myelin Proteins

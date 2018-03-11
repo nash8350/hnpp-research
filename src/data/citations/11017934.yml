@@ -31,6 +31,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Ruiz-Ponte C
   - name: Loidi L
@@ -39,7 +41,6 @@ authors:
   - name: Barros F
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: DNA
   - keyword: Fluorescence
   - keyword: Gene Deletion
@@ -47,7 +48,6 @@ keywords:
   - keyword: 'Genes, Duplicate'
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Paralysis
   - keyword: Polymerase Chain Reaction

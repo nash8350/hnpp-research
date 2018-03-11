@@ -17,6 +17,10 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Hirota N
   - name: Kaji R
@@ -27,24 +31,18 @@ authors:
   - name: Kimura J
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: 'Blotting, Southern'
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Infant
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: deficiency
   - keyword: Nerve Compression Syndromes

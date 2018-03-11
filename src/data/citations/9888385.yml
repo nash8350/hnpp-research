@@ -19,17 +19,17 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Nelis E
   - name: Haites N
   - name: Van Broeckhoven C
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Connexins
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Immediate-Early Proteins
   - keyword: Myelin P0 Protein
   - keyword: Myelin Proteins
@@ -39,7 +39,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9888385%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15988805'
-    title: >-
-      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
-      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
-      liability to pressure palsies.

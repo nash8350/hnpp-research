@@ -17,6 +17,10 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Sessa M
   - name: Nemni R
@@ -30,15 +34,10 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA
   - keyword: analysis
-  - keyword: Female
   - keyword: Genetic Testing
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Pedigree
   - keyword: Polymerase Chain Reaction
 date: 1997/12
@@ -76,6 +75,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9391880%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.

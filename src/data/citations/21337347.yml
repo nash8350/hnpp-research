@@ -13,6 +13,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Gess B
   - name: Jeibmann A
@@ -26,11 +28,7 @@ keywords:
   - keyword: pathology
   - keyword: physiology
   - keyword: Child
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Mutation
-  - keyword: genetics
   - keyword: Myelin Proteins
   - keyword: Pedigree
   - keyword: Polyneuropathies
@@ -40,8 +38,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=21337347%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24819634'
-    title: >-
-      Mutation analysis of MFN2, GJB1, MPZ and PMP22 in Italian patients with
-      axonal Charcot-Marie-Tooth disease.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

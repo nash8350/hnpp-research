@@ -21,22 +21,21 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Faber CG
   - name: Notermans NC
   - name: Wokke JH
   - name: Franssen H
 keywords:
-  - keyword: Adult
   - keyword: Arm
   - keyword: innervation
   - keyword: Autoantibodies
   - keyword: metabolism
   - keyword: Electromyography
-  - keyword: Humans
   - keyword: Immunoglobulin M
   - keyword: Leg
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Myelin-Associated Glycoprotein
   - keyword: Nerve Compression Syndromes

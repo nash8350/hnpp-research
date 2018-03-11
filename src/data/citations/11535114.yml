@@ -29,9 +29,13 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Woodward K
@@ -41,10 +45,8 @@ keywords:
   - keyword: Gene Deletion
   - keyword: Gene Dosage
   - keyword: Gene Duplication
-  - keyword: Humans
   - keyword: Mutation
   - keyword: Myelin Proteolipid Protein
-  - keyword: genetics
   - keyword: Myelin Sheath
   - keyword: physiology
   - keyword: Pelizaeus-Merzbacher Disease

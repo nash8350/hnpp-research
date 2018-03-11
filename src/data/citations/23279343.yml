@@ -7,7 +7,11 @@ abstract: >-
   later would be called, hereditary neuropathy with liability to pressure
   palsies (HNPP). We recently found a new case from this family and were able to
   confirm the diagnosis by DNA analysis.
-categories: []
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Koehler PJ
   - name: Baas F
@@ -15,16 +19,13 @@ keywords:
   - keyword: Adolescent
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: history
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: 'History, 20th Century'
-  - keyword: Humans
   - keyword: Hypesthesia
   - keyword: etiology
-  - keyword: Male
   - keyword: Muscle Weakness
   - keyword: Myelin Proteins
   - keyword: Netherlands

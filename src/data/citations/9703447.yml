@@ -12,6 +12,8 @@ abstract: >-
   differentiation of peripheral neuropathies but also in the diagnosis of
   recurrent plexopathies.
 categories:
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -22,16 +24,12 @@ authors:
   - name: Assmann G
   - name: Funke H
 keywords:
-  - keyword: Adult
   - keyword: Brachial Plexus
   - keyword: physiopathology
   - keyword: Gene Deletion
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Paralysis
   - keyword: etiology

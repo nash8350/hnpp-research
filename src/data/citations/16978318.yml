@@ -15,19 +15,18 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Wijayasiri L
   - name: Batas D
   - name: Quiney N
 keywords:
-  - keyword: Adult
   - keyword: 'Anesthesia, General'
   - keyword: Breast Neoplasms
   - keyword: surgery
-  - keyword: Female
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: complications
-  - keyword: Humans
   - keyword: Lymph Node Excision
   - keyword: Mastectomy
   - keyword: Paralysis

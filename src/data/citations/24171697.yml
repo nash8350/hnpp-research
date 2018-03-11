@@ -23,24 +23,17 @@ authors:
   - name: Earle N
   - name: Zochodne DW
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: complications
-  - keyword: genetics
   - keyword: surgery
   - keyword: Carpal Tunnel Syndrome
   - keyword: etiology
   - keyword: 'Decompression, Surgical'
   - keyword: methods
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
 date: 2013/11
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24171697%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28692128'
-    title: Carpal tunnel syndrome in inherited neuropathies A retrospective survey.

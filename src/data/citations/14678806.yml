@@ -21,7 +21,11 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Lönnqvist T
@@ -30,14 +34,11 @@ keywords:
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: Electromyography
   - keyword: 'Gait Disorders, Neurologic'
   - keyword: physiopathology
   - keyword: Genetic Predisposition to Disease
   - keyword: 'Heredodegenerative Disorders, Nervous System'
-  - keyword: Humans
-  - keyword: Male
   - keyword: Muscle Cramp
   - keyword: Muscle Hypertonia
   - keyword: 'Muscle, Skeletal'
@@ -58,6 +59,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14678806%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '22953141'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy presenting with
-      hand drop in a young child.

@@ -23,21 +23,19 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Berdai S
   - name: Benhamou D
 keywords:
-  - keyword: Adult
   - keyword: 'Delivery, Obstetric'
-  - keyword: Female
-  - keyword: Humans
   - keyword: 'Labor, Obstetric'
   - keyword: Nervous System Diseases
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Paralysis
   - keyword: Pregnancy

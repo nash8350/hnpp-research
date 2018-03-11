@@ -26,9 +26,15 @@ abstract: >-
   delineation of the condition and identification of otherwise clinically normal
   family members.
 categories:
+  - name: Symptoms
+    enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Eirís-Punal J
@@ -41,11 +47,8 @@ authors:
 keywords:
   - keyword: Child
   - keyword: Electromyography
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Median Nerve
   - keyword: pathology
   - keyword: Myelin Sheath

@@ -10,9 +10,9 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
-  - name: Case Studies
+  - name: Diagnosis
     enabled: true
-  - name: Overview
+  - name: Case Studies
     enabled: true
 authors:
   - name: György I
@@ -20,15 +20,10 @@ authors:
   - name: Mechler F
   - name: Molnár MJ
 keywords:
-  - keyword: Adult
   - keyword: Child
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Infant
-  - keyword: Male
   - keyword: Mutation
   - keyword: Myelin Proteins
 date: 2008/12

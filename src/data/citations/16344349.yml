@@ -23,6 +23,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -35,26 +37,20 @@ authors:
   - name: Granés P
   - name: Illa I
 keywords:
-  - keyword: Adult
   - keyword: Central Nervous System
   - keyword: metabolism
   - keyword: pathology
   - keyword: physiopathology
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: DNA Mutational Analysis
   - keyword: Family Health
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Genetic Predisposition to Disease
   - keyword: Genetic Testing
   - keyword: Hereditary Central Nervous System Demyelinating Diseases
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: 'Nerve Fibers, Myelinated'
@@ -66,22 +62,7 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16344349%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '22180461'
-    title: >-
-      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
-      PMP22.
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.

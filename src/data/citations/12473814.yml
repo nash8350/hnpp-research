@@ -7,25 +7,22 @@ abstract: >-
   cases genetic analysis identified a second hereditary aetiology in the first
   patient hereditary neuropathy with liability to pressure palsies and in the
   second hereditary motor and sensory neuropathy.
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Miller RF
   - name: Bunting S
   - name: Sadiq ST
   - name: Manji H
 keywords:
-  - keyword: Adult
   - keyword: Anti-HIV Agents
   - keyword: adverse effects
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: HIV Infections
   - keyword: complications
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Peripheral Nervous System Diseases
   - keyword: virology
   - keyword: Stavudine

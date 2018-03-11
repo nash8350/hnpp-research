@@ -33,15 +33,12 @@ authors:
 keywords:
   - keyword: Arthrogryposis
   - keyword: complications
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: 'Immunoglobulins, Intravenous'
   - keyword: therapeutic use
   - keyword: 'Influenza A Virus, H1N1 Subtype'
   - keyword: Influenza Vaccines
   - keyword: adverse effects
-  - keyword: Middle Aged
   - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
   - keyword: drug therapy
   - keyword: etiology
@@ -50,6 +47,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24146347%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26187721'
-    title: >-
-      An n-of-one RCT for intravenous immunoglobulin G for inflammation in
-      hereditary neuropathy with liability to pressure palsy (HNPP).

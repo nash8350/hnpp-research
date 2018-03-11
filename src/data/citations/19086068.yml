@@ -32,6 +32,10 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: England JD
   - name: Gronseth GS
@@ -60,9 +64,7 @@ keywords:
   - keyword: DNA Mutational Analysis
   - keyword: Evidence-Based Medicine
   - keyword: Genetic Predisposition to Disease
-  - keyword: genetics
   - keyword: Genetic Testing
-  - keyword: Humans
   - keyword: Inheritance Patterns
   - keyword: Peripheral Nerves
   - keyword: metabolism
@@ -75,4 +77,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19086068%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '21280073'
-    title: Charcot-Marie-Tooth disease subtypes and genetic testing strategies.

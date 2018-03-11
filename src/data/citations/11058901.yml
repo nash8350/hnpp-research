@@ -25,7 +25,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Wilke K
@@ -34,16 +38,12 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Computer Systems
-  - keyword: Female
   - keyword: Gene Dosage
   - keyword: Gene Duplication
   - keyword: Haploidy
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: Heterozygote
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Polymerase Chain Reaction
   - keyword: instrumentation

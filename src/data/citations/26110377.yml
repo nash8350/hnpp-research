@@ -33,6 +33,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -45,22 +47,16 @@ authors:
   - name: Panas M
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Child
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA Mutational Analysis
-  - keyword: Female
   - keyword: Greece
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: Phenotype

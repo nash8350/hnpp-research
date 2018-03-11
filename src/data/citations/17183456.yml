@@ -6,7 +6,9 @@ abstract: >-
   trivial trauma or compression. In the majority of cases HNPP is caused by
   deletion of the peripheral myelin protein 22 gene (PMP22) on chromosome
   17p11.2. The authors present a family case with genetically proven HNPP.
-categories: []
+categories:
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Paprocka J
   - name: Kajor M
@@ -16,14 +18,11 @@ authors:
   - name: Marszał E
 keywords:
   - keyword: Adolescent
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Paralysis
   - keyword: etiology
@@ -33,14 +32,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17183456%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25685136'
-    title: >-
-      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
-      Acute Brachial Plexopathy A Lover's Palsy.
   - pmid: '22953141'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy presenting with
-      hand drop in a young child.
   - pmid: '18218131'
-    title: >-
-      Unusual presentation of hereditary neuropathy with liability to pressure
-      palsies.

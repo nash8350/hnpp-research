@@ -16,6 +16,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Sellman MS
   - name: Mayer RF
@@ -25,7 +27,6 @@ keywords:
   - keyword: pathology
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Neural Conduction
   - keyword: Neural Inhibition
   - keyword: Paralysis
@@ -36,10 +37,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=3477693%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15205993'
-    title: >-
-      A novel PMP22 mutation Ser22Phe in a family with hereditary neuropathy
-      with liability to pressure palsies and CMT1A phenotypes.
   - pmid: '7931393'
-    title: >-
-      DNA analysis in Finnish patients with hereditary neuropathy with liability
-      to pressure palsies (HNPP).

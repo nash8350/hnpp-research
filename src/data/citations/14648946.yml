@@ -55,11 +55,13 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
-  - name: Therapies
+  - name: Prevalence
     enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Van Meir N
@@ -76,11 +78,8 @@ keywords:
   - keyword: 'Child, Preschool'
   - keyword: Electromyography
   - keyword: methods
-  - keyword: Female
   - keyword: Follow-Up Studies
-  - keyword: Humans
   - keyword: Incidence
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: Risk Factors
   - keyword: Severity of Illness Index

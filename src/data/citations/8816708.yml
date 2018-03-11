@@ -21,6 +21,14 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Warner LE
   - name: Hilz MJ
@@ -37,21 +45,16 @@ authors:
   - name: Van Broeckhoven C
   - name: Lupski JR
 keywords:
-  - keyword: Adult
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: 'Cloning, Molecular'
   - keyword: Cohort Studies
   - keyword: Crystallography
   - keyword: DNA Mutational Analysis
   - keyword: Demyelinating Diseases
   - keyword: congenital
-  - keyword: Female
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: 'Microscopy, Electron'
   - keyword: Myelin P0 Protein
   - keyword: chemistry
@@ -66,4 +69,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8816708%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9418989'
-    title: Animal models for inherited peripheral neuropathies.

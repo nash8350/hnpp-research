@@ -26,6 +26,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -46,12 +48,10 @@ keywords:
   - keyword: methods
   - keyword: Gene Amplification
   - keyword: Glucose Transporter Type 2
-  - keyword: genetics
   - keyword: Glutamate Decarboxylase
   - keyword: In Situ Hybridization
   - keyword: Indicators and Reagents
   - keyword: Isoenzymes
-  - keyword: Male
   - keyword: Plasmids
   - keyword: 'RNA, Messenger'
   - keyword: analysis

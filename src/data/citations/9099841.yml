@@ -16,6 +16,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Janssen EA
   - name: Kemp S
@@ -26,18 +28,12 @@ authors:
   - name: de Visser M
   - name: Bolhuis PA
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Connexins
-  - keyword: Female
   - keyword: 'Genes, Dominant'
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Peripheral Nervous System Diseases
   - keyword: Point Mutation
   - keyword: X Chromosome

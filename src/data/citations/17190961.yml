@@ -2,6 +2,8 @@ pmid: '17190961'
 title: ALS in a patient with hereditary neuropathy with liability to pressure palsy.
 abstract: ''
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -13,12 +15,8 @@ authors:
 keywords:
   - keyword: Amyotrophic Lateral Sclerosis
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: Humans
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Paralysis
 date: 2006/12
@@ -26,6 +24,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17190961%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '19238316'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies and amyotrophic
-      lateral sclerosis.

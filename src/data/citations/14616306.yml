@@ -39,6 +39,12 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Hong YH
   - name: Kim M
@@ -48,22 +54,16 @@ authors:
   - name: Lee KW
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: 'Diagnosis, Differential'
   - keyword: Electrodiagnosis
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Polymerase Chain Reaction
 date: 2003/11
@@ -71,14 +71,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14616306%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '18218131'
-    title: >-
-      Unusual presentation of hereditary neuropathy with liability to pressure
-      palsies.

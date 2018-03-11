@@ -6,6 +6,10 @@ abstract: ''
 categories:
   - name: Symptoms
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Padua L
   - name: Pazzaglia C
@@ -18,16 +22,11 @@ authors:
   - name: Tonali PA
   - name: Schenone A
 keywords:
-  - keyword: Adult
   - keyword: Aged
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: epidemiology
   - keyword: physiopathology
   - keyword: psychology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Paralysis
   - keyword: Pressure
   - keyword: Quality of Life
@@ -36,6 +35,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17222096%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29079893'
-    title: >-
-      Characterisation of pain in people with hereditary neuropathy with
-      liability to pressure palsy.

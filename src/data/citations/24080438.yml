@@ -3,22 +3,25 @@ title: >-
   Hereditary neuropathy with liability to pressure palsy global neuropathy after
   tourniquet use.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Potter SM
   - name: O'Shaughnessy M
 keywords:
-  - keyword: Adult
   - keyword: Carpal Tunnel Syndrome
   - keyword: etiology
   - keyword: surgery
   - keyword: 'Diagnosis, Differential'
   - keyword: Electrodiagnosis
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: complications
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Peroneal Neuropathies
   - keyword: Tourniquets
   - keyword: adverse effects

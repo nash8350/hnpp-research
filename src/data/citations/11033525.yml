@@ -1,7 +1,9 @@
 pmid: '11033525'
 title: '[Hereditary neuropathy with liability to pressure palsies].'
 abstract: ''
-categories: []
+categories:
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Bouche P
   - name: Mouton P
@@ -12,9 +14,7 @@ authors:
   - name: le Forestier N
 keywords:
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: 'Spastic Paraplegia, Hereditary'
 date: 2000/10
 cites: []

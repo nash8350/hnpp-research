@@ -1,7 +1,11 @@
 pmid: '11901406'
 title: Hereditary neuropathy with liability to pressure palsies.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Hal M Corwin
 keywords:
@@ -10,7 +14,6 @@ keywords:
   - keyword: complications
   - keyword: diagnosis
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Nerve Compression Syndromes
   - keyword: etiology
   - keyword: Paralysis

@@ -30,6 +30,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -41,19 +43,13 @@ keywords:
   - keyword: physiology
   - keyword: 'Adaptation, Ocular'
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: 'Amyloid Neuropathies, Familial'
-  - keyword: genetics
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Child
-  - keyword: Female
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Photic Stimulation
   - keyword: Prospective Studies
   - keyword: Pupil Disorders

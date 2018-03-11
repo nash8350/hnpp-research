@@ -10,11 +10,12 @@ const handleKeyPress = (event, onFilterChange) => {
 const categories = [
   "Symptoms",
   "Diagnosis",
-  "Genetics",
-  "Therapies",
-  "Prevalence",
   "Case Studies",
-  "Biochemistry"
+  "Prevalence",
+  "Genetics",
+  "Physiopathology",
+  "Biochemistry",
+  "Therapies"
 ]
 
 export default ({date, search, category, onFilterChange}) => (

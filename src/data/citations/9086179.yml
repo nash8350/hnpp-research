@@ -29,6 +29,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -53,7 +55,6 @@ keywords:
   - keyword: 'Microscopy, Electron'
   - keyword: Myelin Proteins
   - keyword: analysis
-  - keyword: genetics
   - keyword: Myelin Sheath
   - keyword: Neurons
   - keyword: Polymerase Chain Reaction
@@ -68,12 +69,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9086179%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29127354'
-    title: >-
-      Clinical and Molecular Characterization of PMP22 point mutations in
-      Taiwanese patients with Inherited Neuropathy.
   - pmid: '25324890'
-    title: >-
-      Does hereditary neuropathy with liability to pressure palsy predispose to
-      schwannomatosis?
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

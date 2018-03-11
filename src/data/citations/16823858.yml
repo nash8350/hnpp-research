@@ -25,6 +25,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -45,7 +47,6 @@ keywords:
   - keyword: physiopathology
   - keyword: Electrophysiology
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Motor Neurons
   - keyword: 'Muscle, Skeletal'
   - keyword: innervation

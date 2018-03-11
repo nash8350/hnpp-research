@@ -19,7 +19,13 @@ abstract: >-
   function of PMP22 and its regulation may be relevant to particular disease
   mechanisms.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Naef R
@@ -31,7 +37,6 @@ keywords:
   - keyword: ultrastructure
   - keyword: COS Cells
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: 'Disease Models, Animal'
   - keyword: Hereditary Sensory and Motor Neuropathy

@@ -33,6 +33,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Keller MP
   - name: Seifried BA
@@ -41,14 +43,12 @@ keywords:
   - keyword: Animals
   - keyword: Base Sequence
   - keyword: Cebidae
-  - keyword: genetics
   - keyword: Cercopithecidae
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Conserved Sequence
   - keyword: 'Evolution, Molecular'
   - keyword: Hominidae
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Phylogeny
   - keyword: Polymerase Chain Reaction
@@ -59,11 +59,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10474898%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.

@@ -47,11 +47,13 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Murakami T
@@ -64,17 +66,13 @@ keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Demyelinating Diseases
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Gene Dosage
   - keyword: Gene Rearrangement
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Multigene Family
   - keyword: 'Muscle, Skeletal'
   - keyword: innervation
@@ -89,13 +87,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8862346%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9973284'
-    title: >-
-      DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
-      individual with a family history of autosomal dominant carpal tunnel
-      syndrome.
   - pmid: '9545397'
-    title: >-
-      Human meiotic recombination products revealed by sequencing a hotspot for
-      homologous strand exchange in multiple HNPP deletion patients.
   - pmid: '9418989'
-    title: Animal models for inherited peripheral neuropathies.

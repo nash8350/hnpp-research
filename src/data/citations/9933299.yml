@@ -23,6 +23,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Biochemistry
@@ -35,10 +37,8 @@ authors:
   - name: Grehl H
   - name: Rautenstrauss B
 keywords:
-  - keyword: Adult
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA
@@ -46,11 +46,8 @@ keywords:
   - keyword: Deoxyribonuclease EcoRI
   - keyword: 'Deoxyribonucleases, Type II Site-Specific'
   - keyword: Diagnostic Errors
-  - keyword: Female
   - keyword: Gene Duplication
   - keyword: Genetic Predisposition to Disease
-  - keyword: Humans
-  - keyword: Male
   - keyword: Nuclear Family
   - keyword: Pedigree
   - keyword: 'Polymorphism, Restriction Fragment Length'

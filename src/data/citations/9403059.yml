@@ -26,6 +26,8 @@ abstract: >-
   the CMT1A-REP binary repeat could explain the maintenance of this repeat in
   humans.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Prevalence
@@ -38,9 +40,7 @@ authors:
   - name: Yang JG
   - name: Nicholson GA
 keywords:
-  - keyword: Adult
   - keyword: Alkyl and Aryl Transferases
-  - keyword: genetics
   - keyword: Amino Acid Sequence
   - keyword: Animals
   - keyword: Base Sequence
@@ -50,7 +50,6 @@ keywords:
   - keyword: Electron Transport Complex IV
   - keyword: Genes
   - keyword: 'Genes, Overlapping'
-  - keyword: Humans
   - keyword: Membrane Proteins
   - keyword: Molecular Sequence Data
   - keyword: Multigene Family
@@ -71,7 +70,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9403059%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.

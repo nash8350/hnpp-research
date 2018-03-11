@@ -21,6 +21,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Kyoung-Eun Kim
 keywords:
@@ -33,8 +35,6 @@ keywords:
   - keyword: Electromyography
   - keyword: Exercise
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: Medical Records
   - keyword: Military Personnel
@@ -46,10 +46,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25175852%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28948078'
-    title: >-
-      Muscle training-induced bilateral brachial plexopathy in an adolescent
-      with sporadic hereditary neuropathy with liability to pressure palsies.
   - pmid: '26347841'
-    title: >-
-      Complex Scapular Winging following Total Shoulder Arthroplasty in a
-      Patient with Ehlers-Danlos Syndrome.

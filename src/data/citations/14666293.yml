@@ -16,6 +16,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -27,8 +29,6 @@ keywords:
   - keyword: Child
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: ultrastructure
-  - keyword: Humans
-  - keyword: Male
   - keyword: Sural Nerve
 date: 2003/12
 cites: []

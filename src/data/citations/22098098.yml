@@ -19,6 +19,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -31,11 +35,8 @@ keywords:
   - keyword: Adolescent
   - keyword: Adrenal Cortex Hormones
   - keyword: therapeutic use
-  - keyword: Female
   - keyword: Functional Laterality
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: physiology
   - keyword: Paralysis
@@ -52,6 +53,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22098098%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24251057'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy a recurrent and
-      bilateral foot drop case report.

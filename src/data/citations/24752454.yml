@@ -21,6 +21,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Farrar MA
   - name: Park SB
@@ -29,7 +31,6 @@ authors:
   - name: Lin CS
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Arthrogryposis
   - keyword: physiopathology
@@ -39,12 +40,8 @@ keywords:
   - keyword: Child
   - keyword: Demyelinating Diseases
   - keyword: Electric Stimulation
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Membrane Potentials
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Phenotype
   - keyword: Reaction Time

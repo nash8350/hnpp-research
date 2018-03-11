@@ -26,11 +26,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Hasan M
@@ -46,8 +46,6 @@ keywords:
   - keyword: Drug Administration Schedule
   - keyword: 'Epilepsy, Absence'
   - keyword: drug therapy
-  - keyword: Female
-  - keyword: Humans
   - keyword: Status Epilepticus
   - keyword: chemically induced
   - keyword: Stupor

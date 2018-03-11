@@ -22,13 +22,15 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Jankelowitz SK
   - name: Burke D
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Axons
   - keyword: Biopsy
@@ -41,13 +43,9 @@ keywords:
   - keyword: Elbow
   - keyword: innervation
   - keyword: Electric Stimulation
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Longitudinal Studies
-  - keyword: Male
   - keyword: Median Nerve
-  - keyword: Middle Aged
   - keyword: 'Models, Statistical'
   - keyword: Motor Neurons
   - keyword: Muscle Tonus
@@ -63,6 +61,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23418209%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

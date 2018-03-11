@@ -31,19 +31,14 @@ authors:
   - name: Wang LH
   - name: Weiss MD
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Fibromyalgia
   - keyword: diagnosis
   - keyword: epidemiology
   - keyword: Follow-Up Studies
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Pain
   - keyword: Paralysis
   - keyword: Retrospective Studies
@@ -52,6 +47,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25042093%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29079893'
-    title: >-
-      Characterisation of pain in people with hereditary neuropathy with
-      liability to pressure palsy.

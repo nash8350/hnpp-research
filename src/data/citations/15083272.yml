@@ -25,6 +25,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Schuh A
   - name: Dürr V
@@ -34,14 +36,10 @@ authors:
 keywords:
   - keyword: 'Arthroplasty, Replacement, Hip'
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Femoral Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: surgery
   - keyword: Follow-Up Studies
-  - keyword: Humans
-  - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: Neurologic Examination
   - keyword: 'Osteoarthritis, Hip'

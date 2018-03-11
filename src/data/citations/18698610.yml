@@ -27,6 +27,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -38,15 +40,12 @@ authors:
   - name: Der Kaloustian VM
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Child
   - keyword: DNA Mutational Analysis
   - keyword: Gastroesophageal Reflux
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: Heterozygote
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Phenotype
 date: 2008/08
@@ -54,10 +53,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=18698610%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '21670407'
-    title: Neuropathy in a human without the PMP22 gene.

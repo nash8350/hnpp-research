@@ -25,6 +25,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -38,14 +40,10 @@ authors:
   - name: He X
 keywords:
   - keyword: China
-  - keyword: Female
   - keyword: Follow-Up Studies
   - keyword: Genetic Testing
   - keyword: methods
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Sheath
-  - keyword: genetics
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: Pedigree
@@ -62,6 +60,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=23147806%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).

@@ -42,9 +42,11 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Domènech-Estévez E
@@ -62,7 +64,6 @@ keywords:
   - keyword: physiology
   - keyword: ultrastructure
   - keyword: 'Cells, Cultured'
-  - keyword: Female
   - keyword: Mice
   - keyword: 'Mice, Inbred C57BL'
   - keyword: 'Mice, Knockout'
@@ -143,6 +144,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=27098694%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27799291'
-    title: >-
-      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
-      hypermyelination.

@@ -24,6 +24,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Genetics
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -45,13 +47,9 @@ keywords:
   - keyword: Consensus Sequence
   - keyword: Early Growth Response Protein 2
   - keyword: 'Enhancer Elements, Genetic'
-  - keyword: Female
   - keyword: 'Genes, Reporter'
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mice
   - keyword: Microtubule Proteins
-  - keyword: genetics
   - keyword: Myelin Proteins
   - keyword: Peripheral Nerves
   - keyword: Rats
@@ -138,4 +136,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22180461%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

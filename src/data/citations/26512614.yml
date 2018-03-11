@@ -34,7 +34,7 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
-  - name: Biochemistry
+  - name: Physiopathology
     enabled: true
 authors:
   - name: Wang WW
@@ -49,7 +49,6 @@ authors:
   - name: Xie L
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: pathology
   - keyword: physiopathology
@@ -58,12 +57,8 @@ keywords:
   - keyword: Diffusion Tensor Imaging
   - keyword: Electrodiagnosis
   - keyword: Evoked Potentials
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Sensitivity and Specificity
   - keyword: White Matter
   - keyword: Young Adult
@@ -97,6 +92,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=26512614%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.

@@ -29,6 +29,8 @@ abstract: >-
   maximization of bone mineralization, but the optimal threshold remains to be
   determined.
 categories:
+  - name: Biochemistry
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -53,7 +55,6 @@ keywords:
   - keyword: Chickens
   - keyword: Diet
   - keyword: veterinary
-  - keyword: Male
   - keyword: Phosphorus
 date: 2012/10
 cites: []

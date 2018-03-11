@@ -26,6 +26,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -34,10 +36,8 @@ keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Demyelinating Diseases
   - keyword: 'Diagnosis, Differential'
-  - keyword: Humans
   - keyword: Inflammation
   - keyword: Nervous System Diseases
   - keyword: Peripheral Nerves

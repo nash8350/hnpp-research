@@ -32,6 +32,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -49,10 +51,8 @@ keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: pathology
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: 'Microscopy, Immunoelectron'
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Myelin Sheath
   - keyword: Prospective Studies
   - keyword: 'RNA, Messenger'
@@ -113,4 +113,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=19447823%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

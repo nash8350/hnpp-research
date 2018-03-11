@@ -29,17 +29,17 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Jean-Michel Vallat
 keywords:
   - keyword: Axons
   - keyword: pathology
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Chromosome Mapping
   - keyword: DNA Mutational Analysis
-  - keyword: Humans
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: deficiency

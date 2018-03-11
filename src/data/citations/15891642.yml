@@ -30,6 +30,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -40,14 +44,12 @@ authors:
   - name: van Mierlo PJ
   - name: van Engelen BG
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Aging
   - keyword: 'Audiometry, Pure-Tone'
   - keyword: 'Audiometry, Speech'
   - keyword: Auditory Threshold
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Cross-Sectional Studies
   - keyword: Disease Progression
   - keyword: Frameshift Mutation
@@ -57,9 +59,7 @@ keywords:
   - keyword: 'Hearing Loss, Sensorineural'
   - keyword: diagnosis
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Linear Models
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Presbycusis
   - keyword: Prospective Studies
@@ -68,10 +68,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15891642%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26640726'
-    title: >-
-      Hereditary Neuropathy with Liability to Pressure Palsies Masked by
-      Previous Gunshots and Tuberculosis.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

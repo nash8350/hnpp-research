@@ -26,6 +26,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -44,20 +46,14 @@ authors:
   - name: Shy ME
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: Biopsy
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: metabolism
   - keyword: pathology
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: 'Microscopy, Electron'
   - keyword: 'Microscopy, Immunoelectron'
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: biosynthesis
   - keyword: Myelin Sheath
@@ -72,12 +68,6 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15774502%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25792482'
-    title: >-
-      Molecular regulators of nerve conduction - Lessons from inherited
-      neuropathies and rodent genetic models.
   - pmid: '21670407'
-    title: Neuropathy in a human without the PMP22 gene.
   - pmid: '20071523'
-    title: Conduction block in PMP22 deficiency.
   - pmid: '19447823'
-    title: PMP22 expression in dermal nerve myelin from patients with CMT1A.

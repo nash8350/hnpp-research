@@ -16,6 +16,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Nelis E
   - name: De Jonghe P
@@ -26,14 +28,10 @@ authors:
 keywords:
   - keyword: Base Sequence
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: DNA Mutational Analysis
   - keyword: DNA Primers
   - keyword: Exons
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Molecular Sequence Data
   - keyword: Mutation
   - keyword: Myelin Proteins

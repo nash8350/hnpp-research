@@ -25,14 +25,14 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: P Bouche
 keywords:
   - keyword: Electrophysiology
-  - keyword: Humans
   - keyword: Polyneuropathies
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
 date: 2004/07
 cites: []

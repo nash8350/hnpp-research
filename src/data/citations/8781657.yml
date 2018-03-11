@@ -34,6 +34,8 @@ categories:
     enabled: true
   - name: Prevalence
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Yoshikawa H
   - name: Nishimura T
@@ -44,18 +46,13 @@ authors:
   - name: Yanagihara T
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Cations
   - keyword: metabolism
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: pathology
   - keyword: Child
-  - keyword: Female
   - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Peripheral Nervous System
   - keyword: Pressure

@@ -26,6 +26,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
 authors:
@@ -38,7 +40,6 @@ authors:
   - name: Lupski JR
 keywords:
   - keyword: Centromere
-  - keyword: genetics
   - keyword: Chromosome Breakage
   - keyword: Chromosome Deletion
   - keyword: Chromosome Mapping
@@ -50,12 +51,9 @@ keywords:
   - keyword: DNA
   - keyword: 'Electrophoresis, Gel, Pulsed-Field'
   - keyword: standards
-  - keyword: Female
   - keyword: Gene Duplication
   - keyword: 'Genetic Diseases, Inborn'
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Male
   - keyword: Mutation
   - keyword: Nucleic Acid Hybridization
   - keyword: Oligonucleotide Array Sequence Analysis

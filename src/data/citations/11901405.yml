@@ -1,7 +1,9 @@
 pmid: '11901405'
 title: Hereditary neuropathy with liability to pressure palsies.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Smith GN
   - name: Higgins TS
@@ -10,7 +12,6 @@ keywords:
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: complications
   - keyword: diagnosis
-  - keyword: Humans
   - keyword: Nerve Compression Syndromes
   - keyword: etiology
   - keyword: Paralysis

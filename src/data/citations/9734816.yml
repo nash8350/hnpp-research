@@ -15,7 +15,11 @@ abstract: >-
   visualization of two different targets on a single nylon membrane, e.g.
   nucleic acids or proteins.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Kondoh Y

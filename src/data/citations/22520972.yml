@@ -3,21 +3,21 @@ title: >-
   Coexistence of transthyretin familial amyloid polyneuropathy and hereditary
   neuropathy with liability to pressure palsy.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Conceição I
   - name: Nzwalo H
   - name: de Carvalho M
 keywords:
-  - keyword: Adult
   - keyword: 'Amyloid Neuropathies, Familial'
   - keyword: complications
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Arthrogryposis
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Paralysis
   - keyword: Peripheral Nervous System Diseases
   - keyword: Prealbumin

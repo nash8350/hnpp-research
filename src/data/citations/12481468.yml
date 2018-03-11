@@ -24,16 +24,12 @@ authors:
   - name: Laurent L
   - name: Wang F
 keywords:
-  - keyword: Adult
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: 'Diagnosis, Differential'
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: diagnosis
   - keyword: pathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Neural Conduction
   - keyword: Paralysis
@@ -43,7 +39,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12481468%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15083272'
-    title: >-
-      [Delayed paresis of the femoral nerve after total hip arthroplasty
-      associated with hereditary neuropathy with liability to pressure palsies
-      (HNPP)].

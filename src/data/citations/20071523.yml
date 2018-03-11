@@ -25,7 +25,11 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Bai Y
@@ -47,7 +51,6 @@ keywords:
   - keyword: Electric Stimulation
   - keyword: methods
   - keyword: Gene Expression Regulation
-  - keyword: genetics
   - keyword: Kv1.2 Potassium Channel
   - keyword: metabolism
   - keyword: Luminescent Proteins
@@ -124,46 +127,15 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20071523%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28912683'
-    title: >-
-      Nano-scale Biophysical and Structural Investigations on Intact and
-      Neuropathic Nerve Fibers by Simultaneous Combination of Atomic Force and
-      Confocal Microscopy.
   - pmid: '27799291'
-    title: >-
-      Niacin-mediated Tace activation ameliorates CMT neuropathies with focal
-      hypermyelination.
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.
   - pmid: '27583434'
-    title: Tuning PAK Activity to Rescue Abnormal Myelin Permeability in HNPP.
   - pmid: '27386852'
-    title: >-
-      Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from
-      replication-based mechanisms and result in Smith-Magenis syndrome with
-      evident peripheral neuropathy.
   - pmid: '26761923'
-    title: >-
-      Phenotype HNPP (Hereditary Neuropathy With Liability to Pressure Palsies)
-      Induced by Medical Procedures.
   - pmid: '25792482'
-    title: >-
-      Molecular regulators of nerve conduction - Lessons from inherited
-      neuropathies and rodent genetic models.
   - pmid: '25374586'
-    title: >-
-      Genetic factors for nerve susceptibility to injuries - lessons from PMP22
-      deficiency.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '24339129'
-    title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '23207550'
-    title: Electrophysiological comparison between males and females in HNPP.
   - pmid: '21670407'
-    title: Neuropathy in a human without the PMP22 gene.

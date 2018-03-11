@@ -31,6 +31,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
   - name: Biochemistry
@@ -45,27 +47,21 @@ authors:
   - name: Sunwoo IN
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Age of Onset
   - keyword: Aged
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: Chromosome Deletion
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA Mutational Analysis
   - keyword: Electrophysiology
-  - keyword: Female
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Korea
-  - keyword: Male
   - keyword: Microsatellite Repeats
-  - keyword: Middle Aged
   - keyword: Paralysis
   - keyword: Pedigree
   - keyword: Phenotype
@@ -75,8 +71,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15031668%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '19513300'
-    title: A Family Harboring CMT1A Duplication and HNPP Deletion.

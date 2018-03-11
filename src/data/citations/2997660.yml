@@ -14,11 +14,12 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Magistris MR
   - name: Roth G
 keywords:
-  - keyword: Humans
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: physiopathology
@@ -28,4 +29,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=2997660%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '3220711'
-    title: Recurrent familial neuropathy due to liability to pressure palsies.

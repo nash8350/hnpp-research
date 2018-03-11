@@ -1,7 +1,9 @@
 pmid: '3693294'
 title: Hereditary neuropathy with pressure palsy.
 abstract: ''
-categories: []
+categories:
+  - name: Diagnosis
+    enabled: true
 authors:
   - name: Venkateswarlu K
   - name: Taly AB
@@ -10,14 +12,9 @@ authors:
   - name: Virmani V
 keywords:
   - keyword: Adolescent
-  - keyword: Female
   - keyword: 'Genes, Dominant'
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Neural Conduction
   - keyword: Paralysis
 date: 1987/05

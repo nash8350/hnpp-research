@@ -25,6 +25,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -34,10 +36,8 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Gene Dosage
-  - keyword: Humans
   - keyword: Median Nerve
   - keyword: Mutation
   - keyword: Myelin Proteins

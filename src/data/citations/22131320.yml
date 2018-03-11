@@ -33,6 +33,8 @@ categories:
     enabled: true
   - name: Prevalence
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Resko P
   - name: Radvansky J
@@ -44,7 +46,6 @@ authors:
   - name: Kadasi L
 keywords:
   - keyword: Arthrogryposis
-  - keyword: genetics
   - keyword: Base Sequence
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Chromosome Mapping
@@ -53,7 +54,6 @@ keywords:
   - keyword: Electrophysiology
   - keyword: Gene Dosage
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Molecular Sequence Data
   - keyword: Mutation
   - keyword: Myelin Proteins

@@ -37,12 +37,8 @@ authors:
   - name: Vassilopoulos D
   - name: Papageorgiou C
 keywords:
-  - keyword: Adult
   - keyword: Genetic Predisposition to Disease
-  - keyword: Humans
-  - keyword: Male
   - keyword: Paralysis
-  - keyword: genetics
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
   - keyword: Pressure
@@ -75,6 +71,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8936351%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24251057'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy a recurrent and
-      bilateral foot drop case report.

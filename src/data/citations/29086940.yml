@@ -33,9 +33,9 @@ abstract: >-
   maintenance, comparable to the effect in missense mutations.
 categories:
   - name: Symptoms
-    enabled: false
+    enabled: true
   - name: Diagnosis
-    enabled: false
+    enabled: true
 authors:
   - name: Gabreëls-Festen A
   - name: VAN DE Wetering R

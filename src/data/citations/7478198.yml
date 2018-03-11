@@ -21,6 +21,10 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: James R
   - name: Bellone E
@@ -33,10 +37,8 @@ authors:
   - name: Ajmar F
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: Electrophoresis
-  - keyword: Humans
   - keyword: Motor Neuron Disease
   - keyword: Myelin Proteins
   - keyword: metabolism

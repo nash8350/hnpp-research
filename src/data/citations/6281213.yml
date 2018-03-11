@@ -12,6 +12,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -20,13 +22,9 @@ authors:
 keywords:
   - keyword: Disease Susceptibility
   - keyword: Electrophysiology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Paralysis
   - keyword: physiopathology
   - keyword: Peripheral Nervous System Diseases
-  - keyword: genetics
   - keyword: pathology
   - keyword: Pressure
   - keyword: Sural Nerve
@@ -35,10 +33,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6281213%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '8125763'
-    title: >-
-      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
-      review of the literature.
   - pmid: '6185651'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies. Report of two
-      families and review of the literature.

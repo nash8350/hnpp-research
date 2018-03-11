@@ -19,6 +19,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -31,7 +33,6 @@ authors:
   - name: Lagueny A
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Axons
   - keyword: pathology
@@ -39,13 +40,8 @@ keywords:
   - keyword: Biopsy
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Demyelinating Diseases
-  - keyword: genetics
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Sheath
   - keyword: Retrospective Studies
 date: 2004/12

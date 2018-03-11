@@ -17,6 +17,10 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -30,24 +34,18 @@ authors:
   - name: Kachan JP
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Alleles
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA Mutational Analysis
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Genetic Loci
   - keyword: Genetic Markers
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Microsatellite Repeats
-  - keyword: Middle Aged
   - keyword: Molecular Diagnostic Techniques
   - keyword: Mutation
   - keyword: Myelin Proteins

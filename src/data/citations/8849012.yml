@@ -29,6 +29,8 @@ categories:
     enabled: true
   - name: Prevalence
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Ohnishi A
   - name: Li LY
@@ -46,9 +48,7 @@ keywords:
   - keyword: Ethnic Groups
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: ethnology
-  - keyword: genetics
   - keyword: metabolism
-  - keyword: Humans
   - keyword: Myelin Proteins
 date: 1995/10
 cites: []

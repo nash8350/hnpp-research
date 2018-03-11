@@ -18,17 +18,18 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Davide Pareyson
 keywords:
   - keyword: Acute Disease
-  - keyword: Adult
   - keyword: 'Diagnosis, Differential'
   - keyword: Disease Progression
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Nervous System Diseases
   - keyword: Phenotype
   - keyword: Recurrence

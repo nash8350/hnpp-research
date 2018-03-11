@@ -24,25 +24,25 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Rana AQ
   - name: Masroor MS
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: deficiency
   - keyword: Peripheral Nerves
@@ -53,6 +53,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=22023293%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25337104'
-    title: >-
-      Rapid genetic screening of Charcot-Marie-Tooth disease type 1A and
-      hereditary neuropathy with liability to pressure palsies patients.

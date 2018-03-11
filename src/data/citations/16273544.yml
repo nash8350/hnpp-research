@@ -30,6 +30,12 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Johnson JS
   - name: Roux KJ
@@ -49,10 +55,8 @@ keywords:
   - keyword: pharmacology
   - keyword: Frameshift Mutation
   - keyword: Gene Expression Regulation
-  - keyword: genetics
   - keyword: Glycine
   - keyword: Hemagglutinins
-  - keyword: Humans
   - keyword: Immunohistochemistry
   - keyword: Intracellular Space
   - keyword: Lysosomal-Associated Membrane Protein 1

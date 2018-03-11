@@ -19,6 +19,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Genetics
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -36,8 +38,6 @@ keywords:
   - keyword: Gene Frequency
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Italy
   - keyword: Paralysis
   - keyword: Point Mutation

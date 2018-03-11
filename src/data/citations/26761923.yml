@@ -16,6 +16,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -26,15 +30,11 @@ keywords:
   - keyword: Arthrogryposis
   - keyword: diagnosis
   - keyword: etiology
-  - keyword: genetics
   - keyword: 'Arthroplasty, Replacement, Knee'
   - keyword: adverse effects
-  - keyword: Female
   - keyword: 'Gait Disorders, Neurologic'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Iatrogenic Disease
-  - keyword: Middle Aged
   - keyword: Phenotype
 date: 2016/01
 cites:

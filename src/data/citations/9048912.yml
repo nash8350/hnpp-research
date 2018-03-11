@@ -35,12 +35,10 @@ authors:
   - name: Sobue G
 keywords:
   - keyword: Asian Continental Ancestry Group
-  - keyword: genetics
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Chromosome Breakage
   - keyword: 'Crossing Over, Genetic'
   - keyword: European Continental Ancestry Group
-  - keyword: Humans
   - keyword: Japan
   - keyword: Peripheral Nervous System Diseases
   - keyword: 'Repetitive Sequences, Nucleic Acid'
@@ -49,13 +47,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9048912%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16024889'
-    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.
   - pmid: '11381029'
-    title: >-
-      The 1.4-Mb CMT1A duplication/HNPP deletion genomic region reveals unique
-      genome architectural features and provides insights into the recent
-      evolution of new genes.
   - pmid: '9545397'
-    title: >-
-      Human meiotic recombination products revealed by sequencing a hotspot for
-      homologous strand exchange in multiple HNPP deletion patients.

@@ -43,13 +43,9 @@ authors:
   - name: Nicholson GA
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: DNA
-  - keyword: Female
   - keyword: Gene Dosage
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Polymerase Chain Reaction
   - keyword: methods
@@ -62,7 +58,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9554482%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15988805'
-    title: >-
-      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
-      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
-      liability to pressure palsies.

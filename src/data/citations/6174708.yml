@@ -16,23 +16,20 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Strenge H
   - name: Soyka D
   - name: Tackmann W
 keywords:
-  - keyword: Adult
   - keyword: Child
   - keyword: Electromyography
   - keyword: 'Evoked Potentials, Somatosensory'
   - keyword: 'Evoked Potentials, Visual'
-  - keyword: Female
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: Neural Conduction
   - keyword: Optic Nerve
@@ -57,6 +54,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=6174708%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '6185651'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies. Report of two
-      families and review of the literature.

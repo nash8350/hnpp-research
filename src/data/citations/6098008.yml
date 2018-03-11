@@ -23,6 +23,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -30,16 +32,10 @@ authors:
   - name: Magistris M
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Carpal Tunnel Syndrome
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Motor Neurons
   - keyword: physiology
   - keyword: Muscles

@@ -21,7 +21,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Lorentzos P
@@ -33,10 +37,8 @@ keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Gene Dosage
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Polymerase Chain Reaction
   - keyword: methods
@@ -45,7 +47,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12885335%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '15988805'
-    title: >-
-      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
-      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
-      liability to pressure palsies.

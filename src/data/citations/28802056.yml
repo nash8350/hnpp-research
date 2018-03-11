@@ -20,6 +20,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Padua L
   - name: Coraci D
@@ -36,7 +38,6 @@ authors:
   - name: Briani C
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: 'Anatomy, Cross-Sectional'
@@ -44,11 +45,7 @@ keywords:
   - keyword: diagnostic imaging
   - keyword: Cohort Studies
   - keyword: Demyelinating Diseases
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Paralysis
   - keyword: physiopathology
   - keyword: Peripheral Nerves

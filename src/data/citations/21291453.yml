@@ -24,6 +24,12 @@ abstract: >-
   with liability to pressure palsy should be tested for the presence of the
   p.Arg954Stop mutation or other mutations in the SH3TC2 gene.
 categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -36,19 +42,13 @@ authors:
   - name: Seeman P
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Alleles
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Child
   - keyword: Czech Republic
   - keyword: Exons
-  - keyword: Female
   - keyword: Genotype
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Mutation
   - keyword: 'Mutation, Missense'
   - keyword: Pedigree

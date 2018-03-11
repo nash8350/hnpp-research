@@ -36,6 +36,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -46,15 +48,10 @@ keywords:
   - keyword: Action Potentials
   - keyword: physiology
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Electromyography
   - keyword: Electrophysiology
-  - keyword: Female
   - keyword: Follow-Up Studies
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: 'Neurons, Afferent'
   - keyword: Reaction Time

@@ -36,11 +36,7 @@ keywords:
   - keyword: DNA
   - keyword: analysis
   - keyword: Gene Deletion
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: Pedigree
@@ -53,6 +49,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7955724%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9391880'
-    title: >-
-      Atypical hereditary neuropathy with liability to pressure palsies (HNPP)
-      the value of direct DNA diagnosis.

@@ -25,7 +25,11 @@ abstract: >-
   but the few remaining hypomethylated copies were sufficient for strong
   expression of PMP22. These results indicate that the transcriptional control
   in tumor cell lines is probably different from leukocytes and sciatic nerve.
-categories: []
+categories:
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Huehne K
   - name: Rautenstrauss B
@@ -34,12 +38,10 @@ keywords:
   - keyword: CpG Islands
   - keyword: DNA Methylation
   - keyword: Exons
-  - keyword: Humans
   - keyword: Leukocytes
   - keyword: metabolism
   - keyword: Molecular Sequence Data
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Peripheral Nerves
   - keyword: 'Promoter Regions, Genetic'
   - keyword: 'RNA, Messenger'

@@ -22,6 +22,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
 authors:
@@ -31,23 +33,17 @@ authors:
   - name: Lee TS
 keywords:
   - keyword: Action Potentials
-  - keyword: genetics
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: DNA Mutational Analysis
   - keyword: 'Diagnosis, Differential'
   - keyword: Electrodiagnosis
   - keyword: methods
-  - keyword: Female
   - keyword: Genetic Markers
   - keyword: Genetic Testing
   - keyword: Genotype
   - keyword: 'Heredodegenerative Disorders, Nervous System'
   - keyword: diagnosis
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Muscle Weakness
   - keyword: 'Muscle, Skeletal'
   - keyword: innervation
@@ -64,6 +60,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=17922888%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26512614'
-    title: >-
-      DTI Study of Cerebral Normal-Appearing White Matter in Hereditary
-      Neuropathy With Liability to Pressure Palsies (HNPP).

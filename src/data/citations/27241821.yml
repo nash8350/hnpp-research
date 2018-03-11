@@ -28,9 +28,11 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
-  - name: Therapies
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Cortese A
@@ -42,16 +44,13 @@ authors:
   - name: Alfonsi E
   - name: Pareyson D
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: complications
   - keyword: diagnostic imaging
   - keyword: physiopathology
   - keyword: Diaphragm
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Laryngeal Nerves
-  - keyword: Male
   - keyword: Phrenic Nerve
   - keyword: Respiratory Insufficiency
   - keyword: etiology

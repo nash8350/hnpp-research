@@ -16,6 +16,10 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Kleopa KA
   - name: Georgiou DM
@@ -25,16 +29,11 @@ authors:
   - name: Kyriakides T
   - name: Christodoulou K
 keywords:
-  - keyword: Adult
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Electrophysiology
   - keyword: Exons
   - keyword: Family Health
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: Neurons

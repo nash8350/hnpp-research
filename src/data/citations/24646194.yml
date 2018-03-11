@@ -33,9 +33,9 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Prevalence
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: van Paassen BW
@@ -47,13 +47,11 @@ authors:
 keywords:
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: therapy
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Genetic Counseling
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Point Mutation
   - keyword: Prognosis
@@ -242,18 +240,6 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=24646194%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.
   - pmid: '28489810'
-    title: >-
-      A case report of hereditary neuropathy with liability to pressure palsies
-      accompanied by type 2 diabetes mellitus and psoriasis.
   - pmid: '27761228'
-    title: >-
-      Hereditary Neuropathy With Liability to Pressure Palsies A Single-Center
-      Experience in Southern Brazil.
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.

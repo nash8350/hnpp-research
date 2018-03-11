@@ -34,7 +34,6 @@ authors:
   - name: Thiex R
   - name: Schröder JM
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: Biopsy
@@ -43,15 +42,10 @@ keywords:
   - keyword: pathology
   - keyword: Child
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: DNA
   - keyword: 'Electrophoresis, Polyacrylamide Gel'
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Multigene Family
   - keyword: Myelin Proteins
   - keyword: biosynthesis

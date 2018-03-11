@@ -30,6 +30,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Sinkiewicz-Darol E
   - name: Kabzińska D
@@ -37,10 +39,6 @@ authors:
   - name: Kochański A
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Polymerase Chain Reaction
   - keyword: 'Polymorphism, Single Nucleotide'
@@ -51,10 +49,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=20842290%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25342198'
-    title: >-
-      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
-      of CMT1A/HNPP diseases.
   - pmid: '22180461'
-    title: >-
-      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
-      PMP22.

@@ -29,14 +29,11 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: complications
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: 'Encephalomyelitis, Acute Disseminated'
   - keyword: diagnosis
-  - keyword: Female
   - keyword: Gene Deletion
-  - keyword: Humans
   - keyword: Magnetic Resonance Imaging
   - keyword: Myelin Proteins
 date: 2000/05
@@ -44,6 +41,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10788748%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27749933'
-    title: >-
-      Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
-      Hereditary Neuropathy with Liability to Pressure Palsies.

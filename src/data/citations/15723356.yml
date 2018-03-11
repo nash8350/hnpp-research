@@ -24,6 +24,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -43,7 +45,6 @@ keywords:
   - keyword: Mice
   - keyword: 'Mice, Transgenic'
   - keyword: Myelin Proteins
-  - keyword: genetics
   - keyword: Nerve Crush
   - keyword: Nerve Regeneration
   - keyword: physiology
@@ -59,12 +60,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15723356%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '22180461'
-    title: >-
-      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
-      PMP22.

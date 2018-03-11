@@ -22,6 +22,10 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Sutton IJ
   - name: Mocroft AP
@@ -31,14 +35,11 @@ authors:
   - name: Winer JB
   - name: MacDonald F
 keywords:
-  - keyword: Adult
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA Mutational Analysis
   - keyword: methods
   - keyword: Exons
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Gene Dosage
   - keyword: Genetic Markers
@@ -46,9 +47,6 @@ keywords:
   - keyword: Genetic Testing
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Molecular Probe Techniques
   - keyword: Mutation
   - keyword: Myelin Proteins
@@ -68,4 +66,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=15564036%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
-    title: Identification of Alu elements mediating a partial PMP22 deletion.

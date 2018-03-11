@@ -28,6 +28,10 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Kim KE
   - name: Yeom J
@@ -36,13 +40,10 @@ keywords:
   - keyword: Arthrogryposis
   - keyword: complications
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Brachial Plexus Neuropathies
   - keyword: Cohort Studies
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Military Personnel
   - keyword: Muscle Weakness
   - keyword: etiology

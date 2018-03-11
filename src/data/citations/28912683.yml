@@ -24,9 +24,9 @@ abstract: >-
   PNS neuropathy. It can be extended to human nerve biopsies.
 categories:
   - name: Diagnosis
-    enabled: false
+    enabled: true
   - name: Genetics
-    enabled: false
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:

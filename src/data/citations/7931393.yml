@@ -24,13 +24,9 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA
   - keyword: analysis
-  - keyword: Female
   - keyword: Finland
-  - keyword: Humans
-  - keyword: Male
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
-  - keyword: genetics
 date: 1994/10
 cites:
   - pmid: '4285163'
@@ -46,10 +42,4 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7931393%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '21429232'
-    title: >-
-      Recovery of brachial plexus lesions resulting from heavy backpack use a
-      follow-up case series.
   - pmid: '8557256'
-    title: >-
-      Molecular genetic analysis of the 17p11.2 region in patients with
-      hereditary neuropathy with liability to pressure palsies (HNPP).

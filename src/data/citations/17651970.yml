@@ -20,9 +20,13 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
     enabled: true
   - name: Case Studies
+    enabled: true
+  - name: Biochemistry
     enabled: true
 authors:
   - name: Van Vught PW
@@ -35,26 +39,20 @@ authors:
   - name: Van den Berg LH
   - name: Baas F
 keywords:
-  - keyword: Adult
   - keyword: Age of Onset
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: Alleles
   - keyword: Amyotrophic Lateral Sclerosis
-  - keyword: genetics
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: metabolism
   - keyword: physiopathology
   - keyword: Ciliary Neurotrophic Factor
   - keyword: DNA Mutational Analysis
   - keyword: Disease Progression
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
   - keyword: Genetic Testing
   - keyword: Genotype
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Mutation
   - keyword: Netherlands
   - keyword: Peripheral Nervous System Diseases

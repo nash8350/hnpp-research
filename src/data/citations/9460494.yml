@@ -24,6 +24,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Biochemistry
@@ -45,15 +47,11 @@ keywords:
   - keyword: Chromosome Aberrations
   - keyword: diagnosis
   - keyword: Chromosome Disorders
-  - keyword: Female
   - keyword: Hematopoietic Stem Cells
   - keyword: pathology
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: methods
-  - keyword: Male
   - keyword: Methylcellulose
-  - keyword: Middle Aged
   - keyword: Myelodysplastic Syndromes
 date: 1998/02
 cites: []

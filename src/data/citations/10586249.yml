@@ -23,9 +23,9 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Suter U
@@ -33,12 +33,10 @@ authors:
 keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: 'Disease Models, Animal'
   - keyword: Gene Dosage
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Mice
   - keyword: 'Mice, Neurologic Mutants'
   - keyword: 'Mice, Transgenic'
@@ -48,6 +46,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10586249%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25342198'
-    title: >-
-      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
-      of CMT1A/HNPP diseases.

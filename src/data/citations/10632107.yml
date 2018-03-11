@@ -12,6 +12,12 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Numakura C
   - name: Lin C
@@ -20,12 +26,8 @@ authors:
   - name: Hayasaka K
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
-  - keyword: Humans
   - keyword: 'Microscopy, Electron'
-  - keyword: Middle Aged
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: Sural Nerve
@@ -35,6 +37,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10632107%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.

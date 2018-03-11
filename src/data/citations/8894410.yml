@@ -15,6 +15,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -25,8 +27,6 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: Humans
   - keyword: Mice
   - keyword: 'Mice, Knockout'
   - keyword: Molecular Biology
@@ -37,6 +37,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8894410%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.

@@ -20,6 +20,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -27,10 +29,7 @@ authors:
   - name: Sullivan MJ
   - name: Hildreth DH
 keywords:
-  - keyword: Adult
   - keyword: Electromyography
-  - keyword: Female
-  - keyword: Humans
   - keyword: Paralysis
   - keyword: etiology
   - keyword: Peripheral Nervous System Diseases

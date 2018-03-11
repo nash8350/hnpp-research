@@ -22,6 +22,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Mandich P
   - name: James R
@@ -38,11 +40,9 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: 'Genes, Dominant'
   - keyword: Genetic Counseling
-  - keyword: Humans
   - keyword: Italy
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
-  - keyword: genetics
   - keyword: Phenotype
 date: 1995/05
 cites:
@@ -67,4 +67,3 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7643137%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.

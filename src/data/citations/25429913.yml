@@ -38,14 +38,9 @@ authors:
   - name: Mandich P
   - name: Santoro L
 keywords:
-  - keyword: Adult
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Connexins
-  - keyword: Female
-  - keyword: Humans
   - keyword: Italy
-  - keyword: Male
   - keyword: Myelin P0 Protein
   - keyword: Myelin Proteins
   - keyword: Nerve Tissue Proteins
@@ -54,4 +49,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25429913%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28286897'
-    title: Charcot-Marie-Tooth disease genetic subtypes in the Sardinian population.

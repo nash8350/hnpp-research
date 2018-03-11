@@ -23,6 +23,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
@@ -40,12 +42,9 @@ authors:
 keywords:
   - keyword: Biopsy
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
   - keyword: 'Child, Preschool'
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: metabolism
   - keyword: Neural Conduction

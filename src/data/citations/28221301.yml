@@ -18,10 +18,14 @@ abstract: >-
   terminal motor latency prolongation, and multiple compressive neuropathies are
   the most common findings associated with HNPP.
 categories:
+  - name: Symptoms
+    enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
-    enabled: false
+    enabled: true
 authors:
   - name: Takahashi S
   - name: Chum M
@@ -29,17 +33,12 @@ authors:
 keywords:
   - keyword: Action Potentials
   - keyword: physiology
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: diagnosis
   - keyword: physiopathology
   - keyword: Electrodiagnosis
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Phenotype
   - keyword: Retrospective Studies
@@ -50,6 +49,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=28221301%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29079893'
-    title: >-
-      Characterisation of pain in people with hereditary neuropathy with
-      liability to pressure palsy.

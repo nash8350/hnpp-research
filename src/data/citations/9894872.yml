@@ -26,7 +26,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
     enabled: true
   - name: Biochemistry
     enabled: true
@@ -41,7 +45,6 @@ keywords:
   - keyword: pathology
   - keyword: ultrastructure
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Cytoskeleton
   - keyword: Gene Deletion
   - keyword: Gene Duplication
@@ -61,6 +64,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9894872%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '16024889'
-    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.

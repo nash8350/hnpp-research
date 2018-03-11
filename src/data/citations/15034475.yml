@@ -22,6 +22,8 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: J Pouget
 keywords:
@@ -32,7 +34,6 @@ keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Chromosome Mapping
   - keyword: Demyelinating Diseases
   - keyword: Electrophysiology
@@ -42,7 +43,6 @@ keywords:
   - keyword: 'Genetic Diseases, X-Linked'
   - keyword: Genetic Heterogeneity
   - keyword: Genotype
-  - keyword: Humans
   - keyword: Median Nerve
   - keyword: physiopathology
   - keyword: Nerve Tissue Proteins

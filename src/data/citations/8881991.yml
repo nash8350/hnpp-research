@@ -28,7 +28,11 @@ abstract: >-
   place for the clinician and nerve pathologist in a medical world immersed in
   the wonders of molecular genetics.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
     enabled: true
   - name: Biochemistry
     enabled: true
@@ -37,17 +41,13 @@ authors:
 keywords:
   - keyword: Adolescent
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: Chromosome Deletion
   - keyword: Chromosomes
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Demyelinating Diseases
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Neural Conduction
   - keyword: Phenotype
   - keyword: Point Mutation

@@ -37,6 +37,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -46,20 +48,14 @@ keywords:
   - keyword: 'Animals, Genetically Modified'
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: classification
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: 'Crossing Over, Genetic'
-  - keyword: Humans
   - keyword: Myelin Proteins
 date: 1999/12
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10586225%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26410747'
-    title: >-
-      A patient with PMP22-related hereditary neuropathy and DBH-gene-related
-      dysautonomia.
   - pmid: '16570190'
-    title: Identification of Alu elements mediating a partial PMP22 deletion.

@@ -44,6 +44,12 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Pou Serradell A
   - name: Monells J
@@ -57,27 +63,21 @@ authors:
   - name: Martin JJ
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: ultrastructure
   - keyword: Codon
   - keyword: Disease Progression
   - keyword: Exons
   - keyword: Fasciculation
   - keyword: etiology
-  - keyword: Female
   - keyword: Genetic Heterogeneity
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: epidemiology
   - keyword: physiopathology
-  - keyword: Humans
   - keyword: Inflammation
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: deficiency
   - keyword: Neural Conduction

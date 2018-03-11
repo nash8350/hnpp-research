@@ -24,6 +24,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Therapies
     enabled: true
 authors:
@@ -34,12 +36,8 @@ authors:
   - name: Timmerman V
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: Chromosome Mapping
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Pedigree
   - keyword: Phenotype
@@ -48,16 +46,6 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10680781%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '22037956'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy combined with
-      suspected schwannomas of the peroneal and radial nerves.
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.

@@ -26,6 +26,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Infante J
   - name: García A
@@ -36,21 +38,15 @@ authors:
   - name: Gutiérrez-Rivas EJ
   - name: Palau F
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Family Health
-  - keyword: Female
   - keyword: Gene Deletion
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: physiology
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Paralysis
   - keyword: Pedigree
@@ -62,29 +58,9 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11494267%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28948078'
-    title: >-
-      Muscle training-induced bilateral brachial plexopathy in an adolescent
-      with sporadic hereditary neuropathy with liability to pressure palsies.
   - pmid: '25685136'
-    title: >-
-      Hereditary Neuropathy with Liability to Pressure Palsy Presenting as an
-      Acute Brachial Plexopathy A Lover's Palsy.
   - pmid: '24646194'
-    title: >-
-      PMP22 related neuropathies Charcot-Marie-Tooth disease type 1A and
-      Hereditary Neuropathy with liability to Pressure Palsies.
   - pmid: '24251057'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy a recurrent and
-      bilateral foot drop case report.
   - pmid: '23207550'
-    title: Electrophysiological comparison between males and females in HNPP.
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.
   - pmid: '15083272'
-    title: >-
-      [Delayed paresis of the femoral nerve after total hip arthroplasty
-      associated with hereditary neuropathy with liability to pressure palsies
-      (HNPP)].

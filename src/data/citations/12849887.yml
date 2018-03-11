@@ -33,12 +33,9 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Developmental Disabilities
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: 'Genes, Dominant'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Infant
-  - keyword: Male
   - keyword: Mononeuropathies
   - keyword: Muscle Hypotonia
   - keyword: Myelin Proteins
@@ -51,6 +48,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12849887%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.

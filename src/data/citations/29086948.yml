@@ -32,13 +32,13 @@ abstract: >-
   chromosome 17q25.
 categories:
   - name: Symptoms
-    enabled: false
+    enabled: true
   - name: Diagnosis
-    enabled: false
+    enabled: true
   - name: Genetics
-    enabled: false
+    enabled: true
   - name: Biochemistry
-    enabled: false
+    enabled: true
 authors:
   - name: Philip F Chance
 keywords: []
@@ -47,11 +47,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29086948%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29079893'
-    title: >-
-      Characterisation of pain in people with hereditary neuropathy with
-      liability to pressure palsy.
   - pmid: '15083272'
-    title: >-
-      [Delayed paresis of the femoral nerve after total hip arthroplasty
-      associated with hereditary neuropathy with liability to pressure palsies
-      (HNPP)].

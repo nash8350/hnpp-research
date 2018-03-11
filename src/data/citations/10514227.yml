@@ -21,6 +21,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
 authors:
@@ -29,11 +31,9 @@ keywords:
   - keyword: Animals
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: DNA Mutational Analysis
   - keyword: 'Diagnosis, Differential'
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: 'Mutation, Missense'
   - keyword: Point Mutation
 date: 1999/10

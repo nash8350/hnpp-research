@@ -39,6 +39,8 @@ categories:
     enabled: true
   - name: Prevalence
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Thiel CT
   - name: Kraus C
@@ -49,11 +51,9 @@ authors:
 keywords:
   - keyword: Biological Assay
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Gene Dosage
   - keyword: Gene Duplication
-  - keyword: Humans
   - keyword: Paralysis
   - keyword: Polymerase Chain Reaction
   - keyword: Sequence Deletion
@@ -62,9 +62,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12634865%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '16570190'
-    title: Identification of Alu elements mediating a partial PMP22 deletion.
   - pmid: '15988805'
-    title: >-
-      Effectiveness of real-time quantitative PCR compare to repeat PCR for the
-      diagnosis of Charcot-Marie-Tooth Type 1A and hereditary neuropathy with
-      liability to pressure palsies.

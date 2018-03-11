@@ -24,6 +24,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Guldner HH
   - name: Szostecki C
@@ -39,7 +43,6 @@ keywords:
   - keyword: Animals
   - keyword: 'Antigens, Nuclear'
   - keyword: Autoantigens
-  - keyword: genetics
   - keyword: Base Sequence
   - keyword: Carrier Proteins
   - keyword: Cell Line
@@ -50,7 +53,6 @@ keywords:
   - keyword: HMGB1 Protein
   - keyword: HeLa Cells
   - keyword: High Mobility Group Proteins
-  - keyword: Humans
   - keyword: Introns
   - keyword: Molecular Sequence Data
   - keyword: Nuclear Proteins

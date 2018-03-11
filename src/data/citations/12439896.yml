@@ -24,22 +24,12 @@ authors:
   - name: Wirguin I
   - name: Steiner I
 keywords:
-  - keyword: Adult
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
   - keyword: Guillain-Barre Syndrome
-  - keyword: genetics
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Sequence Deletion
 date: 2002/11
 cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=12439896%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '26187721'
-    title: >-
-      An n-of-one RCT for intravenous immunoglobulin G for inflammation in
-      hereditary neuropathy with liability to pressure palsy (HNPP).
   - pmid: '16024889'
-    title: Age associated axonal features in HNPP with 17p11.2 deletion in Japan.

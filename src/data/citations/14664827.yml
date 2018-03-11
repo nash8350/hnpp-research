@@ -23,6 +23,10 @@ abstract: >-
   to be crucially involved in the maintenance of the integrity of myelinated
   peripheral nerves.
 categories:
+  - name: Genetics
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -32,7 +36,6 @@ authors:
   - name: Suter U
 keywords:
   - keyword: 5' Flanking Region
-  - keyword: genetics
   - keyword: Animals
   - keyword: 'Animals, Newborn'
   - keyword: Demyelinating Diseases
@@ -57,8 +60,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=14664827%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '22180461'
-    title: >-
-      Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
-      PMP22.

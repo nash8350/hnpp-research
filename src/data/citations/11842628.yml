@@ -3,7 +3,9 @@ title: >-
   [A rare form of demyelinating polyneuropathy hereditary neuropathy with
   predisposition to pressure palsies].
 abstract: ''
-categories: []
+categories:
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Savitskaia NG
   - name: Ivanova-Smolenskaia IA
@@ -12,12 +14,8 @@ authors:
 keywords:
   - keyword: Axons
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Genetic Predisposition to Disease
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Nerve Compression Syndromes
   - keyword: etiology

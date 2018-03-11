@@ -11,6 +11,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Case Studies
     enabled: true
 authors:
@@ -21,17 +25,13 @@ authors:
   - name: de Toffol B
   - name: Corcia P
 keywords:
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hand
   - keyword: pathology
   - keyword: physiology
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
 date: 2007/01
 cites: []

@@ -21,6 +21,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -33,16 +35,11 @@ authors:
 keywords:
   - keyword: Abdomen
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Biopsy
   - keyword: Colic
   - keyword: complications
-  - keyword: genetics
   - keyword: Electromyography
   - keyword: Electrophysiology
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: 'Microscopy, Electron'
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases

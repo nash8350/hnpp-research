@@ -3,7 +3,9 @@ title: >-
   Hereditary neuropathy with liability to pressure palsies two cases with a
   reciprocal translocation t(16;17)(q12;11.2) interrupting the PMP22 gene.
 abstract: ''
-categories: []
+categories:
+  - name: Genetics
+    enabled: true
 authors:
   - name: Nadal M
   - name: Valiente A
@@ -15,12 +17,8 @@ keywords:
   - keyword: 'Chromosomes, Human, Pair 16'
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Cytogenetic Analysis
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Pedigree
   - keyword: 'Translocation, Genetic'

@@ -20,9 +20,15 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
   - name: Case Studies
     enabled: true
   - name: Biochemistry
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Kleiter I
@@ -41,14 +47,11 @@ keywords:
   - keyword: diagnosis
   - keyword: drug therapy
   - keyword: epidemiology
-  - keyword: Humans
   - keyword: Immunosuppressive Agents
   - keyword: therapeutic use
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: diagnostic imaging
   - keyword: ultrastructure
-  - keyword: Middle Aged
   - keyword: Nerve Compression Syndromes
   - keyword: Peroneal Nerve
   - keyword: Polyneuropathies

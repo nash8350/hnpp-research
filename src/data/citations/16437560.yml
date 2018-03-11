@@ -21,6 +21,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Shy ME
   - name: Scavina MT
@@ -35,17 +37,11 @@ authors:
   - name: Scherer SS
   - name: Lupski JR
 keywords:
-  - keyword: Adult
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Child
-  - keyword: Female
   - keyword: Genotype
-  - keyword: Humans
-  - keyword: Male
   - keyword: Methionine
-  - keyword: Middle Aged
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: Neural Conduction
@@ -58,16 +54,7 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=16437560%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '29078790'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsy (HNPP) report of a
-      family with a new point mutation in PMP22 gene.
   - pmid: '26012543'
-    title: >-
-      Coexistence of a T118M PMP22 missense mutation and chromosome 17
-      (17p11.2-p12) deletion.
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '21670407'
-    title: Neuropathy in a human without the PMP22 gene.
   - pmid: '19513300'
-    title: A Family Harboring CMT1A Duplication and HNPP Deletion.

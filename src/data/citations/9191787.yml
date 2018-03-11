@@ -22,6 +22,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Magy L
   - name: Birouk N
@@ -32,19 +34,13 @@ authors:
   - name: Lyon-Caen O
   - name: Fontaine B
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Body Temperature Regulation
   - keyword: Family Health
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Hot Temperature
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Neural Conduction
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases

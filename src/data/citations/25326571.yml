@@ -22,16 +22,16 @@ categories:
     enabled: true
   - name: Case Studies
     enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Topakian R
   - name: Wimmer S
   - name: Pischinger B
   - name: Pichler R
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: therapy
   - keyword: Chromosome Deletion
   - keyword: 'Diagnosis, Differential'
@@ -39,8 +39,6 @@ keywords:
   - keyword: methods
   - keyword: Follow-Up Studies
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Nerve Compression Syndromes
   - keyword: Paralysis
   - keyword: Physical Therapy Modalities

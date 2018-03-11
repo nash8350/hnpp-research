@@ -39,18 +39,14 @@ authors:
 keywords:
   - keyword: Alleles
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA
   - keyword: Dinucleotide Repeats
   - keyword: Family Health
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Gene Duplication
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Microsatellite Repeats
   - keyword: Polymerase Chain Reaction
   - keyword: methods
@@ -59,6 +55,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10998431%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '20493460'
-    title: >-
-      Mechanisms for nonrecurrent genomic rearrangements associated with CMT1A
-      or HNPP rare CNVs as a cause for missing heritability.

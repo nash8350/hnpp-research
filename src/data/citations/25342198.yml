@@ -20,6 +20,10 @@ abstract: >-
   LITAF sequence variant would be a good candidate for a biomarker in the case
   of the CMT1A/HNPP disorders.
 categories:
+  - name: Diagnosis
+    enabled: true
+  - name: Prevalence
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -39,16 +43,12 @@ keywords:
   - keyword: complications
   - keyword: diagnosis
   - keyword: epidemiology
-  - keyword: genetics
   - keyword: Biomarkers
   - keyword: 'Cells, Cultured'
   - keyword: Cercopithecus aethiops
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: Female
   - keyword: Genetic Predisposition to Disease
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
   - keyword: Mitochondria
   - keyword: metabolism
   - keyword: Myelin Proteins

@@ -28,9 +28,9 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
-  - name: Therapies
-    enabled: true
   - name: Prevalence
+    enabled: true
+  - name: Therapies
     enabled: true
 authors:
   - name: Luigetti M
@@ -44,18 +44,13 @@ authors:
   - name: Della Marca G
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Aged
   - keyword: 'Aged, 80 and over'
   - keyword: Arthrogryposis
   - keyword: complications
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Demyelinating Diseases
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Pilot Projects
   - keyword: 'Polyradiculoneuropathy, Chronic Inflammatory Demyelinating'
   - keyword: Prevalence

@@ -30,6 +30,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Biochemistry
@@ -40,14 +42,12 @@ authors:
 keywords:
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: European Continental Ancestry Group
   - keyword: Gene Deletion
   - keyword: Gene Duplication
   - keyword: Hereditary Sensory and Autonomic Neuropathies
-  - keyword: Humans
   - keyword: Myelin Proteins
   - keyword: Norway
   - keyword: Polymerase Chain Reaction
@@ -59,11 +59,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=11140948%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '25342198'
-    title: >-
-      The LITAF/SIMPLE I92V sequence variant results in an earlier age of onset
-      of CMT1A/HNPP diseases.
   - pmid: '19638685'
-    title: >-
-      Screening of the 17p11.2--p12 region in a large cohort of patients with
-      Charcot-Marie-Tooth (CMT) disease or hereditary neuropathy with liability
-      to pressure palsies (HNPP).

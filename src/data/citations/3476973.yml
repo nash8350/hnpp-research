@@ -32,6 +32,8 @@ categories:
     enabled: true
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -44,7 +46,6 @@ keywords:
   - keyword: Electrophysiology
   - keyword: Hereditary Sensory and Autonomic Neuropathies
   - keyword: pathology
-  - keyword: Humans
   - keyword: Myelin Sheath
   - keyword: ultrastructure
   - keyword: Neuromuscular Diseases
@@ -55,14 +56,5 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=3476973%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '18751796'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies case report and
-      discussion.
   - pmid: '8936351'
-    title: >-
-      Hereditary neuropathy with liability to pressure palsies the same
-      molecular defect can result in diverse clinical presentation.
   - pmid: '8125763'
-    title: >-
-      Clinical spectrum of the tomaculous neuropathies. Report of 60 cases and
-      review of the literature.

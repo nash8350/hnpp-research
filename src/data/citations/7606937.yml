@@ -14,6 +14,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Biochemistry
+    enabled: true
 authors:
   - name: Kondoh Y
   - name: Ono T
@@ -29,7 +31,6 @@ keywords:
   - keyword: Chromosome Banding
   - keyword: methods
   - keyword: Fluorescent Dyes
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Mice
   - keyword: Naphthalenes

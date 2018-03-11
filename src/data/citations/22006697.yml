@@ -10,7 +10,11 @@ abstract: >-
   that point mutations in PMP22 may be more likely in HNPP patients than in CMT1
   patients after exclusion of CMT1A/HNPP.
 categories:
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
     enabled: true
   - name: Case Studies
     enabled: true
@@ -27,17 +31,11 @@ authors:
   - name: Sakmaryová I
   - name: Seeman P
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: 'Child, Preschool'
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Phenotype
   - keyword: Point Mutation

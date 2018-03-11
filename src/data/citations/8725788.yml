@@ -18,6 +18,8 @@ abstract: >-
 categories:
   - name: Genetics
     enabled: true
+  - name: Case Studies
+    enabled: true
 authors:
   - name: Brown A
   - name: Phelan MC
@@ -27,16 +29,13 @@ authors:
   - name: Schwartz C
 keywords:
   - keyword: 'Abnormalities, Multiple'
-  - keyword: genetics
   - keyword: 'Child, Preschool'
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: Follow-Up Studies
   - keyword: Genetic Markers
   - keyword: Growth Disorders
-  - keyword: Humans
   - keyword: 'In Situ Hybridization, Fluorescence'
   - keyword: Infant
-  - keyword: Male
   - keyword: Multigene Family
   - keyword: Syndrome
 date: 1996/05
@@ -44,7 +43,3 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8725788%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '9973284'
-    title: >-
-      DNA rearrangements on both homologues of chromosome 17 in a mildly delayed
-      individual with a family history of autosomal dominant carpal tunnel
-      syndrome.

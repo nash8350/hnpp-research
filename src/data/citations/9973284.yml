@@ -46,15 +46,11 @@ authors:
 keywords:
   - keyword: Adolescent
   - keyword: Carpal Tunnel Syndrome
-  - keyword: genetics
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA
   - keyword: analysis
-  - keyword: Female
   - keyword: Gene Rearrangement
   - keyword: 'Genes, Dominant'
-  - keyword: Humans
-  - keyword: Male
   - keyword: Pedigree
 date: 1999/02
 cites:
@@ -99,17 +95,6 @@ cites:
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=9973284%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '28692128'
-    title: Carpal tunnel syndrome in inherited neuropathies A retrospective survey.
   - pmid: '27386852'
-    title: >-
-      Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from
-      replication-based mechanisms and result in Smith-Magenis syndrome with
-      evident peripheral neuropathy.
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.
   - pmid: '14757858'
-    title: >-
-      Comparative genomic hybridisation using a proximal 17p BAC/PAC array
-      detects rearrangements responsible for four genomic disorders.

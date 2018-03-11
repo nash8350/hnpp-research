@@ -20,6 +20,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Gouider R
   - name: LeGuern E
@@ -33,20 +35,15 @@ authors:
   - name: Brice A
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Brachial Plexus Neuritis
   - keyword: classification
-  - keyword: genetics
   - keyword: physiopathology
   - keyword: Child
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Genetic Carrier Screening
   - keyword: Genetic Linkage
   - keyword: Genotype
-  - keyword: Humans
-  - keyword: Male
   - keyword: Myelin Proteins
   - keyword: Pedigree
   - keyword: Peripheral Nervous System Diseases
@@ -58,10 +55,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=7991107%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '19654968'
-    title: >-
-      Charcot-Marie-Tooth 1A concurrent with schwannomas of the spinal cord and
-      median nerve.
   - pmid: '16775374'
-    title: >-
-      Inherited focal, episodic neuropathies hereditary neuropathy with
-      liability to pressure palsies and hereditary neuralgic amyotrophy.

@@ -25,6 +25,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Berghoff C
   - name: Berghoff M
@@ -36,21 +38,15 @@ authors:
   - name: Del Valle G
   - name: Heuss D
 keywords:
-  - keyword: Adult
   - keyword: Age of Onset
   - keyword: Aged
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Costa Rica
   - keyword: Family Health
-  - keyword: Female
   - keyword: 'Genes, Dominant'
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Pedigree
 date: 2008/10
 cites: []

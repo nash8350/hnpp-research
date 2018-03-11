@@ -3,7 +3,11 @@ title: >-
   Hereditary neuropathy with liability to pressure palsy fulminant radicular
   dysfunction during anterolateral lumbar interbody fusion.
 abstract: ''
-categories: []
+categories:
+  - name: Physiopathology
+    enabled: true
+  - name: Therapies
+    enabled: true
 authors:
   - name: Berciano J
   - name: Martínez-Agüeros JA
@@ -14,15 +18,12 @@ authors:
   - name: Fernández-Torre JL
   - name: Combarros O
 keywords:
-  - keyword: Adult
   - keyword: Arthrogryposis
   - keyword: complications
   - keyword: physiopathology
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Lumbar Vertebrae
   - keyword: surgery
-  - keyword: Male
   - keyword: Radiculopathy
   - keyword: etiology
   - keyword: Spinal Fusion

@@ -38,6 +38,8 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Biochemistry
     enabled: true
 authors:
@@ -53,21 +55,16 @@ authors:
   - name: Lupski JR
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: genetics
   - keyword: DNA Copy Number Variations
   - keyword: DNA Replication
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Haploinsufficiency
   - keyword: Homologous Recombination
-  - keyword: Humans
   - keyword: Intellectual Disability
   - keyword: physiopathology
-  - keyword: Male
   - keyword: Mutation
   - keyword: Myelin Proteins
   - keyword: Smith-Magenis Syndrome

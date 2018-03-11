@@ -21,6 +21,10 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Reményi V
   - name: Inczédy-Farkas G
@@ -31,21 +35,16 @@ authors:
   - name: Mechler F
   - name: Molnár MJ
 keywords:
-  - keyword: Adult
   - keyword: Age of Onset
   - keyword: Amino Acid Substitution
   - keyword: Arginine
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
   - keyword: Early Growth Response Protein 2
   - keyword: Gene Deletion
   - keyword: Histidine
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
-  - keyword: Middle Aged
   - keyword: Myelin Proteins
   - keyword: Neural Conduction
   - keyword: Peroneal Nerve

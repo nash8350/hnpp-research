@@ -25,6 +25,10 @@ categories:
     enabled: true
   - name: Genetics
     enabled: true
+  - name: Physiopathology
+    enabled: true
+  - name: Prevalence
+    enabled: true
 authors:
   - name: Amato AA
   - name: Gronseth GS
@@ -34,21 +38,15 @@ authors:
   - name: Barohn RJ
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Child
   - keyword: 'Chromosomes, Human, Pair 17'
   - keyword: DNA
   - keyword: analysis
   - keyword: Electrophysiology
-  - keyword: Female
   - keyword: Gene Deletion
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: genetics
   - keyword: pathology
   - keyword: physiopathology
-  - keyword: Humans
-  - keyword: Male
-  - keyword: Middle Aged
   - keyword: Neurologic Examination
   - keyword: Retrospective Studies
 date: 1996/01
@@ -56,9 +54,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=8538664%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '23224996'
-    title: The PMP22 gene and its related diseases.
   - pmid: '15083272'
-    title: >-
-      [Delayed paresis of the femoral nerve after total hip arthroplasty
-      associated with hereditary neuropathy with liability to pressure palsies
-      (HNPP)].

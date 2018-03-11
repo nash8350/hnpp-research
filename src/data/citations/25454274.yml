@@ -24,13 +24,14 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 authors:
   - name: Goedee SH
   - name: Brekelmans GJ
   - name: van den Berg LH
   - name: Visser LH
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Arthrogryposis
   - keyword: diagnosis
@@ -38,14 +39,10 @@ keywords:
   - keyword: Brachial Plexus
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: 'Diagnosis, Differential'
-  - keyword: Female
   - keyword: Hereditary Sensory and Motor Neuropathy
-  - keyword: Humans
   - keyword: Hypertrophy
-  - keyword: Male
   - keyword: Median Nerve
   - keyword: physiopathology
-  - keyword: Middle Aged
   - keyword: Peripheral Nerves
   - keyword: Peroneal Nerve
   - keyword: Phenotype
@@ -57,10 +54,4 @@ cites: []
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=25454274%5Buid%5D&cmd=DetailsSearch'
 citedBy:
   - pmid: '27056376'
-    title: >-
-      HNPP not only entrapment sites. Ultrasound digital nerve abnormalities in
-      a guitar player.
   - pmid: '26559821'
-    title: >-
-      The modified ultrasound pattern sum score mUPSS as additional diagnostic
-      tool for genetically distinct hereditary neuropathies.

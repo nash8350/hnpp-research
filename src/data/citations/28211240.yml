@@ -29,8 +29,10 @@ abstract: >-
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
   - name: Prevalence
-    enabled: false
+    enabled: true
 authors:
   - name: Guimarães-Costa R
   - name: Iancu Ferfoglia R
@@ -46,16 +48,10 @@ authors:
   - name: Latour P
   - name: Stojkovic T
 keywords:
-  - keyword: Adult
   - keyword: Aged
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: physiopathology
-  - keyword: Female
-  - keyword: Humans
-  - keyword: Male
   - keyword: Median Nerve
-  - keyword: Middle Aged
   - keyword: Motor Neurons
   - keyword: Mutation
   - keyword: Myelin Proteins

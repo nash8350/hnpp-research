@@ -19,6 +19,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
   - name: Biochemistry
@@ -28,19 +30,14 @@ authors:
   - name: Windebank AJ
 keywords:
   - keyword: Adolescent
-  - keyword: Adult
   - keyword: Brachial Plexus Neuritis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: Child
   - keyword: 'Child, Preschool'
   - keyword: Chromosome Mapping
   - keyword: 'Chromosomes, Human, Pair 17'
-  - keyword: Female
   - keyword: Genetic Linkage
   - keyword: Genetic Markers
-  - keyword: Humans
-  - keyword: Male
   - keyword: Pedigree
 date: 1996/10
 cites: []

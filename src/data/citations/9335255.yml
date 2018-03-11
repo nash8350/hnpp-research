@@ -26,7 +26,11 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
+    enabled: true
+  - name: Physiopathology
     enabled: true
   - name: Biochemistry
     enabled: true
@@ -41,14 +45,11 @@ keywords:
   - keyword: physiology
   - keyword: 'Blotting, Western'
   - keyword: Charcot-Marie-Tooth Disease
-  - keyword: genetics
   - keyword: 'Disease Models, Animal'
-  - keyword: Female
   - keyword: Genotype
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: Heterozygote
   - keyword: Immunohistochemistry
-  - keyword: Male
   - keyword: Mice
   - keyword: 'Mice, Inbred C57BL'
   - keyword: 'Mice, Neurologic Mutants'

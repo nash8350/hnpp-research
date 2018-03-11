@@ -24,6 +24,8 @@ abstract: >-
 categories:
   - name: Symptoms
     enabled: true
+  - name: Diagnosis
+    enabled: true
   - name: Genetics
     enabled: true
 authors:
@@ -38,7 +40,6 @@ authors:
 keywords:
   - keyword: Arthrogryposis
   - keyword: diagnosis
-  - keyword: genetics
   - keyword: pathology
   - keyword: Charcot-Marie-Tooth Disease
   - keyword: Chromosome Breakpoints
@@ -50,7 +51,6 @@ keywords:
   - keyword: Genome-Wide Association Study
   - keyword: Hereditary Sensory and Motor Neuropathy
   - keyword: High-Throughput Nucleotide Sequencing
-  - keyword: Humans
   - keyword: INDEL Mutation
   - keyword: Microsatellite Repeats
   - keyword: Software
