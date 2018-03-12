@@ -1,17 +1,17 @@
 pmid: '29127354'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Case Studies
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: false
+    name: Prevalence
+  - enabled: false
+    name: Case Studies
+  - enabled: false
+    name: Biochemistry
 title: >-
   Clinical and Molecular Characterization of PMP22 point mutations in Taiwanese
   patients with Inherited Neuropathy.
