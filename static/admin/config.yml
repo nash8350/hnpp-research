@@ -53,6 +53,7 @@ collections:
       - { name: title, label: Title, widget: string }
       - { name: abstract, label: Abstract, widget: string }
       - { name: abstractLink, label: Abstract Link, widget: string }
+      - { name: fullTextLink, label: Full Text Link, widget: string }
       - { name: date, label: Date, widget: string }
       - { name: authors, label: Authors, widget: list, fields: [{label: Name, name: name, widget: string}]}
       - { name: keywords, label: Keywords, widget: list, fields: [{label: Keyword, name: keyword, widget: string}]}

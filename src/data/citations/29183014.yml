@@ -1,7 +1,7 @@
 pmid: '29183014'
 categories:
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Physiopathology
     enabled: true
   - name: Biochemistry
@@ -34,6 +34,7 @@ abstract: >-
   palsies. Finally, they encourage the consideration of mechanosensitivity in
   bioengineering of scaffolds to aid nerve regeneration after injury.
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29183014%5Buid%5D&cmd=DetailsSearch'
+fullTextLink: 'https://www.karger.com?DOI=10.1159/000485485'
 date: 2017/11
 authors:
   - name: Rosso G

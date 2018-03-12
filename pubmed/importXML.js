@@ -84,6 +84,7 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
 
     // add a link
     citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
+    citation.fullTextLink = "";
 
     // add a date we can sort on
     citation.date = "";
@@ -165,6 +166,23 @@ citationList.forEach(c1 => {
         })
     })
 })
+
+// full text links
+const links = JSON.parse(fs.readFileSync("pubmed/elink.json"));
+for(let i in links.linksets[0].idurllist) {
+    const objList = links.linksets[0].idurllist[i].objurls;
+    if(!objList)
+        continue;
+    for(let k in objList) {
+        if(!objList[k].attributes || !objList[k].attributes.includes("free resource"))
+            continue;
+        for(let h in citationList) {
+            if(citationList[h].pmid == links.linksets[0].idurllist[i].id) {
+                citationList[h].fullTextLink = objList[k].url.value;
+            }
+        }
+    }
+}
 
 // write files
 citationList.forEach(citation => {

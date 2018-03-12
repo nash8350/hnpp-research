@@ -76,6 +76,7 @@ export const researchPageQuery = graphql`
             keyword
           }
           abstractLink
+          fullTextLink
           citedBy {
             pmid
           }

@@ -64,6 +64,7 @@ export const topAuthorsQuery = graphql`
             keyword
           }
           abstractLink
+          fullTextLink
           categories {
             name
             enabled

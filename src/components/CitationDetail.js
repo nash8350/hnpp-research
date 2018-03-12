@@ -4,7 +4,8 @@ import Content, { HTMLContent } from '../components/Content';
 export default ({ row }) => (
     <div className="container is-pulled-left" style={{width: "800px"}}>
         <a className="is-pulled-right vert-padded" style={{marginLeft: "20px"}} href={"/admin/#/collections/citations/entries/" + row.pmid}>Edit</a>
-        <a className="is-pulled-right vert-padded" href={row.abstractLink}>View on Pubmed</a>
+        { row.fullTextLink ? <a className="is-pulled-right vert-padded" style={{marginLeft: "20px"}} href={row.fullTextLink}>Full Text</a> : <span/> }
+        <a className="is-pulled-right vert-padded" href={row.abstractLink}>Pubmed</a>
         <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Abstract</h4>
         <p>{row.abstract}</p>
         <h4 className="is-size-10 has-text-weight-bold is-bold-light vert-padded">Authors</h4>

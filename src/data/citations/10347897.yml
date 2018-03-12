@@ -19,6 +19,8 @@ abstract: >-
   detecting cells carrying specific genes, such as verotoxin-producing bacteria
   in natural environments.
 abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=10347897%5Buid%5D&cmd=DetailsSearch'
+fullTextLink: >-
+  http://onlinelibrary.wiley.com/resolve/openurl?genre=article&amp;sid=nlm:pubmed&amp;issn=0266-8254&amp;date=1999&amp;volume=28&amp;issue=5&amp;spage=405
 date: 1999/05
 authors:
   - name: Kurokawa K
