@@ -8,7 +8,7 @@ const Navbar = () => (
   <nav className="navbar is-transparent">
     <div className="container">
       <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
+        <Link to="/research" className="navbar-item">
           <p className="logo">HNPP Research</p>
         </Link>
       </div>
