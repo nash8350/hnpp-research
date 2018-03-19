@@ -1,37 +1,23 @@
 import React from 'react';
 import graphql from 'graphql';
-import CitationsGroupedTable from '../components/CitationsGroupedTable';
+import ResearchExplorer from '../components/ResearchExplorer';
 
-export const TopKeywordsPageTemplate = ({
+export const ResearchPageTemplate = ({
   title, description, data}) => (
   <section className="section section--gradient">
     <div className="container">
-      <h3 className="has-text-weight-semibold is-size-2">{title}</h3>
+      <h3 className="has-text-weight-semibold is-size-4">{title}</h3>
       <p>{description}</p>
       <br/>
-      <CitationsGroupedTable 
-        data={data} 
-        cols={[
-            { name: 'item', title: 'Keyword' },
-            { name: 'date', title: 'Date' },
-            { name: 'title', title: 'Title' }
-          ]}
-        colWidths={[
-            { columnName: 'item', width: 200 },
-            { columnName: 'date', width: 125 },
-            { columnName: 'title', width: 800-125 }
-          ]}
-        listName='keywords'
-        itemName='keyword'
-        tableWidth={800}
-        />
+      <br/>
+      <ResearchExplorer data={data} />
     </div>
   </section>
 );
 
 export default ({ data }) => {
   return (
-    <TopKeywordsPageTemplate
+    <ResearchPageTemplate
       title={data.page.frontmatter.title}
       description={data.page.frontmatter.description}
       data={data.allCitationsYaml.edges}
@@ -39,8 +25,8 @@ export default ({ data }) => {
   );
 };
 
-export const topKeywordsQuery = graphql`
-  query TopKeywordsPage($path: String!) {
+export const researchPageQuery = graphql`
+  query ResearchPage($path: String!) {
     page: markdownRemark(frontmatter: {path: {eq: $path}}) {
       frontmatter {
         title
@@ -65,6 +51,9 @@ export const topKeywordsQuery = graphql`
           }
           abstractLink
           fullTextLink
+          citedBy {
+            pmid
+          }
           categories {
             name
             enabled

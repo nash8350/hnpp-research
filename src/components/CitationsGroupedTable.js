@@ -39,47 +39,37 @@ const getChildGroups = groups => groups
 export default class CitationTable extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
-      date: "",
-      search: "",
-      category: "",
-      data: this.props.data
-    };
-    this.state.filteredData = this.generateTable();
-
-    this.tableWidth = 800;
-    this.onFilterChange = this.onFilterChange.bind(this);
   }
 
   filterRow = (row) => {
-    if(this.state.date && row.date <= this.state.date)
+    if(this.props.date && row.date <= this.props.date)
       return false;
 
     let categoryMatch = false;
-    if(this.state.category == "") {
+    if(this.props.category == "") {
       categoryMatch = true;
     } else {
       row.categories.forEach(category => {
-        if(this.state.category == category.name && category.enabled)
+        if(this.props.category == category.name && category.enabled)
           categoryMatch = true;
       })
     }
     if(!categoryMatch)
       return false;
 
-    if(this.state.search && 
-      row.title.search(new RegExp(this.state.search, "i")) == -1 && 
-      row.authorlist.search(new RegExp(this.state.search, "i")) == -1 &&
-      row.abstract.search(new RegExp(this.state.search, "i")) == -1 &&
-      JSON.stringify(row.keywords).search(new RegExp(this.state.search, "i")) == -1)
+    if(this.props.search && 
+      row.title.search(new RegExp(this.props.search, "i")) == -1 && 
+      row.authorlist.search(new RegExp(this.props.search, "i")) == -1 &&
+      row.abstract.search(new RegExp(this.props.search, "i")) == -1 &&
+      JSON.stringify(row.keywords).search(new RegExp(this.props.search, "i")) == -1)
       return false;
 
     return true;
   }
 
-  generateTable = () => {
+  render() {
     const itemMap = {};
-    this.state.data.forEach(edge => {
+    this.props.data.forEach(edge => {
         const citation = edge.node;
 
         //build a string list
@@ -116,65 +106,40 @@ export default class CitationTable extends React.Component {
         row.item = row.item + " (" + row.numArticles + ")";
     })
 
-    return itemTable;
-  }
-
-  onFilterChange = (event) => {
-    this.state[event.target.name] = event.target.value;
-    const filteredData = this.generateTable();
-    this.setState({
-      [event.target.name]: event.target.value,
-      filteredData: filteredData
-    });
-  }
-
-  render() {
     return (
-      <div className="columns">
-        <div className="column is-2">
-          <CitationFilter 
-            date={this.state.date} 
-            search={this.state.search} 
-            category={this.state.category}
-            onFilterChange={this.onFilterChange}
-            />
-        </div>
-        <div className="column is-10">
-          <Grid
-            rows={this.state.filteredData}
-            columns={this.props.cols}>
-            <PagingState
-              defaultCurrentPage={0}
-              pageSize={20}
-            />
-            <RowDetailState
-                defaultExpandedRowIds={[]}
-              />
-            <TitleTypeProvider
-              for={['title']}
-            />
-            <SortingState
-              defaultSorting={[{ columnName: 'date', direction: 'desc' }]}
-            />
-            <GroupingState
-                grouping={[{ columnName: 'item' }]}
-              />
-              <CustomGrouping
-                getChildGroups={getChildGroups}
-              />
-            <IntegratedSorting />
-            <IntegratedPaging />
-            <Table />
-            <TableColumnResizing defaultColumnWidths={this.props.colWidths}/>
-            <TableRowDetail contentComponent={CitationDetail} />
-            <TableHeaderRow 
-              showSortingControls
-            />
-            <TableGroupRow />
-            <PagingPanel />
-          </Grid>
-        </div>
-      </div>
+      <Grid
+        rows={itemTable}
+        columns={this.props.cols}>
+        <PagingState
+          defaultCurrentPage={0}
+          pageSize={20}
+        />
+        <RowDetailState
+            defaultExpandedRowIds={[]}
+          />
+        <TitleTypeProvider
+          for={['title']}
+        />
+        <SortingState
+          defaultSorting={[{ columnName: 'date', direction: 'desc' }]}
+        />
+        <GroupingState
+            grouping={[{ columnName: 'item' }]}
+          />
+          <CustomGrouping
+            getChildGroups={getChildGroups}
+          />
+        <IntegratedSorting />
+        <IntegratedPaging />
+        <Table />
+        <TableColumnResizing defaultColumnWidths={this.props.colWidths}/>
+        <TableRowDetail contentComponent={CitationDetail} />
+        <TableHeaderRow 
+          showSortingControls
+        />
+        <TableGroupRow />
+        <PagingPanel />
+      </Grid>
     )
   };
 }

@@ -19,7 +19,7 @@ const categories = [
 ]
 
 export default ({date, search, category, onFilterChange}) => (
-  <div className="container">
+  <div>
     <div className="field">
       <label className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Search</label>
       <div className="control">

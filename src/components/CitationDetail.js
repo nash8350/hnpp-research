@@ -2,7 +2,7 @@ import React from 'react';
 import Content, { HTMLContent } from '../components/Content';
 
 export default ({ row }) => (
-    <div className="container is-pulled-left" style={{width: "800px"}}>
+    <div className="is-pulled-left" style={{width: "800px"}}>
         <a className="is-pulled-right vert-padded" style={{marginLeft: "20px"}} href={"/admin/#/collections/citations/entries/" + row.pmid}>Edit</a>
         { row.fullTextLink ? <a className="is-pulled-right vert-padded" style={{marginLeft: "20px"}} href={row.fullTextLink}>Full Text</a> : <span/> }
         <a className="is-pulled-right vert-padded" href={row.abstractLink}>Pubmed</a>
