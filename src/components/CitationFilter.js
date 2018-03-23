@@ -23,7 +23,7 @@ export default ({date, search, category, onFilterChange}) => (
     <div className="field">
       <label className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Search</label>
       <div className="control">
-        <input type="text" name="search" style={{boxSizing: "content-box"}} onKeyPress={(e) => handleKeyPress(e, onFilterChange)} />
+        <input type="text" name="search" className="search-box" onKeyPress={(e) => handleKeyPress(e, onFilterChange)} />
       </div>
     </div>
     <h1 className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Categories</h1>
