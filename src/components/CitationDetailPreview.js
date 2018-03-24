@@ -1,5 +1,4 @@
 import React from 'react';
-import Content, { HTMLContent } from '../components/Content';
 
 export default ({ row }) => (
     <div className="container is-pulled-left">

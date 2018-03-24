@@ -1,7 +1,6 @@
 import React from 'react';
 import CitationFilter from '../components/CitationFilter';
 import CitationDetail from '../components/CitationDetail';
-import Content, { HTMLContent } from '../components/Content';
 import {
   PagingState,
   IntegratedPaging,

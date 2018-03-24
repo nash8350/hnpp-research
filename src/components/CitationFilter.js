@@ -1,5 +1,4 @@
 import React from 'react';
-import Content, { HTMLContent } from '../components/Content';
 
 const handleKeyPress = (event, onFilterChange) => {
   if(event.key == 'Enter'){

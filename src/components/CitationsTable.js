@@ -1,5 +1,4 @@
 import React from 'react';
-import Content, { HTMLContent } from '../components/Content';
 import CitationDetail from '../components/CitationDetail';
 import {
   PagingState,

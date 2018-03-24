@@ -1,5 +1,4 @@
 import React from 'react';
-import Content, { HTMLContent } from '../components/Content';
 import CitationsGroupedTable from '../components/CitationsGroupedTable';
 import CitationsTable from '../components/CitationsTable';
 import CitationFilter from '../components/CitationFilter';

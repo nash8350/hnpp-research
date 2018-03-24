@@ -1,5 +1,4 @@
 import React from 'react';
-import Content, { HTMLContent } from '../components/Content';
 
 export default ({ row }) => (
     <div className="is-pulled-left" style={{width: "800px"}}>
