@@ -1,0 +1,46 @@
+pmid: '29544507'
+categories:
+  - name: Symptoms
+    enabled: true
+  - name: Genetics
+    enabled: true
+  - name: Prevalence
+    enabled: true
+title: >-
+  Frequency of hereditary neuropathy with liability to pressure palsies (HNPP)
+  due to 17p11.2 deletion in a Korean newborn population.
+abstract: >-
+  Hereditary neuropathy with liability to pressure palsies (HNPP) is an
+  autosomal dominant disorder mainly due to a deletion of chromosome 17p11.2
+  including PMP22 (PMP22 Del HNPP). The prevalence of HNPP is estimated to be
+  0.84 to 16 per 100,000, but could be underestimated because of the mild
+  symptoms of HNPP. In this study, we estimated the prevalence of PMP22 Del HNPP
+  in a Korean newborn population who underwent next-generation sequencing
+  (NGS)-based copy number variation (CNV) analysis. Of the 11,885 newborns
+  tested by NGS-based CNV analysis, 17p11.2 deletions were found in seven
+  samples. The prevalence of PMP22 Del HNPP was estimated to be 58.9 per 100,000
+  (95% confidence interval (CI), 25.8-116.5) or 1 in 1698 (95% CI,
+  1/909-1/5000). Our data suggest that PMP22 Del HNPP might not be uncommon at
+  least in the Korean population.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=29544507%5Buid%5D&cmd=DetailsSearch'
+fullTextLink: ''
+date: 2018/03
+authors:
+  - name: Park JE
+  - name: Noh SJ
+  - name: Oh M
+  - name: Cho DY
+  - name: Kim SY
+  - name: Ki CS
+keywords: []
+cites:
+  - pmid: '21984771'
+  - pmid: '27927941'
+  - pmid: '24646194'
+  - pmid: '8780105'
+  - pmid: '24505562'
+  - pmid: '9447611'
+  - pmid: '28277305'
+  - pmid: '29117384'
+  - pmid: '8800924'
+citedBy: []

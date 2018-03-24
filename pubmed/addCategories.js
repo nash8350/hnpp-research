@@ -30,6 +30,7 @@ const addCategoryFromRegex = (citation, categoryName, regex) => {
     }
 }
 
+// adds a category based on a keyword match, returns true if added
 const addCategoryFromKeyword = (citation, categoryName, keyword) => {
     let matches = false;
     citation.keywords.forEach(key => {

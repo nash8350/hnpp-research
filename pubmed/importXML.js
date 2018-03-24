@@ -2,27 +2,30 @@ const fs = require("fs");
 const yaml = require('js-yaml');
 const xml2js = require('xml2js');
 
-const content = fs.readFileSync("pubmed/pubmed.xml");
+const content = fs.readFileSync("pubmed/pubmed-2018-03-24.xml");
 const directory = "src/data/citations/";
 let data = {};
-const options = { 
+
+const xmlOptions = { 
     charkey: "value",
     mergeAttrs: true,
     explicitArray: false
 };
 
-xml2js.parseString(content, options, function (err, result) {
+xml2js.parseString(content, xmlOptions, function (err, result) {
     data = result;
 });
 
 const get = (p, o) =>
   p.reduce((xs, x) => (xs && xs[x]) ? xs[x] : "", o);
 
+// don't include these articles
 const citationBlacklist = [
     "27535300",
     "28360724"
 ];
 
+// don't include these keywords
 const keywordBlacklist = [
     "Humans",
     "genetics",
@@ -82,7 +85,7 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
         citation.abstract = citation.abstract.replace(/:/g,"").trim();
     }
 
-    // add a link
+    // add links
     citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
     citation.fullTextLink = "";
 

@@ -92,32 +92,32 @@ export default class CitationTable extends React.Component {
         { name: 'title', title: 'Title' },
         { name: 'numCitedBy', title: 'Cited By' }
       ]}>
-      <PagingState
-        defaultCurrentPage={0}
-        pageSize={20}
-      />
-      <RowDetailState
-        defaultExpandedRowIds={[]}
-      />
-      <SortingState
-        defaultSorting={[{ columnName: 'date', direction: 'desc' }]}
-      />
-      <TitleTypeProvider
-        for={['title']}
-      />
-      <IntegratedSorting />
-      <IntegratedPaging />
-      <Table />
-      <TableColumnResizing defaultColumnWidths={[
-        { columnName: 'date', width: 100 },
-        { columnName: 'title', width: this.tableWidth-200 },
-        { columnName: 'numCitedBy', width: 100 }
-      ]}/>
-      <TableHeaderRow 
-        showSortingControls
-      />
-      <TableRowDetail contentComponent={CitationDetail} />
-      <PagingPanel />
+        <PagingState
+          defaultCurrentPage={0}
+          pageSize={20}
+        />
+        <RowDetailState
+          defaultExpandedRowIds={[]}
+        />
+        <SortingState
+          defaultSorting={[{ columnName: 'date', direction: 'desc' }]}
+        />
+        <TitleTypeProvider
+          for={['title']}
+        />
+        <IntegratedSorting />
+        <IntegratedPaging />
+        <Table />
+        <TableColumnResizing defaultColumnWidths={[
+          { columnName: 'date', width: 100 },
+          { columnName: 'title', width: this.tableWidth-200 },
+          { columnName: 'numCitedBy', width: 100 }
+        ]}/>
+        <TableHeaderRow 
+          showSortingControls
+        />
+        <TableRowDetail contentComponent={CitationDetail} />
+        <PagingPanel />
       </Grid>
     )
   };

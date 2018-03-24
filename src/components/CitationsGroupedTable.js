@@ -75,7 +75,7 @@ export default class CitationTable extends React.Component {
     this.props.data.forEach(edge => {
         const citation = edge.node;
 
-        //build a string list
+        //build a string list of authors
         citation.authorlist = "";
         citation.authors.forEach(author => {
           citation.authorlist += author.name + ", ";
@@ -83,6 +83,7 @@ export default class CitationTable extends React.Component {
         if(citation.authorlist.length > 1)
           citation.authorlist = citation.authorlist.substring(0, citation.authorlist.length - 2);
 
+        // build a map of the items grouped together
         if(this.filterRow(citation)) {
           citation[this.props.listName].forEach(row => {
               if(itemMap.hasOwnProperty(row[this.props.itemName])) {
@@ -94,6 +95,7 @@ export default class CitationTable extends React.Component {
         }
     });
 
+    // now build a table sorted by count
     const itemTable = [];
     for(let key in itemMap) {
         itemTable.push({
