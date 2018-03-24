@@ -44,6 +44,10 @@ export default class CitationTable extends React.Component {
     if(this.props.date && row.date <= this.props.date)
       return false;
 
+    if(this.props.availability == "free")
+      if(!row.fullTextLink)
+        return false;
+
     let categoryMatch = false;
     if(this.props.category == "") {
       categoryMatch = true;

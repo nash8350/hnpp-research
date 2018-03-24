@@ -17,7 +17,7 @@ const categories = [
   "Therapies"
 ]
 
-export default ({date, search, category, onFilterChange}) => (
+export default ({date, search, category, availability, onFilterChange}) => (
   <div>
     <div className="field">
       <label className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Search</label>
@@ -66,6 +66,23 @@ export default ({date, search, category, onFilterChange}) => (
         <label className="radio">
           <input type="radio" name="date" value="2000" checked={date == "2000"} onChange={onFilterChange}/>
           <span className="horiz-padded">Since 2000</span>
+        </label>
+      </div>
+    </div>
+    <h1 className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Availability</h1>
+    <div className="field">
+      <div className="control">
+        <label className="radio">
+          <input type="radio" name="availability" value="" checked={availability == ""} onChange={onFilterChange}/>
+          <span className="horiz-padded">All</span>
+        </label>
+      </div>
+    </div>
+    <div className="field">
+      <div className="control">
+        <label className="radio">
+          <input type="radio" name="availability" value="free" checked={availability == "free"} onChange={onFilterChange}/>
+          <span className="horiz-padded">Free full text</span>
         </label>
       </div>
     </div>

@@ -30,7 +30,7 @@ collections:
     label: "Citations"
     folder: "src/data/citations"
     create: false
-    delete: false
+    delete: true
     format: yaml
     fields:
       - { name: pmid, label: "Pubmed ID", widget: string }

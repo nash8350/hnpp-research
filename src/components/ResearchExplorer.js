@@ -10,7 +10,8 @@ export default class ResearchExplorer extends React.Component {
         selectedTab: "Research papers",
         date: "",
         search: "",
-        category: ""
+        category: "",
+        availability: ""
     };
 
     this.handleTabSelect = this.handleTabSelect.bind(this);
@@ -27,6 +28,7 @@ export default class ResearchExplorer extends React.Component {
                     date={this.state.date}
                     search={this.state.search}
                     category={this.state.category}
+                    availability={this.state.availability}
                 />
             )
             break;
@@ -49,6 +51,7 @@ export default class ResearchExplorer extends React.Component {
                 date={this.state.date}
                 search={this.state.search}
                 category={this.state.category}
+                availability={this.state.availability}
                 />
             )
             break;
@@ -71,6 +74,7 @@ export default class ResearchExplorer extends React.Component {
                 date={this.state.date}
                 search={this.state.search}
                 category={this.state.category}
+                availability={this.state.availability}
                 />
             )
             break;
@@ -100,6 +104,7 @@ export default class ResearchExplorer extends React.Component {
               date={this.state.date} 
               search={this.state.search} 
               category={this.state.category}
+              availability={this.state.availability}
               onFilterChange={this.onFilterChange}
               />
           </div>

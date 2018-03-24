@@ -8,7 +8,8 @@ export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   return (
     <section className="section section--gradient">
       <div className="container">
-      <h3 className="has-text-weight-semibold is-size-4">{title}</h3>
+      <h3 className="has-text-weight-semibold is-size-3">{title}</h3>
+        <br/>
         <PageContent className="content" content={content} />
       </div>
     </section>
