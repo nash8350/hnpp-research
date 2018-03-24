@@ -22,7 +22,9 @@ const get = (p, o) =>
 // don't include these articles
 const citationBlacklist = [
     "27535300",
-    "28360724"
+    "28360724",
+    "29570047",
+    "27747417"
 ];
 
 // don't include these keywords

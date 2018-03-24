@@ -1,13 +1,13 @@
 pmid: '28221301'
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
     enabled: true
   - name: Physiopathology
     enabled: true
   - name: Prevalence
-    enabled: true
+    enabled: false
 title: >-
   Electrodiagnostic Characterization of Hereditary Neuropathy With Liability to
   Pressure Palsies.

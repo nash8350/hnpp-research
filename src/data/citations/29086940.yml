@@ -1,8 +1,10 @@
 pmid: '29086940'
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
+    enabled: false
+  - name: Physiopathology
     enabled: true
 title: >-
   Human Nerve Pathology Caused by Different Mutational Mechanisms of the PMP22

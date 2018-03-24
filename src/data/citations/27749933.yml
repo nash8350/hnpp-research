@@ -5,7 +5,7 @@ categories:
   - name: Physiopathology
     enabled: true
   - name: Biochemistry
-    enabled: true
+    enabled: false
 title: >-
   Afferent Visual Pathway Affection in Patients with PMP22 Deletion-Related
   Hereditary Neuropathy with Liability to Pressure Palsies.

@@ -1,9 +1,9 @@
 pmid: '28912683'
 categories:
   - name: Diagnosis
-    enabled: true
+    enabled: false
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Biochemistry
     enabled: true
 title: >-

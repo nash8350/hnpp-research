@@ -1,6 +1,8 @@
 pmid: '29086935'
 categories:
   - name: Diagnosis
+    enabled: false
+  - name: Physiopathology
     enabled: true
 title: >-
   New Vistas on the Pathomechanism of Charcot-Marie-Tooth and Related Peripheral

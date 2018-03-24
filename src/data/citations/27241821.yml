@@ -9,7 +9,7 @@ categories:
   - name: Case Studies
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: >-
   Laryngeal and phrenic nerve involvement in a patient with hereditary
   neuropathy with liability to pressure palsies (HNPP).

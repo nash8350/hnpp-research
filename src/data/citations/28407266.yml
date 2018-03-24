@@ -1,7 +1,7 @@
 pmid: '28407266'
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Diagnosis
     enabled: true
   - name: Prevalence

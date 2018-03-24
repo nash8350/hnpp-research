@@ -7,7 +7,7 @@ categories:
   - name: Case Studies
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: >-
   A case report of hereditary neuropathy with liability to pressure palsies
   accompanied by type 2 diabetes mellitus and psoriasis.

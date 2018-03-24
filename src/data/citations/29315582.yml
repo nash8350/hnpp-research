@@ -1,10 +1,12 @@
 pmid: '29315582'
 categories:
   - name: Diagnosis
-    enabled: true
+    enabled: false
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Biochemistry
+    enabled: true
+  - name: Physiopathology
     enabled: true
 title: >-
   A dual role for Integrin α6β4 in modulating hereditary neuropathy with

@@ -11,7 +11,7 @@ categories:
   - name: Case Studies
     enabled: true
   - name: Biochemistry
-    enabled: true
+    enabled: false
 title: >-
   Congenital hypomyelinating neuropathy due to the association of a truncating
   mutation in PMP22 with the classical HNPP deletion.

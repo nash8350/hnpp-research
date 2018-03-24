@@ -7,7 +7,7 @@ categories:
   - name: Physiopathology
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: >-
   [Phenotypes of Charcot-Marie-Tooth Syndrome and Differential Diagnosis Focused
   in Inflammatory Neuropathies].

@@ -5,7 +5,7 @@ categories:
   - name: Prevalence
     enabled: true
   - name: Biochemistry
-    enabled: true
+    enabled: false
 title: >-
   Molecular Epidemiology of Charcot-Marie-Tooth Disease in Northern
   Ostrobothnia, Finland A Population-Based Study.

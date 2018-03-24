@@ -5,7 +5,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Physiopathology
-    enabled: true
+    enabled: false
   - name: Case Studies
     enabled: true
 title: >-

@@ -5,7 +5,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: >-
   [Hereditary neuropathy with liability to pressure palsies in childhood Report
   of three cases].

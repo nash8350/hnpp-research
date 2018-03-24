@@ -5,11 +5,11 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Physiopathology
-    enabled: true
+    enabled: false
   - name: Case Studies
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: >-
   Fibular nerve palsy after hip replacement Not only surgeon responsibility.
   Hereditary neuropathy with liability to pressure palsies (HNPP) a rare cause

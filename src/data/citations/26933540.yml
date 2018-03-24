@@ -2,6 +2,8 @@ pmid: '26933540'
 categories:
   - name: Diagnosis
     enabled: true
+  - name: Physiopathology
+    enabled: true
 title: Hereditary Neuropathy with Liability to Pressure Palsies.
 abstract: >-
   Investigators from 4 pediatric hospitals in Canada analyzed the clinical

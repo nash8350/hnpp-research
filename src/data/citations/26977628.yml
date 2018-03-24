@@ -5,9 +5,9 @@ categories:
   - name: Genetics
     enabled: true
   - name: Physiopathology
-    enabled: true
+    enabled: false
   - name: Therapies
-    enabled: true
+    enabled: false
 title: >-
   [Molecular genetic diagnosis and clinical features of hereditary neuropathy
   with liability to pressure palsies in Belarusian patients].

@@ -5,7 +5,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Physiopathology
     enabled: true
   - name: Case Studies

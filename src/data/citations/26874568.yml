@@ -1,5 +1,11 @@
 pmid: '26874568'
 categories: []
+  - name: Symptoms
+    enabled: true
+  - name: Diagnosis
+    enabled: true
+  - name: Case Studies
+    enabled: true
 title: >-
   Hereditary neuropathy with liability to pressure palsy presenting as a
   bilateral brachial plexopathy.

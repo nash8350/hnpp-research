@@ -9,7 +9,7 @@ categories:
   - name: Physiopathology
     enabled: true
   - name: Biochemistry
-    enabled: true
+    enabled: false
 title: >-
   Nonrecurrent PMP22-RAI1 contiguous gene deletions arise from replication-based
   mechanisms and result in Smith-Magenis syndrome with evident peripheral

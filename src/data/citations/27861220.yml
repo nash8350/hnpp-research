@@ -5,7 +5,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Physiopathology
-    enabled: true
+    enabled: false
 title: >-
   Hereditary Neuropathy With Liability to Pressure Palsies Diverse Phenotypes in
   Childhood.

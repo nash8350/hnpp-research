@@ -1,7 +1,7 @@
 pmid: '29544507'
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Genetics
     enabled: true
   - name: Prevalence

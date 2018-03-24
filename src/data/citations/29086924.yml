@@ -1,13 +1,13 @@
 pmid: '29086924'
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Genetics
     enabled: true
   - name: Biochemistry
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: Transgenic Mouse Models of CMT1A and HNPP.
 abstract: >-
   We have generated several PMP22 animal mutants with altered PMP22 gene dosage.

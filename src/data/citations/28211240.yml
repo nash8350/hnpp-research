@@ -5,6 +5,8 @@ categories:
   - name: Physiopathology
     enabled: true
   - name: Prevalence
+    enabled: false
+  - name: Genetics
     enabled: true
 title: >-
   Phenotypic spectrum of Charcot-Marie-Tooth disease due to LITAF/SIMPLE

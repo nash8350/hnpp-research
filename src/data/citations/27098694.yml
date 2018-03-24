@@ -1,15 +1,15 @@
 pmid: '27098694'
 categories:
   - name: Symptoms
-    enabled: true
+    enabled: false
   - name: Genetics
-    enabled: true
+    enabled: false
   - name: Physiopathology
     enabled: true
   - name: Biochemistry
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: Akt Regulates Axon Wrapping and Myelin Sheath Thickness in the PNS.
 abstract: >-
   The signaling pathways that regulate myelination in the PNS remain poorly

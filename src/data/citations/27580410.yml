@@ -5,6 +5,8 @@ categories:
   - name: Case Studies
     enabled: true
   - name: Therapies
+    enabled: false
+  - name: Symptoms
     enabled: true
 title: >-
   An Unusual Postoperative Neuropathy Foot Drop Contralateral to the Lateral

@@ -5,7 +5,7 @@ categories:
   - name: Diagnosis
     enabled: true
   - name: Therapies
-    enabled: true
+    enabled: false
 title: >-
   Hereditary Neuropathy with Liability to Pressure Palsies Masked by Previous
   Gunshots and Tuberculosis.

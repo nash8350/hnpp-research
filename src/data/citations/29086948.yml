@@ -7,7 +7,7 @@ categories:
   - name: Genetics
     enabled: true
   - name: Biochemistry
-    enabled: true
+    enabled: false
 title: Overview of Hereditary Neuropathy with Liability to Pressure Palsies.
 abstract: >-
   Hereditary neuropathy with liability to recurrent pressure-sensitive palsies

@@ -3,6 +3,8 @@ categories:
   - name: Symptoms
     enabled: true
   - name: Prevalence
+    enabled: false
+  - name: Genetics
     enabled: true
 title: Molecular Mechanisms for CMT1A Duplication and HNPP Deletion.
 abstract: >-

@@ -1,15 +1,17 @@
 pmid: '26602803'
 categories:
+  - name: Symptoms
+    enabled: true
   - name: Diagnosis
     enabled: true
   - name: Genetics
     enabled: true
   - name: Prevalence
-    enabled: true
+    enabled: false
   - name: Case Studies
-    enabled: true
+    enabled: false
   - name: Biochemistry
-    enabled: true
+    enabled: false
 title: >-
   [Experience in molecular diagnostic in hereditary neuropathies in a pediatric
   tertiary hospital].
