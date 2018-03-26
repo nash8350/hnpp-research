@@ -1,5 +1,5 @@
 pmid: '26874568'
-categories: []
+categories:
   - name: Symptoms
     enabled: true
   - name: Diagnosis
