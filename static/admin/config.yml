@@ -18,11 +18,11 @@ collections:
           - {label: "Path", name: "path", widget: "hidden", default: "/about"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/pages/research-explorer/research-explorer.md"
+      - file: "src/pages/research/research.md"
         label: "Research Explorer"
-        name: "research-explorer"
+        name: "research"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "research-explorer"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "research"}
           - {label: "Path", name: "path", widget: "hidden", default: "/research"}
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: string}

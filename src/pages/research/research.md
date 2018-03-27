@@ -1,5 +1,5 @@
 ---
-templateKey: 'research-explorer'
+templateKey: 'research'
 path: /research
 title: Research Explorer
 description: >-
