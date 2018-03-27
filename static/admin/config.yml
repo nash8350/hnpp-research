@@ -33,14 +33,14 @@ collections:
     delete: true
     format: yaml
     fields:
-      - { name: pmid, label: "Pubmed ID", widget: string }
+      - { name: pmid, label: "Pubmed ID", widget: hidden }
       - { name: categories, label: Categories, widget: list, fields: [{label: Enabled, name: enabled, widget: boolean}, {label: Name, name: name, widget: select, options: ["Symptoms", "Diagnosis", "Case Studies", "Prevalence", "Genetics", "Physiopathology", "Biochemistry", "Therapies"]}]}
-      - { name: title, label: Title, widget: string }
-      - { name: abstract, label: Abstract, widget: string }
-      - { name: abstractLink, label: Abstract Link, widget: string }
-      - { name: fullTextLink, label: Full Text Link, widget: string }
-      - { name: date, label: Date, widget: string }
-      - { name: authors, label: Authors, widget: list, fields: [{label: Name, name: name, widget: string}]}
-      - { name: keywords, label: Keywords, widget: list, fields: [{label: Keyword, name: keyword, widget: string}]}
-      - { name: cites, label: Cites, widget: list, fields: [{label: PMID, name: pmid, widget: string}]}
-      - { name: citedBy, label: Cited By, widget: list, fields: [{label: PMID, name: pmid, widget: string}]}
+      - { name: title, label: Title, widget: hidden }
+      - { name: abstract, label: Abstract, widget: hidden }
+      - { name: abstractLink, label: Abstract Link, widget: hidden }
+      - { name: fullTextLink, label: Full Text Link, widget: hidden }
+      - { name: date, label: Date, widget: hidden }
+      - { name: authors, label: Authors, widget: hidden, fields: [{label: Name, name: name, widget: string}]}
+      - { name: keywords, label: Keywords, widget: hidden, fields: [{label: Keyword, name: keyword, widget: string}]}
+      - { name: cites, label: Cites, widget: hidden, fields: [{label: PMID, name: pmid, widget: string}]}
+      - { name: citedBy, label: Cited By, widget: hidden, fields: [{label: PMID, name: pmid, widget: string}]}
