@@ -11,11 +11,11 @@ I've included links to free full text when they are available. Otherwise, they c
 
 Researchers: please support open access journals! Also, please consider sharing a preprint version with a patient support group like [HNPP Help](https://www.facebook.com/groups/hnpphelp/).
 
-#### Contributing
-If you see any categories are incorrect, please click "edit" to make adjustments and I will review your changes. They are not exact because I created them using automatic key word matching. You'll need a [Netlify](https://www.netlify.com/) account to log in. The code is open source and hosted at [GitHub](https://github.com/nash8350/hnpp-research-gatsby). Feel free to open issues on GitHub. You can support research through groups like the [Hereditary Neuropathy Foundation](https://www.hnf-cure.org/cmt-hnpp/).
+#### Questions/Suggestions
+Open [GitHub Issues](https://github.com/nash8350/hnpp-research-gatsby/issues) with problems you encounter or suggestions. In particular, the categories are approximate so please open an issue if you think any should change. Also, I'd welcome people who want to contribute.
 
 #### How it's built
-The site is built using the [Gatsby.js](https://www.gatsbyjs.org) framework and [Netlify CMS](http://netlifycms.org/). I retrieved all the research paper data from the public [PubMed's Entrez API](https://www.ncbi.nlm.nih.gov/books/NBK25501/). I included all papers matching the query `HNPP OR (“Hereditary+neuropathy” AND (“pressure palsies” OR “pressure palsy”))`.
+The site is built using the [Gatsby.js](https://www.gatsbyjs.org) framework and [Netlify CMS](http://netlifycms.org/). The code is open source and hosted at [GitHub](https://github.com/nash8350/hnpp-research-gatsby). I retrieved all the research paper data from the public [PubMed's Entrez API](https://www.ncbi.nlm.nih.gov/books/NBK25501/). The site includes all papers matching the query `HNPP OR (“Hereditary+neuropathy” AND (“pressure palsies” OR “pressure palsy”))`. The citation counts are also limited to this data.
 
 #### About Me
-I'm a patient with HNPP who created the site to learn more about the current state of research and improve awareness of HNPP. I'm a software developer and I also have experience in medical research.
+I'm a patient with HNPP who created this site to learn more about the current state of research and improve awareness of HNPP. I'm a software developer and I also have experience in medical research.
