@@ -29,7 +29,7 @@ export default class ResearchExplorer extends React.Component {
   }
 
     getWidth() {
-        return Math.max(
+        return document && Math.max(
             document.body.scrollWidth,
             document.documentElement.scrollWidth,
             document.body.offsetWidth,
