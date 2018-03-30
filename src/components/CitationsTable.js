@@ -30,7 +30,6 @@ const TitleTypeProvider = props => (
 export default class CitationTable extends React.Component {
   constructor(props) {
     super(props);
-    this.tableWidth = 800;
   }
 
   filterRow = (row) => {
@@ -108,11 +107,7 @@ export default class CitationTable extends React.Component {
         <IntegratedSorting />
         <IntegratedPaging />
         <Table />
-        <TableColumnResizing defaultColumnWidths={[
-          { columnName: 'date', width: 100 },
-          { columnName: 'title', width: this.tableWidth-200 },
-          { columnName: 'numCitedBy', width: 100 }
-        ]}/>
+        <TableColumnResizing defaultColumnWidths={this.props.colWidths}/>
         <TableHeaderRow 
           showSortingControls
         />

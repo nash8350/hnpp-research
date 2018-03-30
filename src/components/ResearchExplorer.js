@@ -14,16 +14,40 @@ export default class ResearchExplorer extends React.Component {
         availability: ""
     };
 
+    if(this.getWidth() > 1024) {
+        this.state.tableWidth = 800;
+        this.state.colWidth = 100;
+    }
+    else {
+        this.state.tableWidth = 350;
+        this.state.colWidth = 75;
+    }    
+
     this.handleTabSelect = this.handleTabSelect.bind(this);
     this.renderTab = this.renderTab.bind(this);
     this.onFilterChange = this.onFilterChange.bind(this);
   }
+
+    getWidth() {
+        return Math.max(
+            document.body.scrollWidth,
+            document.documentElement.scrollWidth,
+            document.body.offsetWidth,
+            document.documentElement.offsetWidth,
+            document.documentElement.clientWidth
+        );
+    }
 
   renderTab() {
       switch(this.state.selectedTab) {
         case "Research papers": 
             return(
                 <CitationsTable 
+                    colWidths={[
+                        { columnName: 'date', width: this.state.colWidth },
+                        { columnName: 'title', width: this.state.tableWidth-2*this.state.colWidth },
+                        { columnName: 'numCitedBy', width: this.state.colWidth }
+                    ]}
                     data={this.props.data}
                     date={this.state.date}
                     search={this.state.search}
@@ -42,9 +66,9 @@ export default class ResearchExplorer extends React.Component {
                     { name: 'title', title: 'Title' }
                 ]}
                 colWidths={[
-                    { columnName: 'item', width: 200 },
-                    { columnName: 'date', width: 125 },
-                    { columnName: 'title', width: 800-125 }
+                    { columnName: 'item', width: this.state.colWidth },
+                    { columnName: 'date', width: this.state.colWidth },
+                    { columnName: 'title', width: this.state.tableWidth - 2*this.state.colWidth }
                 ]}
                 listName='keywords'
                 itemName='keyword'
@@ -65,9 +89,9 @@ export default class ResearchExplorer extends React.Component {
                     { name: 'title', title: 'Title' }
                 ]}
                 colWidths={[
-                    { columnName: 'item', width: 200 },
-                    { columnName: 'date', width: 125 },
-                    { columnName: 'title', width: 800-125 }
+                    { columnName: 'item', width: this.state.colWidth },
+                    { columnName: 'date', width: this.state.colWidth },
+                    { columnName: 'title', width: this.state.tableWidth - 2*this.state.colWidth }
                 ]}
                 listName='authors'
                 itemName='name'
