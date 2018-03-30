@@ -1,7 +1,7 @@
 import React from 'react';
 
 function getWidth() {
-    if(!document)
+    if(typeof document !== "object")
         return 800;
     
     return Math.max(

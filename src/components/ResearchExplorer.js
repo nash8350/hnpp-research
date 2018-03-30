@@ -29,7 +29,7 @@ export default class ResearchExplorer extends React.Component {
   }
 
     getWidth() {
-        if(!document)
+        if(typeof document !== "object")
             return 800;
         
         return Math.max(
