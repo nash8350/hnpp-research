@@ -1,13 +1,13 @@
 pmid: '24251057'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Case Studies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: false
+    name: Diagnosis
+  - enabled: false
+    name: Prevalence
+  - enabled: true
+    name: Case Studies
 title: >-
   Hereditary neuropathy with liability to pressure palsy a recurrent and
   bilateral foot drop case report.
