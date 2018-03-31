@@ -1,15 +1,15 @@
 pmid: '9169527'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: false
+    name: Diagnosis
+  - enabled: false
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Biochemistry
 title: >-
   Heterozygous peripheral myelin protein 22-deficient mice are affected by a
   progressive demyelinating tomaculous neuropathy.
