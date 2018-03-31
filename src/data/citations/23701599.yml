@@ -1,11 +1,11 @@
 pmid: '23701599'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: false
+    name: Therapies
 title: >-
   High resolution sonography in the evaluation of the peripheral nervous system
   in polyneuropathy--a review of the literature.

@@ -1,13 +1,13 @@
 pmid: '25504762'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: false
+    name: Biochemistry
 title: >-
   Benefits and burdens of using a SNP array in pregnancies at increased risk for
   the common aneuploidies.

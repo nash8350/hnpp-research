@@ -1,13 +1,13 @@
 pmid: '7944298'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Prevalence
+  - enabled: false
+    name: Biochemistry
 title: >-
   Prevalence of the 1.5-Mb 17p deletion in families with hereditary neuropathy
   with liability to pressure palsies.

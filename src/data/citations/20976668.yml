@@ -1,17 +1,17 @@
 pmid: '20976668'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Biochemistry
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: false
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
+  - enabled: false
+    name: Biochemistry
+  - enabled: true
+    name: Therapies
 title: >-
   Clinical implications of peripheral myelin protein 22 for nerve compression
   and neural regeneration a review.

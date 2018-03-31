@@ -1,11 +1,11 @@
 pmid: '23381770'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Physiopathology
+  - enabled: false
+    name: Biochemistry
 title: 'Sonography of the median nerve in CMT1A, CMT2A, CMTX, and HNPP.'
 abstract: >-
   In this study we compare the ultrasound features in the median nerve in

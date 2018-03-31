@@ -1,9 +1,9 @@
 pmid: '20493460'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Genetics
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: true
+    name: Genetics
 title: >-
   Mechanisms for nonrecurrent genomic rearrangements associated with CMT1A or
   HNPP rare CNVs as a cause for missing heritability.

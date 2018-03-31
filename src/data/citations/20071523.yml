@@ -1,15 +1,15 @@
 pmid: '20071523'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Biochemistry
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Biochemistry
+  - enabled: false
+    name: Therapies
 title: Conduction block in PMP22 deficiency.
 abstract: >-
   Patients with PMP22 deficiency present with focal sensory and motor deficits

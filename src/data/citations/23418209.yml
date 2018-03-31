@@ -1,11 +1,11 @@
 pmid: '23418209'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Physiopathology
+  - enabled: false
+    name: Biochemistry
 title: Pathophysiology of HNPP explored using axonal excitability.
 abstract: >-
   Hereditary liability to pressure palsies (HNPP) is an autosomal dominant

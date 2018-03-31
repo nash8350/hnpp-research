@@ -1,9 +1,11 @@
 pmid: '22520972'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Diagnosis
+  - enabled: false
+    name: Biochemistry
+  - enabled: true
+    name: Case Studies
 title: >-
   Coexistence of transthyretin familial amyloid polyneuropathy and hereditary
   neuropathy with liability to pressure palsy.

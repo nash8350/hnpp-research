@@ -1,13 +1,13 @@
 pmid: '25430934'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Prevalence
+  - enabled: false
+    name: Biochemistry
 title: >-
   CMT subtypes and disease burden in patients enrolled in the Inherited
   Neuropathies Consortium natural history study a cross-sectional analysis.

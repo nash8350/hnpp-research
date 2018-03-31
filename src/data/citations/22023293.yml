@@ -1,19 +1,19 @@
 pmid: '22023293'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Case Studies
-    enabled: true
-  - name: Biochemistry
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: false
+    name: Genetics
+  - enabled: false
+    name: Physiopathology
+  - enabled: false
+    name: Case Studies
+  - enabled: false
+    name: Biochemistry
+  - enabled: false
+    name: Therapies
 title: >-
   Hereditary neuropathy with liability to pressure palsy a brief review with a
   case report.

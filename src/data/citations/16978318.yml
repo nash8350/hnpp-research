@@ -1,11 +1,11 @@
 pmid: '16978318'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: false
+    name: Therapies
 title: >-
   Hereditary neuropathy with liability to pressure palsies and anaesthesia
   peri-operative nerve injury.

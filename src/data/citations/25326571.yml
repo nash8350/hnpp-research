@@ -1,13 +1,13 @@
 pmid: '25326571'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Case Studies
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Case Studies
+  - enabled: false
+    name: Therapies
 title: >-
   Hereditary neuropathy with liability to pressure palsies presenting with
   sciatic neuropathy.

@@ -1,11 +1,11 @@
 pmid: '23997707'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Prevalence
+  - enabled: false
+    name: Therapies
 title: >-
   Restless leg syndrome in different types of demyelinating neuropathies a
   single-center pilot study.
