@@ -1,19 +1,19 @@
 pmid: '24819634'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Case Studies
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: false
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Prevalence
+  - enabled: false
+    name: Case Studies
+  - enabled: false
+    name: Biochemistry
 title: >-
   Mutation analysis of MFN2, GJB1, MPZ and PMP22 in Italian patients with axonal
   Charcot-Marie-Tooth disease.
