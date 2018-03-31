@@ -1,13 +1,13 @@
 pmid: '19930872'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: false
+    name: Biochemistry
 title: >-
   Molecular diagnosis of PMP22 gene duplications and deletions comparison of
   different methods.
