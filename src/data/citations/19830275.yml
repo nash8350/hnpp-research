@@ -1,15 +1,15 @@
 pmid: '19830275'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Case Studies
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Case Studies
+  - enabled: false
+    name: Biochemistry
 title: >-
   A newly identified Thr99fsX110 mutation in the PMP22 gene associated with an
   atypical phenotype of the hereditary neuropathy with liability to pressure
