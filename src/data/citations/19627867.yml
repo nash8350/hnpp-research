@@ -1,7 +1,9 @@
 pmid: '19627867'
 categories:
-  - name: Diagnosis
-    enabled: true
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Physiopathology
 title: >-
   Practice parameter the evaluation of distal symmetric polyneuropathy the role
   of laboratory and genetic testing (an evidence-based review). Report of the
