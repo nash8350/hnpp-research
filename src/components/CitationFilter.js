@@ -48,7 +48,7 @@ export default class CitationTable extends React.Component {
       <div className="field">
         <label className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Search</label>
         <div className="control">
-          <input type="text" name="search" className="search-box" onKeyPress={(e) => handleKeyPress(e, this.props.onFilterChange)} />
+          <input type="text" name="search" className="search-box" onKeyPress={(e) => this.handleKeyPress(e, this.props.onFilterChange)} />
         </div>
       </div>
       <h1 className="is-size-6 has-text-weight-bold is-bold-light vert-padded">Categories</h1>
