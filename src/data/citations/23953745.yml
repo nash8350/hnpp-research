@@ -1,9 +1,11 @@
 pmid: '23953745'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Diagnosis
+  - enabled: false
+    name: Therapies
+  - enabled: true
+    name: Case Studies
 title: >-
   [Hereditary neuropathy with liability to pressure palsy (HNPP) a diagnostic
   trap].
