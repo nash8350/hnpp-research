@@ -1,15 +1,15 @@
 pmid: '26454100'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Case Studies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Prevalence
+  - enabled: false
+    name: Case Studies
 title: >-
   Clinical and genetic spectra in a series of Chinese patients with
   Charcot-Marie-Tooth disease.
