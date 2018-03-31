@@ -1,13 +1,13 @@
 pmid: '25429154'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: false
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Biochemistry
 title: >-
   PMP22 is critical for actin-mediated cellular functions and for establishing
   lipid rafts.
