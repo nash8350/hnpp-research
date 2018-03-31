@@ -1,9 +1,11 @@
 pmid: '8800924'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Prevalence
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: true
+    name: Prevalence
+  - enabled: true
+    name: Genetics
 title: >-
   Estimation of the mutation frequencies in Charcot-Marie-Tooth disease type 1
   and hereditary neuropathy with liability to pressure palsies a European
