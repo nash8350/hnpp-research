@@ -1,7 +1,9 @@
 pmid: '8004087'
 categories:
-  - name: Physiopathology
-    enabled: true
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Genetics
 title: >-
   Two autosomal dominant neuropathies result from reciprocal DNA
   duplication/deletion of a region on chromosome 17.
