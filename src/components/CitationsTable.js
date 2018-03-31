@@ -18,7 +18,7 @@ import {
 } from '@devexpress/dx-react-grid-material-ui';
 
 const TitleFormatter = ({ value }) =>
-<span className="textwrap">{value}</span>;
+<span className="article-title">{value}</span>;
 
 const TitleTypeProvider = props => (
 <DataTypeProvider
