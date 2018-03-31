@@ -1,13 +1,15 @@
 pmid: '24339129'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Biochemistry
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: false
+    name: Diagnosis
+  - enabled: false
+    name: Genetics
+  - enabled: true
+    name: Biochemistry
+  - enabled: false
+    name: Therapies
+  - enabled: true
+    name: Physiopathology
 title: Abnormal junctions and permeability of myelin in PMP22-deficient nerves.
 abstract: >-
   The peripheral myelin protein-22 (PMP22) gene is associated with the most
