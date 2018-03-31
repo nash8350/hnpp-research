@@ -1,13 +1,15 @@
 pmid: '22180461'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: false
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Biochemistry
+  - enabled: true
+    name: Physiopathology
 title: >-
   Distal enhancers upstream of the Charcot-Marie-Tooth type 1A disease gene
   PMP22.
