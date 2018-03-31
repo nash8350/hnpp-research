@@ -1,9 +1,13 @@
 pmid: '24146347'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: false
+    name: Therapies
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Case Studies
 title: >-
   Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP) associated to
   hereditary neuropathy with liability to pressure palsies (HNPP) and revealed
