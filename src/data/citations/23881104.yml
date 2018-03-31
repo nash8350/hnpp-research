@@ -1,9 +1,11 @@
 pmid: '23881104'
 categories:
-  - name: Physiopathology
-    enabled: true
-  - name: Therapies
-    enabled: true
+  - enabled: false
+    name: Physiopathology
+  - enabled: false
+    name: Therapies
+  - enabled: true
+    name: Case Studies
 title: >-
   Hereditary neuropathy with liability to pressure palsy fulminant radicular
   dysfunction during anterolateral lumbar interbody fusion.
