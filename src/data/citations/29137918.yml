@@ -1,13 +1,13 @@
 pmid: '29137918'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Case Studies
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Symptoms
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Case Studies
+  - enabled: false
+    name: Biochemistry
 title: >-
   Spinobulbar muscular atrophy combined with atypical hereditary neuropathy with
   liability to pressure palsy.
