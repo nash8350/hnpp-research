@@ -1,13 +1,13 @@
 pmid: '25522693'
 categories:
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Prevalence
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: true
+    name: Diagnosis
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Prevalence
+  - enabled: false
+    name: Biochemistry
 title: >-
   PMP22-Related neuropathies and other clinical manifestations in Chinese han
   patients with charcot-marie-tooth disease type 1.
