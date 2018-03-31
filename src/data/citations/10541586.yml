@@ -1,5 +1,9 @@
 pmid: '10541586'
-categories: []
+categories:
+  - enabled: true
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
 title: >-
   Molecular genetics and biology of inherited peripheral neuropathies a
   fast-moving field.
