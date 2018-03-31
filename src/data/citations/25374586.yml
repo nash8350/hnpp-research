@@ -1,7 +1,9 @@
 pmid: '25374586'
 categories:
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Biochemistry
+  - enabled: true
+    name: Genetics
 title: >-
   Genetic factors for nerve susceptibility to injuries - lessons from PMP22
   deficiency.
