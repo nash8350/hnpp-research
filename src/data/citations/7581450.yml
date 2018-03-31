@@ -1,15 +1,15 @@
 pmid: '7581450'
 categories:
-  - name: Symptoms
-    enabled: true
-  - name: Diagnosis
-    enabled: true
-  - name: Genetics
-    enabled: true
-  - name: Physiopathology
-    enabled: true
-  - name: Biochemistry
-    enabled: true
+  - enabled: false
+    name: Symptoms
+  - enabled: false
+    name: Diagnosis
+  - enabled: false
+    name: Genetics
+  - enabled: true
+    name: Physiopathology
+  - enabled: true
+    name: Biochemistry
 title: >-
   Hypermyelination and demyelinating peripheral neuropathy in Pmp22-deficient
   mice.
