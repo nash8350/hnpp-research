@@ -33,9 +33,9 @@ export default class CitationTable extends React.Component {
 
     this.state = {
       columnWidths: [
-        { columnName: 'date', width: 100 },
-        { columnName: 'title', width: 600 },
-        { columnName: 'numCitedBy', width: 100 }
+        { columnName: 'date', width: 75 },
+        { columnName: 'title', width: 200 },
+        { columnName: 'numCitedBy', width: 75 }
       ]
     };
   }
