@@ -11,17 +11,15 @@ export default class ResearchExplorer extends React.Component {
         date: "",
         search: "",
         category: "",
-        availability: ""
-    };
+        availability: "",
+        tableWidth: 800,
+        colWidth: 100
+    };    
 
-    if(this.getWidth() > 1024) {
-        this.state.tableWidth = 800;
-        this.state.colWidth = 100;
-    }
-    else {
+    if(this.getWidth() < 1024) {
         this.state.tableWidth = 350;
         this.state.colWidth = 75;
-    }    
+    }
 
     this.handleTabSelect = this.handleTabSelect.bind(this);
     this.renderTab = this.renderTab.bind(this);
@@ -30,7 +28,7 @@ export default class ResearchExplorer extends React.Component {
 
     getWidth() {
         if(typeof document !== "object")
-            return 800;
+            return 1024;
         
         return Math.max(
           document.body.scrollWidth,
