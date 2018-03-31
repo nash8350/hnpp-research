@@ -30,7 +30,49 @@ const TitleTypeProvider = props => (
 export default class CitationTable extends React.Component {
   constructor(props) {
     super(props);
+
+    this.state = {
+      columnWidths: [
+        { columnName: 'date', width: 100 },
+        { columnName: 'title', width: 600 },
+        { columnName: 'numCitedBy', width: 100 }
+      ]
+    };
   }
+
+  componentDidMount() {
+    if(typeof document != "object") 
+      return;
+
+    const width = Math.max(
+      document.body.scrollWidth,
+      document.documentElement.scrollWidth,
+      document.body.offsetWidth,
+      document.documentElement.offsetWidth,
+      document.documentElement.clientWidth
+    );
+
+    if(width < 1024)
+      this.setState({
+        columnWidths: [
+          { columnName: 'date', width: 75 },
+          { columnName: 'title', width: width-185 },
+          { columnName: 'numCitedBy', width: 75 }
+        ]
+      })
+    else
+      this.setState({
+        columnWidths: [
+          { columnName: 'date', width: 100 },
+          { columnName: 'title', width: width-550 },
+          { columnName: 'numCitedBy', width: 100 }
+        ]
+      })
+  }
+
+  changeColumnWidths = (columnWidths) => {
+    this.setState({ columnWidths });
+  };
 
   filterRow = (row) => {
     if(this.props.date && row.date <= this.props.date)
@@ -106,8 +148,11 @@ export default class CitationTable extends React.Component {
         />
         <IntegratedSorting />
         <IntegratedPaging />
-        <Table />
-        <TableColumnResizing defaultColumnWidths={this.props.colWidths}/>
+        <Table/>
+        <TableColumnResizing
+          columnWidths={this.state.columnWidths}
+          onColumnWidthsChange={this.changeColumnWidths}
+        />
         <TableHeaderRow 
           showSortingControls
         />
