@@ -93,7 +93,7 @@ data.PubmedArticleSet.PubmedArticle.forEach(article => {
     }
 
     // add links
-    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/?term=" + citation.pmid + "%5Buid%5D&cmd=DetailsSearch";
+    citation.abstractLink = "https://www.ncbi.nlm.nih.gov/pubmed/" + citation.pmid;
     citation.fullTextLink = "";
 
     // add a date we can sort on
