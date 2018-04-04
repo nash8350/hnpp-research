@@ -14,7 +14,7 @@ function getWidth() {
 }
 
 export default ({ row }) => (
-    <div className="is-pulled-left" style={getWidth() < 1024 ? {width: getWidth() - 50} : {width: getWidth() - 400}}>
+    <div className="is-pulled-left" style={getWidth() < 1024 ? {width: getWidth() - 50} : {width: Math.min(getWidth() - 400, 1000)}}>
         <a className="is-pulled-right vert-padded" style={{marginLeft: "20px"}} target="_blank" href={"/admin/#/collections/citations/entries/" + row.pmid}>Edit</a>
         { row.fullTextLink ? <a className="is-pulled-right vert-padded" target="_blank" style={{marginLeft: "20px"}} href={row.fullTextLink}>Free Full Text</a> : <span/> }
         <a className="is-pulled-right vert-padded" href={row.abstractLink} target="_blank">Pubmed</a>
