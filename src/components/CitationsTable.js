@@ -64,7 +64,7 @@ export default class CitationTable extends React.Component {
       this.setState({
         columnWidths: [
           { columnName: 'date', width: 100 },
-          { columnName: 'title', width: width-550 },
+          { columnName: 'title', width: Math.min(width-550, 850) },
           { columnName: 'numCitedBy', width: 100 }
         ]
       })
