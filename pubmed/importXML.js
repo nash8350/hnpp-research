@@ -29,7 +29,8 @@ const citationBlacklist = [
     "23091139",
     "17502546",
     "14557576",
-    "11523561"
+    "11523561",
+    "17306886"
 ];
 
 // don't include these keywords
