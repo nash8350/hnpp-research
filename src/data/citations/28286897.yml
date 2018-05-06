@@ -37,7 +37,17 @@ authors:
   - name: Mamusa E
   - name: Cocco E
   - name: Marrosu MG
-keywords: []
+keywords:
+  - keyword: Charcot-Marie-Tooth Disease
+  - keyword: Connexins
+  - keyword: European Continental Ancestry Group
+  - keyword: Family
+  - keyword: GTP Phosphohydrolases
+  - keyword: Italy
+  - keyword: Mitochondrial Proteins
+  - keyword: Mutation
+  - keyword: Myelin P0 Protein
+  - keyword: Myelin Proteins
 cites:
   - pmid: '22781092'
   - pmid: '24705285'

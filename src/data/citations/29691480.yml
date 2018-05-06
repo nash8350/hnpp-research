@@ -1,0 +1,41 @@
+pmid: '29691480'
+categories: []
+title: >-
+  An estimation of the prevalence of genomic disorders using chromosomal
+  microarray data.
+abstract: >-
+  Multiple genomic disorders result from recurrent deletions or duplications
+  between low copy repeat (LCR) clusters, mediated by nonallelic homologous
+  recombination. These copy number variants (CNVs) often exhibit variable
+  expressivity and/or incomplete penetrance. However, the population prevalence
+  of many genomic disorders has not been estimated accurately. A subset of
+  genomic disorders similarly characterized by CNVs between LCRs have been
+  studied epidemiologically, including Williams-Beuren syndrome (7q11.23),
+  Smith-Magenis syndrome (17p11.2), velocardiofacial syndrome (22q11.21),
+  Prader-Willi/Angelman syndromes (15q11.2q12), 17q12 deletion syndrome, and
+  Charcot-Marie-Tooth neuropathy type 1/hereditary neuropathy with liability to
+  pressure palsy (PMP22, 17q11.2). We have generated a method to estimate
+  prevalence of highly penetrant genomic disorders by (1) leveraging
+  epidemiological data for genomic disorders with previously reported prevalence
+  estimates, (2) obtaining chromosomal microarray data on genomic disorders from
+  a large medical genetics clinic; and (3) utilizing these in a linear
+  regression model to determine the prevalence of this syndromic copy number
+  change among the general population. Using our algorithm, the prevalence for
+  five clinically relevant recurrent genomic disorders 1q21.1 microdeletion
+  (1/6882 live births) and microduplication syndromes (1/6309), 15q13.3
+  microdeletion syndrome (1/5525), and 16p11.2 microdeletion (1/3021) and
+  microduplication syndromes (1/4216), were determined. These findings will
+  inform epidemiological strategies for evaluating those conditions, and our
+  method may be useful to evaluate the prevalence of other highly penetrant
+  genomic disorders.
+abstractLink: 'https://www.ncbi.nlm.nih.gov/pubmed/29691480'
+fullTextLink: ''
+date: 2018/04
+authors:
+  - name: Gillentine MA
+  - name: Lupo PJ
+  - name: Stankiewicz P
+  - name: Schaaf CP
+keywords: []
+cites: []
+citedBy: []

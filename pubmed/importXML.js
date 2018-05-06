@@ -2,7 +2,7 @@ const fs = require("fs");
 const yaml = require('js-yaml');
 const xml2js = require('xml2js');
 
-const content = fs.readFileSync("pubmed/pubmed-2018-03-24.xml");
+const content = fs.readFileSync("pubmed/pubmed-2018-05-06.xml");
 const directory = "src/data/citations/";
 let data = {};
 
@@ -185,8 +185,10 @@ for(let i in links.linksets[0].idurllist) {
     if(!objList)
         continue;
     for(let k in objList) {
-        if(!objList[k].attributes || !objList[k].attributes.includes("free resource"))
-            continue;
+        if(!objList[k].attributes || 
+            !(objList[k].attributes.includes("free resource") &&  
+            objList[k].attributes.includes("full-text online")))
+                continue;
         for(let h in citationList) {
             if(citationList[h].pmid == links.linksets[0].idurllist[i].id) {
                 citationList[h].fullTextLink = objList[k].url.value;
