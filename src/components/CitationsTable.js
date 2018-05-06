@@ -95,9 +95,11 @@ export default class CitationTable extends React.Component {
       return false;
 
     if(this.props.search && 
+      row.pmid.search(new RegExp(this.props.search, "i")) == -1 &&
       row.title.search(new RegExp(this.props.search, "i")) == -1 && 
       row.authorlist.search(new RegExp(this.props.search, "i")) == -1 &&
-      row.abstract.search(new RegExp(this.props.search, "i")) == -1)
+      row.abstract.search(new RegExp(this.props.search, "i")) == -1 &&
+      JSON.stringify(row.keywords).search(new RegExp(this.props.search, "i")) == -1)
       return false;
 
     return true;

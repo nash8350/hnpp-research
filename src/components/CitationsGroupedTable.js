@@ -102,7 +102,8 @@ export default class CitationTable extends React.Component {
     if(!categoryMatch)
       return false;
 
-    if(this.props.search && 
+    if(this.props.search &&
+      row.pmid.search(new RegExp(this.props.search, "i")) == -1 && 
       row.title.search(new RegExp(this.props.search, "i")) == -1 && 
       row.authorlist.search(new RegExp(this.props.search, "i")) == -1 &&
       row.abstract.search(new RegExp(this.props.search, "i")) == -1 &&
